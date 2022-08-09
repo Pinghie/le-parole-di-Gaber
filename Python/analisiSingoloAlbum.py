@@ -3,9 +3,9 @@ import nltk
 import os
 
 albumArray = ["il signor g", "i borghesi", "dialogo tra un impegnato e un non so", "far finta di essere sani", "anche per oggi non si vola", "libertà obbligatoria", "polli d allevamento", "anni affollati", "io se fossi gaber", "e pensare che c era il pensiero", "un idiozia conquistata a fatica", "la mia generazione ha perso", "io non mi sento italiano"]
+lemmiEsclusi = ["essere", "avere", "fare", "stare", "coro", "andare", "eh", "dire", "é", "volta", "venire", "...."]
 
 for album in albumArray:
-    lemmiEsclusi = ["essere", "avere", "fare", "stare", "coro", "andare", "eh", "dire", "é", "volta", "venire", "...."]
     paroleAlbum = []
 
     for canzone in os.listdir("albumCONLL/" +album):
