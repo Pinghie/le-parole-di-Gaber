@@ -1,0 +1,3 @@
+Sostantivi: [('uomo', 371), ('cosa', 297), ('mondo', 216), ('amore', 210), ('donna', 202)]
+Aggettivi: [('bello', 237), ('nuovo', 126), ('grande', 121), ('vero', 118), ('strano', 116)]
+Verbi: [('sapere', 364), ('vedere', 310), ('sentire', 211), ('pensare', 170), ('capire', 167)]

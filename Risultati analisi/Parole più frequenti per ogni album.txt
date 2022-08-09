@@ -1,0 +1,232 @@
+RISULTATO il signor g
+1 	 bello 	Freq:  23 	 Rapporto:  38.14262023217247
+2 	 pensare 	Freq:  22 	 Rapporto:  36.48424543946932
+3 	 vita 	Freq:  16 	 Rapporto:  26.533996683250415
+4 	 lavorare 	Freq:  14 	 Rapporto:  23.217247097844112
+5 	 uomo 	Freq:  13 	 Rapporto:  21.558872305140962
+6 	 vivere 	Freq:  12 	 Rapporto:  19.90049751243781
+7 	 sembrare 	Freq:  12 	 Rapporto:  19.90049751243781
+8 	 gente 	Freq:  11 	 Rapporto:  18.24212271973466
+9 	 soffrire 	Freq:  11 	 Rapporto:  18.24212271973466
+10 	 amore 	Freq:  11 	 Rapporto:  18.24212271973466
+11 	 grande 	Freq:  10 	 Rapporto:  16.58374792703151
+12 	 vedere 	Freq:  10 	 Rapporto:  16.58374792703151
+13 	 cosa 	Freq:  10 	 Rapporto:  16.58374792703151
+14 	 nascere 	Freq:  9 	 Rapporto:  14.925373134328359
+15 	 credere 	Freq:  9 	 Rapporto:  14.925373134328359
+
+
+RISULTATO i borghesi
+1 	 amore 	Freq:  13 	 Rapporto:  24.344569288389515
+2 	 sentire 	Freq:  12 	 Rapporto:  22.47191011235955
+3 	 sapere 	Freq:  11 	 Rapporto:  20.599250936329586
+4 	 vedere 	Freq:  11 	 Rapporto:  20.599250936329586
+5 	 uomo 	Freq:  10 	 Rapporto:  18.726591760299627
+6 	 mangiare 	Freq:  9 	 Rapporto:  16.853932584269664
+7 	 cosa 	Freq:  9 	 Rapporto:  16.853932584269664
+8 	 capire 	Freq:  9 	 Rapporto:  16.853932584269664
+9 	 parlare 	Freq:  9 	 Rapporto:  16.853932584269664
+10 	 gesto 	Freq:  9 	 Rapporto:  16.853932584269664
+11 	 guardare 	Freq:  8 	 Rapporto:  14.9812734082397
+12 	 donna 	Freq:  8 	 Rapporto:  14.9812734082397
+13 	 giorno 	Freq:  7 	 Rapporto:  13.108614232209739
+14 	 casa 	Freq:  7 	 Rapporto:  13.108614232209739
+15 	 innamorare 	Freq:  7 	 Rapporto:  13.108614232209739
+
+
+RISULTATO dialogo tra un impegnato e un non so
+1 	 vedere 	Freq:  32 	 Rapporto:  27.972027972027973
+2 	 cosa 	Freq:  25 	 Rapporto:  21.853146853146853
+3 	 parlare 	Freq:  21 	 Rapporto:  18.356643356643357
+4 	 mangiare 	Freq:  21 	 Rapporto:  18.356643356643357
+5 	 uomo 	Freq:  20 	 Rapporto:  17.482517482517483
+6 	 sapere 	Freq:  17 	 Rapporto:  14.86013986013986
+7 	 vita 	Freq:  16 	 Rapporto:  13.986013986013987
+8 	 sentire 	Freq:  16 	 Rapporto:  13.986013986013987
+9 	 bello 	Freq:  16 	 Rapporto:  13.986013986013987
+10 	 rivoluzione 	Freq:  13 	 Rapporto:  11.363636363636363
+11 	 momento 	Freq:  13 	 Rapporto:  11.363636363636363
+12 	 pensare 	Freq:  13 	 Rapporto:  11.363636363636363
+13 	 forza 	Freq:  13 	 Rapporto:  11.363636363636363
+14 	 piccolo 	Freq:  13 	 Rapporto:  11.363636363636363
+15 	 operaio 	Freq:  12 	 Rapporto:  10.48951048951049
+
+
+RISULTATO far finta di essere sani
+1 	 sapere 	Freq:  41 	 Rapporto:  33.011272141706925
+2 	 cosa 	Freq:  35 	 Rapporto:  28.18035426731079
+3 	 vedere 	Freq:  31 	 Rapporto:  24.9597423510467
+4 	 uomo 	Freq:  26 	 Rapporto:  20.933977455716587
+5 	 gesto 	Freq:  20 	 Rapporto:  16.103059581320448
+6 	 mano 	Freq:  20 	 Rapporto:  16.103059581320448
+7 	 corpo 	Freq:  19 	 Rapporto:  15.297906602254429
+8 	 sentire 	Freq:  19 	 Rapporto:  15.297906602254429
+9 	 amore 	Freq:  18 	 Rapporto:  14.492753623188406
+10 	 guardare 	Freq:  17 	 Rapporto:  13.687600644122384
+11 	 bello 	Freq:  17 	 Rapporto:  13.687600644122384
+12 	 testa 	Freq:  17 	 Rapporto:  13.687600644122384
+13 	 pensare 	Freq:  15 	 Rapporto:  12.077294685990339
+14 	 vita 	Freq:  15 	 Rapporto:  12.077294685990339
+15 	 naturale 	Freq:  14 	 Rapporto:  11.272141706924316
+
+
+RISULTATO anche per oggi non si vola
+1 	 vedere 	Freq:  38 	 Rapporto:  26.912181303116146
+2 	 sentire 	Freq:  30 	 Rapporto:  21.246458923512748
+3 	 cosa 	Freq:  26 	 Rapporto:  18.413597733711047
+4 	 capire 	Freq:  25 	 Rapporto:  17.705382436260624
+5 	 sapere 	Freq:  24 	 Rapporto:  16.9971671388102
+6 	 bello 	Freq:  22 	 Rapporto:  15.580736543909348
+7 	 strano 	Freq:  21 	 Rapporto:  14.872521246458923
+8 	 amore 	Freq:  20 	 Rapporto:  14.164305949008499
+9 	 corpo 	Freq:  17 	 Rapporto:  12.039660056657222
+10 	 parte 	Freq:  16 	 Rapporto:  11.3314447592068
+11 	 gente 	Freq:  15 	 Rapporto:  10.623229461756374
+12 	 uomo 	Freq:  15 	 Rapporto:  10.623229461756374
+13 	 uscire 	Freq:  15 	 Rapporto:  10.623229461756374
+14 	 casa 	Freq:  14 	 Rapporto:  9.91501416430595
+15 	 amare 	Freq:  14 	 Rapporto:  9.91501416430595
+
+
+RISULTATO libertà obbligatoria
+1 	 vedere 	Freq:  37 	 Rapporto:  23.22661644695543
+2 	 bello 	Freq:  30 	 Rapporto:  18.832391713747644
+3 	 guardare 	Freq:  25 	 Rapporto:  15.693659761456372
+4 	 mettere 	Freq:  24 	 Rapporto:  15.065913370998116
+5 	 bastare 	Freq:  20 	 Rapporto:  12.554927809165097
+6 	 credere 	Freq:  20 	 Rapporto:  12.554927809165097
+7 	 capire 	Freq:  20 	 Rapporto:  12.554927809165097
+8 	 cosa 	Freq:  19 	 Rapporto:  11.927181418706843
+9 	 sapere 	Freq:  19 	 Rapporto:  11.927181418706843
+10 	 uomo 	Freq:  18 	 Rapporto:  11.299435028248588
+11 	 prendere 	Freq:  17 	 Rapporto:  10.671688637790332
+12 	 libertà 	Freq:  16 	 Rapporto:  10.043942247332078
+13 	 parlare 	Freq:  16 	 Rapporto:  10.043942247332078
+14 	 bisognare 	Freq:  16 	 Rapporto:  10.043942247332078
+15 	 parte 	Freq:  15 	 Rapporto:  9.416195856873822
+
+
+RISULTATO polli d allevamento
+1 	 sapere 	Freq:  30 	 Rapporto:  19.672131147540984
+2 	 cosa 	Freq:  27 	 Rapporto:  17.704918032786885
+3 	 vedere 	Freq:  25 	 Rapporto:  16.393442622950822
+4 	 sentire 	Freq:  25 	 Rapporto:  16.393442622950822
+5 	 uomo 	Freq:  20 	 Rapporto:  13.114754098360656
+6 	 bello 	Freq:  18 	 Rapporto:  11.80327868852459
+7 	 gente 	Freq:  18 	 Rapporto:  11.80327868852459
+8 	 mondo 	Freq:  17 	 Rapporto:  11.147540983606559
+9 	 amore 	Freq:  16 	 Rapporto:  10.491803278688524
+10 	 vita 	Freq:  16 	 Rapporto:  10.491803278688524
+11 	 strano 	Freq:  16 	 Rapporto:  10.491803278688524
+12 	 nuovo 	Freq:  16 	 Rapporto:  10.491803278688524
+13 	 donna 	Freq:  15 	 Rapporto:  9.836065573770492
+14 	 guardare 	Freq:  15 	 Rapporto:  9.836065573770492
+15 	 riuscire 	Freq:  14 	 Rapporto:  9.180327868852459
+
+
+RISULTATO anni affollati
+1 	 sapere 	Freq:  35 	 Rapporto:  26.985350809560526
+2 	 uomo 	Freq:  34 	 Rapporto:  26.21434078643022
+3 	 cosa 	Freq:  28 	 Rapporto:  21.588280647648418
+4 	 vedere 	Freq:  26 	 Rapporto:  20.046260601387818
+5 	 morire 	Freq:  20 	 Rapporto:  15.420200462606015
+6 	 guardare 	Freq:  19 	 Rapporto:  14.649190439475714
+7 	 amore 	Freq:  19 	 Rapporto:  14.649190439475714
+8 	 gente 	Freq:  18 	 Rapporto:  13.878180416345412
+9 	 pensare 	Freq:  17 	 Rapporto:  13.10717039321511
+10 	 capire 	Freq:  15 	 Rapporto:  11.56515034695451
+11 	 mondo 	Freq:  15 	 Rapporto:  11.56515034695451
+12 	 donna 	Freq:  14 	 Rapporto:  10.794140323824209
+13 	 vero 	Freq:  13 	 Rapporto:  10.023130300693909
+14 	 piccolo 	Freq:  13 	 Rapporto:  10.023130300693909
+15 	 tempo 	Freq:  12 	 Rapporto:  9.252120277563609
+
+
+RISULTATO io se fossi gaber
+1 	 sapere 	Freq:  37 	 Rapporto:  27.94561933534743
+2 	 cosa 	Freq:  31 	 Rapporto:  23.413897280966765
+3 	 uomo 	Freq:  23 	 Rapporto:  17.371601208459214
+4 	 tempo 	Freq:  19 	 Rapporto:  14.35045317220544
+5 	 amore 	Freq:  18 	 Rapporto:  13.595166163141993
+6 	 credere 	Freq:  18 	 Rapporto:  13.595166163141993
+7 	 diventare 	Freq:  18 	 Rapporto:  13.595166163141993
+8 	 bisognare 	Freq:  18 	 Rapporto:  13.595166163141993
+9 	 gente 	Freq:  17 	 Rapporto:  12.83987915407855
+10 	 anno 	Freq:  17 	 Rapporto:  12.83987915407855
+11 	 senso 	Freq:  16 	 Rapporto:  12.084592145015106
+12 	 vita 	Freq:  16 	 Rapporto:  12.084592145015106
+13 	 sentire 	Freq:  15 	 Rapporto:  11.32930513595166
+14 	 massa 	Freq:  15 	 Rapporto:  11.32930513595166
+15 	 pensare 	Freq:  15 	 Rapporto:  11.32930513595166
+
+
+RISULTATO e pensare che c era il pensiero
+1 	 sapere 	Freq:  41 	 Rapporto:  27.44310575635877
+2 	 uomo 	Freq:  34 	 Rapporto:  22.757697456492636
+3 	 mondo 	Freq:  33 	 Rapporto:  22.08835341365462
+4 	 vita 	Freq:  26 	 Rapporto:  17.402945113788487
+5 	 cosa 	Freq:  25 	 Rapporto:  16.733601070950467
+6 	 sentire 	Freq:  19 	 Rapporto:  12.717536813922356
+7 	 credere 	Freq:  19 	 Rapporto:  12.717536813922356
+8 	 grande 	Freq:  18 	 Rapporto:  12.048192771084338
+9 	 nuovo 	Freq:  18 	 Rapporto:  12.048192771084338
+10 	 vero 	Freq:  17 	 Rapporto:  11.378848728246318
+11 	 donna 	Freq:  17 	 Rapporto:  11.378848728246318
+12 	 morire 	Freq:  17 	 Rapporto:  11.378848728246318
+13 	 amore 	Freq:  16 	 Rapporto:  10.7095046854083
+14 	 parola 	Freq:  15 	 Rapporto:  10.040160642570282
+15 	 bello 	Freq:  15 	 Rapporto:  10.040160642570282
+
+
+RISULTATO un idiozia conquistata a fatica
+1 	 uomo 	Freq:  39 	 Rapporto:  21.4168039538715
+2 	 mondo 	Freq:  34 	 Rapporto:  18.67105985722131
+3 	 sapere 	Freq:  27 	 Rapporto:  14.827018121911038
+4 	 vero 	Freq:  27 	 Rapporto:  14.827018121911038
+5 	 vita 	Freq:  25 	 Rapporto:  13.728720483250962
+6 	 vedere 	Freq:  25 	 Rapporto:  13.728720483250962
+7 	 nuovo 	Freq:  24 	 Rapporto:  13.179571663920923
+8 	 pensare 	Freq:  24 	 Rapporto:  13.179571663920923
+9 	 bello 	Freq:  23 	 Rapporto:  12.630422844590884
+10 	 grande 	Freq:  22 	 Rapporto:  12.081274025260845
+11 	 sentire 	Freq:  22 	 Rapporto:  12.081274025260845
+12 	 cosa 	Freq:  19 	 Rapporto:  10.43382756727073
+13 	 arrivare 	Freq:  19 	 Rapporto:  10.43382756727073
+14 	 gioco 	Freq:  19 	 Rapporto:  10.43382756727073
+15 	 potere 	Freq:  19 	 Rapporto:  10.43382756727073
+
+
+RISULTATO la mia generazione ha perso
+1 	 uomo 	Freq:  21 	 Rapporto:  27.061855670103093
+2 	 mondo 	Freq:  19 	 Rapporto:  24.484536082474225
+3 	 vita 	Freq:  16 	 Rapporto:  20.61855670103093
+4 	 potere 	Freq:  15 	 Rapporto:  19.329896907216497
+5 	 nuovo 	Freq:  15 	 Rapporto:  19.329896907216497
+6 	 sentire 	Freq:  13 	 Rapporto:  16.75257731958763
+7 	 cosa 	Freq:  13 	 Rapporto:  16.75257731958763
+8 	 amore 	Freq:  12 	 Rapporto:  15.463917525773196
+9 	 senso 	Freq:  10 	 Rapporto:  12.886597938144329
+10 	 donna 	Freq:  10 	 Rapporto:  12.886597938144329
+11 	 sapere 	Freq:  9 	 Rapporto:  11.597938144329897
+12 	 cambiare 	Freq:  9 	 Rapporto:  11.597938144329897
+13 	 buono 	Freq:  9 	 Rapporto:  11.597938144329897
+14 	 piacere 	Freq:  8 	 Rapporto:  10.309278350515465
+15 	 parte 	Freq:  8 	 Rapporto:  10.309278350515465
+
+
+RISULTATO io non mi sento italiano
+1 	 mondo 	Freq:  20 	 Rapporto:  29.62962962962963
+2 	 sapere 	Freq:  19 	 Rapporto:  28.14814814814815
+3 	 cosa 	Freq:  14 	 Rapporto:  20.74074074074074
+4 	 vita 	Freq:  12 	 Rapporto:  17.77777777777778
+5 	 uomo 	Freq:  12 	 Rapporto:  17.77777777777778
+6 	 sentire 	Freq:  10 	 Rapporto:  14.814814814814815
+7 	 idea 	Freq:  9 	 Rapporto:  13.333333333333334
+8 	 bello 	Freq:  9 	 Rapporto:  13.333333333333334
+9 	 amore 	Freq:  9 	 Rapporto:  13.333333333333334
+10 	 aria 	Freq:  8 	 Rapporto:  11.851851851851851
+11 	 lasciare 	Freq:  8 	 Rapporto:  11.851851851851851
+12 	 morire 	Freq:  8 	 Rapporto:  11.851851851851851
+13 	 vivere 	Freq:  8 	 Rapporto:  11.851851851851851
+14 	 diventare 	Freq:  7 	 Rapporto:  10.37037037037037
+15 	 gente 	Freq:  7 	 Rapporto:  10.37037037037037
