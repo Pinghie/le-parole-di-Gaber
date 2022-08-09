@@ -1,0 +1,491 @@
+1	Ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	obj
+5	matto	matto	A	A	num=s|gen=m	4	mod
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+2	impressionante	impressionante	A	A	num=s|gen=n	1	pred
+3	come	come	C	CS	_	5	mod
+4	possa	potere	V	VM	num=s|per=3|mod=c|ten=p	5	modal
+5	fare	fare	V	V	mod=f	0	_
+6	effetto	effetto	S	S	num=s|gen=m	5	obj
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+3	solo	solo	B	B	_	4	mod
+4	abbandonato	abbandonato	A	A	num=s|gen=m	2	mod
+5	dimenticato	dimenticare	V	V	num=s|mod=p|gen=m	2	mod
+
+1	dietro	dietro	E	E	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	sbarre	sbarra	S	S	num=p|gen=f	1	prep
+4	sempre	sempre	B	B	_	5	mod
+5	chiuse	chiuso	A	A	num=p|gen=f	3	mod
+6	di	di	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	cancello	cancello	S	S	num=s|gen=m	6	prep
+9	.	.	F	FS	_	1	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	7	subj
+2	fuori	fuori	B	B	_	3	mod
+3	dal	da	E	EA	num=s|gen=m	7	comp
+4	cancello	cancello	S	S	num=s|gen=m	3	prep
+5	noi	noi	P	PE	num=p|per=1|gen=n	7	subj
+6	che	che	C	CS	_	7	mod
+7	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+8	normali	normale	A	A	num=p|gen=n	7	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+2	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	3	modal
+3	far	fare	V	V	mod=f	0	ROOT
+4	tutto	tutto	P	PI	num=s|gen=m	3	obj
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	2	sub
+4	la	il	R	RD	num=s|gen=f	5	det
+5	fortuna	fortuna	S	S	num=s|gen=f	3	obj
+6	di	di	E	E	_	5	arg
+7	esser	essere	V	V	mod=f	6	prep
+8	sani	sano	S	S	num=p|gen=m	7	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	ragioniamo	ragionare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	senza	senza	C	CS	_	2	mod
+4	perdere	perdere	V	V	mod=f	3	sub
+5	la	il	R	RD	num=s|gen=f	6	det
+6	calma	calma	S	S	num=s|gen=f	4	obj
+
+1	col	con	E	EA	num=s|gen=m	0	ROOT
+2	controllo	controllo	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	prep
+5	stessi	stessi	A	A	num=p|gen=m	4	mod
+6	senza	senza	E	E	_	5	comp
+7	orribili	orribile	A	A	num=p|gen=n	8	mod
+8	visioni	visione	S	S	num=p|gen=f	6	prep
+9	.	.	F	FS	_	1	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	sani	sano	A	A	num=p|gen=m	5	mod
+4	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	2	conj
+6	sani	sano	A	A	num=p|gen=m	5	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	fuori	fuori	B	B	_	4	mod
+4	dai	da	E	EA	num=p|gen=m	2	comp
+5	problemi	problema	S	S	num=p|gen=m	4	prep
+6	della	di	E	EA	num=s|gen=f	5	comp
+7	psiche	psiche	S	S	num=s|gen=f	6	prep
+
+1	sempre	sempre	B	B	_	2	mod
+2	in	in	E	E	_	0	_
+3	pace	pace	S	S	num=s|gen=f	2	prep
+4	col	con	E	EA	num=s|gen=m	2	comp
+5	cervello	cervello	S	S	num=s|gen=m	4	prep
+6	e	e	C	CC	_	2	con
+7	con	con	E	E	_	2	conj
+8	i	il	R	RD	num=p|gen=m	10	det
+9	nostri	nostro	A	AP	num=p|gen=m	10	mod
+10	sentimenti	sentimento	S	S	num=p|gen=m	7	prep
+
+1	così	così	B	B	_	2	mod
+2	normali	normale	A	A	num=p|gen=n	5	mod
+3	i	il	R	RD	num=p|gen=m	5	det
+4	nostri	nostro	A	AP	num=p|gen=m	5	mod
+5	gesti	gesto	S	S	num=p|gen=m	0	ROOT
+6	equilibrati	equilibrato	A	A	num=p|gen=m	5	mod
+
+1	non	non	B	BN	_	2	neg
+2	danneggiano	danneggiare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	nessuno	nessuno	B	B	_	5	mod
+4	sempre	sempre	B	B	_	5	mod
+5	lucidi	lucido	A	A	num=p|gen=m	2	pred
+6	e	e	C	CC	_	5	con
+7	coscienti	cosciente	A	A	num=p|gen=n	5	conj
+8	.	.	F	FS	_	2	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	sani	sano	A	A	num=p|gen=m	5	mod
+4	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	2	conj
+6	sani	sano	A	A	num=p|gen=m	5	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	normali	normale	A	A	num=p|gen=n	2	pred
+4	noi	noi	P	PE	num=p|per=1|gen=n	6	subj
+5	che	che	C	CS	_	4	concat
+6	sappiamo	sapere	V	V	num=p|per=1|mod=i|ten=p	2	conj
+
+1	di	di	E	E	_	0	ROOT
+2	contare	contare	V	V	mod=f	1	prep
+3	sul	su	E	EA	num=s|gen=m	2	comp
+4	cervello	cervello	S	S	num=s|gen=m	3	prep
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	sicuri	sicuro	A	A	num=p|gen=m	1	pred
+3	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	1	conj
+4	forti	forte	A	A	num=p|gen=n	3	pred
+5	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	6	aux
+6	interi	intero	A	A	num=p|gen=m	1	conj
+
+1	e	e	C	CC	_	0	ROOT
+2	noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+3	dall'	da	E	EA	num=s|gen=n	2	comp
+4	altra	altro	A	A	num=s|gen=f	5	mod
+5	parte	parte	S	S	num=s|gen=f	3	prep
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	cancello	cancello	S	S	num=s|gen=m	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+3	lo	il	R	RD	num=s|gen=m	4	det
+4	sguardo	sguardo	S	S	num=s|gen=m	2	mod
+5	fisso	fisso	A	A	num=s|gen=m	4	mod
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+3	solo	solo	B	B	_	4	mod
+4	alla	al	E	EA	num=s|gen=f	2	comp
+5	ricerca	ricerca	S	S	num=s|gen=f	4	prep
+6	di	di	E	E	_	5	comp
+7	se	se	P	PE	num=n|per=3|gen=n	6	prep
+8	stesso	stesso	A	A	num=s|gen=m	7	mod
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+3	a	a	E	E	_	2	comp
+4	pezzi	pezzo	S	S	num=p|gen=m	3	prep
+5	così	così	B	B	_	6	mod
+6	impaurito	impaurire	V	V	num=s|mod=p|gen=m	2	mod
+7	così	così	B	B	_	8	mod
+8	bloccato	bloccare	V	V	num=s|mod=p|gen=m	2	mod
+
+1	dietro	dietro	E	E	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	sbarre	sbarra	S	S	num=p|gen=f	1	prep
+4	sempre	sempre	B	B	_	5	mod
+5	chiuse	chiuso	A	A	num=p|gen=f	3	mod
+6	di	di	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	cancello	cancello	S	S	num=s|gen=m	6	prep
+9	.	.	F	FS	_	1	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	7	subj
+2	fuori	fuori	B	B	_	3	mod
+3	dal	da	E	EA	num=s|gen=m	7	comp
+4	cancello	cancello	S	S	num=s|gen=m	3	prep
+5	noi	noi	P	PE	num=p|per=1|gen=n	7	subj
+6	che	che	C	CS	_	7	mod
+7	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+8	normali	normale	A	A	num=p|gen=n	7	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+2	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	3	modal
+3	far	fare	V	V	mod=f	0	ROOT
+4	tutto	tutto	P	PI	num=s|gen=m	3	obj
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	2	sub
+4	la	il	R	RD	num=s|gen=f	5	det
+5	fortuna	fortuna	S	S	num=s|gen=f	3	obj
+6	di	di	E	E	_	5	arg
+7	esser	essere	V	V	mod=f	6	prep
+8	sani	sano	S	S	num=p|gen=m	7	pred
+
+1	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	2	modal
+2	avere	avere	V	V	mod=f	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	buon	buon	A	A	num=s|gen=m	5	mod
+5	lavoro	lavoro	S	S	num=s|gen=m	2	obj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	famiglia	famiglia	S	S	num=s|gen=f	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	unita	unito	A	A	num=s|gen=f	2	mod
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	esistenza	esistenza	S	S	num=s|gen=f	0	ROOT
+3	piena	pieno	A	A	num=s|gen=f	2	mod
+4	di	di	E	E	_	2	comp
+5	rapporti	rapporto	S	S	num=p|gen=m	4	prep
+6	umani	umano	A	A	num=p|gen=m	5	mod
+7	.	.	F	FS	_	2	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	sani	sano	A	A	num=p|gen=m	5	mod
+4	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	2	conj
+6	sani	sano	A	A	num=p|gen=m	5	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	normali	normale	A	A	num=p|gen=n	2	pred
+4	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+5	che	che	C	CS	_	4	mod
+6	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	5	sub
+7	gli	il	R	RD	num=p|gen=m	8	det
+8	strumenti	strumento	S	S	num=p|gen=m	6	obj
+
+1	per	per	E	E	_	0	ROOT
+2	poter-	potere	V	VM	mod=f	4	modal
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	obj
+4	realizzare	realizzare	V	V	mod=f	1	prep
+5	con	con	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	titolo	titolo	S	S	num=s|gen=m	5	prep
+8	di	di	E	E	_	7	comp
+9	studio	studio	S	S	num=s|gen=m	8	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	viaggiare	viaggiare	V	V	mod=f	6	subj
+4	si	si	P	PC	num=n|per=3|gen=n	6	clit
+5	può	potere	V	VM	num=s|per=3|mod=i|ten=p	6	modal
+6	avere	avere	V	V	mod=f	0	ROOT
+7	il	il	R	RD	num=s|gen=m	8	det
+8	passaporto	passaporto	S	S	num=s|gen=m	6	obj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	patente	patente	S	S	num=s|gen=f	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	porto	porto	S	S	num=s|gen=m	2	conj
+5	d'	di	E	E	_	4	comp
+6	armi	arma	S	S	num=p|gen=f	5	prep
+7	e	e	C	CC	_	2	con
+8	la	il	R	RD	num=s|gen=f	9	det
+9	domenica	domenica	S	S	num=s|gen=f	2	conj
+10	allo	al	E	EA	num=s|gen=m	9	comp
+11	stadio	stadio	S	S	num=s|gen=m	10	prep
+12	.	.	F	FS	_	2	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	sani	sano	A	A	num=p|gen=m	5	mod
+4	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	2	conj
+6	sani	sano	A	A	num=p|gen=m	5	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	normali	normale	A	A	num=p|gen=n	2	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	sappiamo	sapere	V	V	num=p|per=1|mod=i|ten=p	2	sub
+4	di	di	E	E	_	3	arg
+5	contare	contare	V	V	mod=f	4	prep
+6	sul	su	E	EA	num=s|gen=m	5	comp
+7	cervello	cervello	S	S	num=s|gen=m	6	prep
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	prepariamo	preparare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	i	il	R	RD	num=p|gen=m	5	det
+4	nostri	nostro	A	AP	num=p|gen=m	5	mod
+5	figli	figlio	S	S	num=p|gen=m	2	obj
+6	per	per	E	E	_	5	comp
+7	domani	domani	B	B	_	6	prep
+8	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	0	ROOT
+2	noi	noi	P	PE	num=p|per=1|gen=n	1	conj
+3	da	da	E	E	_	2	comp
+4	quale	quale	D	DQ	num=s|gen=n	5	mod
+5	parte	parte	S	S	num=s|gen=f	3	prep
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	cancello	cancello	S	S	num=s|gen=m	6	prep
+
+1	da	da	E	E	_	0	ROOT
+2	quale	quale	D	DQ	num=s|gen=n	3	mod
+3	parte	parte	S	S	num=s|gen=f	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	cancello	cancello	S	S	num=s|gen=m	4	prep
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	3	mod
+3	normali	normale	A	A	num=p|gen=n	1	pred
+4	noi	noi	P	PE	num=p|per=1|gen=n	6	subj
+5	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	6	modal
+6	fare	fare	V	V	mod=f	1	conj
+7	tutto	tutto	D	DI	num=s|gen=m	6	mod
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	2	sub
+4	la	il	R	RD	num=s|gen=f	5	det
+5	fortuna	fortuna	S	S	num=s|gen=f	3	obj
+6	di	di	E	E	_	5	arg
+7	essere	essere	V	V	mod=f	6	prep
+8	sani	sano	A	A	num=p|gen=m	7	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	ragioniamo	ragionare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	senza	senza	C	CS	_	2	mod
+4	perdere	perdere	V	V	mod=f	3	sub
+5	la	il	R	RD	num=s|gen=f	6	det
+6	calma	calma	S	S	num=s|gen=f	4	obj
+
+1	col	con	E	EA	num=s|gen=m	0	ROOT
+2	controllo	controllo	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	prep
+5	stessi	stessi	A	A	num=p|gen=m	4	mod
+6	senza	senza	E	E	_	5	comp
+7	orribili	orribile	A	A	num=p|gen=n	8	mod
+8	visioni	visione	S	S	num=p|gen=f	6	prep
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	sani	sano	A	A	num=p|gen=m	5	mod
+4	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	2	conj
+6	sani	sano	A	A	num=p|gen=m	5	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	normali	normale	A	A	num=p|gen=n	2	pred
+4	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+5	che	che	C	CS	_	4	mod
+6	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	5	sub
+7	gli	il	R	RD	num=p|gen=m	8	det
+8	strumenti	strumento	S	S	num=p|gen=m	6	obj
+
+1	per	per	E	E	_	0	ROOT
+2	poter-	potere	V	VM	mod=f	4	modal
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	obj
+4	realizzare	realizzare	V	V	mod=f	1	prep
+5	con	con	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	titolo	titolo	S	S	num=s|gen=m	5	prep
+8	di	di	E	E	_	7	comp
+9	studio	studio	S	S	num=s|gen=m	8	prep
+10	si	si	P	PC	num=n|per=3|gen=n	1	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	viaggiare	viaggiare	V	V	mod=f	6	subj
+4	si	si	P	PC	num=n|per=3|gen=n	6	clit
+5	può	potere	V	VM	num=s|per=3|mod=i|ten=p	6	modal
+6	avere	avere	V	V	mod=f	0	ROOT
+7	il	il	R	RD	num=s|gen=m	8	det
+8	passaporto	passaporto	S	S	num=s|gen=m	6	obj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	patente	patente	S	S	num=s|gen=f	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	porto	porto	S	S	num=s|gen=m	2	conj
+5	d'	di	E	E	_	4	comp
+6	armi	arma	S	S	num=p|gen=f	5	prep
+7	e	e	C	CC	_	2	con
+8	la	il	R	RD	num=s|gen=f	9	det
+9	domenica	domenica	S	S	num=s|gen=f	2	conj
+10	allo	al	E	EA	num=s|gen=m	9	comp
+11	stadio	stadio	S	S	num=s|gen=m	10	prep
+12	.	.	F	FS	_	2	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	sani	sano	A	A	num=p|gen=m	5	mod
+4	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	2	conj
+6	sani	sano	A	A	num=p|gen=m	5	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	normali	normale	A	A	num=p|gen=n	2	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	sappiamo	sapere	V	V	num=p|per=1|mod=i|ten=p	2	sub
+4	di	di	E	E	_	3	arg
+5	contare	contare	V	V	mod=f	4	prep
+6	sul	su	E	EA	num=s|gen=m	5	comp
+7	cervello	cervello	S	S	num=s|gen=m	6	prep
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	prepariamo	preparare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	i	il	R	RD	num=p|gen=m	5	det
+4	nostri	nostro	A	AP	num=p|gen=m	5	mod
+5	figli	figlio	S	S	num=p|gen=m	2	obj
+6	per	per	E	E	_	2	comp
+7	domani	domani	B	B	_	6	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	noi	noi	P	PE	num=p|per=1|gen=n	1	conj
+3	da	da	E	E	_	2	comp
+4	quale	quale	D	DQ	num=s|gen=n	5	mod
+5	parte	parte	S	S	num=s|gen=f	3	prep
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	cancello	cancello	S	S	num=s|gen=m	6	prep
+
+1	da	da	E	E	_	0	ROOT
+2	quale	quale	D	DQ	num=s|gen=n	3	mod
+3	parte	parte	S	S	num=s|gen=f	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	cancello	cancello	S	S	num=s|gen=m	4	prep
+
+1	Siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	3	mod
+3	normali	normale	A	A	num=p|gen=n	1	pred
+4	noi	noi	P	PE	num=p|per=1|gen=n	6	subj
+5	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	6	modal
+6	fare	fare	V	V	mod=f	1	conj
+7	tutto	tutto	D	DI	num=s|gen=m	6	mod
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	2	sub
+4	la	il	R	RD	num=s|gen=f	5	det
+5	fortuna	fortuna	S	S	num=s|gen=f	3	obj
+6	di	di	E	E	_	5	arg
+7	esser	essere	V	V	mod=f	6	prep
+8	sani	sano	S	S	num=p|gen=m	7	pred
+
+1	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	2	modal
+2	avere	avere	V	V	mod=f	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	buon	buon	A	A	num=s|gen=m	5	mod
+5	lavoro	lavoro	S	S	num=s|gen=m	2	obj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	famiglia	famiglia	S	S	num=s|gen=f	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	unita	unito	A	A	num=s|gen=f	2	mod
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	esistenza	esistenza	S	S	num=s|gen=f	0	ROOT
+3	piena	pieno	A	A	num=s|gen=f	2	mod
+4	di	di	E	E	_	2	comp
+5	rapporti	rapporto	S	S	num=p|gen=m	4	prep
+6	umani	umano	A	A	num=p|gen=m	5	mod
+7	.	.	F	FS	_	2	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	sani	sano	A	A	num=p|gen=m	5	mod
+4	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	2	conj
+6	normali	normale	A	A	num=p|gen=n	5	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	sani	sano	A	A	num=p|gen=m	5	mod
+4	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	2	conj
+6	normali	normale	A	A	num=p|gen=n	5	pred
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	sani	sano	A	A	num=p|gen=m	2	pred
+
+1	Gooool	Gooool	S	SP	_	0	ROOT
+

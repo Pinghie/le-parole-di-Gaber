@@ -1,0 +1,258 @@
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	guardo	guardare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	dal	da	E	EA	num=s|gen=m	2	comp
+4	di	di	E	E	_	3	prep
+5	fuori	fuori	B	B	_	6	mod
+6	come	come	E	E	_	4	prep
+7	fossimo	fossimo	V	V	num=p|per=1|mod=i|ten=p	6	prep
+8	due	due	N	N	_	9	mod
+9	persone	persona	S	S	num=p|gen=f	7	obj
+
+1	osservo	osservare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	4	det
+3	mia	mio	A	AP	num=s|gen=f	4	mod
+4	mano	mano	S	S	num=s|gen=f	1	obj
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	muove	muovere	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+8	la	il	R	RD	num=s|gen=f	10	det
+9	sua	suo	A	AP	num=s|gen=f	10	mod
+10	decisione	decisione	S	S	num=s|gen=f	7	obj
+
+1	da	da	E	E	_	3	comp
+2	fuori	fuori	B	B	_	1	prep
+3	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	chiaro	chiaro	A	A	num=s|gen=m	8	mod
+5	quel	quello	D	DD	num=s|gen=m	6	mod
+6	gesto	gesto	S	S	num=s|gen=m	8	subj
+7	non	non	B	BN	_	8	neg
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	conj
+9	vero	vero	A	A	num=s|gen=m	8	pred
+
+1	e	e	C	CC	_	2	con
+2	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	in	in	E	E	_	10	comp
+5	quel	quello	D	DD	num=s|gen=m	6	mod
+6	movimento	movimento	S	S	num=s|gen=m	4	prep
+7	io	io	P	PE	num=s|per=1|gen=n	10	subj
+8	non	non	B	BN	_	10	neg
+9	c'	ci	P	PC	num=n|gen=n	10	comp
+10	ero	essere	V	V	num=s|per=1|mod=i|ten=i	3	sub
+
+1	A	a	E	E	_	4	comp
+2	volte	volta	S	S	num=p|gen=f	1	prep
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	soffermo	soffermare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	e	e	C	CC	_	4	con
+6	guardo	guardare	V	V	num=s|per=1|mod=i|ten=p	4	conj
+7	il	il	R	RD	num=s|gen=m	8	det
+8	fumo	fumo	S	S	num=s|gen=m	4	conj
+9	di	di	E	E	_	8	comp
+10	una	uno	R	RI	num=s|gen=f	11	det
+11	sigaretta	sigaretta	S	S	num=s|gen=f	9	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	bocca	bocca	S	S	num=s|gen=f	3	subj
+3	resta	restare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	aperta	aprire	V	V	num=s|mod=p|gen=f	3	pred
+5	forse	forse	B	B	_	6	mod
+6	troppo	troppo	B	B	_	7	mod
+7	poi	poi	B	B	_	9	mod
+8	si	si	P	PC	num=n|per=3|gen=n	9	clit
+9	chiude	chiudere	V	V	num=s|per=3|mod=i|ten=p	3	conj
+10	in	in	E	E	_	9	comp
+11	fretta	fretta	S	S	num=s|gen=f	10	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	vede	vedere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	chiaramente	chiaro	B	B	_	2	mod
+4	che	che	C	CS	_	3	arg
+5	cerco	cercare	V	V	num=s|per=1|mod=i|ten=p	4	sub
+6	un'	uno	R	RI	num=s|gen=f	7	det
+7	espressione	espressione	S	S	num=s|gen=f	5	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	distacco	distaccare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	comp
+4	fatica	fatica	S	S	num=s|gen=f	3	sub
+5	questa	questo	D	DD	num=s|gen=f	7	mod
+6	mia	mio	A	AP	num=s|gen=f	7	mod
+7	finzione	finzione	S	S	num=s|gen=f	4	mod
+
+1	Cerco	cercare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gesto	gesto	S	S	num=s|gen=m	1	obj
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	gesto	gesto	S	S	num=s|gen=m	3	mod
+6	naturale	naturale	A	A	num=s|gen=n	5	mod
+
+1	per	per	E	E	_	0	ROOT
+2	essere	essere	V	V	mod=f	1	prep
+3	sicuro	sicuro	A	A	num=s|gen=m	2	pred
+4	che	che	C	CS	_	3	arg
+5	questo	questo	D	DD	num=s|gen=m	6	mod
+6	corpo	corpo	S	S	num=s|gen=m	7	subj
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	sub
+8	mio	mio	A	AP	num=s|gen=m	7	pred
+9	.	.	F	FS	_	1	punc
+
+1	Cerco	cercare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gesto	gesto	S	S	num=s|gen=m	1	obj
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	gesto	gesto	S	S	num=s|gen=m	3	mod
+6	naturale	naturale	A	A	num=s|gen=n	5	mod
+
+1	intero	intero	A	A	num=s|gen=m	0	ROOT
+2	come	come	E	E	_	1	comp
+3	il	il	R	RD	num=s|gen=m	4	det
+4	nostro	nostro	A	AP	num=s|gen=m	5	mod
+5	io	io	P	PE	num=s|per=1|gen=n	2	prep
+6	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	4	con
+2	invece	invece	B	B	_	4	mod
+3	non	non	B	BN	_	4	neg
+4	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	niente	niente	B	B	_	6	mod
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	4	arg
+7	a	a	E	E	_	6	pred
+8	pezzi	pezzo	S	S	num=p|gen=m	7	prep
+9	non	non	B	BN	_	10	neg
+10	so	sapere	V	V	num=s|per=1|mod=i|ten=p	6	conj
+11	più	più	B	B	_	12	mod
+12	chi	chi	P	PR	num=n|gen=n	10	obj
+13	sono	essere	V	V	num=p|per=3|mod=i|ten=p	12	mod_rel
+
+1	capisco	capire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	solo	solo	B	B	_	3	mod
+3	che	che	C	CS	_	1	arg
+4	continuamente	continuo	B	B	_	7	mod
+5	io	io	P	PE	num=s|per=1|gen=n	7	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+7	condiziono	condizionare	V	V	num=s|per=1|mod=i|ten=p	3	sub
+
+1	devi	dovere	V	VM	num=s|per=2|mod=i|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	come	come	E	E	_	2	pred
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	prep
+6	come	come	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	santo	santo	S	S	num=s|gen=m	6	prep
+9	come	come	E	E	_	8	comp
+10	un	uno	R	RI	num=s|gen=m	11	det
+11	dio	dio	S	S	num=s|gen=m	9	prep
+
+1	per	per	E	E	_	4	comp
+2	me	me	P	PE	num=s|per=1|gen=n	1	prep
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	sempre	sempre	B	B	_	4	mod
+6	i	il	R	RD	num=p|gen=m	7	det
+7	come	come	B	B	_	11	mod
+8	e	e	C	CC	_	7	con
+9	non	non	B	BN	_	11	neg
+10	ci	ci	P	PC	num=p|per=1|gen=n	11	clit
+11	sono	essere	V	V	num=s|per=1|mod=i|ten=p	4	conj
+12	io	io	P	PE	num=s|per=1|gen=n	11	subj
+13	.	.	F	FS	_	4	punc
+
+1	Per	per	E	E	_	0	ROOT
+2	tutte	tutto	D	DI	num=p|gen=f	4	mod
+3	quelle	quello	D	DD	num=p|gen=f	4	mod
+4	cose	cosa	S	S	num=p|gen=f	1	prep
+5	buone	buono	A	A	num=p|gen=f	4	mod
+6	che	che	P	PR	num=n|gen=n	9	subj
+7	non	non	B	BN	_	9	neg
+8	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	9	aux
+9	ammazzato	ammazzare	V	V	num=s|mod=p|gen=m	5	mod_rel
+
+1	chissà	chissà	B	B	_	2	mod
+2	nella	in	E	EA	num=s|gen=f	8	comp
+3	mia	mio	A	AP	num=s|gen=f	4	mod
+4	vita	vita	S	S	num=s|gen=f	2	prep
+5	quante	quante	A	AP	num=p|gen=f	6	mod
+6	maschere	maschera	S	S	num=p|gen=f	4	mod
+7	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	8	aux
+8	costruito	costruire	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	queste	questo	D	DD	num=p|gen=f	2	mod
+2	maschere	maschera	S	S	num=p|gen=f	4	subj
+3	ormai	ormai	B	B	_	4	mod
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	cosa	cosa	S	S	num=s|gen=f	4	pred
+7	mia	mio	A	AP	num=s|gen=f	6	mod
+
+1	che	che	C	CS	_	0	ROOT
+2	dolore	dolore	S	S	num=s|gen=m	1	sub
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	fatica	faticare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	buttar-	buttare	V	V	mod=f	4	arg
+6	le	le	P	PC	num=n|per=3|gen=f	5	obj
+7	via	via	B	B	_	2	mod
+
+1	Cerco	cercare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gesto	gesto	S	S	num=s|gen=m	1	obj
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	gesto	gesto	S	S	num=s|gen=m	3	mod
+6	naturale	naturale	A	A	num=s|gen=n	5	mod
+
+1	per	per	E	E	_	0	ROOT
+2	essere	essere	V	V	mod=f	1	prep
+3	sicuro	sicuro	A	A	num=s|gen=m	2	pred
+4	che	che	C	CS	_	3	arg
+5	questo	questo	D	DD	num=s|gen=m	6	mod
+6	corpo	corpo	S	S	num=s|gen=m	7	subj
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	sub
+8	mio	mio	A	AP	num=s|gen=m	7	pred
+9	.	.	F	FS	_	1	punc
+
+1	Cerco	cercare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gesto	gesto	S	S	num=s|gen=m	1	obj
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	gesto	gesto	S	S	num=s|gen=m	3	mod
+6	naturale	naturale	A	A	num=s|gen=n	5	mod
+
+1	intero	intero	A	A	num=s|gen=m	0	ROOT
+2	come	come	E	E	_	1	comp
+3	il	il	R	RD	num=s|gen=m	4	det
+4	nostro	nostro	A	AP	num=s|gen=m	5	mod
+5	io	io	P	PE	num=s|per=1|gen=n	2	prep
+6	.	.	F	FS	_	1	punc
+
+1	Cerco	cercare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gesto	gesto	S	S	num=s|gen=m	1	obj
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	gesto	gesto	S	S	num=s|gen=m	3	mod
+6	naturale	naturale	A	A	num=s|gen=n	5	mod
+
+1	per	per	E	E	_	0	ROOT
+2	essere	essere	V	V	mod=f	1	prep
+3	sicuro	sicuro	A	A	num=s|gen=m	2	pred
+4	che	che	C	CS	_	3	arg
+5	questo	questo	D	DD	num=s|gen=m	6	mod
+6	corpo	corpo	S	S	num=s|gen=m	7	subj
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	sub
+8	mio	mio	A	AP	num=s|gen=m	7	pred
+9	.	.	F	FS	_	1	punc
+
+1	Cerco	cercare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gesto	gesto	S	S	num=s|gen=m	1	obj
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	gesto	gesto	S	S	num=s|gen=m	3	mod
+6	naturale	naturale	A	A	num=s|gen=n	5	mod
+
+1	intero	intero	A	A	num=s|gen=m	0	ROOT
+2	come	come	E	E	_	1	comp
+3	il	il	R	RD	num=s|gen=m	4	det
+4	nostro	nostro	A	AP	num=s|gen=m	5	mod
+5	io	io	P	PE	num=s|per=1|gen=n	2	prep
+6	.	.	F	FS	_	1	punc
+

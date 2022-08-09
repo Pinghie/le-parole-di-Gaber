@@ -1,0 +1,300 @@
+1	All'	al	E	EA	num=s|gen=n	10	comp
+2	oppressione	oppressione	S	S	num=s|gen=f	1	prep
+3	,	,	F	FF	_	1	punc
+4	allo	al	E	EA	num=s|gen=m	1	conj
+5	sfruttamento	sfruttamento	S	S	num=s|gen=m	4	prep
+6	alla	al	E	EA	num=s|gen=f	5	comp
+7	violenza	violenza	S	S	num=s|gen=f	6	prep
+8	,	,	F	FF	_	1	punc
+9	ognuno	ognuno	P	PI	num=s|gen=m	10	subj
+10	reagisce	reagire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+11	come	come	B	B	_	10	mod
+12	può	potere	V	V	num=s|per=3|mod=i|ten=p	11	sub
+13	.	.	F	FS	_	10	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	chi	chi	P	PR	num=n|gen=n	2	subj
+4	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+5	,	,	F	FF	_	8	punc
+6	chi	chi	P	PR	num=n|gen=n	8	subj
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	dispera	disperare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+9	,	,	F	FF	_	12	punc
+10	chi	chi	P	PR	num=n|gen=n	12	subj
+11	si	si	P	PC	num=n|per=3|gen=n	12	clit
+12	ribella	ribellare	V	V	num=s|per=3|mod=i|ten=p	8	arg
+13	.	.	F	FS	_	2	punc
+
+1	A	a	E	E	_	0	ROOT
+2	me	me	P	PE	num=s|per=1|gen=n	1	prep
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	venuta	venire	V	V	num=s|mod=p|gen=f	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	colite	colite	S	S	num=s|gen=f	2	subj
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	lo	il	R	RD	num=s|gen=m	4	det
+4	spasmo	spasmo	S	S	num=s|gen=m	2	obj
+5	intestinale	intestinale	A	A	num=s|gen=n	4	mod
+
+1	forse	forse	B	B	_	4	mod
+2	non	non	B	BN	_	4	neg
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+4	crederete	credere	V	V	num=p|per=2|mod=i|ten=f	0	_
+
+1	ma	ma	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	caso	caso	S	S	num=s|gen=m	3	pred
+6	personale	personale	A	A	num=s|gen=n	5	mod
+
+1	Non	non	B	BN	_	2	neg
+2	digerisco	digerire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	nemmeno	nemmeno	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	sistema	sistema	S	S	num=s|gen=m	2	obj
+
+1	non	non	B	BN	_	2	neg
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	se	se	C	CS	_	2	arg
+4	capite	capire	V	V	num=p|per=2|mod=i|ten=p	3	sub
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	urgenza	urgenza	S	S	num=s|gen=f	4	obj
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	5	subj
+2	già	già	B	B	_	5	mod
+3	in	in	E	E	_	5	comp
+4	molti	molto	P	PI	num=p|gen=m	3	prep
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	un	uno	R	RI	num=s|gen=m	8	det
+7	grosso	grosso	A	A	num=s|gen=m	8	mod
+8	problema	problema	S	S	num=s|gen=m	5	pred
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	nostra	nostro	A	AP	num=s|gen=f	3	mod
+3	colite	colite	S	S	num=s|gen=f	0	ROOT
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	avanza	avanzare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	2	con
+2	noi	noi	P	PE	num=p|per=1|gen=n	0	_
+3	colitici	colitico	A	A	num=p|gen=m	2	mod
+
+1	che	che	C	CS	_	0	ROOT
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	1	sub
+3	tutti	tutto	P	PI	num=p|gen=m	2	subj
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	psicosomatici	psicosomatico	A	A	num=p|gen=m	2	pred
+
+1	sensibili	sensibile	A	A	num=p|gen=n	0	_
+2	ai	al	E	EA	num=p|gen=m	1	comp
+3	problemi	problema	S	S	num=p|gen=m	2	prep
+4	più	più	B	B	_	5	mod
+5	drammatici	drammatico	A	A	num=p|gen=m	3	mod
+
+1	degli	di	E	EA	num=p|gen=m	0	ROOT
+2	stomaci	stomaco	S	S	num=p|gen=m	1	prep
+
+1	non	non	B	BN	_	2	neg
+2	con	con	E	E	_	6	comp
+3	la	il	R	RD	num=s|gen=f	4	det
+4	mente	mente	S	S	num=s|gen=f	2	prep
+5	ma	ma	C	CC	_	2	con
+6	visceralmente	visceralmente	B	B	_	0	_
+
+1	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	i	il	R	RD	num=p|gen=m	4	det
+3	nostri	nostro	A	AP	num=p|gen=m	4	mod
+4	slanci	slancio	S	S	num=p|gen=m	1	obj
+5	.	.	F	FS	_	1	punc
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	e	e	C	CC	_	4	con
+4	noi	noi	P	PE	num=p|per=1|gen=n	0	_
+5	colitici	colitico	A	A	num=p|gen=m	4	mod
+
+1	che	che	C	CS	_	0	ROOT
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	1	sub
+3	tutti	tutto	P	PI	num=p|gen=m	2	subj
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	psicosomatici	psicosomatico	A	A	num=p|gen=m	2	pred
+
+1	sensibili	sensibile	A	A	num=p|gen=n	0	_
+2	ai	al	E	EA	num=p|gen=m	1	comp
+3	problemi	problema	S	S	num=p|gen=m	2	prep
+4	più	più	B	B	_	5	mod
+5	drammatici	drammatico	A	A	num=p|gen=m	3	mod
+
+1	degli	di	E	EA	num=p|gen=m	0	ROOT
+2	stomaci	stomaco	S	S	num=p|gen=m	1	prep
+
+1	Non	non	B	BN	_	2	neg
+2	con	con	E	E	_	6	comp
+3	la	il	R	RD	num=s|gen=f	4	det
+4	mente	mente	S	S	num=s|gen=f	2	prep
+5	ma	ma	C	CC	_	2	con
+6	visceralmente	visceralmente	B	B	_	0	_
+
+1	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	i	il	R	RD	num=p|gen=m	4	det
+3	nostri	nostro	A	AP	num=p|gen=m	4	mod
+4	slanci	slancio	S	S	num=p|gen=m	1	obj
+5	.	.	F	FS	_	1	punc
+
+1	Gastritici	Gastritici	S	SP	_	0	ROOT
+2	,	,	F	FF	_	1	con
+3	ulcerosi	ulceroso	S	S	num=p|gen=m	1	conj
+4	,	,	F	FF	_	1	con
+5	stitici	stitico	A	A	num=p|gen=m	1	conj
+6	,	,	F	FF	_	1	con
+7	e	e	C	CC	_	1	con
+8	psicosomatici	psicosomatico	A	A	num=p|gen=m	1	conj
+9	in	in	E	E	_	8	comp
+10	genere	genere	S	S	num=s|gen=m	9	prep
+11	,	,	F	FF	_	1	con
+12	lasciate	lasciare	V	V	num=p|mod=p|gen=f	17	mod
+13	a	a	E	E	_	12	comp
+14	casa	casa	S	S	num=s|gen=f	13	prep
+15	le	il	R	RD	num=p|gen=f	17	det
+16	vostre	vostro	A	AP	num=p|gen=f	17	mod
+17	antispasmine	antispasmine	S	S	num=p|gen=f	1	conj
+18	,	,	F	FF	_	1	con
+19	i	il	R	RD	num=p|gen=m	20	det
+20	lassativi	lassativo	A	A	num=p|gen=m	1	conj
+21	e	e	C	CC	_	1	con
+22	le	il	R	RD	num=p|gen=f	23	det
+23	citrosodine	citrosodine	S	S	num=p|gen=f	1	conj
+24	,	,	F	FF	_	1	con
+25	e	e	C	CC	_	1	con
+26	seguite-	seguire	V	V	num=p|per=2|mod=m|ten=p	1	conj
+27	ci	ci	P	PC	num=p|per=1|gen=n	26	obj
+28	.	.	F	FS	_	1	punc
+
+1	Siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	avanguardia	avanguardia	S	S	num=s|gen=f	1	pred
+4	,	,	F	FF	_	3	con
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	avanguardia	avanguardia	S	S	num=s|gen=f	3	conj
+7	colitica	colitico	A	A	num=s|gen=f	6	mod
+8	!	!	F	FS	_	1	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	2	sub
+4	la	il	R	RD	num=s|gen=f	5	det
+5	colite	colite	S	S	num=s|gen=f	3	obj
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	4	subj
+2	ci	ci	P	PC	num=p|per=1|gen=n	4	clit
+3	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	4	aux
+4	ribellati	ribellare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	forse	forse	B	B	_	4	mod
+2	non	non	B	BN	_	4	neg
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+4	crederete	credere	V	V	num=p|per=2|mod=i|ten=f	0	_
+
+1	ma	ma	C	CC	_	2	con
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	coliticizzati	coliticizzati	V	V	num=s|mod=p|gen=m	2	pred
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	movimento	movimento	S	S	num=s|gen=m	3	subj
+3	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	linea	linea	S	S	num=s|gen=f	3	obj
+6	speciale	speciale	A	A	num=s|gen=n	5	mod
+
+1	basata	basare	V	V	num=s|mod=p|gen=f	0	ROOT
+2	su	su	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	gruppo	gruppo	S	S	num=s|gen=m	2	prep
+5	d'	di	E	E	_	4	comp
+6	azione	azione	S	S	num=s|gen=f	5	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	sui	su	E	EA	num=p|gen=m	1	conj
+3	volantini	volantino	S	S	num=p|gen=m	2	prep
+4	di	di	E	E	_	3	comp
+5	carta	carta	S	S	num=s|gen=f	4	prep
+6	sottile	sottile	A	A	num=s|gen=n	5	mod
+
+1	parliamo	parlare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	di	di	E	E	_	1	comp
+3	rivoluzione	rivoluzione	S	S	num=s|gen=f	2	prep
+4	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	2	con
+2	noi	noi	P	PE	num=p|per=1|gen=n	0	_
+3	colitici	colitico	A	A	num=p|gen=m	2	mod
+
+1	un	uno	R	RI	num=s|gen=m	3	det
+2	pò	pò	B	B	_	3	mod
+3	individualisti	individualista	S	S	num=p|gen=m	0	ROOT
+4	ma	ma	C	CC	_	3	con
+5	simpatici	simpatico	A	A	num=p|gen=m	3	conj
+
+1	insieme	insieme	B	B	_	2	mod
+2	diventiamo	diventare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	politici	politico	A	A	num=p|gen=m	2	pred
+
+1	ma	ma	C	CC	_	2	con
+2	democratici	democratico	A	A	num=p|gen=m	0	ROOT
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+2	organizziamo	organizzare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	ed	e	C	CC	_	2	con
+4	uniti	unire	V	V	num=p|mod=p|gen=m	2	conj
+5	marciamo	marciare	V	V	num=p|per=1|mod=i|ten=p	2	conj
+
+1	sicuri	sicuro	A	A	num=p|gen=m	0	ROOT
+2	del	di	E	EA	num=s|gen=m	1	comp
+3	successo	successo	S	S	num=s|gen=m	2	prep
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	e	e	C	CC	_	4	con
+4	noi	noi	P	PE	num=p|per=1|gen=n	0	_
+5	colitici	colitico	A	A	num=p|gen=m	4	mod
+
+1	un	uno	R	RI	num=s|gen=m	3	det
+2	pò	pò	B	B	_	3	mod
+3	individualisti	individualista	S	S	num=p|gen=m	0	ROOT
+4	ma	ma	C	CC	_	3	con
+5	simpatici	simpatico	A	A	num=p|gen=m	3	conj
+
+1	insieme	insieme	B	B	_	2	mod
+2	diventiamo	diventare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	politici	politico	A	A	num=p|gen=m	2	pred
+
+1	ma	ma	C	CC	_	2	con
+2	democratici	democratico	A	A	num=p|gen=m	0	ROOT
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+2	organizziamo	organizzare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	ed	e	C	CC	_	2	con
+4	uniti	unire	V	V	num=p|mod=p|gen=m	2	conj
+5	marciamo	marciare	V	V	num=p|per=1|mod=i|ten=p	2	conj
+
+1	sicuri	sicuro	A	A	num=p|gen=m	0	ROOT
+2	del	di	E	EA	num=s|gen=m	1	comp
+3	successo	successo	S	S	num=s|gen=m	2	prep
+4	sicuri	sicuro	A	A	num=p|gen=m	3	mod
+5	del	di	E	EA	num=s|gen=m	3	comp
+6	successo	successo	S	S	num=s|gen=m	5	prep
+
+1	al	a	E	EA	num=s|gen=m	0	ROOT
+2	cesso	cesso	S	S	num=s|gen=m	1	prep
+3	.	.	F	FS	_	1	punc
+

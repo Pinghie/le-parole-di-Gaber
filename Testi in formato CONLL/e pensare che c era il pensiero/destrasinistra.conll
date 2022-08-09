@@ -1,0 +1,791 @@
+1	Le	il	R	RD	num=p|gen=f	2	det
+2	parole	parola	S	S	num=p|gen=f	13	ROOT
+3	,	,	F	FF	_	4	punc
+4	definiscono	definire	V	V	num=p|per=3|mod=i|ten=p	13	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	mondo	mondo	S	S	num=s|gen=m	4	obj
+7	,	,	F	FF	_	4	punc
+8	se	se	C	CS	_	13	ROOT
+9	non	non	B	BN	_	13	neg
+10	ci	ci	P	PC	num=p|per=1|gen=n	13	clit
+11	fossero	essere	V	VA	num=p|per=3|mod=c|ten=i	13	aux
+12	le	il	R	RD	num=p|gen=f	13	det
+13	parole	parola	S	S	num=p|gen=f	0	ROOT
+14	,	,	F	FF	_	16	punc
+15	non	non	B	BN	_	16	neg
+16	avemmo	avere	V	V	num=p|per=1|mod=i|ten=s	13	mod
+17	la	il	R	RD	num=s|gen=f	18	det
+18	possibilità	possibilità	S	S	num=n|gen=f	16	obj
+19	di	di	E	E	_	13	ROOT
+
+1	parlare	parlare	V	V	mod=f	0	ROOT
+2	,	,	F	FF	_	3	punc
+3	di	di	E	E	_	1	comp
+4	niente	niente	P	PI	num=s|gen=m	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	4	con
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	4	subj
+4	gira	girare	V	V	num=s|per=3|mod=i|ten=p	16	subj
+5	,	,	F	FF	_	4	con
+6	e	e	C	CC	_	4	con
+7	le	il	R	RD	num=p|gen=f	8	det
+8	parole	parola	S	S	num=p|gen=f	9	subj
+9	stanno	stare	V	V	num=p|per=3|mod=i|ten=p	4	conj
+10	ferme	fermo	A	A	num=p|gen=f	9	pred
+11	,	,	F	FF	_	4	con
+12	le	il	R	RD	num=p|gen=f	13	det
+13	parole	parola	S	S	num=p|gen=f	15	subj
+14	si	si	P	PC	num=n|per=3|gen=n	15	clit
+15	logorano	logorare	V	V	num=p|per=3|mod=i|ten=p	16	arg
+16	invecchiano	invecchiare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+17	,	,	F	FF	_	18	punc
+18	perdono	perdere	V	V	num=p|per=3|mod=i|ten=p	15	mod
+19	di	di	E	E	_	18	comp
+20	senso	senso	S	S	num=s|gen=m	19	prep
+21	,	,	F	FF	_	18	con
+22	e	e	C	CC	_	18	con
+23	tutti	tutto	P	PI	num=p|gen=m	18	conj
+24	noi	noi	P	PE	num=p|per=1|gen=n	25	subj
+25	continuiamo	continuare	V	V	num=p|per=1|mod=i|ten=p	23	mod_rel
+26	ad	ad	E	E	_	25	arg
+27	usar-	usare	V	V	mod=f	26	prep
+28	le	le	P	PC	num=n|per=3|gen=f	27	obj
+29	,	,	F	FF	_	18	con
+30	senza	senza	C	CS	_	18	mod
+31	accorger-	accorgersi	V	V	mod=f	30	sub
+32	ci	ci	P	PC	num=p|per=1|gen=n	31	obj
+33	di	di	E	E	_	32	arg
+34	parlare	parlare	V	V	mod=f	33	prep
+35	,	,	F	FF	_	36	punc
+36	di	di	E	E	_	34	comp
+37	niente	niente	P	PI	num=s|gen=m	36	prep
+38	.	.	F	FS	_	16	punc
+
+1	Tutti	tutto	P	PI	num=p|gen=m	5	mod
+2	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+3	ce	ce	P	PC	num=p|per=1|gen=n	5	clit
+4	la	la	P	PC	num=s|per=3|gen=f	5	obj
+5	prendiamo	prendere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+6	con	con	E	E	_	5	comp
+7	la	il	R	RD	num=s|gen=f	8	det
+8	storia	storia	S	S	num=s|gen=f	6	prep
+
+1	ma	ma	C	CC	_	3	con
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	che	che	C	CS	_	3	arg
+5	la	il	R	RD	num=s|gen=f	6	det
+6	colpa	colpa	S	S	num=s|gen=f	7	subj
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	sub
+8	nostra	nostro	A	AP	num=s|gen=f	7	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	evidente	evidente	A	A	num=s|gen=n	1	pred
+3	che	che	C	CS	_	1	subj
+4	la	il	R	RD	num=s|gen=f	5	det
+5	gente	gente	S	S	num=s|gen=f	6	subj
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+7	poco	poco	B	B	_	6	mod
+8	seria	serio	A	A	num=s|gen=f	6	pred
+
+1	quando	quando	C	CS	_	6	mod
+2	parla	parlare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	di	di	E	E	_	2	comp
+4	sinistra	sinistra	S	S	num=s|gen=f	3	prep
+5	o	o	C	CC	_	1	dis
+6	destra	destra	S	S	num=s|gen=f	0	_
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	Fare	fare	V	V	mod=f	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	bagno	bagno	S	S	num=s|gen=m	1	obj
+4	nella	in	E	EA	num=s|gen=f	1	comp
+5	vasca	vasca	S	S	num=s|gen=f	4	prep
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+7	di	di	E	E	_	6	pred
+8	destra	destra	S	S	num=s|gen=f	7	prep
+
+1	far	fare	V	V	mod=f	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	doccia	doccia	S	S	num=s|gen=f	1	obj
+4	invece	invece	B	B	_	5	mod
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+6	di	di	E	E	_	5	pred
+7	sinistra	sinistra	S	S	num=s|gen=f	6	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	pacchetto	pacchetto	S	S	num=s|gen=m	5	subj
+3	di	di	E	E	_	2	comp
+4	Marlboro	Marlboro	S	SP	_	3	prep
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	di	di	E	E	_	5	pred
+7	destra	destra	S	S	num=s|gen=f	6	prep
+
+1	di	di	E	E	_	3	comp
+2	contrabbando	contrabbando	S	S	num=s|gen=m	1	prep
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	pred
+5	sinistra	sinistra	S	S	num=s|gen=f	4	prep
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	Una	uno	R	RI	num=s|gen=f	3	det
+2	bella	bello	A	A	num=s|gen=f	3	mod
+3	minestrina	minestrina	S	S	num=s|gen=f	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	pred
+6	destra	destra	S	S	num=s|gen=f	5	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	minestrone	minestrone	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	3	mod
+5	di	di	E	E	_	3	pred
+6	sinistra	sinistra	S	S	num=s|gen=f	5	prep
+
+1	quasi	quasi	B	B	_	4	mod
+2	tutte	tutto	T	T	num=p|gen=f	4	mod
+3	le	il	R	RD	num=p|gen=f	4	det
+4	canzoni	canzone	S	S	num=p|gen=f	0	ROOT
+5	son	son	C	CC	_	4	con
+6	di	di	E	E	_	4	comp
+7	destra	destra	S	S	num=s|gen=f	6	prep
+
+1	se	se	C	CS	_	0	ROOT
+2	annoiano	annoiare	V	V	num=p|per=3|mod=i|ten=p	1	sub
+3	son	son	B	BN	_	4	neg
+4	di	di	E	E	_	2	comp
+5	sinistra	sinistra	S	S	num=s|gen=f	4	prep
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	Le	il	R	RD	num=p|gen=f	2	det
+2	scarpette	scarpetta	S	S	num=p|gen=f	0	ROOT
+3	da	da	E	E	_	2	comp
+4	ginnastica	ginnastica	S	S	num=s|gen=f	3	prep
+5	o	o	C	CC	_	3	dis
+6	da	da	E	E	_	3	disj
+7	tennis	tennis	S	S	num=s|gen=m	6	prep
+
+1	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	ancora	ancora	B	B	_	4	mod
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	gusto	gusto	S	S	num=s|gen=m	1	obj
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	di	di	E	E	_	1	comp
+8	destra	destra	S	S	num=s|gen=f	7	prep
+
+1	ma	ma	C	CC	_	2	con
+2	portar-	portare	V	V	mod=f	0	ROOT
+3	le	le	P	PC	num=n|per=3|gen=f	2	obj
+4	tutte	tutto	P	PI	num=p|gen=f	2	obj
+5	sporche	sporco	A	A	num=p|gen=f	4	mod
+6	e	e	C	CC	_	5	con
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	pò	pò	B	B	_	9	mod
+9	slacciate	slacciare	V	V	num=p|mod=p|gen=f	5	conj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	da	da	E	E	_	1	pred
+3	scemi	scemo	S	S	num=p|gen=m	2	prep
+4	più	più	B	B	_	5	mod
+5	che	che	P	PR	num=n|gen=n	3	comp
+6	di	di	E	E	_	5	comp
+7	sinistra	sinistra	S	S	num=s|gen=f	6	prep
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	blue-jeans	blue-jeans	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	mod_rel
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	segno	segno	S	S	num=s|gen=m	4	pred
+7	di	di	E	E	_	6	comp
+8	sinistra	sinistra	S	S	num=s|gen=f	7	prep
+
+1	con	con	E	E	_	4	comp
+2	la	il	R	RD	num=s|gen=f	3	det
+3	giacca	giacca	S	S	num=s|gen=f	1	prep
+4	vanno	andare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	verso	verso	E	E	_	4	comp
+6	destra	destra	S	S	num=s|gen=f	5	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	concerto	concerto	S	S	num=s|gen=m	5	subj
+3	nello	in	E	EA	num=s|gen=m	2	comp
+4	stadio	stadio	S	S	num=s|gen=m	3	prep
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	di	di	E	E	_	5	pred
+7	sinistra	sinistra	S	S	num=s|gen=f	6	prep
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	prezzi	prezzo	S	S	num=p|gen=m	3	subj
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	di	di	E	E	_	3	pred
+7	destra	destra	S	S	num=s|gen=f	6	prep
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	patata	patata	S	S	num=s|gen=f	5	subj
+3	per	per	E	E	_	2	comp
+4	natura	natura	S	S	num=s|gen=f	3	prep
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	di	di	E	E	_	5	pred
+7	sinistra	sinistra	S	S	num=s|gen=f	6	prep
+
+1	spappolata	spappolare	V	V	num=s|mod=p|gen=f	4	mod
+2	nel	in	E	EA	num=s|gen=m	1	comp
+3	purè	purè	S	S	num=n|gen=m	2	prep
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	pred
+6	destra	destra	S	S	num=s|gen=f	5	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	pisciata	pisciata	S	S	num=s|gen=f	5	subj
+3	in	in	E	E	_	2	comp
+4	compagnia	compagnia	S	S	num=s|gen=f	3	prep
+5	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	di	di	E	E	_	5	comp
+7	sinistra	sinistra	S	S	num=s|gen=f	6	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	cesso	cesso	S	S	num=s|gen=m	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	3	mod
+5	in	in	E	E	_	3	comp
+6	fondo	fondo	S	S	num=s|gen=m	5	prep
+7	a	a	E	E	_	3	comp
+8	destra	destra	S	S	num=s|gen=f	7	prep
+9	.	.	F	FS	_	3	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	piscina	piscina	S	S	num=s|gen=f	0	ROOT
+3	bella	bello	A	A	num=s|gen=f	2	mod
+4	azzurra	azzurro	A	A	num=s|gen=f	2	mod
+5	e	e	C	CC	_	2	con
+6	trasparente	trasparente	A	A	num=s|gen=n	2	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	evidente	evidente	A	A	num=s|gen=n	1	pred
+3	che	che	C	CS	_	1	subj
+4	sia	essere	V	V	num=s|per=3|mod=c|ten=p	3	sub
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	di	di	E	E	_	4	comp
+8	destra	destra	S	S	num=s|gen=f	7	prep
+
+1	mentre	mentre	C	CS	_	0	ROOT
+2	i	il	R	RD	num=p|gen=m	3	det
+3	fiumi	fiume	S	S	num=p|gen=m	1	sub
+4	tutti	tutto	T	T	num=p|gen=m	6	mod
+5	i	il	R	RD	num=p|gen=m	6	det
+6	laghi	lago	S	S	num=p|gen=m	3	conj
+7	e	e	C	CC	_	3	con
+8	anche	anche	B	B	_	9	mod
+9	il	il	R	RD	num=s|gen=m	10	det
+10	mare	mare	S	S	num=s|gen=m	3	conj
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	di	di	E	E	_	1	comp
+3	merda	merda	S	S	num=s|gen=f	2	prep
+4	più	più	B	B	_	3	mod
+5	che	che	P	PR	num=n|gen=n	1	comp
+6	sinistra	sinistra	S	S	num=s|gen=f	5	sub
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	ideologia	ideologia	S	S	num=s|gen=f	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	ideologia	ideologia	S	S	num=s|gen=f	2	mod
+
+1	malgrado	malgrado	E	E	_	3	comp
+2	tutto	tutto	P	PI	num=s|gen=m	1	prep
+3	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	_
+4	ancora	ancora	B	B	_	3	mod
+5	che	che	C	CS	_	7	subj
+6	ci	ci	P	PC	num=n|gen=n	7	comp
+7	sia	essere	V	V	num=s|per=3|mod=c|ten=p	3	arg
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	passione	passione	S	S	num=s|gen=f	1	pred
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	ossessione	ossessione	S	S	num=s|gen=f	3	mod
+6	della	di	E	EA	num=s|gen=f	5	comp
+7	tua	tuo	A	AP	num=s|gen=f	8	mod
+8	diversità	diversità	S	S	num=n|gen=f	6	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	al	a	E	EA	num=s|gen=m	1	sub
+3	momento	momento	S	S	num=s|gen=m	2	prep
+4	dove	dove	P	PR	num=n|gen=n	9	subj
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	andata	andare	V	V	num=s|mod=p|gen=f	4	mod_rel
+7	non	non	B	BN	_	9	neg
+8	si	si	P	PC	num=n|per=3|gen=n	9	clit
+9	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	dove	dove	P	PR	num=n|gen=n	0	ROOT
+2	non	non	B	BN	_	4	neg
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+5	dove	dove	C	CS	_	4	arg
+6	non	non	B	BN	_	8	neg
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	5	sub
+9	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	direi	dire	V	V	num=s|per=1|mod=d|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	il	il	R	RD	num=s|gen=m	5	det
+5	culatello	culatello	S	S	num=s|gen=m	6	subj
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+7	di	di	E	E	_	6	pred
+8	destra	destra	S	S	num=s|gen=f	7	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	mortadella	mortadella	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	pred
+5	sinistra	sinistra	S	S	num=s|gen=f	4	prep
+
+1	se	se	C	CS	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	cioccolata	cioccolato	S	S	num=s|gen=f	5	subj
+4	svizzera	svizzero	A	A	num=s|gen=f	3	mod
+5	é	é	V	V	num=s|per=3|mod=i|ten=p	1	sub
+6	di	di	E	E	_	5	comp
+7	destra	destra	S	S	num=s|gen=f	6	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	nutella	nutella	S	S	num=s|gen=f	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	ancora	ancora	B	B	_	3	mod
+5	di	di	E	E	_	3	comp
+6	sinistra	sinistra	S	S	num=s|gen=f	5	prep
+7	.	.	F	FS	_	3	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	tangente	tangente	S	S	num=s|gen=f	5	subj
+3	per	per	E	E	_	2	comp
+4	natura	natura	S	S	num=s|gen=f	3	prep
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	di	di	E	E	_	5	pred
+7	destra	destra	S	S	num=s|gen=f	6	prep
+
+1	col	con	E	EA	num=s|gen=m	5	comp
+2	consenso	consenso	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	chi	chi	P	PR	num=n|gen=n	3	prep
+5	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	a	a	E	E	_	5	comp
+7	sinistra	sinistra	S	S	num=s|gen=f	6	prep
+
+1	non	non	B	BN	_	3	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	se	se	C	CS	_	3	comp
+5	la	il	R	RD	num=s|gen=f	6	det
+6	fortuna	fortuna	S	S	num=s|gen=f	4	prep
+7	sia	sia	C	CC	_	6	con
+8	di	di	E	E	_	6	comp
+9	destra	destra	S	S	num=s|gen=f	8	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	sfiga	sfiga	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	3	mod
+5	di	di	E	E	_	3	pred
+6	sinistra	sinistra	S	S	num=s|gen=f	5	prep
+7	.	.	F	FS	_	3	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	saluto	saluto	S	S	num=s|gen=m	0	ROOT
+3	vigoroso	vigoroso	A	A	num=s|gen=m	2	mod
+4	a	a	E	E	_	2	comp
+5	pugno	pugno	S	S	num=s|gen=m	4	prep
+6	chiuso	chiuso	A	A	num=s|gen=m	2	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	antico	antico	A	A	num=s|gen=m	4	mod
+4	gesto	gesto	S	S	num=s|gen=m	1	pred
+5	di	di	E	E	_	4	comp
+6	sinistra	sinistra	S	S	num=s|gen=f	5	prep
+
+1	quello	quello	P	PD	num=s|gen=m	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	9	mod
+4	degli	di	E	EA	num=p|gen=m	3	comp
+5	anni	anno	S	S	num=p|gen=m	4	prep
+6	'20	'20	N	N	_	5	mod
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	pò	pò	B	B	_	9	mod
+9	romano	romano	A	A	num=s|gen=m	1	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	da	da	E	E	_	1	pred
+3	stronzi	stronzio	S	S	num=p|gen=m	2	prep
+4	oltre	oltre	E	E	_	1	comp
+5	che	che	C	CS	_	4	prep
+6	di	di	E	E	_	5	comp
+7	destra	destra	S	S	num=s|gen=f	6	prep
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	ideologia	ideologia	S	S	num=s|gen=f	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	ideologia	ideologia	S	S	num=s|gen=f	2	mod
+
+1	malgrado	malgrado	E	E	_	3	comp
+2	tutto	tutto	P	PI	num=s|gen=m	1	prep
+3	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	_
+4	ancora	ancora	B	B	_	3	mod
+5	che	che	C	CS	_	7	subj
+6	ci	ci	P	PC	num=n|gen=n	7	comp
+7	sia	essere	V	V	num=s|per=3|mod=c|ten=p	3	arg
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	continuare	continuare	V	V	mod=f	1	subj
+4	ad	ad	E	E	_	3	arg
+5	affermare	affermare	V	V	mod=f	4	prep
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pensiero	pensiero	S	S	num=s|gen=m	5	obj
+8	e	e	C	CC	_	3	con
+9	il	il	R	RD	num=s|gen=m	10	det
+10	suo	suo	A	AP	num=s|gen=m	11	mod
+11	perché	perché	C	CS	_	3	mod
+
+1	con	con	E	E	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	scusa	scusa	S	S	num=s|gen=f	1	prep
+4	di	di	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	contrasto	contrasto	S	S	num=s|gen=m	4	prep
+7	che	che	P	PR	num=n|gen=n	10	subj
+8	non	non	B	BN	_	10	neg
+9	c'	ci	P	PC	num=n|gen=n	10	comp
+10	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+
+1	se	se	C	CS	_	0	ROOT
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	chissà	chissà	B	B	_	3	mod
+5	dov'	dove	B	B	_	6	mod_loc
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	conj
+7	se	se	C	CS	_	6	subj
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	é	é	V	V	num=s|per=3|mod=i|ten=p	7	sub
+10	chissà	chissà	B	B	_	12	mod
+11	dov'	dove	B	B	_	12	mod_loc
+12	é	é	P	PD	num=s|gen=f	9	subj
+13	.	.	F	FS	_	1	punc
+
+1	Canticchiar	canticchiare	V	V	mod=f	5	subj
+2	con	con	E	E	_	1	comp
+3	la	il	R	RD	num=s|gen=f	4	det
+4	chitarra	chitarra	S	S	num=s|gen=f	2	prep
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	di	di	E	E	_	5	pred
+7	sinistra	sinistra	S	S	num=s|gen=f	6	prep
+
+1	con	con	E	E	_	4	comp
+2	il	il	R	RD	num=s|gen=m	3	det
+3	karaoke	karaoke	S	S	num=n|gen=n	1	prep
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	pred
+6	destra	destra	S	S	num=s|gen=f	5	prep
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	collant	collant	S	S	num=n|gen=m	3	subj
+3	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	quasi	quasi	B	B	_	5	mod
+5	sempre	sempre	B	B	_	3	mod
+6	di	di	E	E	_	3	comp
+7	sinistra	sinistra	S	S	num=s|gen=f	6	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	reggicalze	reggicalze	S	S	num=n|gen=m	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	3	mod
+5	che	che	C	CS	_	3	comp
+6	mai	mai	B	B	_	7	mod_temp
+7	di	di	E	E	_	5	comp
+8	destra	destra	S	S	num=s|gen=f	7	prep
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	risposta	risposta	S	S	num=s|gen=f	5	subj
+3	delle	di	E	EA	num=p|gen=f	2	comp
+4	masse	massa	S	S	num=p|gen=f	3	prep
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	di	di	E	E	_	5	pred
+7	sinistra	sinistra	S	S	num=s|gen=f	6	prep
+
+1	con	con	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	lieve	lieve	A	A	num=s|gen=n	4	mod
+4	cedimento	cedimento	S	S	num=s|gen=m	1	prep
+5	a	a	E	E	_	4	comp
+6	destra	destra	S	S	num=s|gen=f	5	prep
+
+1	Son	Son	R	RI	num=s|gen=m	0	ROOT
+2	sicuro	sicuro	A	A	num=s|gen=m	1	mod
+3	che	che	C	CS	_	2	arg
+4	il	il	R	RD	num=s|gen=m	5	det
+5	bastardo	bastardo	S	S	num=s|gen=m	6	subj
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+7	di	di	E	E	_	6	pred
+8	sinistra	sinistra	S	S	num=s|gen=f	7	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	figlio	figlio	S	S	num=s|gen=m	5	subj
+3	di	di	E	E	_	2	comp
+4	puttana	puttana	S	S	num=s|gen=f	3	prep
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	a	a	E	E	_	5	pred
+7	destra	destra	S	S	num=s|gen=f	6	prep
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	4	subj
+3	emancipata	emancipato	A	A	num=s|gen=f	2	mod
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	pred
+6	sinistra	sinistra	S	S	num=s|gen=f	5	prep
+
+1	riservata	riservare	V	V	num=s|mod=p|gen=f	0	ROOT
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	arg
+3	già	già	B	B	_	8	mod
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	pò	pò	B	B	_	6	mod
+6	più	più	B	B	_	8	mod
+7	di	di	E	E	_	6	comp
+8	destra	destra	S	S	num=s|gen=f	2	pred
+
+1	ma	ma	C	CC	_	4	con
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	figone	figone	S	S	num=s|gen=m	4	subj
+4	resta	restare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	sempre	sempre	B	B	_	4	mod
+6	un'	uno	R	RI	num=s|gen=f	7	det
+7	attrazione	attrazione	S	S	num=s|gen=f	4	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	bene	bene	B	B	_	2	mod
+4	per	per	E	E	_	2	comp
+5	sinistra	sinistra	S	S	num=s|gen=f	4	prep
+6	o	o	C	CC	_	4	dis
+7	destra	destra	S	S	num=s|gen=f	4	disj
+8	.	.	F	FS	_	2	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	Tutti	tutto	P	PI	num=p|gen=m	5	mod
+2	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+3	ce	ce	P	PC	num=p|per=1|gen=n	5	clit
+4	la	la	P	PC	num=s|per=3|gen=f	5	obj
+5	prendiamo	prendere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+6	con	con	E	E	_	5	comp
+7	la	il	R	RD	num=s|gen=f	8	det
+8	storia	storia	S	S	num=s|gen=f	6	prep
+
+1	ma	ma	C	CC	_	3	con
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	che	che	C	CS	_	3	arg
+5	la	il	R	RD	num=s|gen=f	6	det
+6	colpa	colpa	S	S	num=s|gen=f	7	subj
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	4	sub
+8	nostra	nostro	A	AP	num=s|gen=f	7	mod
+
+1	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	evidente	evidente	A	A	num=s|gen=n	1	pred
+3	che	che	C	CS	_	1	arg
+4	la	il	R	RD	num=s|gen=f	5	det
+5	gente	gente	S	S	num=s|gen=f	6	subj
+6	é	é	V	V	num=s|per=3|mod=i|ten=p	3	sub
+7	poco	poco	P	PI	num=s|gen=m	6	obj
+8	seria	serio	A	A	num=s|gen=f	6	mod
+
+1	quando	quando	C	CS	_	0	ROOT
+2	parla	parlare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	di	di	E	E	_	2	comp
+4	sinistra	sinistra	S	S	num=s|gen=f	3	prep
+5	o	o	C	CC	_	2	dis
+6	destra	destra	S	S	num=s|gen=f	2	disj
+7	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	Ma	ma	C	CC	_	3	con
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	destra	destra	S	S	num=s|gen=f	3	obj
+6	cos'	cosa	P	PQ	num=s|gen=n	5	mod
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	sinistra	sinistra	S	S	num=s|gen=f	7	obj
+
+1	Destra	destra	S	S	num=s|gen=f	0	ROOT
+2	sinistra	sinistro	A	A	num=s|gen=f	1	mod
+
+1	Destra	destra	S	S	num=s|gen=f	0	ROOT
+2	sinistra	sinistro	A	A	num=s|gen=f	1	mod
+
+1	Destra	destra	S	S	num=s|gen=f	0	ROOT
+2	sinistra	sinistro	A	A	num=s|gen=f	1	mod
+
+1	Destra	destra	S	S	num=s|gen=f	0	ROOT
+2	sinistra	sinistro	A	A	num=s|gen=f	1	mod
+
+1	Destra	destra	S	S	num=s|gen=f	0	ROOT
+2	sinistra	sinistro	A	A	num=s|gen=f	1	mod
+
+1	Basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	!	!	F	FS	_	1	punc
+

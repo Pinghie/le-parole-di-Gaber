@@ -1,0 +1,372 @@
+1	Vorrei	volere	V	VM	num=s|per=1|mod=d|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	libero	libero	A	A	num=s|gen=m	2	pred
+
+1	libero	libero	A	A	num=s|gen=m	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	Come	come	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	prep
+4	appena	appena	B	B	_	5	mod
+5	nato	nascere	V	V	num=s|mod=p|gen=m	3	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	comp
+4	fronte	fronte	S	S	num=s|gen=n	3	prep
+5	solamente	solo	B	B	_	2	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	natura	natura	S	S	num=s|gen=f	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	cammina	camminare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	dentro	dentro	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	bosco	bosco	S	S	num=s|gen=m	3	prep
+
+1	con	con	E	E	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	gioia	gioia	S	S	num=s|gen=f	1	prep
+4	di	di	E	E	_	3	arg
+5	inseguire	inseguire	V	V	mod=f	4	prep
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	avventura	avventura	S	S	num=s|gen=f	0	ROOT
+
+1	Sempre	sempre	B	B	_	2	mod
+2	libero	libero	A	A	num=s|gen=m	0	ROOT
+3	e	e	C	CC	_	2	con
+4	vitale	vitale	A	A	num=s|gen=n	2	conj
+
+1	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	amore	amore	S	S	num=s|gen=m	1	obj
+4	come	come	C	CS	_	1	mod
+5	fosse	essere	V	VA	num=s|per=3|mod=c|ten=i	4	sub
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	animale	animale	S	S	num=s|gen=m	0	ROOT
+
+1	incosciente	incosciente	A	A	num=s|gen=n	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	compiaciuto	compiacere	V	V	num=s|mod=p|gen=m	0	ROOT
+2	della	di	E	EA	num=s|gen=f	1	comp
+3	propria	proprio	A	AP	num=s|gen=f	2	prep
+
+1	libertà	libertà	S	S	num=n|gen=f	0	ROOT
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	star	star	S	S	num=n|gen=f	0	ROOT
+4	sopra	sopra	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	albero	albero	S	S	num=s|gen=m	4	prep
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	volo	volo	S	S	num=s|gen=m	2	pred
+6	di	di	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	moscone	moscone	S	S	num=s|gen=m	6	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	uno	uno	R	RI	num=s|gen=m	6	det
+6	spazio	spazio	S	S	num=s|gen=m	4	pred
+7	libero	libero	A	A	num=s|gen=m	6	mod
+
+1	libertà	libertà	S	S	num=n|gen=f	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	partecipazione	partecipazione	S	S	num=s|gen=f	2	pred
+
+1	Vorrei	volere	V	VM	num=s|per=1|mod=d|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	libero	libero	A	A	num=s|gen=m	2	pred
+4	come	come	E	E	_	2	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	uomo	uomo	S	S	num=s|gen=m	4	prep
+
+1	Come	come	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	prep
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	ha	avere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	bisogno	bisogno	S	S	num=s|gen=m	5	obj
+
+1	di	di	E	E	_	0	ROOT
+2	spaziare	spaziare	V	V	mod=f	1	prep
+3	con	con	E	E	_	2	comp
+4	la	il	R	RD	num=s|gen=f	6	det
+5	propria	proprio	A	AP	num=s|gen=f	6	mod
+6	fantasia	fantasia	S	S	num=s|gen=f	3	prep
+
+1	e	e	C	CC	_	3	con
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	trova	trovare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	questo	questo	D	DD	num=s|gen=m	5	mod
+5	spazio	spazio	S	S	num=s|gen=m	3	obj
+
+1	solamente	solo	B	B	_	2	mod
+2	nella	in	E	EA	num=s|gen=f	0	ROOT
+3	sua	suo	A	AP	num=s|gen=f	4	mod
+4	democrazia	democrazia	S	S	num=s|gen=f	2	prep
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	diritto	diritto	S	S	num=s|gen=m	2	obj
+5	di	di	E	E	_	4	arg
+6	votare	votare	V	V	mod=f	5	prep
+
+1	e	e	C	CC	_	3	con
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	passa	passare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	6	det
+5	sua	suo	A	AP	num=s|gen=f	6	mod
+6	vita	vita	S	S	num=s|gen=f	3	obj
+7	a	a	E	E	_	3	arg
+8	delegare	delegare	V	V	mod=f	7	prep
+
+1	e	e	C	CC	_	5	con
+2	nel	in	E	EA	num=s|gen=m	5	comp_loc
+3	far-	fare	V	VM	mod=f	5	modal
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	comandare	comandare	V	V	mod=f	0	ROOT
+
+1	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	trovato	trovare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	la	il	R	RD	num=s|gen=f	6	det
+4	sua	suo	A	AP	num=s|gen=f	6	mod
+5	nuova	nuovo	A	A	num=s|gen=f	6	mod
+6	libertà	libertà	S	S	num=n|gen=f	2	obj
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	star	star	S	S	num=n|gen=f	0	ROOT
+4	sopra	sopra	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	albero	albero	S	S	num=s|gen=m	4	prep
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	2	pred
+4	avere	avere	V	V	mod=f	2	subj
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	opinione	opinione	S	S	num=s|gen=f	4	obj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	uno	uno	R	RI	num=s|gen=m	6	det
+6	spazio	spazio	S	S	num=s|gen=m	4	pred
+7	libero	libero	A	A	num=s|gen=m	6	mod
+
+1	libertà	libertà	S	S	num=n|gen=f	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	partecipazione	partecipazione	S	S	num=s|gen=f	2	pred
+
+1	G/coro	G/coro	S	SP	_	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	la	il	R	RD	num=s|gen=f	4	det
+4	libertà	libertà	S	S	num=n|gen=f	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	star	star	S	S	num=n|gen=f	0	ROOT
+4	sopra	sopra	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	albero	albero	S	S	num=s|gen=m	4	prep
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	volo	volo	S	S	num=s|gen=m	2	pred
+6	di	di	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	moscone	moscone	S	S	num=s|gen=m	6	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	uno	uno	R	RI	num=s|gen=m	6	det
+6	spazio	spazio	S	S	num=s|gen=m	4	pred
+7	libero	libero	A	A	num=s|gen=m	6	mod
+
+1	libertà	libertà	S	S	num=n|gen=f	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	partecipazione	partecipazione	S	S	num=s|gen=f	2	pred
+
+1	Vorrei	volere	V	VM	num=s|per=1|mod=d|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	libero	libero	A	A	num=s|gen=m	2	pred
+4	come	come	E	E	_	2	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	uomo	uomo	S	S	num=s|gen=m	4	prep
+
+1	Come	come	E	E	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	prep
+4	più	più	B	B	_	5	mod
+5	evoluto	evoluto	A	A	num=s|gen=m	3	mod
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	innalza	innalzare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	con	con	E	E	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	4	det
+3	propria	proprio	A	AP	num=s|gen=f	4	mod
+4	intelligenza	intelligenza	S	S	num=s|gen=f	1	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	sfida	sfida	S	S	num=s|gen=f	2	sub
+4	la	il	R	RD	num=s|gen=f	5	det
+5	natura	natura	S	S	num=s|gen=f	3	mod
+6	con	con	E	E	_	5	comp
+7	la	il	R	RD	num=s|gen=f	8	det
+8	forza	forza	S	S	num=s|gen=f	6	prep
+
+1	incontrastata	incontrastato	A	A	num=s|gen=f	0	ROOT
+2	della	di	E	EA	num=s|gen=f	1	comp
+3	scienza	scienza	S	S	num=s|gen=f	2	prep
+
+1	Con	con	E	E	_	4	comp
+2	addosso	addosso	B	B	_	1	prep
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	entusiasmo	entusiasmo	S	S	num=s|gen=m	0	ROOT
+5	di	di	E	E	_	4	arg
+6	spaziare	spaziare	V	V	mod=f	5	prep
+
+1	senza	senza	E	E	_	3	comp
+2	limiti	limite	S	S	num=p|gen=m	1	prep
+3	nel	in	E	EA	num=s|gen=m	0	ROOT
+4	cosmo	cosmo	S	S	num=s|gen=m	3	prep
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	convinto	convincere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	che	che	C	CS	_	2	comp
+4	la	il	R	RD	num=s|gen=f	5	det
+5	forza	forza	S	S	num=s|gen=f	3	prep
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	pensiero	pensiero	S	S	num=s|gen=m	6	prep
+
+1	sia	essere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	4	det
+3	sola	solo	A	A	num=s|gen=f	4	mod
+4	libertà	libertà	S	S	num=n|gen=f	1	pred
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	5	subj
+3	non	non	B	BN	_	5	neg
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	star	star	S	S	num=n|gen=f	0	ROOT
+6	sopra	sopra	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	albero	albero	S	S	num=s|gen=m	6	prep
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	5	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	gesto	gesto	S	S	num=s|gen=m	2	pred
+6	un'	uno	R	RI	num=s|gen=f	7	det
+7	invenzione	invenzione	S	S	num=s|gen=f	2	subj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	uno	uno	R	RI	num=s|gen=m	6	det
+6	spazio	spazio	S	S	num=s|gen=m	4	pred
+7	libero	libero	A	A	num=s|gen=m	6	mod
+
+1	libertà	libertà	S	S	num=n|gen=f	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	partecipazione	partecipazione	S	S	num=s|gen=f	2	pred
+
+1	G/coro	G/coro	S	SP	_	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	la	il	R	RD	num=s|gen=f	4	det
+4	libertà	libertà	S	S	num=n|gen=f	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	star	star	S	S	num=n|gen=f	0	ROOT
+4	sopra	sopra	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	albero	albero	S	S	num=s|gen=m	4	prep
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	volo	volo	S	S	num=s|gen=m	2	pred
+6	di	di	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	moscone	moscone	S	S	num=s|gen=m	6	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	uno	uno	R	RI	num=s|gen=m	6	det
+6	spazio	spazio	S	S	num=s|gen=m	4	pred
+7	libero	libero	A	A	num=s|gen=m	6	mod
+
+1	libertà	libertà	S	S	num=n|gen=f	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	partecipazione	partecipazione	S	S	num=s|gen=f	2	pred
+
+1	G/coro	G/coro	S	SP	_	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	la	il	R	RD	num=s|gen=f	4	det
+4	libertà	libertà	S	S	num=n|gen=f	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	star	star	S	S	num=n|gen=f	0	ROOT
+4	sopra	sopra	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	albero	albero	S	S	num=s|gen=m	4	prep
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	volo	volo	S	S	num=s|gen=m	2	pred
+6	di	di	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	moscone	moscone	S	S	num=s|gen=m	6	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	uno	uno	R	RI	num=s|gen=m	6	det
+6	spazio	spazio	S	S	num=s|gen=m	4	pred
+7	libero	libero	A	A	num=s|gen=m	6	mod
+
+1	libertà	libertà	S	S	num=n|gen=f	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	partecipazione	partecipazione	S	S	num=s|gen=f	2	pred
+

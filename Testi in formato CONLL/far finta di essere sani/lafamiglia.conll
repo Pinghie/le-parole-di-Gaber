@@ -1,0 +1,126 @@
+1	-	-	F	FC	_	0	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	1	ROOT
+3	,	,	F	FF	_	2	punc
+4	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	5	modal
+5	dire	dire	V	V	mod=f	0	ROOT
+6	io	io	P	PE	num=s|per=1|gen=n	5	obj
+7	e	e	C	CC	_	6	con
+8	te	te	P	PE	num=s|per=2|gen=n	6	conj
+9	,	,	F	FF	_	10	punc
+10	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+11	due	due	N	N	_	12	mod
+12	chiusi	chiuso	A	A	num=p|gen=m	13	mod
+13	protetti	protetto	A	A	num=p|gen=m	10	mod
+14	,	,	F	FF	_	10	punc
+15	nel	in	E	EA	num=s|gen=m	13	comp
+16	nostro	nostro	A	AP	num=s|gen=m	17	mod
+17	rifugio	rifugio	S	S	num=s|gen=m	15	prep
+18	,	,	F	FF	_	15	con
+19	nella	in	E	EA	num=s|gen=f	15	conj
+20	nostra	nostro	A	AP	num=s|gen=f	21	mod
+21	tana	tana	S	S	num=s|gen=f	19	prep
+22	.	.	F	FS	_	5	punc
+
+1	-	-	F	FC	_	0	ROOT
+2	E	e	C	CC	_	1	con
+3	quelli	quello	P	PD	num=p|gen=m	1	conj
+4	fuori	fuori	B	B	_	3	mod
+5	?	?	F	FS	_	1	punc
+
+1	-	-	F	FC	_	4	punc
+2	Niente	niente	B	B	_	4	mod
+3	,	,	F	FF	_	2	punc
+4	quelli	quello	P	PD	num=p|gen=m	8	subj
+5	fuori	fuori	B	B	_	8	mod
+6	non	non	B	BN	_	8	neg
+7	ci	ci	P	PC	num=p|per=1|gen=n	8	comp_ind
+8	interessano	interessare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+9	.	.	F	FS	_	8	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	0	_
+2	,	,	F	FF	_	1	con
+3	solo	solo	B	B	_	4	mod
+4	noi	noi	P	PE	num=p|per=1|gen=n	1	conj
+5	,	,	F	FF	_	8	punc
+6	i	il	R	RD	num=p|gen=m	7	det
+7	più	più	B	B	_	8	mod
+8	puliti	pulire	V	V	num=p|mod=p|gen=m	4	mod
+9	i	il	R	RD	num=p|gen=m	10	det
+10	più	più	B	B	_	11	mod
+11	uniti	unito	A	A	num=p|gen=m	8	mod
+12	,	,	F	FF	_	8	punc
+13	i	il	R	RD	num=p|gen=m	14	det
+14	migliori	migliore	A	A	num=p|gen=n	4	mod
+
+1	-	-	F	FC	_	2	punc
+2	No	no	B	BN	_	5	neg
+3	,	,	F	FF	_	2	punc
+4	ma	ma	C	CC	_	2	con
+5	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	10	arg
+6	che	che	C	CS	_	10	subj
+7	anche	anche	B	B	_	8	mod
+8	a	a	E	E	_	10	comp
+9	noi	noi	P	PE	num=p|per=1|gen=n	8	prep
+10	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+11	successo	successo	S	S	num=s|gen=m	10	pred
+
+1	-	-	F	FC	_	2	punc
+2	Silenzio	Silenzio	S	SP	_	0	ROOT
+3	,	,	F	FF	_	4	punc
+4	che	che	C	CS	_	2	arg
+5	resti	restare	V	V	num=s|per=3|mod=c|ten=p	4	sub
+6	fra	fra	E	E	_	5	comp
+7	di	di	E	E	_	6	comp
+8	noi	noi	P	PE	num=p|per=1|gen=n	7	prep
+9	,	,	F	FF	_	10	punc
+10	zitti	zitto	A	A	num=p|gen=m	8	mod
+11	.	.	F	FS	_	2	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	lottiamo	lottare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	resistiamo	resistere	V	V	num=p|per=1|mod=i|ten=p	2	arg
+4	,	,	F	FF	_	5	punc
+5	avvinghiati	avvinghiare	V	V	num=p|mod=p|gen=m	3	mod
+6	disperatamente	disperato	B	B	_	5	mod
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	uno	uno	P	PI	num=s|gen=m	5	obj
+9	all'	al	E	EA	num=s|gen=n	8	comp
+10	altro	altro	P	PI	num=s|gen=m	9	prep
+11	,	,	F	FF	_	12	punc
+12	attaccati	attaccare	V	V	num=p|mod=p|gen=m	5	mod
+13	come	come	E	E	_	12	comp
+14	mignatte	mignatta	S	S	num=p|gen=f	13	prep
+
+1	-	-	F	FC	_	2	punc
+2	Scusa	Scusa	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	,	,	F	FF	_	2	punc
+4	io	io	P	PE	num=s|per=1|gen=n	6	subj
+5	dovrei	dovere	V	VM	num=s|per=1|mod=d|ten=p	6	modal
+6	andare	andare	V	V	mod=f	0	ROOT
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	attimo	attimo	S	S	num=s|gen=m	6	obj
+
+1	-	-	F	FC	_	2	punc
+2	Vengo	venire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	anch'	anche	B	B	_	2	mod
+4	io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+
+1	-	-	F	FC	_	5	punc
+2	Allora	allora	B	B	_	5	mod
+3	non	non	B	BN	_	4	neg
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	clit
+5	vado	andare	V	V	num=s|per=1|mod=i|ten=p	0	_
+
+1	-	-	F	FC	_	0	ROOT
+2	Giustooo	Giustooo	S	SP	_	1	ROOT
+3	,	,	F	FF	_	5	punc
+4	qui	qui	B	B	_	5	mod
+5	fermi	fermo	A	A	num=p|gen=m	2	mod
+6	seduti	sedere	V	V	num=p|mod=p|gen=m	5	mod
+7	,	,	F	FF	_	5	punc
+8	sulle	su	E	EA	num=p|gen=f	2	comp
+9	nostre	nostro	A	AP	num=p|gen=f	10	mod
+10	due	due	N	N	_	8	prep
+11	comode	comodo	A	A	num=p|gen=f	10	mod
+12	poltrone	poltrone	S	S	num=s|gen=n	10	mod
+

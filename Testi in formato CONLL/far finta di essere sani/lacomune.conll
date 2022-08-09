@@ -1,0 +1,371 @@
+1	Da	da	E	E	_	5	comp
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	vita	vita	S	S	num=s|gen=f	1	prep
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	clit
+5	guardiamo	guardare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	bene	bene	B	B	_	2	mod
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	obj
+5	vogliamo	volere	V	V	num=p|per=1|mod=i|ten=p	2	conj
+6	bene	bene	B	B	_	5	mod
+
+1	ma	ma	C	CC	_	5	con
+2	come	come	C	CS	_	5	mod
+3	tutti	tutto	P	PI	num=p|gen=m	5	subj
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	clit
+5	isoliamo	isolare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+2	deve	dovere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	essere	essere	V	V	mod=f	0	ROOT
+4	per	per	E	E	_	3	comp
+5	forza	forza	S	S	num=s|gen=f	4	prep
+6	un'	uno	R	RI	num=s|gen=f	8	det
+7	altra	altro	A	A	num=s|gen=f	8	mod
+8	soluzione	soluzione	S	S	num=s|gen=f	3	pred
+9	.	.	F	FS	_	3	punc
+
+1	Forse	forse	B	B	_	3	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	comune	comune	A	A	num=s|gen=n	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	senso	senso	S	S	num=s|gen=m	2	obj
+4	la	il	R	RD	num=s|gen=f	5	det
+5	famiglia	famiglia	S	S	num=s|gen=f	2	subj
+6	coniugale	coniugale	A	A	num=s|gen=n	5	mod
+
+1	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	bisogno	bisogno	S	S	num=s|gen=m	1	obj
+3	di	di	E	E	_	2	arg
+4	trovare	trovare	V	V	mod=f	3	prep
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	apertura	apertura	S	S	num=s|gen=f	4	obj
+
+1	a	a	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	vita	vita	S	S	num=s|gen=f	1	prep
+4	troppo	troppo	B	B	_	5	mod
+5	chiusa	chiudere	V	V	num=s|mod=p|gen=f	3	mod
+6	troppo	troppo	B	B	_	7	mod
+7	uguale	uguale	A	A	num=s|gen=n	3	mod
+8	.	.	F	FS	_	1	punc
+
+1	Forse	forse	B	B	_	3	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	comune	comune	A	A	num=s|gen=n	0	ROOT
+
+1	dove	dove	B	B	_	4	mod_loc
+2	ognuno	ognuno	P	PI	num=s|gen=m	4	subj
+3	può	potere	V	VM	num=s|per=3|mod=i|ten=p	4	modal
+4	portare	portare	V	V	mod=f	0	ROOT
+5	le	il	R	RD	num=p|gen=f	7	det
+6	sue	suo	A	AP	num=p|gen=f	7	mod
+7	esperienze	esperienza	S	S	num=p|gen=f	4	obj
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	pò	pò	B	B	_	3	mod
+3	stretti	stringere	V	V	num=p|mod=p|gen=m	0	ROOT
+4	qualche	qualche	D	DI	num=s|gen=n	5	mod
+5	volta	volta	S	S	num=s|gen=f	3	mod_temp
+6	in	in	E	E	_	3	comp
+7	poche	poco	D	DI	num=p|gen=f	8	mod
+8	stanze	stanza	S	S	num=p|gen=f	6	prep
+
+1	ogni	ogni	D	DI	num=s|gen=n	5	mod
+2	tanto	tanto	B	B	_	1	mod
+3	qualche	qualche	D	DI	num=s|gen=n	4	mod
+4	piccola	piccolo	A	A	num=s|gen=f	5	mod
+5	tensione	tensione	S	S	num=s|gen=f	0	_
+
+1	Qualcheduno	qualcheduno	P	PI	num=s|gen=m	4	subj
+2	m'	m'	C	CC	_	1	con
+3	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	svegliato	svegliare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	adesso	adesso	B	B	_	4	mod_temp
+3	non	non	B	BN	_	4	neg
+4	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	a	a	E	E	_	4	arg
+7	dormire	dormire	V	V	mod=f	6	prep
+
+1	chi	chi	P	PR	num=n|gen=n	0	_
+2	s'	si	P	PC	num=n|per=3|gen=n	4	clit
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	bevuto	bere	V	V	num=s|mod=p|gen=m	1	mod_rel
+5	il	il	R	RD	num=s|gen=m	7	det
+6	mio	mio	A	AP	num=s|gen=m	7	mod
+7	caffè	caffè	S	S	num=n|gen=m	4	obj
+
+1	chi	chi	P	PR	num=n|gen=n	0	_
+2	s'	si	P	PC	num=n|per=3|gen=n	4	clit
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	messo	mettere	V	V	num=s|mod=p|gen=m	1	mod_rel
+5	ancora	ancora	B	B	_	4	mod
+6	il	il	R	RD	num=s|gen=m	8	det
+7	mio	mio	A	AP	num=s|gen=m	8	mod
+8	costume	costume	S	S	num=s|gen=m	4	obj
+
+1	Tento	tentare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	comune	comune	A	A	num=s|gen=n	1	pred
+
+1	specialmente	specialmente	B	B	_	2	mod
+2	per	per	E	E	_	6	comp
+3	i	il	R	RD	num=p|gen=m	4	det
+4	figli	figlio	S	S	num=p|gen=m	2	prep
+5	uno	uno	R	RI	num=s|gen=m	6	det
+6	spazio	spazio	S	S	num=s|gen=m	0	ROOT
+7	nuovo	nuovo	A	A	num=s|gen=m	6	mod
+
+1	per	per	E	E	_	0	ROOT
+2	ognuno	ognuno	P	PI	num=s|gen=m	1	prep
+3	tante	tanto	D	DI	num=p|gen=f	4	mod
+4	madri	madre	S	S	num=p|gen=f	1	prep
+5	e	e	C	CC	_	4	con
+6	tanti	tanto	D	DI	num=p|gen=m	7	mod
+7	padri	padre	S	S	num=p|gen=m	4	conj
+
+1	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	dire	dire	V	V	mod=f	0	ROOT
+3	senza	senza	E	E	_	2	comp
+4	madri	madre	S	S	num=p|gen=f	3	prep
+5	e	e	C	CC	_	3	con
+6	senza	senza	E	E	_	3	conj
+7	padri	padre	S	S	num=p|gen=m	6	prep
+
+1	Tento	tentare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	comune	comune	A	A	num=s|gen=n	1	pred
+
+1	non	non	B	BN	_	2	neg
+2	esiste	esistere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	proprio	proprio	B	B	_	4	mod
+4	più	più	B	B	_	2	mod
+5	niente	niente	B	B	_	6	mod
+6	che	che	C	CS	_	7	subj
+7	sia	essere	V	V	num=s|per=3|mod=c|ten=p	2	conj
+8	possesso	possesso	S	S	num=s|gen=m	7	pred
+
+1	ed	e	C	CC	_	2	con
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	molto	molto	B	B	_	4	mod
+4	più	più	B	B	_	5	mod
+5	normale	normale	A	A	num=s|gen=n	2	pred
+6	voler-	volere	V	V	mod=f	2	subj
+7	si	si	P	PC	num=n|per=3|gen=n	6	clit
+8	bene	bene	B	B	_	6	mod
+
+1	finalmente	finalmente	B	B	_	3	mod
+2	non	non	B	BN	_	3	neg
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	6	mod
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	problema	problema	S	S	num=s|gen=m	3	pred
+7	nemmeno	nemmeno	B	B	_	9	mod
+8	il	il	R	RD	num=s|gen=m	9	det
+9	sesso	sesso	S	S	num=s|gen=m	6	mod
+
+1	Da	da	E	E	_	6	comp
+2	te	te	P	PE	num=s|per=2|gen=n	1	prep
+3	non	non	B	BN	_	4	neg
+4	me	me	P	PE	num=s|per=1|gen=n	1	prep
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	aspettavo	aspettare	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	comp_ind
+2	credevo	credere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	ragazza	ragazzo	S	S	num=s|gen=f	2	obj
+5	sana	sano	A	A	num=s|gen=f	4	mod
+
+1	e	e	C	CC	_	2	con
+2	pensare	pensare	V	V	mod=f	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	ti	ti	P	PC	num=s|per=2|gen=n	5	comp_ind
+5	stimavo	stimare	V	V	num=s|per=1|mod=i|ten=i	3	sub
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	obj
+2	comporti	comportare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	come	come	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	puttana	puttana	S	S	num=s|gen=f	3	prep
+
+1	Amo	amare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	comune	comune	A	A	num=s|gen=n	1	obj
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	tua	tuo	A	AP	num=s|gen=f	3	mod
+3	donna	donna	S	S	num=s|gen=f	4	subj
+4	preferisce	preferire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	altro	altro	P	PI	num=s|gen=m	4	obj
+7	ma	ma	C	CC	_	4	con
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+9	naturale	naturale	A	A	num=s|gen=n	8	pred
+
+1	non	non	B	BN	_	2	neg
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	niente	niente	B	B	_	2	mod
+4	se	se	C	CS	_	2	mod
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	ingrossa	ingrossare	V	V	num=s|per=3|mod=i|ten=p	4	sub
+7	la	il	R	RD	num=s|gen=f	8	det
+8	tensione	tensione	S	S	num=s|gen=f	6	obj
+
+1	poi	poi	B	B	_	3	mod
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	angoscia	angoscia	S	S	num=s|gen=f	0	ROOT
+4	poi	poi	B	B	_	6	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	rabbia	rabbia	S	S	num=s|gen=f	3	mod
+7	più	più	B	B	_	8	mod
+8	bestiale	bestiale	A	A	num=s|gen=n	3	mod
+
+1	Amo	amare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	comune	comune	A	A	num=s|gen=n	1	obj
+
+1	senza	senza	E	E	_	6	comp
+2	più	più	B	B	_	4	mod
+3	nessun	nessun	D	DI	num=s|gen=m	4	mod
+4	ritegno	ritegno	S	S	num=s|gen=m	1	prep
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	arriva	arrivare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	ad	ad	E	E	_	6	arg
+8	odiar-	odiare	V	V	mod=f	7	prep
+9	si	si	P	PC	num=n|per=3|gen=n	6	clit
+
+1	e	e	C	CC	_	2	ROOT
+2	alla	al	E	EA	num=s|gen=f	0	ROOT
+3	fine	fine	S	S	num=s|gen=n	2	prep
+4	quando	quando	C	CS	_	2	mod
+5	esplode	esplodere	V	V	num=s|per=3|mod=i|ten=p	4	sub
+6	la	il	R	RD	num=s|gen=f	7	det
+7	tensione	tensione	S	S	num=s|gen=f	5	obj
+
+1	come	come	E	E	_	7	comp
+2	bestie	bestia	S	S	num=p|gen=f	1	prep
+3	come	come	E	E	_	2	comp
+4	cani	cane	S	S	num=p|gen=m	3	prep
+5	ci	ci	P	PC	num=p|per=1|gen=n	7	obj
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	sbrana	sbranare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	a	a	E	E	_	7	comp
+9	morsi	morso	S	S	num=p|gen=m	8	prep
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	odiamo	odiare	V	V	num=p|per=1|mod=i|ten=p	5	mod
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	clit
+5	ammazziamo	ammazzare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	clit
+3	sbraniamo	sbranare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	comp
+5	il	il	R	RD	num=s|gen=m	6	det
+6	caffè	caffè	S	S	num=n|gen=m	4	prep
+
+1	chissà	chissà	B	B	_	4	mod_temp
+2	cosa	cosa	P	PQ	num=s|gen=n	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	sotto	sotto	E	E	_	4	subj
+6	a	a	E	E	_	5	comp
+7	quel	quello	D	DD	num=s|gen=m	8	mod
+8	caffè	caffè	S	S	num=n|gen=m	6	prep
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	odio	odio	S	S	num=s|gen=m	2	subj
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	invidia	invidia	S	S	num=s|gen=f	2	subj
+7	la	il	R	RD	num=s|gen=f	8	det
+8	gelosia	gelosia	S	S	num=s|gen=f	6	mod
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	5	det
+4	solita	solito	A	A	num=s|gen=f	5	mod
+5	merda	merda	S	S	num=s|gen=f	2	subj
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	ritorna	ritornare	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+8	fuori	fuori	B	B	_	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	allora	allora	B	B	_	4	mod
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	clit
+4	ammazziamo	ammazzare	V	V	num=p|per=1|mod=i|ten=p	7	mod
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	ci	ci	P	PC	num=p|per=1|gen=n	7	clit
+7	sbraniamo	sbranare	V	V	num=p|per=1|mod=i|ten=p	0	_
+
+1	meglio	meglio	B	B	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	comune	comune	A	A	num=s|gen=n	1	prep
+4	meglio	meglio	B	B	_	6	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	comune	comune	A	A	num=s|gen=n	3	mod
+
+1	meglio	meglio	B	B	_	3	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	comune	comune	A	A	num=s|gen=n	0	ROOT
+
+1	Meglio	meglio	B	B	_	0	comp
+2	la	il	R	RD	num=s|gen=f	3	det
+3	comune	comune	S	S	num=s|gen=n	1	prep
+4	che	che	P	PR	num=n|gen=n	5	obj
+5	dir-	dire	V	V	mod=f	3	mod_rel
+6	ci	ci	P	PC	num=p|per=1|gen=n	5	comp_ind
+7	:	:	F	FC	_	0	punc
+
+1	Buon	buon	A	A	num=s|gen=m	2	mod
+2	giorno	giorno	S	S	num=s|gen=m	5	subj
+3	cara	caro	A	A	num=s|gen=f	2	mod
+4	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	5	aux
+5	dormito	dormire	V	V	num=s|mod=p|gen=m	0	ROOT
+6	bene	bene	B	B	_	5	mod
+7	?	?	F	FS	_	5	punc
+
+1	te	te	P	PE	num=s|per=2|gen=n	4	subj
+2	l'	il	R	RD	num=s|gen=n	4	det
+3	avevo	avere	V	VA	num=s|per=1|mod=i|ten=i	4	aux
+4	detto	dire	V	V	num=s|mod=p|gen=m	0	ROOT
+5	che	che	C	CS	_	4	arg
+6	il	il	R	RD	num=s|gen=m	7	det
+7	Perequil	Perequil	S	SP	_	8	subj
+8	funziona	funzionare	V	V	num=s|per=3|mod=i|ten=p	5	sub
+
+1	ah	ah	I	I	_	5	mod
+2	,	,	F	FF	_	4	punc
+3	'sta	'sta	A	A	num=s|gen=f	4	mod
+4	sera	sera	S	S	num=s|gen=f	5	subj
+5	vengono	venire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	a	a	E	E	_	5	comp
+7	cena	cena	S	S	num=s|gen=f	6	prep
+8	i	il	R	RD	num=p|gen=m	9	det
+9	Cottinelli	Cottinelli	S	SP	_	5	obj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	piacere	piacere	V	V	mod=f	2	arg
+4	!	!	F	FS	_	2	punc
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	,	,	F	FF	_	0	ROOT
+3	grazie	grazie	S	S	num=n|gen=n	2	ROOT
+4	,	,	F	FF	_	3	punc
+5	ancora	ancora	B	B	_	7	mod
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pò	pò	B	B	_	8	mod
+8	di	di	E	E	_	3	comp
+9	caffè	caffè	S	S	num=n|gen=m	8	prep
+

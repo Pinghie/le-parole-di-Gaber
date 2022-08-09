@@ -1,0 +1,277 @@
+1	Latte	latte	S	S	num=s|gen=m	0	ROOT
+2	70	70	N	N	_	3	mod
+3	burro	burro	S	S	num=s|gen=m	1	mod_temp
+4	120	120	N	N	_	5	mod
+5	carne	carne	S	S	num=s|gen=f	3	mod_temp
+6	2.000	2.000	N	N	_	7	mod
+7	lavanderia	lavanderia	S	S	num=s|gen=f	5	mod_temp
+8	stireria	stireria	S	S	num=s|gen=f	7	mod
+9	,	,	F	FF	_	1	punc
+10	le	il	R	RD	num=p|gen=f	11	det
+11	tendine	tendina	S	S	num=p|gen=f	1	conj
+12	le	il	R	RD	num=p|gen=f	13	det
+13	posate	posata	S	S	num=p|gen=f	11	conj
+14	i	il	R	RD	num=p|gen=m	15	det
+15	centrini	centrino	S	S	num=p|gen=m	13	mod
+16	,	,	F	FF	_	11	con
+17	le	il	R	RD	num=p|gen=f	18	det
+18	tovaglie	tovaglia	S	S	num=p|gen=f	11	conj
+19	ricamate	ricamare	V	V	num=p|mod=p|gen=f	18	mod
+20	le	il	R	RD	num=p|gen=f	21	det
+21	lenzuola	lenzuola	S	S	num=p|gen=f	11	conj
+22	le	il	R	RD	num=p|gen=f	23	det
+23	camicie	camicia	S	S	num=p|gen=f	21	conj
+24	,	,	F	FF	_	11	con
+25	le	il	R	RD	num=p|gen=f	26	det
+26	camicie	camicia	S	S	num=p|gen=f	28	subj
+27	le	le	P	PC	num=n|per=3|gen=f	28	comp_ind
+28	portiamo	portare	V	V	num=p|per=1|mod=i|ten=p	11	mod_rel
+29	anche	anche	B	B	_	30	mod
+30	a	a	E	E	_	28	arg
+31	lavare	lavare	V	V	mod=f	30	prep
+32	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	,	,	F	FF	_	2	con
+4	sono	essere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+5	stufo	stufo	A	A	num=s|gen=m	4	pred
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	conj
+7	stufo	stufo	A	A	num=s|gen=m	6	pred
+8	,	,	F	FF	_	10	punc
+9	ogni	ogni	D	DI	num=s|gen=n	10	mod
+10	giorno	giorno	S	S	num=s|gen=m	12	mod_temp
+11	c'	ci	P	PC	num=n|gen=n	12	comp
+12	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	conj
+13	una	uno	R	RI	num=s|gen=f	14	det
+14	novità	novità	S	S	num=n|gen=f	12	subj
+15	.	.	F	FS	_	2	punc
+
+1	Hai	avere	V	VA	num=s|per=2|mod=i|ten=p	2	aux
+2	capito	capire	V	V	num=s|mod=p|gen=m	4	arg
+3	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	4	aux
+4	capito	capire	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	non	non	B	BN	_	4	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	può	potere	V	VM	num=s|per=3|mod=i|ten=p	4	modal
+4	andare	andare	V	V	mod=f	0	ROOT
+5	avanti	avanti	B	B	_	4	mod
+6	con	con	E	E	_	4	comp
+7	te	te	P	PE	num=s|per=2|gen=n	6	prep
+
+1	non	non	B	BN	_	3	neg
+2	ne	ne	P	PC	num=n|gen=n	3	comp
+3	posso	potere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	5	mod
+5	di	di	E	E	_	3	comp
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	donna	donna	S	S	num=s|gen=f	5	prep
+8	così	così	B	B	_	3	mod
+
+1	e	e	C	CC	_	7	con
+2	dai	da	E	EA	num=p|gen=m	7	comp
+3	non	non	B	BN	_	4	neg
+4	piangere	piangere	V	V	mod=f	2	prep
+5	e	e	C	CC	_	2	con
+6	non	non	B	BN	_	7	neg
+7	piangere	piangere	V	V	mod=f	0	ROOT
+
+1	Amore	amore	S	S	num=s|gen=m	0	ROOT
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	comp_ind
+2	prego	prego	I	I	_	3	mod
+3	vieni	venire	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+4	a	a	E	E	_	3	comp
+5	tavola	tavola	S	S	num=s|gen=f	4	prep
+6	a	a	E	E	_	3	arg
+7	mangiare	mangiare	V	V	mod=f	6	prep
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	comp
+2	giuro	giuro	S	S	num=s|gen=m	4	subj
+3	non	non	B	BN	_	4	neg
+4	volevo	volere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+5	litigare	litigare	V	V	mod=f	4	arg
+
+1	dai	da	E	EA	num=p|gen=m	0	ROOT
+2	vieni	vieni	P	PR	num=s|gen=n	6	subj
+3	non	non	B	BN	_	6	neg
+4	far-	fare	V	VM	mod=f	6	modal
+5	ti	ti	P	PC	num=s|per=2|gen=n	4	clit
+6	pregare	pregare	V	V	mod=f	1	prep
+
+1	Amore	amore	S	S	num=s|gen=m	0	ROOT
+
+1	lo	lo	P	PC	num=s|per=3|gen=m	0	_
+2	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	1	ROOT
+3	che	che	C	CS	_	2	arg
+4	a	a	E	E	_	6	comp
+5	volte	volta	S	S	num=p|gen=f	4	prep
+6	parlo	parlare	V	V	num=s|per=1|mod=i|ten=p	3	sub
+7	per	per	E	E	_	6	mod
+8	parlare	parlare	V	V	mod=f	7	prep
+
+1	sto	stare	V	V	num=s|per=1|mod=i|ten=p	7	mod
+2	chiuso	chiudere	V	V	num=s|mod=p|gen=m	1	pred
+3	in	in	E	E	_	2	comp
+4	quella	quello	D	DD	num=s|gen=f	5	mod
+5	stanza	stanza	S	S	num=s|gen=f	3	prep
+6	otto	otto	N	N	_	2	mod_temp
+7	ore	ora	S	S	num=p|gen=f	0	ROOT
+
+1	son	son	B	BN	_	2	neg
+2	stanco	stancare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	dovresti	dovresti	V	VA	num=s|per=2|mod=d|ten=p	4	modal
+4	capire	capire	V	V	mod=f	2	arg
+
+1	No	no	B	BN	_	4	neg
+2	,	,	F	FF	_	1	punc
+3	non	non	B	BN	_	4	neg
+4	capisci	capire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+5	,	,	F	FF	_	6	punc
+6	eh	eh	I	I	_	13	mod
+7	e	e	C	CC	_	6	con
+8	già	già	B	B	_	10	mod
+9	come	come	B	B	_	10	mod
+10	al	a	E	EA	num=s|gen=m	13	comp
+11	solito	solito	S	S	num=s|gen=m	10	prep
+12	non	non	B	BN	_	13	neg
+13	capisci	capire	V	V	num=s|per=2|mod=i|ten=p	4	conj
+14	.	.	F	FS	_	4	punc
+
+1	Tu	tu	P	PE	num=s|per=2|gen=n	6	subj
+2	non	non	B	BN	_	6	neg
+3	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	6	modal
+4	cosa	cosa	P	PQ	num=s|gen=n	6	obj
+5	vuol	volere	V	VM	num=s|per=3|mod=i|ten=p	6	modal
+6	dire	dire	V	V	mod=f	0	ROOT
+7	,	,	F	FF	_	8	punc
+8	tu	tu	P	PE	num=s|per=2|gen=n	6	mod
+9	non	non	B	BN	_	10	neg
+10	parli	parlare	V	V	num=s|per=3|mod=c|ten=p	8	mod_rel
+11	non	non	B	BN	_	12	neg
+12	rispondi	rispondere	V	V	num=s|per=2|mod=i|ten=p	10	arg
+13	te	te	P	PE	num=s|per=2|gen=n	15	subj
+14	ne	ne	P	PC	num=n|gen=n	15	comp
+15	freghi	fregare	V	V	num=s|per=3|mod=c|ten=p	12	arg
+16	,	,	F	FF	_	15	con
+17	non	non	B	BN	_	19	neg
+18	mi	mi	P	PC	num=s|per=1|gen=n	19	clit
+19	guardi	guardare	V	V	num=s|per=3|mod=c|ten=p	15	conj
+20	neanche	neanche	B	B	_	19	mod
+21	in	in	E	E	_	19	comp
+22	faccia	faccia	S	S	num=s|gen=f	21	prep
+23	.	.	F	FS	_	6	punc
+
+1	E	e	C	CC	_	3	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	3	subj
+3	piangi	piangere	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	tu	tu	P	PE	num=s|per=2|gen=n	6	subj
+6	piangi	piangere	V	V	num=s|per=2|mod=i|ten=p	3	arg
+7	,	,	F	FF	_	3	con
+8	così	così	B	B	_	12	mod
+9	ti	ti	P	PC	num=s|per=2|gen=n	12	comp_ind
+10	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	12	modal
+11	anche	anche	B	B	_	12	mod
+12	compatire	compatire	V	V	mod=f	3	conj
+13	.	.	F	FS	_	3	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	arg
+4	stufo	stufo	A	A	num=s|gen=m	5	mod
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	3	conj
+6	stufo	stufo	A	A	num=s|gen=m	5	pred
+7	,	,	F	FF	_	2	con
+8	stai	stare	V	V	num=s|per=2|mod=i|ten=p	2	conj
+9	diventando	diventare	V	V	mod=g	8	pred
+10	peggio	peggio	B	B	_	9	mod
+11	di	di	E	E	_	9	comp
+12	tua	tuo	A	AP	num=s|gen=f	13	mod
+13	madre	madre	S	S	num=s|gen=f	11	prep
+14	.	.	F	FS	_	2	punc
+
+1	Hai	avere	V	VA	num=s|per=2|mod=i|ten=p	2	aux
+2	capito	capire	V	V	num=s|mod=p|gen=m	4	arg
+3	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	4	aux
+4	capito	capire	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	non	non	B	BN	_	4	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	può	potere	V	VM	num=s|per=3|mod=i|ten=p	4	modal
+4	andare	andare	V	V	mod=f	0	ROOT
+5	avanti	avanti	B	B	_	4	mod
+6	con	con	E	E	_	4	comp
+7	te	te	P	PE	num=s|per=2|gen=n	6	prep
+
+1	non	non	B	BN	_	3	neg
+2	ne	ne	P	PC	num=n|gen=n	3	comp
+3	posso	potere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	5	mod
+5	di	di	E	E	_	3	comp
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	donna	donna	S	S	num=s|gen=f	5	prep
+8	così	così	B	B	_	3	mod
+
+1	e	e	C	CC	_	7	con
+2	dai	da	E	EA	num=p|gen=m	7	comp
+3	non	non	B	BN	_	4	neg
+4	piangere	piangere	V	V	mod=f	2	prep
+5	e	e	C	CC	_	2	con
+6	non	non	B	BN	_	7	neg
+7	piangere	piangere	V	V	mod=f	0	ROOT
+
+1	Amore	amore	S	S	num=s|gen=m	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	3	aux
+3	finito	finire	V	V	num=s|mod=p|gen=m	0	ROOT
+4	neanche	neanche	B	B	_	3	mod
+5	di	di	E	E	_	3	arg
+6	mangiare	mangiare	V	V	mod=f	5	prep
+
+1	dai	da	E	EA	num=p|gen=m	0	ROOT
+2	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	1	prep
+3	qualche	qualche	D	DI	num=s|gen=n	4	mod
+4	cosa	cosa	S	S	num=s|gen=f	2	obj
+5	per	per	E	E	_	1	comp
+6	favore	favore	S	S	num=s|gen=m	5	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	dopo	dopo	C	CS	_	3	mod_temp
+3	facciamo	fare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	amore	amore	S	S	num=s|gen=m	3	obj
+6	.	.	F	FS	_	3	punc
+
+1	Amore	amore	S	S	num=s|gen=m	0	ROOT
+
+1	lo	lo	P	PC	num=s|per=3|gen=m	0	_
+2	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	1	ROOT
+3	che	che	C	CS	_	2	arg
+4	a	a	E	E	_	6	comp
+5	volte	volta	S	S	num=p|gen=f	4	prep
+6	parlo	parlare	V	V	num=s|per=1|mod=i|ten=p	3	sub
+7	per	per	E	E	_	6	mod
+8	parlare	parlare	V	V	mod=f	7	prep
+
+1	sto	stare	V	V	num=s|per=1|mod=i|ten=p	7	mod
+2	chiuso	chiudere	V	V	num=s|mod=p|gen=m	1	pred
+3	in	in	E	E	_	2	comp
+4	quella	quello	D	DD	num=s|gen=f	5	mod
+5	stanza	stanza	S	S	num=s|gen=f	3	prep
+6	otto	otto	N	N	_	2	mod_temp
+7	ore	ora	S	S	num=p|gen=f	0	ROOT
+
+1	dai	da	E	EA	num=p|gen=m	4	comp_loc
+2	fa	fare	V	VM	num=s|per=3|mod=i|ten=p	4	modal
+3	presto	presto	B	B	_	4	mod
+4	facciamo	fare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	amore	amore	S	S	num=s|gen=m	4	obj
+
+1	Oh	oh	I	I	_	3	mod
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	amore	amore	S	S	num=s|gen=m	0	ROOT
+

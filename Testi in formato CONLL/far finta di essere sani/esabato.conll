@@ -1,0 +1,380 @@
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+2	sabato	sabato	S	S	num=s|gen=m	1	pred
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	sabato	sabato	S	S	num=s|gen=m	0	ROOT
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	nove	nove	N	N	_	7	mod
+3	e	e	C	CC	_	2	con
+4	mezza	mezzo	A	A	num=s|gen=f	2	conj
+5	di	di	E	E	_	2	comp
+6	sera	sera	S	S	num=s|gen=f	5	prep
+7	niente	niente	P	PI	num=s|gen=m	0	ROOT
+8	di	di	E	E	_	7	comp
+9	anormale	anormale	A	A	num=s|gen=n	8	prep
+
+1	ceniamo	cenare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	agli	al	E	EA	num=p|gen=m	1	comp
+3	stessi	stessi	A	A	num=p|gen=m	4	mod
+4	posti	posto	S	S	num=p|gen=m	2	prep
+5	eppure	eppure	B	BN	_	7	neg
+6	c'	ci	P	PC	num=n|gen=n	7	comp
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	qualcosa	qualcosa	P	PI	num=s|gen=n	7	subj
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	sente	sentire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	provo	provare	V	V	num=s|per=1|mod=i|ten=p	2	pred
+4	a	a	E	E	_	3	arg
+5	guardar-	guardare	V	V	mod=f	4	prep
+6	la	la	P	PC	num=s|per=3|gen=f	5	obj
+7	c'	ci	P	PC	num=n|gen=n	8	comp
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+9	un'	uno	R	RI	num=s|gen=f	10	det
+10	aria	aria	S	S	num=s|gen=f	8	subj
+11	strana	strano	A	A	num=s|gen=f	10	mod
+
+1	non	non	B	BN	_	2	neg
+2	facciamo	fare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	amore	amore	S	S	num=s|gen=m	2	obj
+5	da	da	E	E	_	4	comp
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	settimana	settimana	S	S	num=s|gen=f	5	prep
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+2	sabato	sabato	S	S	num=s|gen=m	1	pred
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	sabato	sabato	S	S	num=s|gen=m	0	ROOT
+
+1	domani	domani	B	B	_	5	mod_temp
+2	niente	niente	B	B	_	3	mod
+3	lavoro	lavoro	S	S	num=s|gen=m	1	mod_temp
+4	forse	forse	B	B	_	5	mod
+5	andiamo	andare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+6	al	a	E	EA	num=s|gen=m	5	comp_loc
+7	mare	mare	S	S	num=s|gen=m	6	prep
+
+1	le	le	P	PC	num=n|per=3|gen=f	2	comp_ind
+2	slaccio	slacciare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	cintura	cintura	S	S	num=s|gen=f	2	obj
+5	e	e	C	CC	_	2	con
+6	resto	resto	S	S	num=s|gen=m	2	conj
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	pò	pò	B	B	_	9	mod
+9	a	a	E	E	_	6	arg
+10	guardare	guardare	V	V	mod=f	9	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	linea	linea	S	S	num=s|gen=f	0	ROOT
+3	armoniosa	armonioso	A	A	num=s|gen=f	2	mod
+4	del	di	E	EA	num=s|gen=m	2	comp
+5	collo	collo	S	S	num=s|gen=m	4	prep
+6	la	il	R	RD	num=s|gen=f	7	det
+7	curva	curva	S	S	num=s|gen=f	2	mod
+8	delle	di	E	EA	num=p|gen=f	7	comp
+9	anche	anche	B	B	_	8	prep
+
+1	che	che	P	PR	num=n|gen=n	0	ROOT
+2	per	per	E	E	_	5	comp
+3	me	me	P	PE	num=s|per=1|gen=n	2	prep
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	cose	cosa	S	S	num=p|gen=f	1	ROOT
+6	risapute	risaputo	A	A	num=p|gen=f	5	mod
+7	e	e	C	CC	_	6	con
+8	stanche	stanco	A	A	num=p|gen=f	6	conj
+
+1	Ma	ma	C	CC	_	2	con
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	nell'	in	E	EA	num=s|gen=n	2	pred
+4	aria	aria	S	S	num=s|gen=f	3	prep
+
+1	non	non	B	BN	_	2	neg
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	da	da	E	E	_	2	arg
+4	che	che	D	DQ	num=n|gen=n	3	concat
+5	cosa	cosa	S	S	num=s|gen=f	3	prep
+
+1	ma	ma	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	sente	sentire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	nell'	in	E	EA	num=s|gen=n	1	pred
+3	aria	aria	S	S	num=s|gen=f	2	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	vede	vedere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	dai	da	E	EA	num=p|gen=m	2	comp
+4	gesti	gesto	S	S	num=p|gen=m	3	prep
+5	dai	da	E	EA	num=p|gen=m	2	comp
+6	silenzi	silenzio	S	S	num=p|gen=m	5	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	nell'	in	E	EA	num=s|gen=n	1	pred
+3	aria	aria	S	S	num=s|gen=f	2	prep
+
+1	In	in	E	E	_	3	comp
+2	fondo	fondo	S	S	num=s|gen=m	1	prep
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	così	così	B	B	_	5	mod
+5	naturale	naturale	A	A	num=s|gen=n	3	pred
+6	un	uno	R	RI	num=s|gen=m	8	det
+7	piccolo	piccolo	A	A	num=s|gen=m	8	mod
+8	sforzo	sforzo	S	S	num=s|gen=m	3	subj
+9	iniziale	iniziale	A	A	num=s|gen=n	8	mod
+
+1	poi	poi	B	B	_	4	mod_temp
+2	tutto	tutto	D	DI	num=s|gen=m	3	mod
+3	tutto	tutto	P	PI	num=s|gen=m	4	subj
+4	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	da	da	E	E	_	4	comp
+6	se	se	P	PE	num=n|per=3|gen=n	5	prep
+7	tutto	tutto	P	PI	num=s|gen=m	8	subj
+8	va	andare	V	V	num=s|per=3|mod=i|ten=p	4	conj
+9	da	da	E	E	_	8	comp
+10	se	se	C	CS	_	9	prep
+
+1	senza	senza	E	E	_	3	comp
+2	fatica	fatica	S	S	num=s|gen=f	1	prep
+3	senza	senza	E	E	_	0	ROOT
+4	fatica	fatica	S	S	num=s|gen=f	3	prep
+
+1	Le	il	R	RD	num=p|gen=f	2	det
+2	mani	mano	S	S	num=p|gen=f	4	subj
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	muovono	muovere	V	V	num=p|per=3|mod=i|ten=p	5	arg
+5	accarezzano	accarezzare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	i	il	R	RD	num=p|gen=m	7	det
+7	fianchi	fianco	S	S	num=p|gen=m	5	subj
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	bocche	bocca	S	S	num=p|gen=f	4	subj
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	avvicinano	avvicinare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	poi	poi	B	B	_	4	mod
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	staccano	staccare	V	V	num=p|per=3|mod=i|ten=p	4	conj
+8	ancora	ancora	B	B	_	7	mod
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	corpi	corpo	S	S	num=p|gen=m	4	subj
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	sfiorano	sfiorare	V	V	num=p|per=3|mod=i|ten=p	7	arg
+5	poi	poi	B	B	_	4	mod
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	allontanano	allontanare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	di	di	E	E	_	4	comp
+2	scatto	scatto	S	S	num=s|gen=m	1	prep
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	riallacciano	riallacciare	V	V	num=p|per=3|mod=i|ten=p	7	arg
+5	poi	poi	B	B	_	4	mod
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	comprimono	comprimere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	respiro	respiro	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	5	mod
+5	forte	forte	A	A	num=s|gen=n	3	pred
+6	incalzante	incalzare	V	V	num=s|mod=p	0	ROOT
+
+1	più	più	B	B	_	2	mod
+2	affannoso	affannoso	A	A	num=s|gen=m	4	mod
+3	morboso	morboso	A	A	num=s|gen=m	2	mod
+4	ansimante	ansimare	V	V	num=s|mod=p	0	_
+
+1	parole	parola	S	S	num=p|gen=f	0	ROOT
+2	sconnesse	sconnesso	A	A	num=p|gen=f	3	mod
+3	frenetiche	frenetico	A	A	num=p|gen=f	1	mod
+4	senza	senza	E	E	_	1	comp
+5	pudore	pudore	S	S	num=s|gen=m	4	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	amore	amore	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	arg
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	amore	amore	S	S	num=s|gen=m	7	subj
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+8	l'	il	R	RD	num=s|gen=n	9	det
+9	amore	amore	S	S	num=s|gen=m	7	pred
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+2	sabato	sabato	S	S	num=s|gen=m	1	pred
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	sabato	sabato	S	S	num=s|gen=m	0	ROOT
+
+1	sdraiati	sdraiare	V	V	num=p|mod=p|gen=m	0	_
+2	nudi	nudo	A	A	num=p|gen=m	1	pred
+3	sul	su	E	EA	num=s|gen=m	1	comp_loc
+4	letto	letto	S	S	num=s|gen=m	3	prep
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	asciugamano	asciugamano	S	S	num=s|gen=m	1	obj
+
+1	adesso	adesso	B	B	_	3	mod_temp
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	gran	gran	A	A	num=n|gen=n	6	mod
+6	silenzio	silenzio	S	S	num=s|gen=m	3	subj
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	senso	senso	S	S	num=s|gen=m	3	subj
+9	d'	di	E	E	_	8	comp
+10	abbandono	abbandono	S	S	num=s|gen=m	9	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	letto	letto	S	S	num=s|gen=m	7	subj
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	cigola	cigolare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	piano	piano	S	S	num=s|gen=m	4	obj
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	avverte	avvertire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	il	il	R	RD	num=s|gen=m	10	det
+9	suo	suo	A	AP	num=s|gen=m	10	mod
+10	rumore	rumore	S	S	num=s|gen=m	7	obj
+
+1	nella	in	E	EA	num=s|gen=f	5	comp
+2	stanza	stanza	S	S	num=s|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	sopra	sopra	B	B	_	3	prep
+5	stan	stan	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	facendo	fare	V	V	mod=g	5	mod
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	amore	amore	S	S	num=s|gen=m	6	obj
+
+1	Più	più	B	B	_	2	mod
+2	forte	forte	A	A	num=s|gen=n	0	ROOT
+
+1	spaventoso	spaventoso	A	A	num=s|gen=m	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	treno	treno	S	S	num=s|gen=m	2	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	sente	sentire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	4	mod
+4	forte	forte	A	A	num=s|gen=n	2	pred
+
+1	poi	poi	B	B	_	2	mod
+2	gridi	gridio	S	S	num=p|gen=m	0	ROOT
+3	soffocati	soffocare	V	V	num=p|mod=p|gen=m	2	mod
+4	mugolii	mugolio	S	S	num=p|gen=m	0	ROOT
+
+1	sempre	sempre	B	B	_	2	mod
+2	più	più	B	B	_	3	mod
+3	forte	forte	A	A	num=s|gen=n	0	ROOT
+
+1	lamenti	lamento	S	S	num=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	respiri	respiro	S	S	num=p|gen=m	1	conj
+4	affannosi	affannoso	A	A	num=p|gen=m	1	mod
+
+1	signori	signore	S	S	num=p|gen=m	0	ROOT
+2	così	così	B	B	_	3	mod
+3	rispettosi	rispettoso	A	A	num=p|gen=m	1	mod
+
+1	come	come	B	B	_	2	mod
+2	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	non	non	B	BN	_	4	neg
+2	ce	ce	P	PC	num=p|per=1|gen=n	3	clit
+3	li	li	P	PC	num=p|per=3|gen=m	4	obj
+4	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	non	non	B	BN	_	4	neg
+2	ce	ce	P	PC	num=n|gen=n	4	comp
+3	li	li	P	PC	num=p|per=3|gen=m	4	obj
+4	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	proprio	proprio	B	B	_	4	mod
+
+1	come	come	E	E	_	0	ROOT
+2	conigli	coniglio	S	S	num=p|gen=m	1	prep
+3	come	come	E	E	_	2	comp
+4	maiali	maiale	S	S	num=p|gen=m	3	prep
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	alzo	alzare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	vado	andare	V	V	num=s|per=1|mod=i|ten=p	2	arg
+4	in	in	E	E	_	3	comp
+5	bagno	bagno	S	S	num=s|gen=m	4	prep
+6	le	il	R	RD	num=p|gen=f	7	det
+7	mani	mano	S	S	num=p|gen=f	3	obj
+8	appiccicose	appiccicoso	A	A	num=p|gen=f	7	mod
+
+1	rumore	rumore	S	S	num=s|gen=m	0	ROOT
+2	di	di	E	E	_	1	comp
+3	acqua	acqua	S	S	num=s|gen=f	2	prep
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	scorre	scorrere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+6	la	il	R	RD	num=s|gen=f	7	det
+7	pancia	pancia	S	S	num=s|gen=f	5	obj
+8	appiccicosa	appiccicoso	A	A	num=s|gen=f	7	mod
+
+1	dall'	da	E	EA	num=s|gen=n	0	ROOT
+2	appartamento	appartamento	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	sopra	sopra	B	B	_	3	prep
+
+1	dall'	da	E	EA	num=s|gen=n	0	ROOT
+2	appartamento	appartamento	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	sotto	sotto	S	S	num=n|gen=n	3	prep
+
+1	rumore	rumore	S	S	num=s|gen=m	6	mod
+2	di	di	E	E	_	1	comp
+3	gente	gente	S	S	num=s|gen=f	2	prep
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	lava	lavare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	rumore	rumore	S	S	num=s|gen=m	0	ROOT
+2	di	di	E	E	_	1	comp
+3	cessi	cesso	S	S	num=p|gen=m	2	prep
+4	e	e	C	CC	_	2	con
+5	di	di	E	E	_	2	conj
+6	sciacquoni	sciacquone	S	S	num=p|gen=m	5	prep
+
+1	Bellissimo	bello	A	A	num=s|gen=m	3	mod
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	amore	amore	S	S	num=s|gen=m	0	ROOT
+4	tutti	tutto	P	PI	num=p|gen=m	3	mod
+5	insieme	insieme	B	B	_	3	mod
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	amore	amore	S	S	num=s|gen=m	0	ROOT
+3	collettivo	collettivo	A	A	num=s|gen=m	2	mod
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	letti	letto	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	muovono	muovere	V	V	num=p|per=3|mod=i|ten=p	2	mod_rel
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	amore	amore	S	S	num=s|gen=m	0	ROOT
+3	tutti	tutto	P	PI	num=p|gen=m	2	mod
+4	insieme	insieme	B	B	_	2	mod
+
+1	ma	ma	C	CC	_	4	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	domani	domani	B	B	_	4	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	festa	festa	S	S	num=s|gen=f	4	subj
+
+1	sciacquoni	sciacquone	S	S	num=p|gen=m	0	ROOT
+2	sciacquoni	sciacquone	S	S	num=p|gen=m	1	mod
+3	sciacquoni	sciacquone	S	S	num=p|gen=m	1	mod
+
+1	forza	forza	S	S	num=s|gen=f	2	subj
+2	cessi	cessare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	sabato	sabato	S	S	num=s|gen=m	0	ROOT
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	sabato	sabato	S	S	num=s|gen=m	2	mod_temp
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	sabato	sabato	S	S	num=s|gen=m	2	mod_temp
+

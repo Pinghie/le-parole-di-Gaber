@@ -1,0 +1,236 @@
+1	Una	uno	R	RI	num=s|gen=f	3	det
+2	brutta	brutto	A	A	num=s|gen=f	3	mod
+3	giornata	giornata	S	S	num=s|gen=f	0	ROOT
+
+1	chiuso	chiudere	V	V	num=s|mod=p|gen=m	0	ROOT
+2	in	in	E	E	_	1	comp
+3	casa	casa	S	S	num=s|gen=f	2	prep
+4	a	a	E	E	_	1	arg
+5	pensare	pensare	V	V	mod=f	4	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	vita	vita	S	S	num=s|gen=f	0	ROOT
+3	sprecata	sprecare	V	V	num=s|mod=p|gen=f	2	mod
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	niente	niente	P	PI	num=s|gen=m	3	subj
+5	da	da	E	E	_	3	arg
+6	fare	fare	V	V	mod=f	5	prep
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	via	via	B	B	_	3	mod
+5	di	di	E	E	_	3	subj
+6	scampo	scampo	S	S	num=s|gen=m	5	prep
+
+1	mah	mah	I	I	_	0	_
+
+1	Quasi	quasi	B	B	_	4	mod
+2	quasi	quasi	B	B	_	4	mod
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	faccio	fare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	uno	uno	R	RI	num=s|gen=m	6	det
+6	shampoo	shampoo	S	SW	num=n|gen=m	4	obj
+
+1	uno	uno	R	RI	num=s|gen=m	2	det
+2	shampoo	shampoo	S	SW	num=n|gen=m	0	ROOT
+
+1	Una	uno	R	RI	num=s|gen=f	3	det
+2	strana	strano	A	A	num=s|gen=f	3	mod
+3	giornata	giornata	S	S	num=s|gen=f	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	muove	muovere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	foglia	foglia	S	S	num=s|gen=f	3	obj
+
+1	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	testa	testa	S	S	num=s|gen=f	1	obj
+4	ovattata	ovattare	V	V	num=s|mod=p|gen=f	3	mod
+
+1	non	non	B	BN	_	2	neg
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	2	mod
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	voglia	voglia	S	S	num=s|gen=f	2	obj
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	via	via	B	B	_	3	mod
+5	di	di	E	E	_	3	subj
+6	scampo	scampo	S	S	num=s|gen=m	5	prep
+
+1	Sì	sì	B	B	_	3	mod
+2	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	3	modal
+3	far-	fare	V	V	mod=f	0	ROOT
+4	me	me	P	PC	num=s|per=1|gen=n	3	comp_ind
+5	per	per	E	E	_	3	comp
+6	forza	forza	S	S	num=s|gen=f	5	prep
+7	uno	uno	R	RI	num=s|gen=m	8	det
+8	shampoo	shampoo	S	SW	num=n|gen=m	3	obj
+
+1	uno	uno	R	RI	num=s|gen=m	2	det
+2	shampoo	shampoo	S	SW	num=n|gen=m	0	ROOT
+
+1	Sccccccende	Sccccccende	S	SP	_	3	mod
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	acqua	acqua	S	S	num=s|gen=f	4	subj
+4	scroscia	scrosciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	acqua	acqua	S	S	num=s|gen=f	4	obj
+
+1	calda	caldo	A	A	num=s|gen=f	2	mod
+2	fredda	freddo	A	A	num=s|gen=f	0	ROOT
+3	calda	caldo	A	A	num=s|gen=f	2	mod
+
+1	giusta	giusta	D	DI	num=s|gen=f	0	_
+
+1	Shampoo	shampoo	S	SW	num=n|gen=m	0	ROOT
+2	rosso	rosso	A	A	num=s|gen=m	1	mod
+3	e	e	C	CC	_	1	con
+4	giallo	giallo	A	A	num=s|gen=m	1	conj
+
+1	quale	quale	D	DQ	num=s|gen=n	2	mod
+2	marca	marca	S	S	num=s|gen=f	4	subj
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	meglio	meglio	B	B	_	4	mod
+
+1	questa	questo	D	DD	num=s|gen=f	0	_
+
+1	Schiuma	schiuma	S	S	num=s|gen=f	0	ROOT
+2	morbida	morbido	A	A	num=s|gen=f	1	mod
+3	soffice	soffice	A	A	num=s|gen=n	1	mod
+4	bianca	bianco	A	A	num=s|gen=f	1	mod
+
+1	lieve	lieve	A	A	num=s|gen=n	2	mod
+2	lieve	lieve	A	A	num=s|gen=n	3	subj
+3	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	panna	panna	S	S	num=s|gen=f	3	pred
+5	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	neve	neve	S	S	num=s|gen=f	0	ROOT
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	schiuma	schiuma	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	cosa	cosa	S	S	num=s|gen=f	3	pred
+6	buona	buono	A	A	num=s|gen=f	5	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+8	come	come	E	E	_	7	pred
+9	la	il	R	RD	num=s|gen=f	10	det
+10	mamma	mamma	S	S	num=s|gen=f	8	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	accarezza	accarezzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	testa	testa	S	S	num=s|gen=f	3	obj
+6	quando	quando	C	CS	_	3	mod
+7	sei	sei	N	N	_	8	mod
+8	triste	triste	A	A	num=s|gen=n	6	sub
+9	e	e	C	CC	_	8	con
+10	stanco	stanco	A	A	num=s|gen=m	8	conj
+11	.	.	F	FS	_	3	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	mamma	mamma	S	S	num=s|gen=f	0	ROOT
+3	enorme	enorme	A	A	num=s|gen=n	2	mod
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	mamma	mamma	S	S	num=s|gen=f	2	conj
+6	in	in	E	E	_	5	comp
+7	bianco	bianco	S	S	num=s|gen=m	6	prep
+
+1	Scccciacquo	Scccciacquo	S	SP	_	3	subj
+2	sciacquo	sciacquo	B	B	_	1	mod
+3	sciacquo	sciacquare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	seconda	secondo	N	NO	num=s|gen=f	2	mod
+2	passata	passare	V	V	num=s|mod=p|gen=f	0	_
+
+1	Son	Son	R	RI	num=s|gen=m	2	det
+2	convinto	convinto	A	A	num=s|gen=m	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	sia	essere	V	V	num=s|per=3|mod=c|ten=p	3	sub
+5	meglio	meglio	B	B	_	4	pred
+
+1	quello	quello	P	PD	num=s|gen=m	0	ROOT
+2	giallo	giallo	A	A	num=s|gen=m	1	mod
+3	senza	senza	E	E	_	1	ROOT
+
+1	canfora	canfora	S	S	num=s|gen=f	0	ROOT
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	migliori	migliore	A	A	num=p|gen=n	3	subj
+3	son	son	V	V	num=p|per=3|mod=i|ten=p	0	_
+4	più	più	B	B	_	3	mod
+5	cari	caro	A	A	num=p|gen=m	3	pred
+
+1	perché	perché	C	CS	_	2	mod
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	anti	anti	A	A	num=n|gen=n	2	pred
+
+1	forfora	forfora	S	S	num=s|gen=f	0	ROOT
+
+1	Schiuma	schiuma	S	S	num=s|gen=f	0	ROOT
+2	soffice	soffice	A	A	num=s|gen=n	1	mod
+3	morbida	morbido	A	A	num=s|gen=f	1	mod
+4	bianca	bianco	A	A	num=s|gen=f	1	mod
+
+1	lieve	lieve	A	A	num=s|gen=n	2	mod
+2	lieve	lieve	A	A	num=s|gen=n	3	subj
+3	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	panna	panna	S	S	num=s|gen=f	3	pred
+5	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	neve	neve	S	S	num=s|gen=f	0	ROOT
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	schiuma	schiuma	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	cosa	cosa	S	S	num=s|gen=f	3	pred
+6	pura	puro	A	A	num=s|gen=f	5	mod
+7	come	come	E	E	_	5	comp
+8	il	il	R	RD	num=s|gen=m	9	det
+9	latte	latte	S	S	num=s|gen=m	7	prep
+
+1	purifica	purificare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	di	di	E	E	_	1	comp
+3	dentro	dentro	B	B	_	2	prep
+4	.	.	F	FS	_	1	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	schiuma	schiuma	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	cosa	cosa	S	S	num=s|gen=f	3	pred
+6	sacra	sacro	A	A	num=s|gen=f	5	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	pulisce	pulire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	persona	persona	S	S	num=s|gen=f	2	obj
+5	meschina	meschino	A	A	num=s|gen=f	4	mod
+6	abbattuta	abbattuto	A	A	num=s|gen=f	4	mod
+7	oppressa	oppresso	A	A	num=s|gen=f	4	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	cosa	cosa	S	S	num=s|gen=f	0	ROOT
+3	sacra	sacro	A	A	num=s|gen=f	2	mod
+4	come	come	E	E	_	3	comp
+5	la	il	R	RD	num=s|gen=f	6	det
+6	santa	santo	A	A	num=s|gen=f	4	prep
+7	messa	messo	A	A	num=s|gen=f	6	mod
+8	.	.	F	FS	_	2	punc
+
+1	Sccciacquo	Sccciacquo	S	SP	_	2	mod
+2	Sccciacquo	Sccciacquo	S	SP	_	0	ROOT
+3	Sccciacquo	Sccciacquo	S	SP	_	2	mod
+4	Fffffffffffffffffon	Fffffffffffffffffon	S	SP	_	2	mod
+

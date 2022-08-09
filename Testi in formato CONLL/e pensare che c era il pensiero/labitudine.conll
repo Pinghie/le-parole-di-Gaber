@@ -1,0 +1,265 @@
+1	Lei	lei	P	PE	num=s|per=3|gen=n	2	subj
+2	dorme	dormire	V	V	num=s|per=3|mod=i|ten=p	0	_
+3	ancora	ancora	B	B	_	2	mod
+
+1	chissà	chissà	B	B	_	7	mod
+2	dove	dove	P	PR	num=n|gen=n	3	pred
+3	saranno	essere	V	V	num=p|per=3|mod=i|ten=f	1	mod_rel
+4	i	il	R	RD	num=p|gen=m	6	det
+5	suoi	suo	A	AP	num=p|gen=m	6	mod
+6	pensieri	pensiero	S	S	num=p|gen=m	3	subj
+7	ora	ora	B	B	_	0	_
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	dolce	dolce	A	A	num=s|gen=n	3	mod
+3	cabala	cabala	S	S	num=s|gen=f	0	ROOT
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	sogni	sogno	S	S	num=p|gen=m	4	prep
+6	i	il	R	RD	num=p|gen=m	8	det
+7	suoi	suo	A	AP	num=p|gen=m	8	mod
+8	bisogni	bisogno	S	S	num=p|gen=m	5	mod
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	sua	suo	A	AP	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	0	ROOT
+4	vera	vero	A	A	num=s|gen=f	3	mod
+5	.	.	F	FS	_	3	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	spiando	spiare	V	V	mod=g	2	mod
+4	il	il	R	RD	num=s|gen=m	6	det
+5	suo	suo	A	AP	num=s|gen=m	6	mod
+6	respiro	respiro	S	S	num=s|gen=m	3	obj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	0	ROOT
+2	accosto	accosto	B	B	_	3	mod
+3	ai	al	E	EA	num=p|gen=m	1	ROOT
+4	suoi	suo	A	AP	num=p|gen=m	5	mod
+5	segreti	segreto	S	S	num=p|gen=m	3	prep
+
+1	lo	il	R	RD	num=s|gen=m	2	det
+2	strano	strano	A	A	num=s|gen=m	0	ROOT
+3	errare	errare	V	V	mod=f	2	arg
+4	di	di	E	E	_	3	comp
+5	pensieri	pensiero	S	S	num=p|gen=m	4	prep
+
+1	di	di	E	E	_	0	ROOT
+2	desideri	desiderio	S	S	num=p|gen=m	1	prep
+3	addormentati	addormentato	A	A	num=p|gen=m	2	mod
+4	.	.	F	FS	_	1	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	sfioro	sfiorare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	teneramente	tenero	B	B	_	2	mod
+
+1	con	con	E	E	_	0	ROOT
+2	due	due	N	N	_	3	mod
+3	baci	bacio	S	S	num=p|gen=m	1	prep
+4	indiscreti	indiscreto	A	A	num=p|gen=m	3	mod
+
+1	poi	poi	B	B	_	3	mod
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	domando	domare	V	V	mod=g	0	_
+4	se	se	C	CS	_	3	mod
+5	sian	sian	V	V	num=p|per=3|mod=i|ten=p	4	sub
+6	baci	bacio	S	S	num=p|gen=m	5	obj
+
+1	o	o	C	CC	_	5	con
+2	inadeguatamente	inadeguatamente	B	B	_	5	mod
+3	i	il	R	RD	num=p|gen=m	5	det
+4	miei	mio	A	AP	num=p|gen=m	5	mod
+5	gesti	gesto	S	S	num=p|gen=m	0	ROOT
+6	consueti	consueto	A	A	num=p|gen=m	5	mod
+7	.	.	F	FS	_	5	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	abitudine	abitudine	S	S	num=s|gen=f	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	abitudine	abitudine	S	S	num=s|gen=f	2	mod
+5	.	.	F	FS	_	2	punc
+
+1	Lei	lei	P	PE	num=s|per=3|gen=n	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	risveglia	risvegliare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	con	con	E	E	_	4	comp
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	occhi	occhio	S	S	num=p|gen=m	1	prep
+4	semichiusi	semichiuso	A	A	num=p|gen=m	0	_
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	4	arg
+3	poi	poi	B	B	_	2	mod
+4	sbadiglia	sbadigliare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	avverto	avvertire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	quasi	quasi	B	B	_	3	mod
+3	all'	al	E	EA	num=s|gen=n	1	comp
+4	improvviso	improvviso	S	S	num=s|gen=m	3	prep
+5	sul	su	E	EA	num=s|gen=m	4	comp
+6	suo	suo	A	AP	num=s|gen=m	7	mod
+7	viso	viso	S	S	num=s|gen=m	5	prep
+
+1	un'	uno	R	RI	num=s|gen=f	3	det
+2	assonnata	assonnato	A	A	num=s|gen=f	3	mod
+3	voglia	voglia	S	S	num=s|gen=f	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	0	ROOT
+2	con	con	E	E	_	1	conj
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	naturalezza	naturalezza	S	S	num=s|gen=f	2	prep
+
+1	poi	poi	B	B	_	2	mod
+2	facciamo	fare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	amore	amore	S	S	num=s|gen=m	2	obj
+
+1	poi	poi	B	B	_	3	mod
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	discosto	discosto	B	B	_	4	mod
+4	col	con	E	EA	num=s|gen=m	0	ROOT
+5	sorriso	sorriso	S	S	num=s|gen=m	4	prep
+
+1	di	di	E	E	_	0	ROOT
+2	chi	chi	P	PR	num=n|gen=n	1	prep
+3	ha	avere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	leggero	leggero	A	A	num=s|gen=m	6	mod
+6	pudore	pudore	S	S	num=s|gen=m	3	obj
+7	.	.	F	FS	_	1	punc
+
+1	Non	non	B	BN	_	3	neg
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	domando	domare	V	V	mod=g	0	_
+4	nemmeno	nemmeno	B	B	_	3	mod
+
+1	cosa	cosa	S	S	num=s|gen=f	3	subj
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	sul	su	E	EA	num=s|gen=m	3	comp
+5	mio	mio	A	AP	num=s|gen=m	6	mod
+6	viso	viso	S	S	num=s|gen=m	4	prep
+
+1	se	se	C	CS	_	0	ROOT
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	amore	amore	S	S	num=s|gen=m	3	subj
+6	di	di	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	uomo	uomo	S	S	num=s|gen=m	6	prep
+
+1	oppure	oppure	C	CC	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	abbandono	abbandono	S	S	num=s|gen=m	1	pred
+4	di	di	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	corpo	corpo	S	S	num=s|gen=m	4	prep
+7	in	in	E	E	_	6	comp
+8	riposo	riposo	S	S	num=s|gen=m	7	prep
+9	.	.	F	FS	_	1	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	abitudine	abitudine	S	S	num=s|gen=f	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	abitudine	abitudine	S	S	num=s|gen=f	2	mod
+5	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	ripenso	ripensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	al	a	E	EA	num=s|gen=m	2	comp
+4	mio	mio	A	AP	num=s|gen=m	5	mod
+5	passato	passato	S	S	num=s|gen=m	3	prep
+6	e	e	C	CC	_	2	con
+7	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+8	scorrere	scorrere	V	V	mod=f	0	ROOT
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	frammenti	frammento	S	S	num=p|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	storia	storia	S	S	num=s|gen=f	3	prep
+
+1	come	come	C	CS	_	0	ROOT
+2	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	1	sub
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	film	film	S	S	num=n|gen=m	2	pred
+5	.	.	F	FS	_	1	punc
+
+1	Ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	affrontato	affrontare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	tante	tanto	D	DI	num=p|gen=f	2	mod
+4	cose	cosa	S	S	num=p|gen=f	2	obj
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	più	più	B	B	_	3	mod
+3	tristi	triste	A	A	num=p|gen=n	0	ROOT
+4	e	e	C	CC	_	3	con
+5	dolorose	doloroso	A	A	num=p|gen=f	3	conj
+
+1	con	con	E	E	_	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	4	det
+3	imprevedibile	imprevedibile	A	A	num=s|gen=n	4	mod
+4	energia	energia	S	S	num=s|gen=f	1	prep
+5	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	i	il	R	RD	num=p|gen=m	4	det
+4	gesti	gesto	S	S	num=p|gen=m	2	pred
+5	abituali	abituale	A	A	num=p|gen=n	4	mod
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	paura	paura	S	S	num=s|gen=f	3	obj
+
+1	questa	questo	D	DD	num=s|gen=f	0	ROOT
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	1	ROOT
+4	ripetuta	ripetere	V	V	num=s|mod=p|gen=f	3	mod
+
+1	é	é	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	diventata	diventare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	la	il	R	RD	num=s|gen=f	4	det
+2	mia	mio	A	AP	num=s|gen=f	4	mod
+3	seconda	secondo	N	NO	num=s|gen=f	4	mod
+4	natura	natura	S	S	num=s|gen=f	0	ROOT
+5	.	.	F	FS	_	4	punc
+
+1	Non	non	B	BN	_	5	neg
+2	ci	ci	P	PC	num=p|per=1|gen=n	5	obj
+3	si	si	P	PC	num=n|per=3|gen=n	5	clit
+4	può	potere	V	VM	num=s|per=3|mod=i|ten=p	5	modal
+5	liberare	liberare	V	V	mod=f	0	ROOT
+6	dall'	da	E	EA	num=s|gen=n	5	comp
+7	abitudine	abitudine	S	S	num=s|gen=f	6	prep
+8	,	,	F	FF	_	9	punc
+9	buttando-	buttare	V	V	mod=g	5	mod
+10	la	la	P	PC	num=s|per=3|gen=f	9	obj
+11	fuori	fuori	B	B	_	12	mod
+12	dalla	da	E	EA	num=s|gen=f	9	comp
+13	finestra	finestra	S	S	num=s|gen=f	12	prep
+14	.	.	F	FS	_	5	punc
+
+1	Bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	far-	fare	V	VM	mod=f	1	arg
+3	le	le	P	PC	num=n|per=3|gen=f	4	comp_ind
+4	scendere	scendere	V	V	mod=f	2	arg
+5	le	il	R	RD	num=p|gen=f	6	det
+6	scale	scala	S	S	num=p|gen=f	4	obj
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	gradino	gradino	S	S	num=s|gen=m	4	obj
+9	alla	al	E	EA	num=s|gen=f	8	comp
+10	volta	volta	S	S	num=s|gen=f	9	prep
+11	.	.	F	FS	_	1	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	abitudine	abitudine	S	S	num=s|gen=f	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	abitudine	abitudine	S	S	num=s|gen=f	2	mod
+5	.	.	F	FS	_	2	punc
+

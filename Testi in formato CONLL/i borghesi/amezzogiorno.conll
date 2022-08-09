@@ -1,0 +1,249 @@
+1	A	a	E	E	_	3	comp
+2	mezzogiorno	mezzogiorno	S	S	num=s|gen=m	1	prep
+3	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	sirena	sirena	S	S	num=s|gen=f	3	obj
+6	e	e	C	CC	_	3	con
+7	lei	lei	P	PE	num=s|per=3|gen=n	3	subj
+
+1	come	come	E	E	_	4	comp
+2	ogni	ogni	D	DI	num=s|gen=n	3	mod
+3	giorno	giorno	S	S	num=s|gen=m	1	prep
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	lì	lì	B	B	_	4	pred
+6	che	che	C	CS	_	4	subj
+7	aspetta	aspettare	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	lui	lui	P	PE	num=s|per=3|gen=m	4	subj
+
+1	fra	fra	E	E	_	5	comp_temp
+2	qualche	qualche	D	DI	num=s|gen=n	3	mod
+3	attimo	attimo	S	S	num=s|gen=m	1	prep
+4	son	son	C	CS	_	5	mod
+5	tutti	tutto	P	PI	num=p|gen=m	0	ROOT
+6	fuori	fuori	B	B	_	5	mod
+7	già	già	B	B	_	6	mod
+
+1	tre	tre	N	N	_	2	mod
+2	quarti	quarto	S	S	num=p|gen=m	7	subj
+3	d'	di	E	E	_	2	comp
+4	ora	ora	B	B	_	3	prep
+5	e	e	C	CC	_	2	con
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	riprenderà	riprendere	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+
+1	Suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	radio	radio	S	S	num=n|gen=f	1	obj
+4	lì	lì	B	B	_	1	mod_loc
+5	vicino	vicino	B	B	_	0	ROOT
+
+1	qualcuno	qualcuno	P	PI	num=s|gen=m	2	subj
+2	chiama	chiamare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	ragazzino	ragazzino	S	S	num=s|gen=m	2	pred
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	strada	strada	S	S	num=s|gen=f	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	vuota	vuoto	A	A	num=s|gen=f	6	subj
+5	c'	ci	P	PC	num=n|gen=n	6	comp
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	arg
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	pò	pò	B	B	_	9	mod
+9	di	di	E	E	_	6	comp
+10	sole	sole	S	S	num=s|gen=m	9	prep
+
+1	tutto	tutto	P	PI	num=s|gen=m	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	ferma	fermare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	4	prep
+
+1	Sei	sei	N	N	_	2	mod
+2	qui	qui	B	B	_	3	mod_loc
+3	da	da	E	E	_	0	ROOT
+4	molto	molto	B	B	_	3	prep
+
+1	no	no	B	BN	_	4	neg
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	appena	appena	B	B	_	1	ROOT
+4	arrivata	arrivare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	sei	sei	N	N	_	0	ROOT
+2	così	così	B	B	_	1	mod
+3	bella	bello	A	A	num=s|gen=f	1	mod
+
+1	ma	ma	C	CC	_	2	con
+2	dai	da	E	EA	num=p|gen=m	0	ROOT
+3	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+4	così	così	B	B	_	2	prep
+5	conciata	conciare	V	V	num=s|mod=p|gen=f	4	mod
+
+1	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+2	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	3	aux
+3	portato	portare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	cos'	cosa	P	PQ	num=s|gen=n	3	obj
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	portato	portare	V	V	num=s|mod=p|gen=m	6	arg
+4	non	non	B	BN	_	6	neg
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	3	aux
+2	proprio	proprio	B	B	_	3	mod
+3	fame	fame	S	S	num=s|gen=f	0	ROOT
+
+1	vieni	venire	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	mettiamo-	mettere	V	V	num=p|per=1|mod=m|ten=p	1	arg
+3	ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+4	più	più	B	B	_	2	mod
+5	in	in	E	E	_	2	comp
+6	là	là	B	B	_	5	prep
+
+1	A	a	E	E	_	3	comp
+2	mezzogiorno	mezzogiorno	S	S	num=s|gen=m	1	prep
+3	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	sirena	sirena	S	S	num=s|gen=f	3	obj
+6	e	e	C	CC	_	3	con
+7	lei	lei	P	PE	num=s|per=3|gen=n	3	subj
+
+1	come	come	E	E	_	4	comp
+2	ogni	ogni	D	DI	num=s|gen=n	3	mod
+3	giorno	giorno	S	S	num=s|gen=m	1	prep
+4	siede	sedere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	accanto	accanto	B	B	_	4	mod
+6	a	a	E	E	_	4	comp
+7	lui	lui	P	PE	num=s|per=3|gen=m	6	prep
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	7	subj
+2	l'	lo	P	PC	num=s|per=3|gen=n	3	det
+3	accarezza	accarezza	S	S	num=s|gen=f	7	subj
+4	e	e	C	CC	_	3	con
+5	poi	poi	B	B	_	7	mod
+6	la	la	P	PC	num=s|per=3|gen=f	7	obj
+7	stringe	stringere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	forte	forte	A	A	num=s|gen=n	7	pred
+9	a	a	E	E	_	7	comp
+10	sé	sé	P	PE	num=n|per=3|gen=n	9	prep
+
+1	apre	aprire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	borsa	borsa	S	S	num=s|gen=f	1	obj
+4	e	e	C	CC	_	1	con
+5	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	1	conj
+6	cosa	cosa	P	PQ	num=s|gen=n	8	subj
+7	c'	ci	P	PC	num=n|gen=n	8	comp
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	5	arg
+9	.	.	F	FS	_	1	punc
+
+1	Insieme	insieme	B	B	_	2	mod
+2	mangiano	mangiare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	sul	su	E	EA	num=s|gen=m	2	comp_loc
+4	prato	prato	S	S	num=s|gen=m	3	prep
+
+1	quello	quello	P	PD	num=s|gen=m	0	ROOT
+2	che	che	P	PR	num=n|gen=n	6	obj
+3	lei	lei	P	PE	num=s|per=3|gen=n	6	subj
+4	gli	gli	P	PC	num=s|per=3|gen=m	6	comp_ind
+5	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	preparato	preparare	V	V	num=s|mod=p|gen=m	1	mod_rel
+
+1	poco	poco	B	B	_	2	mod
+2	lontano	lontano	A	A	num=s|gen=m	4	mod
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	aeroplano	aeroplano	S	S	num=s|gen=m	0	ROOT
+
+1	lascia	lasciare	V	V	num=s|per=3|mod=i|ten=p	7	subj
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	striscia	striscia	S	S	num=s|gen=f	1	obj
+4	e	e	C	CC	_	1	con
+5	se	se	P	PC	num=n|per=3|gen=n	7	clit
+6	ne	ne	P	PC	num=n|gen=n	7	comp
+7	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Come	come	B	B	_	3	mod
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	piaci	piacere	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	7	modal
+5	cosa	cosa	S	S	num=s|gen=f	7	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+7	viene	venire	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	in	in	E	E	_	7	comp
+9	mente	mente	S	S	num=s|gen=f	8	prep
+
+1	ma	ma	C	CC	_	6	con
+2	dai	da	E	EA	num=p|gen=m	6	subj
+3	stai	stare	V	V	num=s|per=2|mod=i|ten=p	2	prep
+4	buono	buono	A	A	num=s|gen=m	3	pred
+5	non	non	B	BN	_	6	neg
+6	vedi	vedi	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	che	che	C	CS	_	6	arg
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	é	é	V	V	num=s|per=3|mod=i|ten=p	7	sub
+10	gente	gente	S	S	num=s|gen=f	9	subj
+
+1	Ma	ma	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	capisci	capire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	che	che	C	CS	_	3	arg
+5	se	se	P	PC	num=n|per=3|gen=n	7	clit
+6	ne	ne	P	PC	num=n|gen=n	7	comp
+7	infischiano	infischiarsi	V	V	num=p|per=3|mod=i|ten=p	4	sub
+8	di	di	E	E	_	7	comp
+9	noi	noi	P	PE	num=p|per=1|gen=n	8	prep
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	obj
+2	aspetto	aspetto	S	S	num=s|gen=m	6	subj
+3	a	a	E	E	_	2	comp
+4	casa	casa	S	S	num=s|gen=f	3	prep
+5	ma	ma	C	CC	_	2	con
+6	torna	tornare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	subito	subito	B	B	_	6	mod_temp
+8	se	se	C	CS	_	6	ROOT
+9	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	6	ROOT
+
+1	Ancora	ancora	B	B	_	3	mod
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	attimo	attimo	S	S	num=s|gen=m	0	ROOT
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	bacio	bacio	S	S	num=s|gen=m	6	subj
+3	e	e	C	CC	_	2	con
+4	se	se	P	PC	num=n|per=3|gen=n	6	clit
+5	ne	ne	P	PC	num=n|gen=n	6	comp
+6	andrà	andare	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+
+1	e	e	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	sirena	sirena	S	S	num=s|gen=f	5	subj
+4	ancora	ancora	B	B	_	5	mod
+5	suonerà	suonare	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+
+1	Alcuni	alcuno	P	PI	num=p|gen=m	2	subj
+2	giocano	giocare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	comp
+4	pallone	pallone	S	S	num=s|gen=m	3	prep
+
+1	mangiando	mangiare	V	V	mod=g	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	4	det
+3	ultimo	ultimo	A	A	num=s|gen=m	4	mod
+4	boccone	boccone	S	S	num=s|gen=m	1	obj
+
+1	sul	su	E	EA	num=s|gen=m	3	comp
+2	prato	prato	S	S	num=s|gen=m	1	prep
+3	verde	verde	A	A	num=s|gen=n	0	ROOT
+
+1	qualche	qualche	D	DI	num=s|gen=n	2	mod
+2	giornale	giornale	S	S	num=s|gen=m	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	ora	ora	B	B	_	5	mod_temp
+3	il	il	R	RD	num=s|gen=m	4	det
+4	vento	vento	S	S	num=s|gen=m	5	subj
+5	muove	muovere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pò	pò	B	B	_	5	mod
+

@@ -1,0 +1,270 @@
+1	Vivere	vivere	V	V	mod=f	3	subj
+2	non	non	B	BN	_	3	neg
+3	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	a	a	E	E	_	3	arg
+5	vivere	vivere	V	V	mod=f	4	prep
+
+1	ma	ma	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	mente	mente	S	S	num=s|gen=f	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	autorizza	autorizzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	a	a	E	E	_	5	arg
+7	credere	credere	V	V	mod=f	6	prep
+
+1	che	che	C	CS	_	3	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	storia	storia	S	S	num=s|gen=f	0	ROOT
+4	mia	mio	A	AP	num=s|gen=f	5	mod
+5	positiva	positivo	A	A	num=s|gen=f	3	mod
+6	o	o	C	CC	_	5	dis
+7	no	no	B	BN	_	5	disj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	qualcosa	qualcosa	P	PI	num=s|gen=n	1	pred
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	sta	stare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	dentro	dentro	E	E	_	4	comp
+6	la	il	R	RD	num=s|gen=f	7	det
+7	realtà	realtà	S	S	num=n|gen=f	5	prep
+
+1	Nel	in	E	EA	num=s|gen=m	4	comp
+2	dubbio	dubbio	S	S	num=s|gen=m	1	prep
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	compro	comprare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	moto	moto	S	S	num=n|gen=f	4	obj
+
+1	telaio	telaio	S	S	num=s|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	manubrio	manubrio	S	S	num=s|gen=m	1	conj
+4	cromato	cromato	A	A	num=s|gen=m	1	mod
+
+1	con	con	E	E	_	0	ROOT
+2	tanti	tanto	D	DI	num=p|gen=m	3	mod
+3	pistoni	pistone	S	S	num=p|gen=m	1	prep
+4	bottoni	bottone	S	S	num=p|gen=m	3	mod
+5	e	e	C	CC	_	3	con
+6	accessori	accessorio	S	S	num=p|gen=m	3	conj
+7	più	più	B	B	_	8	mod
+8	strani	strano	A	A	num=p|gen=m	6	mod
+
+1	far	fare	V	VM	mod=f	0	_
+2	finta	finta	S	S	num=s|gen=f	1	obj
+3	di	di	E	E	_	2	arg
+4	essere	essere	V	V	mod=f	3	prep
+5	sani	sano	A	A	num=p|gen=m	4	pred
+
+1	far	fare	V	VM	mod=f	0	_
+2	finta	finta	S	S	num=s|gen=f	1	obj
+3	di	di	E	E	_	2	arg
+4	essere	essere	V	V	mod=f	3	prep
+
+1	Insieme	insieme	B	B	_	2	mod
+2	a	a	E	E	_	5	comp
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	donna	donna	S	S	num=s|gen=f	2	prep
+5	normale	normale	A	A	num=s|gen=n	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	riesce	riuscire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	4	mod
+4	ad	ad	E	E	_	2	arg
+5	essere	essere	V	V	mod=f	4	prep
+6	fedele	fedele	A	A	num=s|gen=n	5	pred
+
+1	comprando	comprare	V	V	mod=g	0	ROOT
+2	sottane	sottana	S	S	num=p|gen=f	1	obj
+3	collane	collana	S	S	num=p|gen=f	2	mod
+4	e	e	C	CC	_	3	con
+5	creme	creme	S	S	num=n|gen=f	3	conj
+6	per	per	E	E	_	1	comp
+7	mani	mano	S	S	num=p|gen=f	6	prep
+
+1	far	fare	V	VM	mod=f	0	_
+2	finta	finta	S	S	num=s|gen=f	1	obj
+3	di	di	E	E	_	2	arg
+4	essere	essere	V	V	mod=f	3	prep
+5	sani	sano	A	A	num=p|gen=m	4	pred
+
+1	far	fare	V	VM	mod=f	0	_
+2	finta	finta	S	S	num=s|gen=f	1	obj
+3	di	di	E	E	_	2	arg
+4	essere	essere	V	V	mod=f	3	prep
+
+1	Liberi	Liberi	S	S	num=p|gen=m	2	subj
+2	sentir-	sentire	V	V	mod=f	0	ROOT
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	liberi	libero	A	A	num=p|gen=m	2	pred
+
+1	forse	forse	B	B	_	2	mod
+2	per	per	E	E	_	5	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	attimo	attimo	S	S	num=s|gen=m	2	prep
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	possibile	possibile	A	A	num=s|gen=n	5	pred
+
+1	ma	ma	C	CC	_	4	con
+2	che	che	C	CS	_	4	subj
+3	senso	senso	S	S	num=s|gen=m	2	sub
+4	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	0	_
+
+1	se	se	C	CS	_	0	ROOT
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	cosciente	cosciente	A	A	num=s|gen=n	2	pred
+4	in	in	E	E	_	2	comp
+5	me	me	P	PE	num=s|per=1|gen=n	4	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	misura	misura	S	S	num=s|gen=f	0	ROOT
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	mia	mio	A	AP	num=s|gen=f	5	mod
+5	inutilità	inutilità	S	S	num=n|gen=f	3	prep
+
+1	Per	per	E	E	_	0	ROOT
+2	ora	ora	B	B	_	3	mod_temp
+3	rimando	rimare	V	V	mod=g	1	prep
+4	il	il	R	RD	num=s|gen=m	5	det
+5	suicidio	suicidio	S	S	num=s|gen=m	3	obj
+
+1	e	e	C	CC	_	2	con
+2	faccio	fare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	gruppo	gruppo	S	S	num=s|gen=m	2	obj
+5	di	di	E	E	_	4	comp
+6	studio	studio	S	S	num=s|gen=m	5	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	masse	massa	S	S	num=p|gen=f	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	lotta	lotta	S	S	num=s|gen=f	2	mod
+5	di	di	E	E	_	4	comp
+6	classe	classe	S	S	num=s|gen=f	5	prep
+7	i	il	R	RD	num=p|gen=m	8	det
+8	testi	testo	S	S	num=p|gen=m	2	conj
+9	gramsciani	gramsciani	A	A	num=p|gen=m	8	mod
+
+1	far	fare	V	VM	mod=f	0	_
+2	finta	finta	S	S	num=s|gen=f	1	obj
+3	di	di	E	E	_	2	arg
+4	essere	essere	V	V	mod=f	3	prep
+5	sani	sano	A	A	num=p|gen=m	4	pred
+
+1	far	fare	V	VM	mod=f	0	_
+2	finta	finta	S	S	num=s|gen=f	1	obj
+3	di	di	E	E	_	2	arg
+4	essere	essere	V	V	mod=f	3	prep
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+3	con	con	E	E	_	2	comp
+4	tanta	tanto	D	DI	num=s|gen=f	5	mod
+5	energia	energia	S	S	num=s|gen=f	3	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	arg
+4	realizzar-	realizzare	V	V	mod=f	3	prep
+5	si	si	P	PC	num=n|per=3|gen=n	4	clit
+6	in	in	E	E	_	4	comp_loc
+7	India	India	S	SP	_	6	prep
+8	o	o	C	CC	_	6	dis
+9	in	in	E	E	_	6	disj
+10	Turchia	Turchia	S	SP	_	9	prep
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	suo	suo	A	AP	num=s|gen=m	3	mod
+3	salvataggio	salvataggio	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	viaggio	viaggio	S	S	num=s|gen=m	4	pred
+7	in	in	E	E	_	6	comp
+8	luoghi	luogo	S	S	num=p|gen=m	7	prep
+9	lontani	lontano	A	A	num=p|gen=m	8	mod
+
+1	far	fare	V	VM	mod=f	0	_
+2	finta	finta	S	S	num=s|gen=f	1	obj
+3	di	di	E	E	_	2	arg
+4	esser	essere	V	V	mod=f	3	prep
+5	sani	sano	S	S	num=p|gen=m	4	pred
+
+1	far	fare	V	VM	mod=f	0	_
+2	finta	finta	S	S	num=s|gen=f	1	obj
+3	di	di	E	E	_	2	arg
+4	essere	essere	V	V	mod=f	3	prep
+
+1	Vanno	andare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	tutte	tutto	T	T	num=p|gen=f	4	mod
+3	le	il	R	RD	num=p|gen=f	4	det
+4	coppie	coppia	S	S	num=p|gen=f	1	subj
+5	vanno	andare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	vanno	andare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	mano	mano	S	S	num=s|gen=f	1	obj
+4	nella	in	E	EA	num=s|gen=f	1	comp
+5	mano	mano	S	S	num=s|gen=f	4	prep
+
+1	Vanno	andare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	anche	anche	B	B	_	4	mod
+3	le	il	R	RD	num=p|gen=f	4	det
+4	cose	cosa	S	S	num=p|gen=f	1	subj
+5	vanno	andare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	vanno	andare	V	V	num=p|per=3|mod=i|ten=p	2	subj
+2	migliorano	migliorare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	piano	piano	S	S	num=s|gen=m	2	obj
+4	piano	piano	S	S	num=s|gen=m	3	mod
+
+1	Le	il	R	RD	num=p|gen=f	2	det
+2	fabbriche	fabbrica	S	S	num=p|gen=f	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	ospedali	ospedale	S	S	num=p|gen=m	2	mod
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	autostrade	autostrada	S	S	num=p|gen=f	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	asili	asilo	S	S	num=p|gen=m	2	mod
+5	comunali	comunale	A	A	num=p|gen=n	4	mod
+
+1	e	e	C	CC	_	2	con
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	4	arg
+3	bambini	bambino	S	S	num=p|gen=m	2	obj
+4	cantare	cantare	V	V	mod=f	0	ROOT
+
+1	in	in	E	E	_	4	comp
+2	fila	fila	S	S	num=n|gen=f	1	prep
+3	li	li	P	PC	num=p|per=3|gen=m	4	obj
+4	portano	portare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	al	a	E	EA	num=s|gen=m	4	comp_loc
+6	mare	mare	S	S	num=s|gen=m	5	prep
+
+1	non	non	B	BN	_	2	neg
+2	sanno	sapere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	se	se	C	CS	_	2	mod
+4	ridere	ridere	V	V	mod=f	3	sub
+5	o	o	C	CC	_	4	dis
+6	piangere	piangere	V	V	mod=f	4	disj
+7	e	e	C	CC	_	4	con
+8	batton	batton	V	V	num=p|per=3|mod=i|ten=p	4	conj
+9	le	il	R	RD	num=p|gen=f	10	det
+10	mani	mano	S	S	num=p|gen=f	8	obj
+
+1	far	fare	V	VM	mod=f	0	_
+2	finta	finta	S	S	num=s|gen=f	1	obj
+3	di	di	E	E	_	2	arg
+4	essere	essere	V	V	mod=f	3	prep
+5	sani	sano	A	A	num=p|gen=m	4	pred
+
+1	far	fare	V	VM	mod=f	0	_
+2	finta	finta	S	S	num=s|gen=f	1	obj
+3	di	di	E	E	_	2	arg
+4	essere	essere	V	V	mod=f	3	prep
+5	sani	sano	A	A	num=p|gen=m	4	pred
+
+1	far	fare	V	VM	mod=f	0	_
+2	finta	finta	S	S	num=s|gen=f	1	obj
+3	di	di	E	E	_	2	arg
+4	essere	essere	V	V	mod=f	3	prep
+5	sani	sano	A	A	num=p|gen=m	4	pred
+

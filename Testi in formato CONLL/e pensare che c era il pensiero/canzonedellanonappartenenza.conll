@@ -1,0 +1,475 @@
+1	La	il	R	RD	num=s|gen=f	3	det
+2	grande	grande	A	A	num=s|gen=n	3	mod
+3	intesa	intesa	S	S	num=s|gen=f	0	ROOT
+4	tra	tra	E	E	_	3	comp
+5	me	me	P	PE	num=s|per=1|gen=n	4	prep
+6	e	e	C	CC	_	5	con
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	universo	universo	S	S	num=s|gen=m	3	mod
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+2	sempre	sempre	B	B	_	3	mod
+3	stata	essere	V	V	num=s|mod=p|gen=f	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	mistero	mistero	S	S	num=s|gen=m	3	pred
+
+1	Il	il	R	RD	num=s|gen=m	3	det
+2	grande	grande	A	A	num=s|gen=n	3	mod
+3	slancio	slancio	S	S	num=s|gen=m	0	ROOT
+4	verso	verso	E	E	_	3	comp
+5	la	il	R	RD	num=s|gen=f	7	det
+6	mia	mio	A	AP	num=s|gen=f	7	mod
+7	patria	patria	S	S	num=s|gen=f	4	prep
+
+1	non	non	B	BN	_	4	neg
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+3	mai	mai	B	B	_	4	mod_temp
+4	stato	essere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	vero	vero	A	A	num=s|gen=m	4	pred
+
+1	Il	il	R	RD	num=s|gen=m	3	det
+2	tenero	tenero	A	A	num=s|gen=m	3	mod
+3	attaccamento	attaccamento	S	S	num=s|gen=m	0	ROOT
+
+1	al	a	E	EA	num=s|gen=m	0	ROOT
+2	paese	paese	S	S	num=s|gen=m	1	prep
+3	natio	natio	A	A	num=s|gen=m	2	mod
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	enfasi	enfasi	S	S	num=n|gen=f	2	subj
+5	pietosa	pietoso	A	A	num=s|gen=f	4	mod
+
+1	di	di	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	5	det
+3	mio	mio	A	AP	num=s|gen=m	4	mod
+4	vecchio	vecchio	A	A	num=s|gen=m	5	mod
+5	zio	zio	S	S	num=s|gen=m	1	prep
+
+1	Tutto	tutto	D	DI	num=s|gen=m	2	mod
+2	quello	quello	P	PD	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	obj
+4	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	mod_rel
+
+1	tutto	tutto	D	DI	num=s|gen=m	2	mod
+2	ciò	ciò	P	PD	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	resta	restare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	solo	solo	B	B	_	3	mod
+3	questa	questo	D	DD	num=s|gen=f	1	pred
+4	mia	mio	A	AP	num=s|gen=f	3	mod
+5	famiglia	famiglia	S	S	num=s|gen=f	1	subj
+
+1	che	che	C	CS	_	4	subj
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	.	.	F	FS	_	4	punc
+
+1	Quando	quando	C	CS	_	0	ROOT
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+5	nessuna	nessuna	D	DI	num=s|gen=f	6	mod
+6	appartenenza	appartenenza	S	S	num=s|gen=f	4	subj
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	normale	normale	S	S	num=s|gen=f	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	mia	mio	A	AP	num=s|gen=f	7	mod
+6	sola	solo	A	A	num=s|gen=f	7	mod
+7	verità	verità	S	S	num=n|gen=f	3	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	dose	dose	S	S	num=s|gen=f	1	pred
+5	di	di	E	E	_	4	comp
+6	egoismo	egoismo	S	S	num=s|gen=m	5	prep
+
+1	magari	magari	B	B	_	4	mod
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	4	mod
+4	attenuato	attenuare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	da	da	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	vago	vago	A	A	num=s|gen=m	4	mod
+4	amore	amore	S	S	num=s|gen=m	1	prep
+5	per	per	E	E	_	4	comp
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	umanità	umanità	S	S	num=s|gen=f	5	prep
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	anima	anima	S	S	num=s|gen=f	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	vuota	vuoto	A	A	num=s|gen=f	4	pred
+
+1	e	e	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	abitata	abitare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	se	se	C	CS	_	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	da	da	E	E	_	1	sub
+4	me	me	P	PE	num=s|per=1|gen=n	3	prep
+5	stesso	stesso	A	A	num=s|gen=m	3	mod
+
+1	Non	non	B	BN	_	2	neg
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	bene	bene	B	B	_	4	mod
+4	da	da	E	E	_	2	comp
+5	quando	quando	B	B	_	4	prep
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	amore	amore	S	S	num=s|gen=m	0	ROOT
+3	per	per	E	E	_	2	comp
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	3	prep
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	paradosso	paradosso	S	S	num=s|gen=m	2	pred
+5	.	.	F	FS	_	2	punc
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	soffrire	soffrire	V	V	mod=f	1	ROOT
+3	per	per	E	E	_	2	comp
+4	gente	gente	S	S	num=s|gen=f	3	prep
+5	di	di	E	E	_	2	comp
+6	cui	cui	P	PR	num=n|gen=n	5	prep
+
+1	non	non	B	BN	_	3	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	esistenza	esistenza	S	S	num=s|gen=f	3	obj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	segno	segno	S	S	num=s|gen=m	2	subj
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	preoccupante	preoccupante	A	A	num=s|gen=n	2	pred
+
+1	di	di	E	E	_	0	ROOT
+2	qualche	qualche	D	DI	num=s|gen=n	3	mod
+3	carenza	carenza	S	S	num=s|gen=f	1	prep
+
+1	Tutto	tutto	D	DI	num=s|gen=m	2	mod
+2	quello	quello	P	PD	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	obj
+4	provo	provare	V	V	num=s|per=1|mod=i|ten=p	2	mod_rel
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	vana	vano	A	A	num=s|gen=f	4	mod
+4	protesta	protesta	S	S	num=s|gen=f	1	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	solo	solo	B	B	_	3	mod
+3	questa	questo	D	DD	num=s|gen=f	5	mod
+4	mia	mio	A	AP	num=s|gen=f	5	mod
+5	coscienza	coscienza	S	S	num=s|gen=f	1	pred
+
+1	che	che	C	CS	_	4	subj
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	.	.	F	FS	_	4	punc
+
+1	Quando	quando	C	CS	_	0	ROOT
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+5	nessuna	nessuna	D	DI	num=s|gen=f	6	mod
+6	appartenenza	appartenenza	S	S	num=s|gen=f	4	subj
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	normale	normale	S	S	num=s|gen=f	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	mia	mio	A	AP	num=s|gen=f	7	mod
+6	sola	solo	A	A	num=s|gen=f	7	mod
+7	verità	verità	S	S	num=n|gen=f	3	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	parvenza	parvenza	S	S	num=s|gen=f	1	pred
+4	di	di	E	E	_	3	comp
+5	altruismo	altruismo	S	S	num=s|gen=m	4	prep
+
+1	magari	magari	B	B	_	2	mod
+2	compiaciuto	compiacere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	3	obj
+2	noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+3	chiamiamo	chiamare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	solidarietà	solidarietà	S	S	num=n|gen=f	3	pred
+5	.	.	F	FS	_	3	punc
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	se	se	C	CS	_	1	con
+3	guardo	guardare	V	V	num=s|per=1|mod=i|ten=p	2	sub
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	3	obj
+6	intero	intero	A	A	num=s|gen=m	1	conj
+
+1	che	che	C	CS	_	0	ROOT
+2	solidale	solidale	A	A	num=s|gen=n	4	subj
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	commuove	commuovere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+5	in	in	E	E	_	4	comp
+6	coro	coro	S	S	num=s|gen=m	5	prep
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	filmati	filmato	S	S	num=p|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	massacri	massacro	S	S	num=p|gen=m	3	prep
+5	osceni	osceno	A	A	num=p|gen=m	4	mod
+
+1	i	il	R	RD	num=p|gen=m	4	det
+2	tanti	tanto	D	DI	num=p|gen=m	4	mod
+3	primi	primo	N	NO	num=p|gen=m	4	mod
+4	piani	piano	S	S	num=p|gen=m	0	ROOT
+5	di	di	E	E	_	4	comp
+6	mamme	mamma	S	S	num=p|gen=f	5	prep
+7	e	e	C	CC	_	6	con
+8	bambini	bambino	S	S	num=p|gen=m	6	conj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	9	ROOT
+2	vien	vien	B	B	_	1	mod
+3	da	da	E	E	_	1	arg
+4	dire	dire	V	V	mod=f	3	prep
+5	che	che	C	CS	_	4	comp
+6	se	se	C	CS	_	9	mod
+7	questo	questo	P	PD	num=s|gen=m	8	subj
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+9	amore	amore	S	S	num=s|gen=m	5	sub
+
+1	sarebbe	essere	V	V	num=s|per=3|mod=d|ten=p	0	ROOT
+2	molto	molto	B	B	_	3	mod
+3	meglio	meglio	B	B	_	1	pred
+4	non	non	B	BN	_	5	neg
+5	essere	essere	V	V	mod=f	1	subj
+6	buoni	buono	A	A	num=p|gen=m	5	pred
+7	.	.	F	FS	_	1	punc
+
+1	Se	se	C	CS	_	0	ROOT
+2	provo	provare	V	V	num=s|per=1|mod=i|ten=p	1	sub
+3	a	a	E	E	_	2	arg
+4	guardare	guardare	V	V	mod=f	3	prep
+5	il	il	R	RD	num=s|gen=m	6	det
+6	mondo	mondo	S	S	num=s|gen=m	4	obj
+7	civile	civile	A	A	num=s|gen=n	6	mod
+
+1	così	così	B	B	_	2	mod
+2	sensibile	sensibile	A	A	num=s|gen=n	5	subj
+3	con	con	E	E	_	2	comp
+4	chi	chi	P	PR	num=n|gen=n	3	prep
+5	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	male	male	B	B	_	5	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	cinismo	cinismo	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	arg
+4	usare	usare	V	V	mod=f	3	prep
+5	la	il	R	RD	num=s|gen=f	6	det
+6	gente	gente	S	S	num=s|gen=f	4	obj
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	gusto	gusto	S	S	num=s|gen=m	0	ROOT
+3	più	più	B	B	_	4	mod
+4	morboso	morboso	A	A	num=s|gen=m	2	mod
+5	di	di	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	corpo	corpo	S	S	num=s|gen=m	5	prep
+8	straziante	straziante	A	A	num=s|gen=n	7	mod
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	vien	vien	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	da	da	E	E	_	2	arg
+4	dire	dire	V	V	mod=f	3	prep
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	se	se	C	CS	_	5	mod
+3	questo	questo	P	PD	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+5	amore	amore	S	S	num=s|gen=m	0	ROOT
+
+1	io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	amo	amare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	nessuno	nessuno	P	PI	num=s|gen=m	3	obj
+
+1	non	non	B	BN	_	2	neg
+2	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	proprio	proprio	B	B	_	4	mod
+4	niente	niente	B	B	_	2	mod_temp
+5	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	4	con
+2	invece	invece	B	B	_	4	mod
+3	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	4	aux
+4	nati	nascere	V	V	num=p|mod=p|gen=m	0	ROOT
+5	per	per	E	E	_	4	arg
+6	amare	amare	V	V	mod=f	5	prep
+7	proprio	proprio	B	B	_	8	mod
+8	tutti	tutto	P	PI	num=p|gen=m	6	obj
+
+1	indiani	indiano	S	S	num=p|gen=m	0	ROOT
+2	russi	russo	A	A	num=p|gen=m	1	mod
+3	americani	americano	A	A	num=p|gen=m	5	mod
+4	schiavi	schiavo	A	A	num=p|gen=m	5	mod
+5	papi	papa	S	S	num=p|gen=m	1	conj
+6	cani	cane	S	S	num=p|gen=m	5	mod
+7	gatti	gatto	S	S	num=p|gen=m	1	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	4	mod
+3	il	il	R	RD	num=s|gen=m	4	det
+4	mondo	mondo	S	S	num=s|gen=m	1	pred
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	grande	grande	A	A	num=s|gen=n	7	mod
+7	fratellanza	fratellanza	S	S	num=s|gen=f	5	prep
+
+1	per	per	E	E	_	0	ROOT
+2	nuove	nuovo	A	A	num=p|gen=f	3	mod
+3	suffragette	suffragetta	S	S	num=p|gen=f	1	prep
+4	piene	pieno	A	A	num=p|gen=f	3	mod
+5	d'	di	E	E	_	4	comp
+6	isteria	isteria	S	S	num=s|gen=f	5	prep
+
+1	O	o	C	CC	_	2	con
+2	peggio	peggio	B	B	_	0	_
+3	ancora	ancora	B	B	_	2	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	quella	quello	P	PD	num=s|gen=f	1	pred
+3	sporca	sporco	A	A	num=s|gen=f	2	mod
+4	convenienza	convenienza	S	S	num=s|gen=f	1	subj
+
+1	come	come	C	CS	_	3	mod
+2	sempre	sempre	B	B	_	3	mod
+3	mascherata	mascherare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	dalla	da	E	EA	num=s|gen=f	0	ROOT
+2	grande	grande	A	A	num=s|gen=n	3	mod
+3	ipocrisia	ipocrisia	S	S	num=s|gen=f	1	prep
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	nostra	nostro	A	AP	num=s|gen=f	3	mod
+3	ipocrisia	ipocrisia	S	S	num=s|gen=f	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	Quando	quando	C	CS	_	0	ROOT
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+5	nessuna	nessuna	D	DI	num=s|gen=f	6	mod
+6	appartenenza	appartenenza	S	S	num=s|gen=f	4	subj
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	normale	normale	S	S	num=s|gen=f	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	mia	mio	A	AP	num=s|gen=f	7	mod
+6	sola	solo	A	A	num=s|gen=f	7	mod
+7	verità	verità	S	S	num=n|gen=f	3	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	dose	dose	S	S	num=s|gen=f	1	pred
+5	di	di	E	E	_	4	comp
+6	egoismo	egoismo	S	S	num=s|gen=m	5	prep
+
+1	magari	magari	B	B	_	4	mod
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	4	mod
+4	attenuata	attenuare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	da	da	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	vago	vago	A	A	num=s|gen=m	4	mod
+4	amore	amore	S	S	num=s|gen=m	1	prep
+5	per	per	E	E	_	4	comp
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	umanità	umanità	S	S	num=s|gen=f	5	prep
+8	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+4	salva	salvare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	idea	idea	S	S	num=s|gen=f	4	subj
+
+1	dell'	di	E	EA	num=s|gen=n	0	ROOT
+2	uguaglianza	uguaglianza	S	S	num=s|gen=f	1	prep
+
+1	né	né	C	CC	_	3	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	altruismo	altruismo	S	S	num=s|gen=m	0	ROOT
+
+1	o	o	C	CC	_	4	con
+2	l'	il	R	RD	num=s|gen=n	4	det
+3	inutile	inutile	A	A	num=s|gen=n	4	mod
+4	pietà	pietà	S	S	num=n|gen=f	0	ROOT
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	egoismo	egoismo	S	S	num=s|gen=m	1	ROOT
+4	antico	antico	A	A	num=s|gen=m	3	mod
+5	e	e	C	CC	_	4	con
+6	sano	sano	A	A	num=s|gen=m	4	conj
+
+1	di	di	E	E	_	5	comp
+2	chi	chi	P	PR	num=n|gen=n	1	prep
+3	non	non	B	BN	_	4	neg
+4	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	nemmeno	nemmeno	B	B	_	0	_
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	obj
+4	bene	bene	S	S	num=s|gen=m	3	prep
+5	a	a	E	E	_	2	comp_ind
+6	se	se	P	PC	num=n|per=3|gen=n	7	clit
+7	e	e	C	CC	_	5	con
+8	all'	al	E	EA	num=s|gen=n	5	conj
+9	umanità	umanità	S	S	num=s|gen=f	8	prep
+10	.	.	F	FS	_	2	punc
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	egoismo	egoismo	S	S	num=s|gen=m	0	ROOT
+3	antico	antico	A	A	num=s|gen=m	2	mod
+4	e	e	C	CC	_	2	con
+5	sano	sano	A	A	num=s|gen=m	2	mod
+
+1	di	di	E	E	_	5	comp
+2	chi	chi	P	PR	num=n|gen=n	1	prep
+3	non	non	B	BN	_	4	neg
+4	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	nemmeno	nemmeno	B	B	_	0	_
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	obj
+4	bene	bene	S	S	num=s|gen=m	3	prep
+5	a	a	E	E	_	2	comp_ind
+6	se	se	P	PC	num=n|per=3|gen=n	7	clit
+7	e	e	C	CC	_	5	con
+8	all'	al	E	EA	num=s|gen=n	5	conj
+9	umanità	umanità	S	S	num=s|gen=f	8	prep
+10	.	.	F	FS	_	2	punc
+

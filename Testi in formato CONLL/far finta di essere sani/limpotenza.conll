@@ -1,0 +1,262 @@
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	obj
+3	sfioro	sfiorare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	e	e	C	CC	_	3	con
+5	non	non	B	BN	_	6	neg
+6	so	sapere	V	V	num=s|per=1|mod=i|ten=p	3	conj
+7	quanto	quanto	B	B	_	8	mod
+8	sia	essere	V	V	num=s|per=3|mod=c|ten=p	6	arg
+9	emozionante	emozionante	A	A	num=s|gen=n	8	pred
+
+1	tu	tu	P	PE	num=s|per=2|gen=n	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	obj
+3	guardi	guardare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+4	e	e	C	CC	_	3	con
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+6	chiedi	chiedere	V	V	num=s|per=2|mod=i|ten=p	3	conj
+7	se	se	C	CS	_	3	mod
+8	sono	essere	V	V	num=p|per=3|mod=i|ten=p	7	sub
+9	presente	presente	A	A	num=s|gen=n	8	pred
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	nostra	nostro	A	AP	num=s|gen=f	5	mod
+5	impotenza	impotenza	S	S	num=s|gen=f	3	prep
+6	ad	ad	E	E	_	2	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	gesto	gesto	S	S	num=s|gen=m	6	prep
+9	d'	di	E	E	_	8	comp
+10	amore	amore	S	S	num=s|gen=m	9	prep
+11	.	.	F	FS	_	2	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	senso	senso	S	S	num=s|gen=m	0	ROOT
+4	vitale	vitale	A	A	num=s|gen=n	3	mod
+5	che	che	C	CS	_	4	arg
+6	un	uno	R	RI	num=s|gen=m	9	mod
+7	pò	pò	B	B	_	9	mod
+8	si	si	P	PC	num=n|per=3|gen=n	9	clit
+9	conosce	conoscere	V	V	num=s|per=3|mod=i|ten=p	5	sub
+
+1	qualche	qualche	D	DI	num=s|gen=n	2	mod
+2	cosa	cosa	S	S	num=s|gen=f	8	subj
+3	di	di	E	E	_	2	comp
+4	dentro	dentro	C	CS	_	3	prep
+5	che	che	C	CS	_	6	subj
+6	affiora	affiorare	V	V	num=s|per=3|mod=i|ten=p	4	sub
+7	che	che	C	CS	_	6	arg
+8	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	voglia	voglia	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	arg
+4	credere	credere	V	V	mod=f	3	prep
+5	ancora	ancora	B	B	_	4	mod
+6	ad	ad	E	E	_	4	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	gesto	gesto	S	S	num=s|gen=m	6	prep
+9	d'	di	E	E	_	8	comp
+10	amore	amore	S	S	num=s|gen=m	9	prep
+11	.	.	F	FS	_	2	punc
+
+1	No	no	B	BN	_	3	neg
+2	non	non	B	BN	_	3	neg
+3	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	amore	amore	S	S	num=s|gen=m	3	obj
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	sappiamo	sapere	V	V	num=p|per=1|mod=i|ten=p	5	mod_rel
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	pò	pò	B	B	_	10	mod
+10	tutti	tutto	P	PI	num=p|gen=m	7	obj
+
+1	no	no	B	BN	_	3	neg
+2	non	non	B	BN	_	3	neg
+3	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	amore	amore	S	S	num=s|gen=m	3	obj
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	ci	ci	P	PC	num=p|per=1|gen=n	8	comp_ind
+8	capita	capitare	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+9	spesso	spesso	B	B	_	8	mod
+
+1	per	per	E	E	_	0	ROOT
+2	amare	amare	V	V	mod=f	1	prep
+3	io	io	P	PE	num=s|per=1|gen=n	5	subj
+4	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	5	modal
+5	conoscere	conoscere	V	V	mod=f	2	obj
+6	e	e	C	CC	_	5	con
+7	amare	amare	V	V	mod=f	5	conj
+8	me	me	P	PE	num=s|per=1|gen=n	7	obj
+9	stesso	stesso	A	A	num=s|gen=m	8	mod
+10	.	.	F	FS	_	1	punc
+
+1	Camminare	camminare	V	V	mod=f	5	subj
+2	in	in	E	E	_	1	comp_loc
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	posto	posto	S	S	num=s|gen=m	2	prep
+5	mangiare	mangiare	V	V	mod=f	0	ROOT
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	cosa	cosa	S	S	num=s|gen=f	5	obj
+
+1	sentire	sentire	V	V	mod=f	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	sei	sei	N	N	_	2	sub
+4	in	in	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	stanza	stanza	S	S	num=s|gen=f	4	prep
+
+1	Adoprare	Adoprare	V	V	mod=f	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	mani	mano	S	S	num=p|gen=f	4	subj
+4	toccare	toccare	V	V	mod=f	1	arg
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	oggetto	oggetto	S	S	num=s|gen=m	4	obj
+
+1	capire	capire	V	V	mod=f	0	ROOT
+2	la	il	R	RD	num=s|gen=f	4	det
+3	sua	suo	A	AP	num=s|gen=f	4	mod
+4	consistenza	consistenza	S	S	num=s|gen=f	1	obj
+5	.	.	F	FS	_	1	punc
+
+1	Imparare	imparare	V	V	mod=f	0	ROOT
+2	a	a	E	E	_	1	arg
+3	sentire	sentire	V	V	mod=f	2	prep
+4	il	il	R	RD	num=s|gen=m	5	det
+5	presente	presente	S	S	num=s|gen=n	3	obj
+
+1	in	in	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	tempo	tempo	S	S	num=s|gen=m	1	prep
+4	così	così	B	B	_	5	mod
+5	provvisorio	provvisorio	A	A	num=s|gen=m	3	mod
+
+1	esser	essere	V	V	mod=f	0	ROOT
+2	giusti	giusto	A	A	num=p|gen=m	1	pred
+3	su	su	E	E	_	1	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	metro	metro	S	S	num=s|gen=m	3	prep
+6	di	di	E	E	_	5	comp
+7	terra	terra	S	S	num=s|gen=f	6	prep
+
+1	sentire	sentire	V	V	mod=f	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	il	il	R	RD	num=s|gen=m	4	det
+4	corpo	corpo	S	S	num=s|gen=m	5	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+6	in	in	E	E	_	5	pred
+7	perfetto	perfetto	A	A	num=s|gen=m	8	mod
+8	equilibrio	equilibrio	S	S	num=s|gen=m	6	prep
+9	.	.	F	FS	_	1	punc
+
+1	Peccato	peccare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	io	io	P	PE	num=s|per=1|gen=n	5	subj
+3	non	non	B	BN	_	5	neg
+4	so	sapere	V	VM	num=s|per=1|mod=i|ten=p	5	modal
+5	mangiare	mangiare	V	V	mod=f	1	arg
+6	peccato	peccato	A	A	num=s|gen=m	5	pred
+7	io	io	P	PE	num=s|per=1|gen=n	10	subj
+8	non	non	B	BN	_	9	neg
+9	so	sapere	V	VM	num=s|per=1|mod=i|ten=p	10	modal
+10	dormire	dormire	V	V	mod=f	5	conj
+
+1	non	non	B	BN	_	3	neg
+2	so	sapere	V	VM	num=s|per=1|mod=i|ten=p	3	modal
+3	camminare	camminare	V	V	mod=f	0	ROOT
+4	in	in	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	prato	prato	S	S	num=s|gen=m	4	prep
+
+1	non	non	B	BN	_	2	neg
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	4	mod
+4	amare	amare	V	V	mod=f	2	arg
+5	peccato	peccato	S	S	num=s|gen=m	4	obj
+6	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	obj
+3	sfioro	sfiorare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	e	e	C	CC	_	3	con
+5	non	non	B	BN	_	6	neg
+6	so	sapere	V	V	num=s|per=1|mod=i|ten=p	3	conj
+7	quanto	quanto	B	B	_	8	mod
+8	sia	essere	V	V	num=s|per=3|mod=c|ten=p	6	arg
+9	emozionante	emozionante	A	A	num=s|gen=n	8	pred
+
+1	tu	tu	P	PE	num=s|per=2|gen=n	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	obj
+3	guardi	guardare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+4	e	e	C	CC	_	3	con
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+6	chiedi	chiedere	V	V	num=s|per=2|mod=i|ten=p	3	conj
+7	se	se	C	CS	_	3	mod
+8	sono	essere	V	V	num=p|per=3|mod=i|ten=p	7	sub
+9	presente	presente	A	A	num=s|gen=n	8	pred
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	nostra	nostro	A	AP	num=s|gen=f	5	mod
+5	impotenza	impotenza	S	S	num=s|gen=f	3	prep
+6	ad	ad	E	E	_	2	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	gesto	gesto	S	S	num=s|gen=m	6	prep
+9	d'	di	E	E	_	8	comp
+10	amore	amore	S	S	num=s|gen=m	9	prep
+11	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	10	subj
+2	ti	ti	P	PC	num=s|per=2|gen=n	5	comp
+3	passo	passo	S	S	num=s|gen=m	2	concat
+4	la	il	R	RD	num=s|gen=f	5	det
+5	mano	mano	S	S	num=s|gen=f	1	ROOT
+6	sugli	su	E	EA	num=p|gen=m	5	comp
+7	occhi	occhio	S	S	num=p|gen=m	6	prep
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	pò	pò	B	B	_	10	mod
+10	stanchi	stanco	A	A	num=p|gen=m	0	ROOT
+
+1	poi	poi	B	B	_	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	1	ROOT
+3	accosto	accosto	B	B	_	4	mod
+4	al	a	E	EA	num=s|gen=m	2	ROOT
+5	tuo	tuo	A	AP	num=s|gen=m	6	mod
+6	viso	viso	S	S	num=s|gen=m	4	prep
+7	al	a	E	EA	num=s|gen=m	6	comp
+8	tuo	tuo	A	AP	num=s|gen=m	9	mod
+9	seno	seno	S	S	num=s|gen=m	7	prep
+10	ai	al	E	EA	num=p|gen=m	9	comp
+11	tuoi	tuo	A	AP	num=p|gen=m	12	mod
+12	fianchi	fianco	S	S	num=p|gen=m	10	prep
+
+1	e	e	C	CC	_	2	con
+2	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	voglia	voglia	S	S	num=s|gen=f	2	obj
+5	di	di	E	E	_	4	arg
+6	unir-	unire	V	V	mod=f	5	prep
+7	ci	ci	P	PC	num=p|per=1|gen=n	6	obj
+8	in	in	E	E	_	6	comp
+9	un	uno	R	RI	num=s|gen=m	10	det
+10	gesto	gesto	S	S	num=s|gen=m	8	prep
+11	d'	di	E	E	_	10	comp
+12	amore	amore	S	S	num=s|gen=m	11	prep
+
+1	No	no	B	BN	_	3	neg
+2	non	non	B	BN	_	3	neg
+3	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	amore	amore	S	S	num=s|gen=m	3	obj
+6	che	che	P	PR	num=n|gen=n	9	subj
+7	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	9	modal
+8	anche	anche	B	B	_	9	mod
+9	fare	fare	V	V	mod=f	5	mod_rel
+
+1	ma	ma	C	CC	_	3	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	amore	amore	S	S	num=s|gen=m	0	ROOT
+4	.	.	F	FS	_	3	punc
+

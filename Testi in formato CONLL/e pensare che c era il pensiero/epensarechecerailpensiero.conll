@@ -1,0 +1,373 @@
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	secolo	secolo	S	S	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	sta	stare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	morendo	morire	V	V	mod=g	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	secolo	secolo	S	S	num=s|gen=m	1	pred
+4	piuttosto	piuttosto	B	B	_	5	mod
+5	avaro	avaro	A	A	num=s|gen=m	3	mod
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	senso	senso	S	S	num=s|gen=m	1	prep
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	produzione	produzione	S	S	num=s|gen=f	3	prep
+5	di	di	E	E	_	4	comp
+6	pensiero	pensiero	S	S	num=s|gen=m	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Dovunque	dovunque	B	B	_	3	mod
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	grande	grande	A	A	num=s|gen=n	6	mod
+6	sfoggio	sfoggio	S	S	num=s|gen=m	3	subj
+7	di	di	E	E	_	6	comp
+8	opinioni	opinione	S	S	num=p|gen=f	7	prep
+
+1	piene	pieno	A	A	num=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	svariate	svariato	A	A	num=p|gen=f	4	mod
+4	affermazioni	affermazione	S	S	num=p|gen=f	2	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	obj
+3	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	bene	bene	B	B	_	3	mod
+5	e	e	C	CC	_	3	con
+6	siam	siam	V	V	num=p|per=1|mod=i|ten=p	3	conj
+7	contenti	contento	A	A	num=p|gen=m	6	mod
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	mare	mare	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	parole	parola	S	S	num=p|gen=f	3	prep
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	mare	mare	S	S	num=s|gen=m	2	conj
+7	di	di	E	E	_	6	comp
+8	parole	parola	S	S	num=p|gen=f	7	prep
+
+1	ma	ma	C	CC	_	2	con
+2	parlan	parlan	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	che	che	C	CS	_	3	comp
+5	altro	altro	B	B	_	7	mod
+6	i	il	R	RD	num=p|gen=m	7	det
+7	deficienti	deficiente	S	S	num=p|gen=n	4	sub
+8	.	.	F	FS	_	2	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	secolo	secolo	S	S	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	sta	stare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	morendo	morire	V	V	mod=g	0	ROOT
+
+1	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	sempre	sempre	B	B	_	1	mod
+3	più	più	B	B	_	4	mod
+4	allarmante	allarmante	A	A	num=s|gen=n	1	pred
+
+1	a	a	E	E	_	0	ROOT
+2	causa	causa	S	S	num=s|gen=f	1	prep
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	gran	gran	A	A	num=n|gen=n	5	mod
+5	pigrizia	pigrizia	S	S	num=s|gen=f	3	prep
+6	della	di	E	EA	num=s|gen=f	5	comp
+7	mente	mente	S	S	num=s|gen=f	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	3	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	non	non	B	BN	_	6	neg
+6	ha	avere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+7	più	più	B	B	_	6	mod
+8	il	il	R	RD	num=s|gen=m	9	det
+9	gusto	gusto	S	S	num=s|gen=m	6	obj
+10	del	di	E	EA	num=s|gen=m	9	comp
+11	mistero	mistero	S	S	num=s|gen=m	10	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	passione	passione	S	S	num=s|gen=f	3	obj
+5	per	per	E	E	_	4	comp
+6	il	il	R	RD	num=s|gen=m	7	det
+7	vero	vero	A	A	num=s|gen=m	5	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	cosciente	cosciente	A	A	num=s|gen=n	3	pred
+5	del	di	E	EA	num=s|gen=m	3	comp
+6	suo	suo	A	AP	num=s|gen=m	7	mod
+7	stato	stato	S	S	num=s|gen=m	5	prep
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	mare	mare	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	parole	parola	S	S	num=p|gen=f	3	prep
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	mare	mare	S	S	num=s|gen=m	2	conj
+7	di	di	E	E	_	6	comp
+8	parole	parola	S	S	num=p|gen=f	7	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	pred
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	animale	animale	S	S	num=s|gen=m	2	prep
+5	ben	ben	B	B	_	6	mod
+6	pasciuto	pasciuto	A	A	num=s|gen=m	4	mod
+7	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	2	con
+2	pensare	pensare	V	V	mod=f	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	era	essere	V	V	num=s|per=3|mod=i|ten=i	3	sub
+6	il	il	R	RD	num=s|gen=m	7	det
+7	pensiero	pensiero	S	S	num=s|gen=m	5	subj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	riempiva	riempire	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	anche	anche	B	B	_	4	mod
+4	nostro	nostro	B	B	_	2	mod
+5	malgrado	malgrado	E	E	_	2	obj
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	teste	testa	S	S	num=p|gen=f	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	vuote	vuoto	A	A	num=p|gen=f	2	mod
+6	.	.	F	FS	_	2	punc
+
+1	Ora	ora	B	B	_	5	mod_temp
+2	inerti	inerte	A	A	num=p|gen=n	1	mod
+3	e	e	C	CC	_	2	con
+4	assopiti	assopire	V	V	num=p|mod=p|gen=m	2	conj
+5	aspettiamo	aspettare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+
+1	un	uno	R	RI	num=s|gen=m	3	det
+2	qualsiasi	qualsiasi	D	DI	num=s|gen=n	3	mod
+3	futuro	futuro	S	S	num=s|gen=m	0	_
+
+1	con	con	E	E	_	0	ROOT
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	tenero	tenero	A	A	num=s|gen=m	1	prep
+4	e	e	C	CC	_	3	con
+5	vago	vago	A	A	num=s|gen=m	3	conj
+6	sapore	sapore	S	S	num=s|gen=m	3	conj
+
+1	di	di	E	E	_	0	ROOT
+2	cose	cosa	S	S	num=p|gen=f	1	prep
+3	oramai	oramai	B	B	_	4	mod
+4	perdute	perduto	A	A	num=p|gen=f	2	mod
+5	.	.	F	FS	_	1	punc
+
+1	Va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	'	'	F	FB	_	3	punc
+3	pensiero	pensiero	S	S	num=s|gen=m	1	subj
+4	sull'	su	E	EA	num=s|gen=n	3	comp
+5	ali	ala	S	S	num=p|gen=f	4	prep
+6	dorate	dorare	V	V	num=p|mod=p|gen=f	5	mod
+
+1	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	'	'	F	FB	_	3	punc
+3	pensiero	pensiero	S	S	num=s|gen=m	1	subj
+4	sull'	su	E	EA	num=s|gen=n	3	comp
+5	ali	ala	S	S	num=p|gen=f	4	prep
+6	dorate	dorato	A	A	num=p|gen=f	5	mod
+7	.	.	F	FS	_	1	punc
+
+1	Nel	in	E	EA	num=s|gen=m	5	comp
+2	secolo	secolo	S	S	num=s|gen=m	1	prep
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	sta	stare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	morendo	morire	V	V	mod=g	0	_
+
+1	s'	si	P	PC	num=n|per=3|gen=n	2	clit
+2	inventano	inventare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	demagogie	demagogia	S	S	num=p|gen=f	2	obj
+
+1	e	e	C	CC	_	4	con
+2	questa	questo	D	DD	num=s|gen=f	3	mod
+3	confusione	confusione	S	S	num=s|gen=f	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	mondo	mondo	S	S	num=s|gen=m	4	pred
+7	delle	di	E	EA	num=p|gen=f	6	comp
+8	idee	idea	S	S	num=p|gen=f	7	prep
+9	.	.	F	FS	_	4	punc
+
+1	A	a	E	E	_	7	comp
+2	questo	questo	D	DD	num=s|gen=m	3	mod
+3	punto	punto	S	S	num=s|gen=m	1	prep
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	può	potere	V	VM	num=s|per=3|mod=i|ten=p	7	modal
+6	anche	anche	B	B	_	7	mod
+7	immaginare	immaginare	V	V	mod=f	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	potrebbe	potere	V	VM	num=s|per=3|mod=d|ten=p	3	modal
+3	dire	dire	V	V	mod=f	0	ROOT
+4	o	o	C	CC	_	3	dis
+5	reinventare	reinventare	V	V	mod=f	3	disj
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	Cartesio	Cartesio	S	SP	_	0	ROOT
+3	nuovo	nuovo	A	A	num=s|gen=m	2	mod
+4	e	e	C	CC	_	2	con
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	ribelle	ribelle	A	A	num=s|gen=n	2	mod
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	mare	mare	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	parole	parola	S	S	num=p|gen=f	3	prep
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	mare	mare	S	S	num=s|gen=m	2	conj
+7	di	di	E	E	_	6	comp
+8	parole	parola	S	S	num=p|gen=f	7	prep
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	dunque	dunque	B	B	_	2	mod
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	conj
+5	un	uno	R	RI	num=s|gen=m	4	pred
+6	imbecille	imbecille	A	A	num=s|gen=n	5	mod
+7	.	.	F	FS	_	2	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	secolo	secolo	S	S	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	sta	stare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	morendo	morire	V	V	mod=g	0	ROOT
+
+1	appare	apparire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	a	a	E	E	_	1	arg
+3	chi	chi	P	PR	num=n|gen=n	5	subj
+4	non	non	B	BN	_	5	neg
+5	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	2	prep
+6	bene	bene	B	B	_	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	secolo	secolo	S	S	num=s|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	gran	gran	A	A	num=n|gen=n	5	mod
+5	trionfo	trionfo	S	S	num=s|gen=m	3	prep
+6	dell'	di	E	EA	num=s|gen=n	5	comp
+7	azione	azione	S	S	num=s|gen=f	6	prep
+
+1	Nel	in	E	EA	num=s|gen=m	0	ROOT
+2	senso	senso	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	situazione	situazione	S	S	num=s|gen=f	3	prep
+6	molto	molto	B	B	_	7	mod
+7	urgente	urgente	A	A	num=s|gen=n	5	mod
+
+1	dove	dove	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	succede	succedere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	proprio	proprio	B	B	_	3	mod
+5	niente	niente	B	B	_	3	mod
+
+1	dove	dove	P	PR	num=n|gen=n	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	rimanda	rimandare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	problema	problema	S	S	num=s|gen=m	3	obj
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	mare	mare	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	parole	parola	S	S	num=p|gen=f	3	prep
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	mare	mare	S	S	num=s|gen=m	2	conj
+7	di	di	E	E	_	6	comp
+8	parole	parola	S	S	num=p|gen=f	7	prep
+
+1	e	e	C	CC	_	4	con
+2	anch'	anche	B	B	_	3	mod
+3	io	io	P	PE	num=s|per=1|gen=n	4	subj
+4	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	6	mod
+6	stupido	stupido	A	A	num=s|gen=m	4	pred
+7	di	di	E	E	_	6	comp
+8	prima	prima	B	B	_	7	prep
+9	.	.	F	FS	_	4	punc
+
+1	E	e	C	CC	_	2	con
+2	pensare	pensare	V	V	mod=f	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	era	essere	V	V	num=s|per=3|mod=i|ten=i	3	sub
+6	il	il	R	RD	num=s|gen=m	7	det
+7	pensiero	pensiero	S	S	num=s|gen=m	5	subj
+
+1	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	1	mod
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	sembrava	sembrare	V	V	num=s|per=3|mod=i|ten=i	3	mod_rel
+6	malato	malato	A	A	num=s|gen=m	1	pred
+
+1	ma	ma	C	CC	_	3	con
+2	ormai	ormai	B	B	_	3	mod
+3	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	morendo	morire	V	V	mod=g	3	mod
+5	.	.	F	FS	_	3	punc
+
+1	In	in	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	tempo	tempo	S	S	num=s|gen=m	1	prep
+4	che	che	P	PR	num=n|gen=n	6	obj
+5	tutto	tutto	P	PI	num=s|gen=m	6	subj
+6	rovescia	rovesciare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	parte	partire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	da	da	E	E	_	2	comp
+4	zero	zero	N	N	_	3	prep
+5	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	senton	senton	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	le	il	R	RD	num=p|gen=f	5	det
+5	note	nota	S	S	num=p|gen=f	3	subj
+6	dolenti	dolente	A	A	num=p|gen=n	5	mod
+7	di	di	E	E	_	5	comp
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	coro	coro	S	S	num=s|gen=m	7	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	cantando	cantare	V	V	mod=g	2	mod
+
+1	(	(	F	FB	_	2	punc
+2	sull'	su	E	EA	num=s|gen=n	0	ROOT
+3	aria	aria	S	S	num=s|gen=f	2	prep
+4	di	di	E	E	_	3	arg
+5	va	andare	V	V	num=s|per=3|mod=i|ten=p	4	prep
+6	pensiero	pensiero	S	S	num=s|gen=m	5	obj
+7	)	)	F	FB	_	2	punc
+
+1	Vieni	venire	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	azione	azione	S	S	num=s|gen=f	1	obj
+3	coi	con	E	EA	num=p|gen=m	1	comp
+4	piedi	piede	S	S	num=p|gen=m	3	prep
+5	di	di	E	E	_	4	comp
+6	piombo	piombo	S	S	num=s|gen=m	5	prep
+
+1	Vieni	venire	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	azione	azione	S	S	num=s|gen=f	1	obj
+3	coi	con	E	EA	num=p|gen=m	1	comp
+4	piedi	piede	S	S	num=p|gen=m	3	prep
+5	di	di	E	E	_	4	comp
+6	piombo	piombo	S	S	num=s|gen=m	5	prep
+

@@ -1,0 +1,352 @@
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	male	male	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	7	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+7	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	male	male	B	B	_	7	pred
+9	il	il	R	RD	num=s|gen=m	10	det
+10	mondo	mondo	S	S	num=s|gen=m	7	subj
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	male	male	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	7	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+7	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	male	male	B	B	_	7	pred
+9	il	il	R	RD	num=s|gen=m	10	det
+10	mondo	mondo	S	S	num=s|gen=m	7	subj
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	male	male	B	B	_	2	mod
+4	più	più	B	B	_	6	mod
+5	che	che	D	DQ	num=n|gen=n	4	concat
+6	altro	altro	D	DI	num=s|gen=m	7	mod
+7	credere	credere	V	V	mod=f	2	subj
+
+1	che	che	C	CS	_	0	ROOT
+2	sia	essere	V	V	num=s|per=3|mod=c|ten=p	1	sub
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	destino	destino	S	S	num=s|gen=m	2	pred
+5	oppure	oppure	C	CC	_	2	dis
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	condanna	condanna	S	S	num=s|gen=f	2	subj
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	esista	esistere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	segno	segno	S	S	num=s|gen=m	3	obj
+6	di	di	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	rimedio	rimedio	S	S	num=s|gen=m	6	prep
+
+1	in	in	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	solo	solo	A	A	num=s|gen=m	4	mod
+4	individuo	individuo	S	S	num=s|gen=m	1	prep
+5	che	che	C	CS	_	1	conj
+6	sia	essere	V	V	num=s|per=3|mod=c|ten=p	5	sub
+7	uomo	uomo	S	S	num=s|gen=m	6	pred
+8	o	o	C	CC	_	6	dis
+9	donna	donna	S	S	num=s|gen=f	6	disj
+10	.	.	F	FS	_	1	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	male	male	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	7	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+7	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	male	male	B	B	_	7	pred
+9	il	il	R	RD	num=s|gen=m	10	det
+10	mondo	mondo	S	S	num=s|gen=m	7	subj
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	obj
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	male	male	B	B	_	2	mod
+4	più	più	B	B	_	2	mod
+5	che	che	D	DQ	num=n|gen=n	4	concat
+6	altro	altro	D	DI	num=s|gen=m	7	mod
+7	ammettere	ammettere	V	V	mod=f	2	subj
+
+1	che	che	C	CS	_	0	ROOT
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	1	sub
+3	tutti	tutto	D	DI	num=p|gen=m	4	mod
+4	uomini	uomo	S	S	num=p|gen=m	2	pred
+5	normali	normale	A	A	num=p|gen=n	4	mod
+
+1	con	con	E	E	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	illusione	illusione	S	S	num=s|gen=f	1	prep
+4	di	di	E	E	_	3	arg
+5	partecipare	partecipare	V	V	mod=f	4	prep
+
+1	senza	senza	C	CS	_	0	ROOT
+2	mai	mai	B	B	_	3	mod_temp
+3	capire	capire	V	V	mod=f	1	sub
+4	quanto	quanto	P	PR	num=s|gen=m	5	obj
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	3	arg
+6	soli	solo	A	A	num=p|gen=m	5	pred
+7	.	.	F	FS	_	1	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	male	male	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	7	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+7	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	male	male	B	B	_	7	pred
+9	il	il	R	RD	num=s|gen=m	10	det
+10	mondo	mondo	S	S	num=s|gen=m	7	subj
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	malessere	malessere	S	S	num=s|gen=m	1	pred
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	6	aux
+6	dentro	dentro	B	B	_	3	mod_rel
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	origine	origine	S	S	num=s|gen=f	1	pred
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	nostri	nostro	A	AP	num=p|gen=m	6	mod
+6	disagi	disagio	S	S	num=p|gen=m	4	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	dolore	dolore	S	S	num=s|gen=m	7	subj
+3	di	di	E	E	_	7	comp
+4	cui	cui	P	PR	num=n|gen=n	3	prep
+5	non	non	B	BN	_	7	neg
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	muore	morire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	piano	piano	S	S	num=s|gen=m	5	subj
+3	piano	piano	S	S	num=s|gen=m	2	mod
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	comp_ind
+5	rende	rendere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	più	più	B	B	_	7	mod
+7	tristi	triste	A	A	num=p|gen=n	5	obj
+8	e	e	C	CC	_	7	con
+9	malvagi	malvagio	A	A	num=p|gen=m	7	conj
+10	.	.	F	FS	_	5	punc
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	male	male	B	B	_	4	pred
+6	il	il	R	RD	num=s|gen=m	7	det
+7	mondo	mondo	S	S	num=s|gen=m	5	prep
+8	G	G	S	SP	_	7	mod
+9	:	:	F	FC	_	4	punc
+10	mi	mi	P	PC	num=s|per=1|gen=n	11	comp_ind
+11	fa	fare	V	V	num=s|per=3|mod=i|ten=p	4	conj
+12	male	male	B	B	_	11	mod
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	male	male	B	B	_	4	pred
+6	il	il	R	RD	num=s|gen=m	7	det
+7	mondo	mondo	S	S	num=s|gen=m	5	prep
+8	G	G	S	SP	_	7	mod
+9	:	:	F	FC	_	4	punc
+10	mi	mi	P	PC	num=s|per=1|gen=n	11	comp_ind
+11	fa	fare	V	V	num=s|per=3|mod=i|ten=p	4	conj
+12	male	male	B	B	_	11	pred
+13	il	il	R	RD	num=s|gen=m	14	det
+14	mondo	mondo	S	S	num=s|gen=m	11	subj
+
+1	coro/G	coro/G	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	male	male	B	B	_	4	pred
+6	il	il	R	RD	num=s|gen=m	7	det
+7	mondo	mondo	S	S	num=s|gen=m	4	subj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	male	male	B	B	_	2	mod
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+6	male	male	B	B	_	5	mod
+7	mi	mi	P	PC	num=s|per=1|gen=n	8	comp_ind
+8	fa	fare	V	V	num=s|per=3|mod=i|ten=p	5	conj
+9	male	male	B	B	_	8	mod
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	obj
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	bene	bene	B	B	_	2	mod
+4	comunque	comunque	B	B	_	2	mod
+5	credere	credere	V	V	mod=f	2	arg
+
+1	che	che	C	CS	_	7	obj
+2	la	il	R	RD	num=s|gen=f	3	det
+3	fiducia	fiducia	S	S	num=s|gen=f	7	subj
+4	non	non	B	BN	_	7	neg
+5	sia	essere	V	VA	num=s|per=3|mod=c|ten=p	7	aux
+6	mai	mai	B	B	_	7	mod_temp
+7	scomparsa	scomparire	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	e	e	C	CC	_	0	ROOT
+2	che	che	C	CS	_	1	concat
+3	d'	di	E	E	_	7	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	tratto	tratto	S	S	num=s|gen=m	3	prep
+6	ci	ci	P	PC	num=p|per=1|gen=n	7	comp_ind
+7	svegli	svegliare	V	V	num=s|per=3|mod=c|ten=p	2	sub
+8	un	uno	R	RI	num=s|gen=m	10	det
+9	bel	bello	A	A	num=s|gen=m	10	mod
+10	sogno	sogno	S	S	num=s|gen=m	7	subj
+
+1	e	e	C	CC	_	2	con
+2	rinasca	rinascere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	bisogno	bisogno	S	S	num=s|gen=m	2	obj
+5	di	di	E	E	_	4	comp
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	vita	vita	S	S	num=s|gen=f	5	prep
+8	diversa	diverso	A	A	num=s|gen=f	7	mod
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	male	male	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	7	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+7	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	male	male	B	B	_	7	pred
+9	il	il	R	RD	num=s|gen=m	10	det
+10	mondo	mondo	S	S	num=s|gen=m	7	subj
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	obj
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	bene	bene	B	B	_	2	mod
+4	comunque	comunque	B	B	_	2	mod
+5	illuder-	illudere	V	V	mod=f	2	arg
+6	me	me	P	PC	num=s|per=1|gen=n	5	obj
+
+1	che	che	P	PR	num=n|gen=n	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	risposta	risposta	S	S	num=s|gen=f	4	subj
+4	sia	sia	C	CC	_	6	con
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	rifiuto	rifiuto	S	S	num=s|gen=m	1	ROOT
+7	vero	vero	A	A	num=s|gen=m	6	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	lo	il	R	RD	num=s|gen=m	4	det
+4	sfogo	sfogo	S	S	num=s|gen=m	2	prep
+5	dell'	di	E	EA	num=s|gen=n	4	comp
+6	intolleranza	intolleranza	S	S	num=s|gen=f	5	prep
+
+1	prenda	prendere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+2	consistenza	consistenza	S	S	num=s|gen=f	1	obj
+3	e	e	C	CC	_	1	con
+4	diventi	diventare	V	V	num=s|per=3|mod=c|ten=p	1	conj
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	coro	coro	S	S	num=s|gen=m	4	pred
+7	.	.	F	FS	_	1	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	male	male	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	7	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+7	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	male	male	B	B	_	7	pred
+9	il	il	R	RD	num=s|gen=m	10	det
+10	mondo	mondo	S	S	num=s|gen=m	7	subj
+
+1	Ma	ma	C	CC	_	3	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	rabbia	rabbia	S	S	num=s|gen=f	0	ROOT
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	portiamo	portare	V	V	num=p|per=1|mod=i|ten=p	3	mod_rel
+6	addosso	addosso	B	B	_	5	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	prova	prova	S	S	num=s|gen=f	1	pred
+4	che	che	P	PR	num=n|gen=n	7	subj
+5	non	non	B	BN	_	7	neg
+6	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	7	aux
+7	annientati	annientare	V	V	num=p|mod=p|gen=m	3	mod_rel
+
+1	da	da	E	E	_	5	comp
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	destino	destino	S	S	num=s|gen=m	1	prep
+4	così	così	B	B	_	3	mod
+5	disumano	disumano	A	A	num=s|gen=m	0	ROOT
+
+1	che	che	C	CS	_	0	ROOT
+2	non	non	B	BN	_	4	neg
+3	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	4	modal
+4	lasciare	lasciare	V	V	mod=f	1	sub
+5	ai	al	E	EA	num=p|gen=m	4	comp
+6	figli	figlio	S	S	num=p|gen=m	5	prep
+7	e	e	C	CC	_	4	con
+8	ai	al	E	EA	num=p|gen=m	4	comp
+9	nipoti	nipote	S	S	num=p|gen=n	8	prep
+10	.	.	F	FS	_	1	punc
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	male	male	B	B	_	4	pred
+6	il	il	R	RD	num=s|gen=m	7	det
+7	mondo	mondo	S	S	num=s|gen=m	5	prep
+8	G	G	S	SP	_	7	mod
+9	:	:	F	FC	_	4	punc
+10	mi	mi	P	PC	num=s|per=1|gen=n	11	comp_ind
+11	fa	fare	V	V	num=s|per=3|mod=i|ten=p	4	conj
+12	male	male	B	B	_	11	mod
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	male	male	B	B	_	4	pred
+6	il	il	R	RD	num=s|gen=m	7	det
+7	mondo	mondo	S	S	num=s|gen=m	5	prep
+8	G	G	S	SP	_	7	mod
+9	:	:	F	FC	_	4	punc
+10	mi	mi	P	PC	num=s|per=1|gen=n	11	comp_ind
+11	fa	fare	V	V	num=s|per=3|mod=i|ten=p	4	conj
+12	male	male	B	B	_	11	pred
+13	il	il	R	RD	num=s|gen=m	14	det
+14	mondo	mondo	S	S	num=s|gen=m	11	subj
+
+1	coro/G	coro/G	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	male	male	B	B	_	4	pred
+6	il	il	R	RD	num=s|gen=m	7	det
+7	mondo	mondo	S	S	num=s|gen=m	4	subj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	male	male	B	B	_	2	mod
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+6	male	male	B	B	_	5	mod
+7	mi	mi	P	PC	num=s|per=1|gen=n	8	comp_ind
+8	fa	fare	V	V	num=s|per=3|mod=i|ten=p	5	conj
+9	male	male	B	B	_	8	mod
+10	.	.	F	FS	_	2	punc
+

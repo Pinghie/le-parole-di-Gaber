@@ -1,0 +1,294 @@
+1	Ora	ora	B	B	_	4	mod_temp
+2	che	che	C	CS	_	4	subj
+3	non	non	B	BN	_	4	neg
+4	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	innamorato	innamorare	V	V	num=s|mod=p|gen=m	4	mod
+
+1	ora	ora	B	B	_	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	non	non	B	BN	_	6	neg
+4	sei	sei	N	N	_	6	mod
+5	più	più	B	B	_	4	mod
+6	innamorata	innamorare	V	V	num=s|mod=p|gen=f	2	sub
+7	.	.	F	FS	_	1	punc
+
+1	Ora	ora	B	B	_	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	non	non	B	BN	_	4	neg
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	2	sub
+5	più	più	B	B	_	4	mod
+6	quelle	quello	D	DD	num=p|gen=f	7	mod
+7	emozioni	emozione	S	S	num=p|gen=f	4	obj
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	corro	correre	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	5	mod
+5	a	a	E	E	_	3	comp
+6	casa	casa	S	S	num=s|gen=f	5	prep
+7	per	per	E	E	_	3	mod
+8	svegliar-	svegliare	V	V	mod=f	7	prep
+9	ti	ti	P	PC	num=s|per=2|gen=n	8	obj
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	pieno	pieno	S	S	num=s|gen=m	1	prep
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	notte	notte	S	S	num=s|gen=f	3	prep
+
+1	Ora	ora	B	B	_	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	tutto	tutto	P	PI	num=s|gen=m	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	svolge	svolgere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+6	di	di	E	E	_	5	comp
+7	mattina	mattina	S	S	num=s|gen=f	6	prep
+
+1	quando	quando	C	CS	_	5	mod
+2	a	a	E	E	_	5	comp
+3	letto	letto	S	S	num=s|gen=m	2	prep
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	obj
+5	porti	portare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+6	controvoglia	controvoglia	B	B	_	5	mod
+
+1	un	uno	R	RI	num=s|gen=m	0	ROOT
+2	pò	pò	B	B	_	3	mod
+3	di	di	E	E	_	1	comp
+4	caffèlatte	caffèlatte	S	S	num=n|gen=n	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	Gli	il	R	RD	num=p|gen=m	2	det
+2	occhi	occhio	S	S	num=p|gen=m	0	ROOT
+3	gonfi	gonfio	A	A	num=p|gen=m	2	mod
+4	e	e	C	CC	_	3	con
+5	stanchi	stanco	A	A	num=p|gen=m	3	conj
+6	lunghe	lungo	A	A	num=p|gen=f	2	mod
+7	e	e	C	CC	_	6	con
+8	faticose	faticoso	A	A	num=p|gen=f	6	conj
+9	discussioni	discussione	S	S	num=p|gen=f	2	mod
+
+1	forse	forse	B	B	_	2	mod
+2	niente	niente	P	PI	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	sincero	sincero	A	A	num=s|gen=m	3	prep
+
+1	sempre	sempre	B	B	_	2	mod
+2	mezza	mezzo	A	A	num=s|gen=f	3	mod
+3	nuda	nudo	A	A	num=s|gen=f	0	ROOT
+
+1	senza	senza	E	E	_	7	comp
+2	più	più	B	B	_	3	mod
+3	pudore	pudore	S	S	num=s|gen=m	1	prep
+4	senza	senza	E	E	_	3	comp
+5	più	più	B	B	_	4	prep
+6	nessun	nessun	D	DI	num=s|gen=m	7	mod
+7	mistero	mistero	S	S	num=s|gen=m	0	ROOT
+
+1	Com'	come	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	tutto	tutto	B	B	_	5	mod
+4	più	più	B	B	_	5	mod
+5	giusto	giusto	A	A	num=s|gen=m	2	pred
+6	com'	come	B	B	_	7	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	tutto	tutto	B	B	_	7	mod
+9	più	più	B	B	_	10	mod
+10	vero	vero	A	A	num=s|gen=m	7	pred
+
+1	come	come	C	CS	_	2	mod
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	6	subj
+3	più	più	B	B	_	2	mod
+4	senso	senso	S	S	num=s|gen=m	2	obj
+5	come	come	C	CS	_	6	mod
+6	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	più	più	B	B	_	6	mod
+8	valore	valore	S	S	num=s|gen=m	6	obj
+
+1	questo	questo	D	DD	num=s|gen=m	2	mod
+2	nostro	nostro	A	AP	num=s|gen=m	0	_
+
+1	Ora	ora	B	B	_	5	mod_temp
+2	che	che	C	CS	_	5	subj
+3	non	non	B	BN	_	5	neg
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	niente	niente	P	PI	num=s|gen=m	5	subj
+7	da	da	E	E	_	5	arg
+8	scoprire	scoprire	V	V	mod=f	7	prep
+
+1	non	non	B	BN	_	2	neg
+2	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	nemmeno	nemmeno	B	B	_	6	mod
+4	una	uno	R	RI	num=s|gen=f	6	det
+5	gran	gran	A	A	num=n|gen=n	6	mod
+6	voglia	voglia	S	S	num=s|gen=f	2	obj
+
+1	di	di	E	E	_	0	ROOT
+2	fare	fare	V	V	mod=f	1	prep
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	amore	amore	S	S	num=s|gen=m	2	obj
+
+1	Ora	ora	B	B	_	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	2	sub
+4	quasi	quasi	B	B	_	6	mod
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	senso	senso	S	S	num=s|gen=m	3	obj
+7	di	di	E	E	_	6	comp
+8	fastidio	fastidio	S	S	num=s|gen=m	7	prep
+
+1	se	se	C	CS	_	8	mod
+2	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	1	sub
+3	le	il	R	RD	num=p|gen=f	5	det
+4	tue	tuo	A	AP	num=p|gen=f	5	mod
+5	braccia	braccio	S	S	num=p|gen=m	2	obj
+6	le	il	R	RD	num=p|gen=f	8	det
+7	tue	tuo	A	AP	num=p|gen=f	8	mod
+8	gambe	gamba	S	S	num=p|gen=f	0	ROOT
+
+1	se	se	P	PC	num=n|per=3|gen=n	3	clit
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	clit
+3	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	respirare	respirare	V	V	mod=f	3	arg
+5	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	10	con
+2	quando	quando	C	CS	_	10	mod
+3	sei	sei	N	N	_	4	mod
+4	ammalata	ammalare	V	V	num=s|mod=p|gen=f	10	mod
+5	con	con	E	E	_	4	comp
+6	la	il	R	RD	num=s|gen=f	7	det
+7	fronte	fronte	S	S	num=s|gen=n	5	prep
+8	calda	caldo	A	A	num=s|gen=f	7	mod
+9	ti	ti	P	PC	num=s|per=2|gen=n	10	comp_ind
+10	lamenti	lamentare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	per	per	E	E	_	5	comp
+3	far-	fare	V	VM	mod=f	5	modal
+4	ti	ti	P	PC	num=s|per=2|gen=n	3	clit
+5	compatire	compatire	V	V	mod=f	0	ROOT
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	alzo	alzare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	pò	pò	B	B	_	5	mod
+5	assonnato	assonnato	A	A	num=s|gen=m	6	mod
+6	cerco	cercare	V	V	num=s|per=1|mod=i|ten=p	2	conj
+7	un'	uno	R	RI	num=s|gen=f	8	det
+8	aspirina	aspirina	S	S	num=s|gen=f	6	obj
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	clit
+2	accarezzo	accarezzare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	fingo	fingere	V	V	num=s|per=1|mod=i|ten=p	2	arg
+4	di	di	E	E	_	3	arg
+5	soffrire	soffrire	V	V	mod=f	4	prep
+
+1	Com'	come	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	tutto	tutto	B	B	_	5	mod
+4	più	più	B	B	_	5	mod
+5	giusto	giusto	A	A	num=s|gen=m	2	pred
+6	com'	come	B	B	_	7	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	tutto	tutto	B	B	_	7	mod
+9	più	più	B	B	_	10	mod
+10	vero	vero	A	A	num=s|gen=m	7	pred
+
+1	come	come	C	CS	_	2	mod
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	6	subj
+3	più	più	B	B	_	2	mod
+4	senso	senso	S	S	num=s|gen=m	2	obj
+5	come	come	C	CS	_	6	mod
+6	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	più	più	B	B	_	6	mod
+8	valore	valore	S	S	num=s|gen=m	6	obj
+
+1	questo	questo	D	DD	num=s|gen=m	2	mod
+2	nostro	nostro	A	AP	num=s|gen=m	0	_
+
+1	Ora	ora	B	B	_	7	mod_temp
+2	che	che	C	CS	_	7	mod
+3	noi	noi	P	PE	num=p|per=1|gen=n	7	subj
+4	ci	ci	P	PC	num=p|per=1|gen=n	7	clit
+5	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	7	aux
+6	anche	anche	B	B	_	7	mod
+7	traditi	tradire	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	che	che	P	PR	num=n|gen=n	4	subj
+3	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+4	successe	successe	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	tante	tanto	D	DI	num=p|gen=f	6	mod
+6	cose	cosa	S	S	num=p|gen=f	4	subj
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	potevo	potere	V	V	num=s|per=1|mod=i|ten=i	4	modal
+4	immaginare	immaginare	V	V	mod=f	0	ROOT
+
+1	quanto	quanto	P	PR	num=s|gen=m	3	obj
+2	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	3	aux
+3	sofferto	soffrire	V	V	num=s|mod=p|gen=m	0	ROOT
+4	e	e	C	CC	_	3	con
+5	faticato	faticare	V	V	num=s|mod=p|gen=m	3	conj
+
+1	per	per	E	E	_	0	ROOT
+2	arrivare	arrivare	V	V	mod=f	1	prep
+3	a	a	E	E	_	2	arg
+4	capire	capire	V	V	mod=f	3	prep
+5	che	che	C	CS	_	4	comp
+6	domani	domani	B	B	_	5	sub
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+2	potremmo	potere	V	VM	num=p|per=1|mod=d|ten=p	4	modal
+3	anche	anche	B	B	_	4	mod
+4	lasciare	lasciare	V	V	mod=f	0	ROOT
+
+1	Quanta	quanta	B	B	_	2	mod
+2	resistenza	resistenza	S	S	num=s|gen=f	0	ROOT
+3	e	e	C	CC	_	2	con
+4	quanta	quanta	B	B	_	5	mod
+5	esagerata	esagerato	A	A	num=s|gen=f	6	mod
+6	insofferenza	insofferenza	S	S	num=s|gen=f	2	conj
+
+1	qualche	qualche	D	DI	num=s|gen=n	2	mod
+2	volta	volta	S	S	num=s|gen=f	4	mod_temp
+3	anche	anche	B	B	_	4	mod
+4	per	per	E	E	_	9	comp
+5	niente	niente	P	PI	num=s|gen=m	4	prep
+6	e	e	C	CC	_	4	con
+7	questa	questo	D	DD	num=s|gen=f	9	mod
+8	strana	strano	A	A	num=s|gen=f	9	mod
+9	unione	unione	S	S	num=s|gen=f	0	ROOT
+
+1	che	che	C	CS	_	0	ROOT
+2	ogni	ogni	D	DI	num=s|gen=n	3	mod
+3	giorno	giorno	S	S	num=s|gen=m	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	trasforma	trasformare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+6	lentamente	lento	B	B	_	5	mod
+
+1	Com'	come	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	tutto	tutto	B	B	_	5	mod
+4	più	più	B	B	_	5	mod
+5	giusto	giusto	A	A	num=s|gen=m	2	pred
+6	com'	come	B	B	_	7	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	tutto	tutto	B	B	_	7	mod
+9	più	più	B	B	_	10	mod
+10	vero	vero	A	A	num=s|gen=m	7	pred
+
+1	come	come	C	CS	_	2	mod
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	6	subj
+3	più	più	B	B	_	2	mod
+4	senso	senso	S	S	num=s|gen=m	2	obj
+5	come	come	C	CS	_	6	mod
+6	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	più	più	B	B	_	6	mod
+8	valore	valore	S	S	num=s|gen=m	6	obj
+
+1	questo	questo	D	DD	num=s|gen=m	2	mod
+2	nostro	nostro	A	AP	num=s|gen=m	0	_
+

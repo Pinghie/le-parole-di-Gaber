@@ -1,0 +1,389 @@
+1	Tic	Tic	S	S	num=n|gen=n	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	ffffft	ffffft	A	A	num=s|gen=m	1	conj
+
+1	tic	tic	S	S	num=n|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	fffffft	fffffft	A	A	num=s|gen=m	1	conj
+
+1	tic	tic	S	S	num=n|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	fffffft	fffffft	A	A	num=s|gen=m	1	conj
+
+1	tic	tic	S	S	num=n|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	fffffft	fffffft	A	A	num=s|gen=m	1	conj
+
+1	tic	tic	S	S	num=n|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	fffffft	fffffft	A	A	num=s|gen=m	1	conj
+
+1	In	in	E	E	_	4	comp
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	posto	posto	S	S	num=s|gen=m	1	prep
+4	qualunque	qualunque	D	DI	num=s|gen=n	0	_
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	dire	dire	V	V	mod=f	0	ROOT
+4	dovunque	dovunque	B	B	_	3	mod
+
+1	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	3	mod
+3	che	che	C	CS	_	1	arg
+4	sia	essere	V	VA	num=s|per=3|mod=c|ten=p	5	aux
+5	nato	nascere	V	V	num=s|mod=p|gen=m	3	sub
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	bambino	bambino	S	S	num=s|gen=m	5	subj_pass
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	bambino	bambino	S	S	num=s|gen=m	1	pred
+4	normale	normale	A	A	num=s|gen=n	3	mod
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	molto	molto	B	B	_	2	mod
+4	speciale	speciale	A	A	num=s|gen=n	2	pred
+
+1	tranne	tranne	E	E	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	fatto	fatto	S	S	num=s|gen=m	1	prep
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	ha	avere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	uno	uno	R	RI	num=s|gen=m	8	det
+7	strano	strano	A	A	num=s|gen=m	8	mod
+8	dentino	dentino	S	S	num=s|gen=m	5	obj
+
+1	e	e	C	CC	_	2	con
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	tic	tic	B	B	_	2	mod_loc
+4	e	e	C	CC	_	2	con
+5	poi	poi	B	B	_	6	mod
+6	fffffft	fffffft	A	A	num=s|gen=m	2	pred
+
+1	tic	tic	S	S	num=n|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	fffffft	fffffft	A	A	num=s|gen=m	1	conj
+
+1	Né	né	C	CC	_	3	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	mamma	mamma	S	S	num=s|gen=f	0	ROOT
+4	né	né	C	CC	_	3	con
+5	i	il	R	RD	num=p|gen=m	6	det
+6	dottori	dottore	S	S	num=p|gen=m	3	conj
+
+1	sanno	sapere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	cosa	cosa	S	S	num=s|gen=f	6	subj_pass
+3	sia	essere	V	VA	num=s|per=3|mod=c|ten=p	6	aux
+4	non	non	B	BN	_	6	neg
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	previsto	prevedere	V	V	num=s|mod=p|gen=m	1	arg
+7	dalla	da	E	EA	num=s|gen=f	6	comp
+8	scienza	scienza	S	S	num=s|gen=f	7	prep
+
+1	per	per	E	E	_	4	mod
+2	capir-	capire	V	V	mod=f	1	prep
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	clit
+4	chiameremo	chiamare	V	V	num=p|per=1|mod=i|ten=f	0	_
+
+1	quest'	questo	D	DD	num=s|gen=n	2	mod
+2	anomalia	anomalia	S	S	num=s|gen=f	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	dente	dente	S	S	num=s|gen=m	2	mod
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	conoscenza	conoscenza	S	S	num=s|gen=f	5	prep
+
+1	Tic	Tic	S	S	num=n|gen=n	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	fffffft	fffffft	A	A	num=s|gen=m	1	conj
+
+1	tic	tic	S	S	num=n|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	fffffft	fffffft	A	A	num=s|gen=m	1	conj
+
+1	Nella	in	E	EA	num=s|gen=f	0	ROOT
+2	sua	suo	A	AP	num=s|gen=f	3	mod
+3	torre	torre	S	S	num=s|gen=f	1	prep
+4	tutta	tutto	T	T	num=s|gen=f	5	mod
+5	d'	di	E	E	_	3	comp
+6	avorio	avorio	S	S	num=s|gen=m	5	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	genio	genio	S	S	num=s|gen=m	3	subj
+3	studia	studiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	le	il	R	RD	num=p|gen=f	6	det
+5	sue	suo	A	AP	num=p|gen=f	6	mod
+6	carte	carta	S	S	num=p|gen=f	3	obj
+
+1	concentrazione	concentrazione	S	S	num=s|gen=f	0	ROOT
+2	ispirazione	ispirazione	S	S	num=s|gen=f	1	mod
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	sua	suo	A	AP	num=s|gen=f	3	mod
+3	cultura	cultura	S	S	num=s|gen=f	0	ROOT
+4	la	il	R	RD	num=s|gen=f	6	det
+5	sua	suo	A	AP	num=s|gen=f	6	mod
+6	arte	arte	S	S	num=s|gen=f	3	mod
+
+1	In	in	E	E	_	7	comp
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	dente	dente	S	S	num=s|gen=m	1	prep
+4	anormale	anormale	A	A	num=s|gen=n	3	mod
+5	non	non	B	BN	_	7	neg
+6	c'	ci	P	PC	num=n|gen=n	7	comp
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	niente	niente	P	PI	num=s|gen=m	7	subj
+9	di	di	E	E	_	7	comp
+10	male	male	B	B	_	9	prep
+
+1	ma	ma	C	CC	_	0	ROOT
+2	per	per	E	E	_	1	comp_temp
+3	colpa	colpa	S	S	num=s|gen=f	2	prep
+4	di	di	E	E	_	3	comp
+5	uno	uno	R	RI	num=s|gen=m	7	det
+6	strano	strano	A	A	num=s|gen=m	7	mod
+7	destino	destino	S	S	num=s|gen=m	4	prep
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	obj
+2	risulta	risultare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	dai	da	E	EA	num=p|gen=m	2	comp
+4	dati	dato	S	S	num=p|gen=m	3	prep
+5	che	che	P	PR	num=n|gen=n	4	comp
+6	altri	altro	D	DI	num=p|gen=m	7	mod
+7	figli	figlio	S	S	num=p|gen=m	5	prep
+8	son	son	C	CC	_	7	con
+9	nati	nascere	V	V	num=p|mod=p|gen=m	7	mod
+
+1	tutti	tutto	P	PI	num=p|gen=m	0	ROOT
+2	quanti	quanto	P	PR	num=p|gen=m	1	ROOT
+3	con	con	E	E	_	2	comp
+4	lo	il	R	RD	num=s|gen=m	6	det
+5	stesso	stesso	A	A	num=s|gen=m	6	mod
+6	dentino	dentino	S	S	num=s|gen=m	3	prep
+
+1	e	e	C	CC	_	2	con
+2	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	tic	tic	S	S	num=n|gen=m	2	obj
+4	e	e	C	CC	_	2	con
+5	poi	poi	B	B	_	6	mod
+6	fffffft	fffffft	A	A	num=s|gen=m	2	pred
+
+1	tic	tic	S	S	num=n|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	fffffft	fffffft	A	A	num=s|gen=m	1	conj
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	chi	chi	P	PR	num=n|gen=n	2	subj
+4	dice	dire	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+5	che	che	C	CS	_	4	arg
+6	quel	quello	D	DD	num=s|gen=m	7	mod
+7	dente	dente	S	S	num=s|gen=m	8	subj
+8	sia	essere	V	V	num=s|per=3|mod=c|ten=p	5	sub
+9	la	il	R	RD	num=s|gen=f	10	det
+10	garanzia	garanzia	S	S	num=s|gen=f	8	pred
+
+1	di	di	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	precoce	precoce	A	A	num=s|gen=n	4	mod
+4	adolescenza	adolescenza	S	S	num=s|gen=f	1	prep
+
+1	per	per	E	E	_	6	comp
+2	il	il	R	RD	num=s|gen=m	3	det
+3	latte	latte	S	S	num=s|gen=m	1	prep
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	mamma	mamma	S	S	num=s|gen=f	4	prep
+6	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	allergia	allergia	S	S	num=s|gen=f	6	obj
+
+1	ma	ma	C	CC	_	2	con
+2	succhiano	succhiare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	conoscenza	conoscenza	S	S	num=s|gen=f	2	obj
+
+1	e	e	C	CC	_	2	con
+2	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	tic	tic	S	S	num=n|gen=m	2	obj
+4	e	e	C	CC	_	2	con
+5	poi	poi	B	B	_	6	mod
+6	fffffft	fffffft	A	A	num=s|gen=m	2	pred
+
+1	tic	tic	S	S	num=n|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	fffffft	fffffft	A	A	num=s|gen=m	1	conj
+
+1	Nella	in	E	EA	num=s|gen=f	5	comp
+2	sua	suo	A	AP	num=s|gen=f	3	mod
+3	torre	torre	S	S	num=s|gen=f	1	prep
+4	il	il	R	RD	num=s|gen=m	5	det
+5	genio	genio	S	S	num=s|gen=m	6	subj
+6	studia	studiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	di	di	E	E	_	5	comp
+2	questi	questo	D	DD	num=p|gen=m	3	mod
+3	denti	dente	S	S	num=p|gen=m	1	prep
+4	la	il	R	RD	num=s|gen=f	5	det
+5	ragione	ragione	S	S	num=s|gen=f	0	ROOT
+
+1	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	problema	problema	S	S	num=s|gen=m	1	obj
+4	tecnicamente	tecnico	B	B	_	1	mod
+
+1	e	e	C	CC	_	3	con
+2	ne	ne	P	PC	num=n|gen=n	3	comp
+3	propone	proporre	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un'	uno	R	RI	num=s|gen=f	5	det
+5	estrazione	estrazione	S	S	num=s|gen=f	3	obj
+6	.	.	F	FS	_	3	punc
+
+1	Te	te	P	PE	num=s|per=2|gen=n	3	subj
+2	li	li	P	PC	num=p|per=3|gen=m	3	obj
+3	trovi	trovare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+4	davanti	davanti	B	B	_	5	mod
+5	con	con	E	E	_	3	comp
+6	i	il	R	RD	num=p|gen=m	8	det
+7	loro	loro	A	AP	num=n|gen=n	8	mod
+8	dentini	dentini	S	S	num=p|gen=m	5	prep
+
+1	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	3	mod
+3	che	che	C	CS	_	1	arg
+4	il	il	R	RD	num=s|gen=m	6	det
+5	tuo	tuo	A	AP	num=s|gen=m	6	mod
+6	sangue	sangue	S	S	num=s|gen=m	8	subj
+7	li	li	P	PC	num=p|per=3|gen=m	6	comp
+8	attiri	attirare	V	V	num=s|per=3|mod=c|ten=p	3	sub
+
+1	non	non	B	BN	_	2	neg
+2	frequentano	frequentare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	scuole	scuola	S	S	num=p|gen=f	2	obj
+4	non	non	B	BN	_	5	neg
+5	consultano	consultare	V	V	num=p|per=3|mod=i|ten=p	2	conj
+6	libri	libro	S	S	num=p|gen=m	5	obj
+
+1	danno	dare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	morsi	morso	A	A	num=p|gen=m	4	pred
+3	come	come	B	B	_	4	mod
+4	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	1	conj
+5	i	il	R	RD	num=p|gen=m	6	det
+6	vampiri	vampiro	S	S	num=p|gen=m	4	obj
+
+1	e	e	C	CC	_	2	con
+2	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	tic	tic	S	S	num=n|gen=m	2	obj
+4	e	e	C	CC	_	2	con
+5	poi	poi	B	B	_	6	mod
+6	fffffft	fffffft	A	A	num=s|gen=m	2	pred
+
+1	tic	tic	S	S	num=n|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	fffffft	fffffft	A	A	num=s|gen=m	1	conj
+
+1	E	e	C	CC	_	3	con
+2	succhiando	succhiare	V	V	mod=g	3	mod
+3	entra	entrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	in	in	E	E	_	3	comp
+5	loro	loro	P	PE	num=p|per=3|gen=n	4	prep
+6	tutto	tutto	D	DI	num=s|gen=m	7	mod
+7	ciò	ciò	P	PD	num=s|gen=m	3	obj
+8	che	che	P	PR	num=n|gen=n	7	comp
+9	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	3	ROOT
+
+1	livellano	livellare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	intelligenza	intelligenza	S	S	num=s|gen=f	1	obj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	cultura	cultura	S	S	num=s|gen=f	7	subj
+3	e	e	C	CC	_	2	con
+4	il	il	R	RD	num=s|gen=m	6	det
+5	suo	suo	A	AP	num=s|gen=m	6	mod
+6	potere	potere	S	S	num=s|gen=m	2	conj
+7	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+8	in	in	E	E	_	7	pred
+9	crisi	crisi	S	S	num=n|gen=f	8	prep
+10	ormai	ormai	B	B	_	7	mod
+
+1	col	con	E	EA	num=s|gen=m	0	ROOT
+2	dente	dente	S	S	num=s|gen=m	1	prep
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	conoscenza	conoscenza	S	S	num=s|gen=f	3	prep
+
+1	Han	Han	S	SP	_	5	mod
+2	circondato	circondare	V	V	num=s|mod=p|gen=m	1	mod
+3	anche	anche	B	B	_	2	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	torre	torre	S	S	num=s|gen=f	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	genio	genio	S	S	num=s|gen=m	3	subj
+3	grida	gridare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	non	non	B	BN	_	6	neg
+6	vuole	volere	V	VM	num=s|per=3|mod=i|ten=p	3	ROOT
+
+1	gli	gli	P	PC	num=s|per=3|gen=m	3	comp_ind
+2	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	succhiato	succhiare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	di	di	E	E	_	3	comp
+7	sangue	sangue	S	S	num=s|gen=m	6	prep
+
+1	non	non	B	BN	_	5	neg
+2	gli	gli	P	PC	num=s|per=3|gen=m	5	comp_ind
+3	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+4	mica	mica	B	B	_	5	mod
+5	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+6	male	male	B	B	_	5	mod
+
+1	Ma	ma	C	CC	_	3	con
+2	adesso	adesso	B	B	_	3	mod_temp
+3	sanno	sapere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	già	già	B	B	_	6	mod
+5	tutto	tutto	D	DI	num=s|gen=m	6	mod
+6	quello	quello	P	PD	num=s|gen=m	3	obj
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+9	lui	lui	P	PE	num=s|per=3|gen=m	8	obj
+
+1	non	non	B	BN	_	4	neg
+2	se	se	P	PC	num=n|per=3|gen=n	4	clit
+3	n'	ne	P	PC	num=n|gen=n	4	comp
+4	era	essere	V	V	num=s|per=3|mod=i|ten=i	5	aux
+5	accorto	accorgersi	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	perso	perdere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	5	det
+4	suo	suo	A	AP	num=s|gen=m	5	mod
+5	potere	potere	S	S	num=s|gen=m	2	obj
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	uomo	uomo	S	S	num=s|gen=m	6	pred
+9	come	come	E	E	_	8	comp
+10	noi	noi	P	PE	num=p|per=1|gen=n	9	prep
+
+1	Uguale	uguale	A	A	num=s|gen=n	0	ROOT
+2	?	?	F	FS	_	1	punc
+
+1	Uguale	uguale	A	A	num=s|gen=n	0	ROOT
+
+1	Giustamente	giusto	B	B	_	2	mod
+2	morto	morire	V	V	num=s|mod=p|gen=m	0	ROOT
+3	.	.	F	FS	_	2	punc
+

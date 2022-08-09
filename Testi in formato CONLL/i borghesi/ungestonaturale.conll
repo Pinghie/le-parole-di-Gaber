@@ -1,0 +1,233 @@
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	nasce	nascere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	dentro	dentro	E	E	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	acqua	acqua	S	S	num=s|gen=f	1	prep
+4	come	come	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	uomo	uomo	S	S	num=s|gen=m	4	prep
+7	.	.	F	FS	_	1	punc
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	respira	respirare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	come	come	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	prep
+6	.	.	F	FS	_	2	punc
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	forma	formare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	plasma	plasmare	V	V	num=s|per=3|mod=i|ten=p	4	arg
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	trasforma	trasformare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	impara	imparare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	1	clit
+3	arricchisce	arricchire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	prepara	preparare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	poi	poi	B	B	_	2	mod
+4	conosce	conoscere	V	V	num=s|per=3|mod=i|ten=p	2	arg
+5	la	il	R	RD	num=s|gen=f	6	det
+6	coscienza	coscienza	S	S	num=s|gen=f	4	obj
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	problemi	problema	S	S	num=p|gen=m	0	ROOT
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	scienza	scienza	S	S	num=s|gen=f	3	prep
+
+1	poi	poi	B	B	_	2	mod
+2	conosce	conoscere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	2	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	vita	vita	S	S	num=s|gen=f	2	obj
+
+1	con	con	E	E	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	4	det
+3	sue	suo	A	AP	num=p|gen=f	4	mod
+4	difficoltà	difficoltà	S	S	num=n|gen=f	1	prep
+5	.	.	F	FS	_	1	punc
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+4	quel	quello	D	DD	num=s|gen=m	5	mod
+5	bambino	bambino	S	S	num=s|gen=m	3	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	ubbidisce	ubbidire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	adegua	adeguare	V	V	num=s|per=3|mod=i|ten=p	3	sub
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	avverte	avvertire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	e	e	C	CC	_	2	con
+4	che	che	C	CS	_	5	subj
+5	sente	sentire	V	V	num=s|per=3|mod=i|ten=p	2	conj
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	realizza	realizzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	facilmente	facilmente	B	B	_	2	mod
+
+1	E	e	C	CC	_	0	ROOT
+2	presto	presto	B	B	_	3	mod
+3	con	con	E	E	_	1	ROOT
+4	le	il	R	RD	num=p|gen=f	5	det
+5	cose	cosa	S	S	num=p|gen=f	3	prep
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	8	aux
+8	imparato	imparare	V	V	num=s|mod=p|gen=m	5	mod_rel
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	inserisce	inserire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	fra	fra	E	E	_	2	comp
+4	la	il	R	RD	num=s|gen=f	5	det
+5	gente	gente	S	S	num=s|gen=f	3	prep
+
+1	come	come	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	prep
+4	rispettato	rispettato	A	A	num=s|gen=m	3	mod
+
+1	come	come	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	prep
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	ricerca	ricercare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	a	a	E	E	_	0	ROOT
+2	qualunque	qualunque	D	DI	num=s|gen=n	3	mod
+3	condizione	condizione	S	S	num=s|gen=f	1	prep
+
+1	con	con	E	E	_	0	ROOT
+2	orgoglio	orgoglio	S	S	num=s|gen=m	1	prep
+3	disperato	disperato	A	A	num=s|gen=m	2	mod
+
+1	una	uno	R	RI	num=s|gen=f	3	det
+2	qualsiasi	qualsiasi	D	DI	num=s|gen=n	3	mod
+3	affermazione	affermazione	S	S	num=s|gen=f	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	tratta	trattare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	2	mod
+4	di	di	E	E	_	2	ROOT
+5	volere	volere	V	VM	mod=f	2	ROOT
+
+1	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	guardare	guardare	V	V	mod=f	1	arg
+3	sempre	sempre	B	B	_	2	mod
+4	avanti	avanti	B	B	_	2	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	arrivare	arrivare	V	V	mod=f	0	ROOT
+4	anche	anche	B	B	_	5	mod
+5	al	a	E	EA	num=s|gen=m	3	comp
+6	potere	potere	S	S	num=s|gen=m	5	prep
+
+1	sì	sì	B	B	_	2	mod
+2	al	a	E	EA	num=s|gen=m	4	comp
+3	potere	potere	S	S	num=s|gen=m	2	prep
+4	sì	sì	B	B	_	5	mod
+5	al	a	E	EA	num=s|gen=m	0	ROOT
+6	potere	potere	S	S	num=s|gen=m	5	prep
+
+1	Ma	ma	C	CC	_	2	con
+2	svegliar-	svegliare	V	V	mod=f	0	ROOT
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	e	e	C	CC	_	2	con
+5	camminare	camminare	V	V	mod=f	2	conj
+
+1	e	e	C	CC	_	2	con
+2	respirare	respirare	V	V	mod=f	0	ROOT
+3	che	che	C	CS	_	2	subj
+4	fatica	fatica	S	S	num=s|gen=f	3	sub
+
+1	ma	ma	C	CC	_	2	con
+2	sorridere	sorridere	V	V	mod=f	0	ROOT
+3	e	e	C	CC	_	2	con
+4	parlare	parlare	V	V	mod=f	2	conj
+
+1	fare	fare	V	V	mod=f	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	amore	amore	S	S	num=s|gen=m	1	obj
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	fatica	faticare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	ma	ma	C	CC	_	3	con
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gesto	gesto	S	S	num=s|gen=m	0	ROOT
+4	naturale	naturale	A	A	num=s|gen=n	3	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	più	più	B	B	_	3	mod
+3	normale	normale	A	A	num=s|gen=n	0	ROOT
+4	che	che	P	PR	num=n|gen=n	3	comp
+5	fatica	fatica	S	S	num=s|gen=f	4	sub
+6	.	.	F	FS	_	3	punc
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	ma	ma	C	CC	_	5	con
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	gesto	gesto	S	S	num=s|gen=m	0	ROOT
+6	naturale	naturale	A	A	num=s|gen=n	5	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	più	più	B	B	_	3	mod
+3	normale	normale	A	A	num=s|gen=n	5	mod
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	fatica	fatica	S	S	num=s|gen=f	0	_
+
+1	Ma	ma	C	CC	_	3	con
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gesto	gesto	S	S	num=s|gen=m	0	ROOT
+4	naturale	naturale	A	A	num=s|gen=n	3	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	più	più	B	B	_	3	mod
+3	normale	normale	A	A	num=s|gen=n	5	mod
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	fatica	fatica	S	S	num=s|gen=f	0	_
+
+1	Ma	ma	C	CC	_	3	con
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gesto	gesto	S	S	num=s|gen=m	0	ROOT
+4	naturale	naturale	A	A	num=s|gen=n	3	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	più	più	B	B	_	3	mod
+3	normale	normale	A	A	num=s|gen=n	5	mod
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	fatica	fatica	S	S	num=s|gen=f	0	_
+
+1	Ma	ma	C	CC	_	3	con
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gesto	gesto	S	S	num=s|gen=m	0	ROOT
+4	naturale	naturale	A	A	num=s|gen=n	3	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	più	più	B	B	_	3	mod
+3	normale	normale	A	A	num=s|gen=n	5	mod
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	fatica	fatica	S	S	num=s|gen=f	0	_
+

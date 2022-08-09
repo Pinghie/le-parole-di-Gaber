@@ -1,0 +1,554 @@
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	mondo	mondo	S	S	num=s|gen=m	4	subj
+3	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	fretta	fretta	S	S	num=s|gen=f	0	ROOT
+5	continua	continuo	A	A	num=s|gen=f	4	mod
+6	a	a	E	E	_	4	arg
+7	cambiare	cambiare	V	V	mod=f	6	prep
+
+1	chi	chi	P	PQ	num=n|gen=n	3	subj
+2	vuol	volere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	restare	restare	V	V	mod=f	0	ROOT
+4	a	a	E	E	_	3	comp
+5	galla	galla	S	S	num=s|gen=f	4	prep
+6	si	si	P	PC	num=n|per=3|gen=n	8	clit
+7	deve	dovere	V	VM	num=s|per=3|mod=i|ten=p	8	modal
+8	aggiornare	aggiornare	V	V	mod=f	3	conj
+9	.	.	F	FS	_	3	punc
+
+1	Anche	anche	B	B	_	3	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	chiesa	chiesa	S	S	num=s|gen=f	0	ROOT
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	non	non	B	BN	_	8	neg
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	muova	muovere	V	V	num=s|per=3|mod=c|ten=p	5	arg
+
+1	ogni	ogni	D	DI	num=s|gen=n	4	mod
+2	tanto	tanto	B	B	_	4	mod
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+4	ripensa	ripensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	e	e	C	CC	_	4	con
+6	ne	ne	P	PC	num=n|gen=n	7	comp
+7	inventa	inventare	V	V	num=s|per=3|mod=i|ten=p	4	conj
+8	una	uno	R	RI	num=s|gen=f	7	subj
+9	nuova	nuovo	A	A	num=s|gen=f	8	mod
+10	.	.	F	FS	_	4	punc
+
+1	E	e	C	CC	_	2	con
+2	dimostrando	dimostrare	V	V	mod=g	0	_
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	notevole	notevole	A	A	num=s|gen=n	5	mod
+5	tempismo	tempismo	S	S	num=s|gen=m	2	obj
+
+1	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+2	già	già	B	B	_	3	mod
+3	tirato	tirare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	fuori	fuori	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	7	det
+6	nuovo	nuovo	A	A	num=s|gen=m	7	mod
+7	catechismo	catechismo	S	S	num=s|gen=m	4	prep
+8	.	.	F	FS	_	3	punc
+
+1	Dove	dove	B	B	_	3	mod_loc
+2	tutto	tutto	P	PI	num=s|gen=m	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	5	mod
+5	aggiornato	aggiornato	A	A	num=s|gen=m	3	mod
+6	dove	dove	B	B	_	8	mod_loc
+7	tutto	tutto	P	PI	num=s|gen=m	8	subj
+8	é	é	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+9	più	più	B	B	_	8	mod
+10	moderno	moderno	A	A	num=s|gen=m	3	mod
+
+1	e	e	C	CC	_	3	con
+2	anche	anche	B	B	_	3	mod
+3	a	a	E	E	_	0	ROOT
+4	vincere	vincere	V	V	mod=f	3	prep
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	appalto	appalto	S	S	num=s|gen=m	8	subj
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	rischia	rischiare	V	V	num=s|per=3|mod=i|ten=p	4	arg
+9	l'	il	R	RD	num=s|gen=n	10	det
+10	inferno	inferno	S	S	num=s|gen=m	8	subj
+11	.	.	F	FS	_	3	punc
+
+1	Dov'	dove	B	B	_	3	mod_loc
+2	é	é	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	condannata	condannare	V	V	num=s|mod=p|gen=f	0	ROOT
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	forma	forma	S	S	num=s|gen=f	3	obj
+6	di	di	E	E	_	5	comp
+7	magia	magia	S	S	num=s|gen=f	6	prep
+
+1	ma	ma	C	CC	_	2	con
+2	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	grave	grave	A	A	num=s|gen=n	5	mod
+5	peccato	peccato	S	S	num=s|gen=m	2	obj
+6	anche	anche	B	B	_	8	mod
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	astrologia	astrologia	S	S	num=s|gen=f	2	subj
+9	.	.	F	FS	_	2	punc
+
+1	Dove	dove	B	B	_	6	mod_loc
+2	il	il	R	RD	num=s|gen=m	3	det
+3	senso	senso	S	S	num=s|gen=m	6	subj
+4	di	di	E	E	_	3	comp
+5	giustizia	giustizia	S	S	num=s|gen=f	4	prep
+6	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	ancora	ancora	B	B	_	6	mod
+8	più	più	B	B	_	9	mod
+9	forte	forte	A	A	num=s|gen=n	6	pred
+
+1	e	e	C	CC	_	3	con
+2	talvolta	talvolta	B	B	_	3	mod
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	anche	anche	B	B	_	5	mod
+5	gradita	gradire	V	V	num=s|mod=p|gen=f	7	mod
+6	la	il	R	RD	num=s|gen=f	7	det
+7	pena	pena	S	S	num=s|gen=f	3	subj
+8	di	di	E	E	_	7	comp
+9	morte	morte	S	S	num=s|gen=f	8	prep
+10	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	chiesa	chiesa	S	S	num=s|gen=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	rinnova	rinnovare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	per	per	E	E	_	5	comp
+7	la	il	R	RD	num=s|gen=f	9	det
+8	nuova	nuovo	A	A	num=s|gen=f	9	mod
+9	società	società	S	S	num=n|gen=f	6	prep
+
+1	e	e	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	chiesa	chiesa	S	S	num=s|gen=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	rinnova	rinnovare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	per	per	E	E	_	5	arg
+7	salvar	salvare	V	V	mod=f	6	prep
+8	l'	il	R	RD	num=s|gen=n	9	det
+9	umanità	umanità	S	S	num=s|gen=f	7	obj
+10	.	.	F	FS	_	5	punc
+
+1	In	in	E	E	_	0	ROOT
+2	questo	questo	D	DD	num=s|gen=m	3	mod
+3	clima	clima	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	sgomento	sgomento	S	S	num=s|gen=m	4	prep
+6	per	per	E	E	_	1	comp
+7	il	il	R	RD	num=s|gen=m	8	det
+8	popolo	popolo	S	S	num=s|gen=m	6	prep
+9	italiano	italiano	A	A	num=s|gen=m	8	mod
+
+1	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fuori	fuori	E	E	_	1	comp
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	acutezza	acutezza	S	S	num=s|gen=f	2	prep
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	pensiero	pensiero	S	S	num=s|gen=m	5	prep
+7	vaticano	vaticano	A	A	num=s|gen=m	6	mod
+8	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	4	con
+2	tutti	tutto	P	PI	num=p|gen=m	4	subj
+3	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+4	capito	capire	V	V	num=s|mod=p|gen=m	0	ROOT
+5	che	che	C	CS	_	4	arg
+6	il	il	R	RD	num=s|gen=m	7	det
+7	Papa	Papa	S	SP	_	8	subj
+8	era	essere	V	V	num=s|per=3|mod=i|ten=i	5	sub
+9	un	uno	R	RI	num=s|gen=m	10	det
+10	genio	genio	S	S	num=s|gen=m	8	pred
+
+1	quando	quando	C	CS	_	0	ROOT
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	detto	dire	V	V	num=s|mod=p|gen=m	1	sub
+4	che	che	C	CS	_	3	arg
+5	la	il	R	RD	num=s|gen=f	6	det
+6	mafia	mafia	S	S	num=s|gen=f	7	subj
+7	é	é	V	V	num=s|per=3|mod=i|ten=p	4	sub
+8	figlia	figlio	S	S	num=s|gen=f	7	obj
+9	del	di	E	EA	num=s|gen=m	8	comp
+10	demonio	demonio	S	S	num=s|gen=m	9	prep
+11	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	5	con
+2	quello	quello	P	PD	num=s|gen=m	5	subj
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	spaventa	spaventare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	il	il	R	RD	num=s|gen=m	7	det
+7	coraggio	coraggio	S	S	num=s|gen=m	5	obj
+8	della	di	E	EA	num=s|gen=f	7	comp
+9	CEI	CEI	S	SP	_	8	prep
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+3	già	già	B	B	_	4	mod
+4	riabilitato	riabilitare	V	V	num=s|mod=p|gen=m	0	ROOT
+5	Galileo	Galileo	S	SP	_	6	mod
+6	Galilei	Galilei	S	SP	_	4	mod
+7	.	.	F	FS	_	4	punc
+
+1	E	e	C	CC	_	8	con
+2	adesso	adesso	B	B	_	8	mod_temp
+3	se	se	C	CS	_	8	mod
+4	divorzi	divorziare	V	V	num=s|per=3|mod=c|ten=p	3	sub
+5	ti	ti	P	PC	num=s|per=2|gen=n	4	obj
+6	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	8	modal
+7	anche	anche	B	B	_	8	mod
+8	risposare	risposare	V	V	mod=f	0	ROOT
+
+1	a	a	E	E	_	4	comp
+2	patto	patto	S	S	num=s|gen=m	1	prep
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	stai	stare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+5	buono	buono	A	A	num=s|gen=m	4	pred
+6	e	e	C	CC	_	4	con
+7	non	non	B	BN	_	9	neg
+8	ti	ti	P	PC	num=s|per=2|gen=n	9	obj
+9	metti	mettere	V	V	num=s|per=2|mod=i|ten=p	4	conj
+10	a	a	E	E	_	9	arg
+11	scopare	scopare	V	V	mod=f	10	prep
+12	.	.	F	FS	_	4	punc
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	nuovo	nuovo	A	A	num=s|gen=m	4	mod
+4	sacramento	sacramento	S	S	num=s|gen=m	1	ROOT
+5	per	per	E	E	_	4	arg
+6	esser	essere	V	V	mod=f	5	prep
+7	senza	senza	E	E	_	6	comp
+8	macchia	macchia	S	S	num=s|gen=f	7	prep
+
+1	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fatto	fare	V	V	num=s|mod=p|gen=m	1	pred
+3	di	di	E	E	_	2	comp
+4	nascosto	nascosto	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	1	con
+6	in	in	E	E	_	1	comp
+7	un'	uno	R	RI	num=s|gen=f	9	det
+8	altra	altro	A	A	num=s|gen=f	9	mod
+9	parrocchia	parrocchia	S	S	num=s|gen=f	6	prep
+10	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	chiesa	chiesa	S	S	num=s|gen=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	rinnova	rinnovare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	per	per	E	E	_	5	comp
+7	la	il	R	RD	num=s|gen=f	9	det
+8	nuova	nuovo	A	A	num=s|gen=f	9	mod
+9	società	società	S	S	num=n|gen=f	6	prep
+
+1	e	e	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	chiesa	chiesa	S	S	num=s|gen=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	rinnova	rinnovare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	per	per	E	E	_	5	arg
+7	salvar	salvare	V	V	mod=f	6	prep
+8	l'	il	R	RD	num=s|gen=n	9	det
+9	umanità	umanità	S	S	num=s|gen=f	7	obj
+10	.	.	F	FS	_	5	punc
+
+1	Da	da	E	E	_	5	comp
+2	oggi	oggi	B	B	_	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	praticante	praticante	S	S	num=s|gen=n	5	subj
+5	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	un'	uno	R	RI	num=s|gen=f	8	det
+7	altra	altro	A	A	num=s|gen=f	8	mod
+8	prospettiva	prospettiva	S	S	num=s|gen=f	5	obj
+
+1	più	più	B	B	_	2	mod
+2	allegra	allegro	A	A	num=s|gen=f	5	mod
+3	e	e	C	CC	_	2	con
+4	disinvolta	disinvolto	A	A	num=s|gen=f	2	conj
+5	direi	dire	V	V	num=s|per=1|mod=d|ten=p	0	ROOT
+6	quasi	quasi	B	B	_	7	mod
+7	alternativa	alternativo	A	A	num=s|gen=f	5	mod
+8	.	.	F	FS	_	5	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	pillola	pillola	S	S	num=s|gen=f	8	subj_pass
+3	per	per	E	E	_	8	comp
+4	ora	ora	B	B	_	3	prep
+5	non	non	B	BN	_	8	neg
+6	può	potere	V	VM	num=s|per=3|mod=i|ten=p	8	modal
+7	essere	essere	V	VA	mod=f	8	aux
+8	accettata	accettare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	ma	ma	C	CC	_	3	con
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	ammessa	ammettere	V	V	num=s|mod=p|gen=f	0	ROOT
+4	se	se	C	CS	_	3	mod
+5	prevedi	prevedere	V	V	num=s|per=2|mod=i|ten=p	4	sub
+6	di	di	E	E	_	5	arg
+7	esser	essere	V	VA	mod=f	8	aux
+8	violentata	violentare	V	V	num=s|mod=p|gen=f	6	prep
+9	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	0	ROOT
+2	piuttosto	piuttosto	B	B	_	1	concat
+3	che	che	C	CS	_	2	concat
+4	fare	fare	V	V	mod=f	3	sub
+5	uso	uso	S	S	num=s|gen=m	4	obj
+6	dei	di	E	EA	num=p|gen=m	5	comp
+7	preservativi	preservativo	S	S	num=p|gen=m	6	prep
+
+1	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	meglio	meglio	B	B	_	3	mod
+3	diventare	diventare	V	V	mod=f	1	arg
+4	tutti	tutto	D	DI	num=p|gen=m	5	mod
+5	sieropositivi	sieropositivi	A	A	num=p|gen=m	3	pred
+6	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	5	con
+2	van	van	S	SW	num=n|gen=n	1	concat
+3	bene	bene	B	B	_	5	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	militari	militare	S	S	num=p|gen=m	0	ROOT
+6	e	e	C	CC	_	5	con
+7	van	van	S	SW	num=n|gen=n	5	conj
+8	bene	bene	B	B	_	5	mod
+9	i	il	R	RD	num=p|gen=m	10	det
+10	dottori	dottore	S	S	num=p|gen=m	5	conj
+
+1	adesso	adesso	B	B	_	2	mod_temp
+2	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	5	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	farmacisti	farmacista	S	S	num=p|gen=m	2	obj
+6	obiettori	obiettore	S	S	num=p|gen=m	5	mod
+7	.	.	F	FS	_	2	punc
+
+1	D'	di	E	E	_	8	comp
+2	altronde	altronde	B	B	_	1	prep
+3	per	per	E	E	_	8	comp
+4	la	il	R	RD	num=s|gen=f	5	det
+5	chiesa	chiesa	S	S	num=s|gen=f	3	prep
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	ideale	ideale	S	S	num=s|gen=m	8	subj
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+9	l'	il	R	RD	num=s|gen=n	10	det
+10	astinenza	astinenza	S	S	num=s|gen=f	8	pred
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	come	come	E	E	_	2	pred
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	invito	invito	S	S	num=s|gen=m	5	prep
+8	all'	al	E	EA	num=s|gen=n	7	comp
+9	autosufficienza	autosufficienza	S	S	num=s|gen=f	8	prep
+
+1	E	e	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	chiesa	chiesa	S	S	num=s|gen=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	rinnova	rinnovare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	per	per	E	E	_	5	comp
+7	la	il	R	RD	num=s|gen=f	9	det
+8	nuova	nuovo	A	A	num=s|gen=f	9	mod
+9	società	società	S	S	num=n|gen=f	6	prep
+
+1	e	e	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	chiesa	chiesa	S	S	num=s|gen=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	rinnova	rinnovare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	per	per	E	E	_	5	arg
+7	salvar	salvare	V	V	mod=f	6	prep
+8	l'	il	R	RD	num=s|gen=n	9	det
+9	umanità	umanità	S	S	num=s|gen=f	7	obj
+10	.	.	F	FS	_	5	punc
+
+1	Da	da	E	E	_	0	ROOT
+2	Roma	Roma	S	SP	_	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	Santo	Santo	S	SP	_	7	subj
+5	Padre	Padre	S	SP	_	4	concat
+6	ci	ci	P	PC	num=p|per=1|gen=n	7	comp_ind
+7	invia	inviare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+8	il	il	R	RD	num=s|gen=m	10	det
+9	suo	suo	A	AP	num=s|gen=m	10	mod
+10	messaggio	messaggio	S	S	num=s|gen=m	7	obj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	lì	lì	B	B	_	1	pred
+3	ogni	ogni	D	DI	num=s|gen=n	4	mod
+4	domenica	domenica	S	S	num=s|gen=f	1	subj
+5	a	a	E	E	_	4	comp
+6	parte	parte	S	S	num=s|gen=f	5	prep
+7	quando	quando	C	CS	_	4	mod
+8	é	é	V	V	num=s|per=3|mod=i|ten=p	7	sub
+9	in	in	E	E	_	8	comp
+10	viaggio	viaggio	S	S	num=s|gen=m	9	prep
+11	.	.	F	FS	_	1	punc
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	3	subj
+2	voleva	volere	V	VM	num=s|per=3|mod=i|ten=i	3	modal
+3	andare	andare	V	V	mod=f	0	ROOT
+4	in	in	E	E	_	3	comp_loc
+5	Bosnia	Bosnia	S	SP	_	4	prep
+6	l'	lo	P	PC	num=s|per=3|gen=n	9	obj
+7	aveva	avere	V	VA	num=s|per=3|mod=i|ten=i	9	aux
+8	stra	stra	B	B	_	9	mod
+9	annunciato	annunciare	V	V	num=s|mod=p|gen=m	3	conj
+
+1	ma	ma	C	CC	_	6	con
+2	all'	al	E	EA	num=s|gen=n	6	comp
+3	ultimo	ultimo	A	A	num=s|gen=m	4	mod
+4	momento	momento	S	S	num=s|gen=m	2	prep
+5	ci	ci	P	PC	num=p|per=1|gen=n	6	comp_ind
+6	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	un	uno	R	RI	num=s|gen=m	9	det
+8	pò	pò	B	B	_	9	mod
+9	ripensato	ripensare	V	V	num=s|mod=p|gen=m	6	conj
+10	.	.	F	FS	_	6	punc
+
+1	Perché	perché	B	B	_	4	mod
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	santo	santo	A	A	num=s|gen=m	4	pred
+6	e	e	C	CC	_	5	con
+7	pio	pio	A	A	num=s|gen=m	5	conj
+8	ma	ma	C	CC	_	4	con
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	anche	anche	B	B	_	11	mod
+11	molto	molto	B	B	_	12	mod
+12	scaltro	scaltro	A	A	num=s|gen=m	9	pred
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	3	subj
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	che	che	D	DE	num=n|gen=n	5	subj
+5	morto	morire	V	V	num=s|mod=p|gen=m	3	arg
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	papa	papa	S	S	num=s|gen=m	5	obj
+8	se	se	P	PC	num=n|per=3|gen=n	10	clit
+9	ne	ne	P	PC	num=n|gen=n	10	comp
+10	fa	fare	V	V	num=s|per=3|mod=i|ten=p	5	conj
+11	subito	subito	B	B	_	10	mod_temp
+12	un	uno	R	RI	num=s|gen=m	13	det
+13	altro	altro	P	PI	num=s|gen=m	10	obj
+14	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	4	con
+2	allora	allora	B	B	_	4	mod
+3	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	scritto	scrivere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	libro	libro	S	S	num=s|gen=m	4	obj
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	é	é	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+9	diventato	diventare	V	V	num=s|mod=p|gen=m	8	mod
+10	un	uno	R	RI	num=s|gen=m	12	det
+11	grosso	grosso	A	A	num=s|gen=m	12	mod
+12	evento	evento	S	S	num=s|gen=m	9	pred
+
+1	sarà	essere	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+2	anche	anche	B	B	_	5	mod
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	acciaccato	acciaccare	V	V	num=s|mod=p|gen=m	1	pred
+6	ma	ma	C	CC	_	1	con
+7	non	non	B	BN	_	8	neg
+8	sta	stare	V	V	num=s|per=3|mod=i|ten=p	1	conj
+9	fermo	fermo	A	A	num=s|gen=m	8	pred
+10	un	uno	R	RI	num=s|gen=m	11	det
+11	momento	momento	S	S	num=s|gen=m	8	subj
+12	.	.	F	FS	_	1	punc
+
+1	Per	per	E	E	_	7	comp
+2	il	il	R	RD	num=s|gen=m	4	det
+3	suo	suo	A	AP	num=s|gen=m	4	mod
+4	decisionismo	decisionismo	S	S	num=s|gen=m	1	prep
+5	si	si	P	PC	num=n|per=3|gen=n	7	clit
+6	può	potere	V	VM	num=s|per=3|mod=i|ten=p	7	modal
+7	dire	dire	V	V	mod=f	0	ROOT
+8	senza	senza	E	E	_	7	comp
+9	offesa	offesa	S	S	num=s|gen=f	8	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	Papa	Papa	S	SP	_	3	mod
+3	Woitjla	Woitjla	S	SP	_	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+5	il	il	R	RD	num=s|gen=m	6	det
+6	Berlusconi	Berlusconi	S	SP	_	4	pred
+7	della	di	E	EA	num=s|gen=f	6	comp
+8	chiesa	chiesa	S	S	num=s|gen=f	7	prep
+9	.	.	F	FS	_	1	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	chiesa	chiesa	S	S	num=s|gen=f	0	ROOT
+3	sempre	sempre	B	B	_	4	mod
+4	all'	al	E	EA	num=s|gen=n	2	comp
+5	erta	erta	S	S	num=s|gen=f	4	prep
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	combatte	combattere	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+8	e	e	C	CC	_	7	con
+9	fa	fare	V	V	num=s|per=3|mod=i|ten=p	7	conj
+10	scintille	scintilla	S	S	num=p|gen=f	2	mod
+
+1	e	e	C	CC	_	4	con
+2	per	per	E	E	_	4	comp
+3	questo	questo	P	PD	num=s|gen=m	2	prep
+4	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	giusto	giusto	A	A	num=s|gen=m	4	pred
+6	dar-	dare	V	V	mod=f	4	subj
+7	le	le	P	PC	num=n|per=3|gen=f	6	comp_ind
+8	un	uno	R	RI	num=s|gen=m	10	det
+9	bell'	bell'	R	RI	num=s|gen=m	10	det
+10	otto	otto	N	N	_	6	obj
+11	per	per	E	E	_	6	comp
+12	mille	mille	N	N	_	11	prep
+13	.	.	F	FS	_	4	punc
+
+1	Anche	anche	B	B	_	2	mod
+2	se	se	C	CS	_	0	ROOT
+3	i	il	R	RD	num=p|gen=m	4	det
+4	traffici	traffico	S	S	num=p|gen=m	2	sub
+5	loschi	losco	A	A	num=p|gen=m	4	mod
+6	della	di	E	EA	num=s|gen=f	4	comp
+7	Santa	Santa	S	SP	_	6	prep
+8	Sede	Sede	S	SP	_	4	mod
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	parte	parte	S	S	num=s|gen=f	1	pred
+3	integrante	integrante	A	A	num=s|gen=n	2	mod
+4	dei	di	E	EA	num=p|gen=m	2	comp
+5	misteri	mistero	S	S	num=p|gen=m	4	prep
+6	della	di	E	EA	num=s|gen=f	5	comp
+7	fede	fede	S	S	num=s|gen=f	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	chiesa	chiesa	S	S	num=s|gen=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	rinnova	rinnovare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	per	per	E	E	_	5	comp
+7	la	il	R	RD	num=s|gen=f	9	det
+8	nuova	nuovo	A	A	num=s|gen=f	9	mod
+9	società	società	S	S	num=n|gen=f	6	prep
+
+1	e	e	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	chiesa	chiesa	S	S	num=s|gen=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	rinnova	rinnovare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	per	per	E	E	_	5	arg
+7	salvar	salvare	V	V	mod=f	6	prep
+8	l'	il	R	RD	num=s|gen=n	9	det
+9	umanità	umanità	S	S	num=s|gen=f	7	obj
+10	.	.	F	FS	_	5	punc
+

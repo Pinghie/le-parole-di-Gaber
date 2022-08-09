@@ -1,0 +1,301 @@
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	appartengo	appartenere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	a	a	E	E	_	3	comp
+5	niente	niente	B	B	_	4	prep
+
+1	figuriamo-	figurare	V	V	num=p|per=1|mod=m|ten=p	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	1	clit
+3	all'	al	E	EA	num=s|gen=n	1	comp
+4	amore	amore	S	S	num=s|gen=m	3	prep
+
+1	Il	il	R	RD	num=s|gen=m	3	det
+2	mio	mio	A	AP	num=s|gen=m	3	mod
+3	amore	amore	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	solamente	solo	B	B	_	4	mod
+6	quello	quello	P	PD	num=s|gen=m	4	pred
+7	che	che	P	PR	num=n|gen=n	9	obj
+8	ti	ti	P	PC	num=s|per=2|gen=n	9	comp_ind
+9	do	dare	V	V	num=s|per=1|mod=i|ten=p	6	mod_rel
+
+1	a	a	E	E	_	3	comp
+2	volte	volta	S	S	num=p|gen=f	1	prep
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	6	det
+5	mio	mio	A	AP	num=s|gen=m	6	mod
+6	bisogno	bisogno	S	S	num=s|gen=m	3	obj
+7	di	di	E	E	_	6	arg
+8	inventare	inventare	V	V	mod=f	7	prep
+
+1	ma	ma	C	CC	_	3	con
+2	come	come	C	CS	_	3	mod
+3	faccio	fare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	a	a	E	E	_	3	arg
+5	tirar	tirare	V	V	mod=f	4	prep
+6	fuori	fuori	E	E	_	5	comp
+7	quello	quello	P	PD	num=s|gen=m	6	prep
+8	che	che	P	PR	num=n|gen=n	10	obj
+9	non	non	B	BN	_	10	neg
+10	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	7	mod_rel
+
+1	Un'	uno	R	RI	num=s|gen=f	2	det
+2	emozione	emozione	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	che	che	C	CS	_	4	arg
+6	cosa	cosa	S	S	num=s|gen=f	7	subj
+7	sia	essere	V	VA	num=s|per=3|mod=c|ten=p	5	sub
+
+1	ma	ma	C	CC	_	3	con
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	imparato	imparare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	che	che	C	CS	_	3	arg
+5	va	andare	V	V	num=s|per=3|mod=i|ten=p	6	modal
+6	buttata	buttare	V	V	num=s|mod=p|gen=f	4	sub
+7	via	via	B	B	_	6	mod
+8	.	.	F	FS	_	3	punc
+
+1	Dolce	dolce	A	A	num=s|gen=n	2	mod
+2	prudenza	prudenza	S	S	num=s|gen=f	5	subj
+3	ti	ti	P	PC	num=s|per=2|gen=n	5	obj
+4	prego	prego	I	I	_	5	mod
+5	resta	restare	V	V	num=s|per=3|mod=i|ten=p	0	_
+6	ancora	ancora	B	B	_	5	mod
+7	con	con	E	E	_	5	comp
+8	me	me	P	PE	num=s|per=1|gen=n	7	prep
+
+1	da	da	E	E	_	5	comp_temp
+2	troppo	troppo	D	DI	num=s|gen=m	3	mod
+3	tempo	tempo	S	S	num=s|gen=m	1	prep
+4	non	non	B	BN	_	5	neg
+5	soffro	soffrire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+6	grazie	grazie	S	S	num=n|gen=n	5	obj
+7	a	a	E	E	_	6	comp
+8	te	te	P	PE	num=s|per=2|gen=n	7	prep
+9	.	.	F	FS	_	5	punc
+
+1	Un'	uno	R	RI	num=s|gen=f	2	det
+2	emozione	emozione	S	S	num=s|gen=f	5	subj
+3	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+4	so	sapere	V	V	num=s|per=1|mod=i|ten=p	2	mod_rel
+5	esiste	esistere	V	V	num=s|per=3|mod=i|ten=p	0	_
+6	ancora	ancora	B	B	_	5	mod
+
+1	ma	ma	C	CC	_	3	con
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	imparato	imparare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	che	che	C	CS	_	3	arg
+5	può	potere	V	VM	num=s|per=3|mod=i|ten=p	7	modal
+6	non	non	B	BN	_	7	neg
+7	esser	essere	V	V	mod=f	4	sub
+8	vera	vero	A	A	num=s|gen=f	7	pred
+9	.	.	F	FS	_	3	punc
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	prudenza	prudenza	S	S	num=s|gen=f	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	dice	dire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	non	non	B	BN	_	7	neg
+7	fidar-	fidare	V	V	mod=f	5	subj
+8	ti	ti	P	PC	num=s|per=2|gen=n	7	clit
+9	di	di	E	E	_	7	comp
+10	lei	lei	P	PE	num=s|per=3|gen=n	5	subj
+
+1	io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+2	per	per	E	E	_	1	arg
+3	aver-	avere	V	V	mod=f	7	mod
+4	la	la	P	PC	num=s|per=3|gen=f	3	obj
+5	chissà	chissà	B	B	_	7	mod
+6	cosa	cosa	P	PQ	num=s|gen=n	7	obj
+7	darei	dare	V	V	num=s|per=1|mod=d|ten=p	2	prep
+8	.	.	F	FS	_	1	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	mano	mano	S	S	num=s|gen=f	2	mod
+5	di	di	E	E	_	4	comp
+6	donna	donna	S	S	num=s|gen=f	5	prep
+7	appoggiata	appoggiare	V	V	num=s|mod=p|gen=f	6	mod
+8	sul	su	E	EA	num=s|gen=m	7	comp
+9	viso	viso	S	S	num=s|gen=m	8	prep
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	mio	mio	A	AP	num=s|gen=m	3	mod
+3	viso	viso	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	fermo	fermo	A	A	num=s|gen=m	4	pred
+6	la	il	R	RD	num=s|gen=f	7	det
+7	pelle	pelle	S	S	num=s|gen=f	4	subj
+8	di	di	E	E	_	7	comp
+9	una	uno	R	RI	num=s|gen=f	10	det
+10	mano	mano	S	S	num=s|gen=f	8	prep
+
+1	con	con	E	E	_	0	ROOT
+2	dentro	dentro	B	B	_	4	mod
+3	piccole	piccolo	A	A	num=p|gen=f	4	mod
+4	vene	vena	S	S	num=p|gen=f	1	prep
+5	intrecciate	intrecciare	V	V	num=p|mod=p|gen=f	4	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	donna	donna	S	S	num=s|gen=f	3	prep
+6	sul	su	E	EA	num=s|gen=m	5	comp
+7	mo	mo	C	CC	_	6	con
+8	corpo	corpo	S	S	num=s|gen=m	6	prep
+9	lontano	lontano	A	A	num=s|gen=m	8	mod
+10	.	.	F	FS	_	2	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	bocca	bocca	S	S	num=s|gen=f	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	bocca	bocca	S	S	num=s|gen=f	6	subj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+7	più	più	B	B	_	8	mod
+8	vicina	vicino	A	A	num=s|gen=f	6	pred
+9	per	per	E	E	_	8	comp
+10	un	uno	R	RI	num=s|gen=m	11	det
+11	contatto	contatto	S	S	num=s|gen=m	9	prep
+
+1	controllo	controllo	S	S	num=s|gen=m	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	gesto	gesto	S	S	num=s|gen=m	6	subj
+4	ed	e	C	CC	_	3	con
+5	ora	ora	B	B	_	6	mod_temp
+6	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+7	sul	su	E	EA	num=s|gen=m	6	pred
+8	letto	letto	S	S	num=s|gen=m	7	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	spallina	spallina	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	cade	cadere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	da	da	E	E	_	4	comp
+6	sola	solo	A	A	num=s|gen=f	5	prep
+
+1	e	e	C	CC	_	7	con
+2	nel	in	E	EA	num=s|gen=m	4	comp
+3	silenzio	silenzio	S	S	num=s|gen=m	2	prep
+4	solo	solo	B	B	_	7	mod
+5	i	il	R	RD	num=p|gen=m	7	det
+6	nostri	nostro	A	AP	num=p|gen=m	7	mod
+7	corpi	corpo	S	S	num=p|gen=m	0	ROOT
+8	in	in	E	E	_	7	comp
+9	contatto	contatto	S	S	num=s|gen=m	8	prep
+10	.	.	F	FS	_	7	punc
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	mano	mano	S	S	num=s|gen=f	0	ROOT
+4	meccanica	meccanico	A	A	num=s|gen=f	3	mod
+5	con	con	E	E	_	3	comp
+6	gesti	gesto	S	S	num=p|gen=m	5	prep
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	pò	pò	B	B	_	9	mod
+9	studiati	studiare	V	V	num=p|mod=p|gen=m	6	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	muove	muovere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	in	in	E	E	_	2	comp
+5	fretta	fretta	S	S	num=s|gen=f	4	prep
+6	ed	e	C	CC	_	2	con
+7	ora	ora	B	B	_	9	mod_temp
+8	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	9	aux
+9	attaccati	attaccare	V	V	num=p|mod=p|gen=m	2	conj
+
+1	Si	si	P	PC	num=n|per=3|gen=n	3	clit
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	stabilita	stabilire	V	V	num=s|mod=p|gen=f	0	ROOT
+4	un'	uno	R	RI	num=s|gen=f	5	det
+5	intesa	intesa	S	S	num=s|gen=f	3	subj_pass
+6	perfetta	perfetto	A	A	num=s|gen=f	5	mod
+7	controllo	controllo	S	S	num=s|gen=m	5	mod
+8	il	il	R	RD	num=s|gen=m	10	det
+9	mio	mio	A	AP	num=s|gen=m	10	mod
+10	corpo	corpo	S	S	num=s|gen=m	7	mod
+
+1	ne	ne	P	PC	num=n|gen=n	2	comp
+2	studio	studio	S	S	num=s|gen=m	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	entusiasmo	entusiasmo	S	S	num=s|gen=m	2	conj
+5	amore	amore	S	S	num=s|gen=m	4	mod
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	orgasmo	orgasmo	S	S	num=s|gen=m	2	conj
+8	.	.	F	FS	_	2	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	orgasmo	orgasmo	S	S	num=s|gen=m	0	ROOT
+
+1	Un'	uno	R	RI	num=s|gen=f	2	det
+2	emozione	emozione	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	che	che	C	CS	_	4	arg
+6	cosa	cosa	S	S	num=s|gen=f	7	subj
+7	sia	essere	V	VA	num=s|per=3|mod=c|ten=p	5	sub
+
+1	ma	ma	C	CC	_	3	con
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	imparato	imparare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	che	che	C	CS	_	3	arg
+5	va	andare	V	V	num=s|per=3|mod=i|ten=p	6	modal
+6	buttata	buttare	V	V	num=s|mod=p|gen=f	4	sub
+7	via	via	B	B	_	6	mod
+8	.	.	F	FS	_	3	punc
+
+1	Dolce	dolce	A	A	num=s|gen=n	2	mod
+2	prudenza	prudenza	S	S	num=s|gen=f	5	subj
+3	ti	ti	P	PC	num=s|per=2|gen=n	5	obj
+4	prego	prego	I	I	_	5	mod
+5	resta	restare	V	V	num=s|per=3|mod=i|ten=p	0	_
+6	ancora	ancora	B	B	_	5	mod
+7	con	con	E	E	_	5	comp
+8	me	me	P	PE	num=s|per=1|gen=n	7	prep
+
+1	da	da	E	E	_	0	ROOT
+2	troppo	troppo	D	DI	num=s|gen=m	3	mod
+3	tempo	tempo	S	S	num=s|gen=m	1	prep
+4	non	non	B	BN	_	5	neg
+5	vivo	vivo	A	A	num=s|gen=m	1	conj
+6	grazie	grazie	S	S	num=n|gen=n	5	comp
+7	a	a	E	E	_	6	comp
+8	te	te	P	PE	num=s|per=2|gen=n	7	prep
+9	.	.	F	FS	_	1	punc
+
+1	Grazie	Grazie	S	S	num=n|gen=n	10	comp
+2	a	a	E	E	_	1	comp
+3	te	te	P	PE	num=s|per=2|gen=n	2	prep
+4	,	,	F	FF	_	2	punc
+5	prima	prima	B	B	_	6	mod
+6	di	di	E	E	_	10	mod_temp
+7	muover-	muovere	V	V	mod=f	6	prep
+8	me	me	P	PC	num=s|per=1|gen=n	7	obj
+9	ci	ci	P	PC	num=p|per=1|gen=n	10	clit
+10	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+11	,	,	F	FF	_	10	con
+12	leggo	leggere	V	V	num=s|per=1|mod=i|ten=p	10	conj
+13	mi	mi	P	PC	num=s|per=1|gen=n	14	clit
+14	informo	informare	V	V	num=s|per=1|mod=i|ten=p	12	arg
+15	,	,	F	FF	_	10	con
+16	mi	mi	P	PC	num=s|per=1|gen=n	10	conj
+17	documento	documento	S	S	num=s|gen=m	16	mod
+18	.	.	F	FS	_	10	punc
+
+1	E	e	C	CC	_	8	con
+2	dopo	dopo	E	E	_	8	comp_temp
+3	sì	sì	B	B	_	2	prep
+4	che	che	C	CS	_	8	mod
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	4	sub
+6	giusto	giusto	A	A	num=s|gen=m	5	pred
+7	,	,	F	FF	_	4	con
+8	corretto	correggere	V	V	num=s|mod=p|gen=m	0	ROOT
+9	ideologicamente	ideologicamente	B	B	_	8	mod
+10	perfetto	perfetto	A	A	num=s|gen=m	8	pred
+11	.	.	F	FS	_	8	punc
+

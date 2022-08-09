@@ -1,0 +1,262 @@
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	muove	muovere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	palla	palla	S	S	num=s|gen=f	2	subj
+5	salta	saltare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	rimbalza	rimbalzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	oscilla	oscillare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	saltella	saltellare	V	V	num=s|per=3|mod=i|ten=p	1	arg
+3	cade	cadere	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	rialza	rialzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	scivola	scivolare	V	V	num=s|per=3|mod=i|ten=p	2	modal
+2	ondeggia	ondeggiare	V	V	num=s|per=3|mod=i|ten=p	4	arg
+3	s'	si	P	PC	num=n|per=3|gen=n	2	clit
+4	immerge	immergere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	galleggia	galleggiare	V	V	num=s|per=3|mod=i|ten=p	5	arg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	gonfia	gonfiare	V	V	num=s|per=3|mod=i|ten=p	1	arg
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	dilata	dilatare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	schiaccia	schiacciare	V	V	num=s|per=3|mod=i|ten=p	4	arg
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	comprime	comprimere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	inutile	inutile	A	A	num=s|gen=n	3	mod
+3	inutile	inutile	A	A	num=s|gen=n	1	pred
+4	inutile	inutile	A	A	num=s|gen=n	3	mod
+
+1	Com'	come	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	grande	grande	A	A	num=s|gen=n	2	pred
+4	e	e	C	CC	_	2	con
+5	vuota	vuoto	A	A	num=s|gen=f	2	conj
+6	e	e	C	CC	_	5	con
+7	bianca	bianco	A	A	num=s|gen=f	5	conj
+8	e	e	C	CC	_	5	con
+9	molle	molle	A	A	num=s|gen=n	5	conj
+
+1	tenera	tenero	A	A	num=s|gen=f	2	mod
+2	leggera	leggero	A	A	num=s|gen=f	0	ROOT
+3	lieve	lieve	A	A	num=s|gen=n	4	mod
+4	piena	pieno	A	A	num=s|gen=f	2	mod
+5	d'	di	E	E	_	4	comp
+6	aria	aria	S	S	num=s|gen=f	5	prep
+
+1	trasparente	trasparente	A	A	num=s|gen=n	4	mod
+2	fragile	fragile	A	A	num=s|gen=n	1	mod
+3	tonda	tondo	A	A	num=s|gen=f	4	mod
+4	liscia	liscia	S	S	num=s|gen=f	0	ROOT
+
+1	levigata	levigare	V	V	num=s|mod=p|gen=f	0	ROOT
+2	plasmabile	plasmabile	A	A	num=s|gen=n	3	mod
+3	umida	umido	A	A	num=s|gen=f	1	pred
+4	viscida	viscido	A	A	num=s|gen=f	3	mod
+
+1	inutile	inutile	A	A	num=s|gen=n	2	mod
+2	inutile	inutile	A	A	num=s|gen=n	0	ROOT
+3	inutile	inutile	A	A	num=s|gen=n	2	mod
+
+1	Non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	niente	niente	P	PI	num=s|gen=m	2	pred
+4	di	di	E	E	_	3	comp
+5	speciale	speciale	A	A	num=s|gen=n	4	prep
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	poi	poi	B	B	_	3	mod
+5	tanto	tanto	B	B	_	3	mod
+6	strana	strano	A	A	num=s|gen=f	3	pred
+
+1	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	vita	vita	S	S	num=s|gen=f	1	obj
+4	quasi	quasi	B	B	_	5	mod
+5	umana	umano	A	A	num=s|gen=f	3	mod
+
+1	con	con	E	E	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	4	det
+3	sue	suo	A	AP	num=p|gen=f	4	mod
+4	difficoltà	difficoltà	S	S	num=n|gen=f	1	prep
+
+1	Non	non	B	BN	_	2	neg
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	2	mod
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	gran	gran	A	A	num=n|gen=n	6	mod
+6	valore	valore	S	S	num=s|gen=m	2	obj
+
+1	non	non	B	BN	_	2	neg
+2	pretende	pretendere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	quasi	quasi	B	B	_	2	mod
+4	niente	niente	B	B	_	2	mod
+
+1	e	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	vende	vendere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	facilmente	facilmente	B	B	_	3	mod
+
+1	senza	senza	E	E	_	0	ROOT
+2	troppa	troppo	D	DI	num=s|gen=f	3	mod
+3	dignità	dignità	S	S	num=n|gen=f	1	prep
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	,	,	F	FF	_	6	punc
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	certo	certo	B	B	_	6	mod
+5	come	come	C	CS	_	6	mod
+6	vuole	volere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	lei	lei	P	PE	num=s|per=3|gen=n	6	subj
+8	,	,	F	FF	_	6	punc
+9	come	come	B	B	_	10	mod
+10	desidera	desiderare	V	V	num=s|per=3|mod=i|ten=p	6	conj
+11	.	.	F	FS	_	6	punc
+
+1	Solo	solo	B	B	_	4	mod
+2	se	se	P	PC	num=n|per=3|gen=n	4	clit
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	consente	consentire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	,	,	F	FF	_	4	con
+6	volevo	volere	V	V	num=s|per=1|mod=i|ten=i	4	conj
+7	dire	dire	V	V	mod=f	6	arg
+8	una	uno	R	RI	num=s|gen=f	9	det
+9	cosa	cosa	S	S	num=s|gen=f	7	obj
+10	,	,	F	FF	_	12	punc
+11	una	uno	R	RI	num=s|gen=f	12	det
+12	soltanto	soltanto	B	B	_	9	comp
+13	.	.	F	FS	_	12	punc
+
+1	Ah	ah	I	I	_	0	ROOT
+2	no	no	B	BN	_	1	punc
+3	.	.	F	FS	_	1	punc
+
+1	Non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	niente	niente	B	B	_	3	mod
+5	da	da	E	E	_	3	arg
+6	dire	dire	V	V	mod=f	5	prep
+7	,	,	F	FF	_	3	punc
+8	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+9	ragione	ragione	S	S	num=s|gen=f	8	obj
+10	mi	mi	P	PC	num=s|per=1|gen=n	11	obj
+11	scusi	scusare	V	V	num=s|per=3|mod=c|ten=p	8	conj
+12	.	.	F	FS	_	8	punc
+
+1	Comunque	comunque	B	B	_	2	mod
+2	disponga	disporre	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	pure	pure	B	B	_	2	mod
+4	di	di	E	E	_	2	comp
+5	me	me	P	PE	num=s|per=1|gen=n	4	prep
+6	,	,	F	FF	_	7	punc
+7	quando	quando	C	CS	_	2	mod
+8	vuole	volere	V	V	num=s|per=3|mod=i|ten=p	7	sub
+9	.	.	F	FS	_	2	punc
+
+1	Ah	ah	I	I	_	0	_
+2	ah	ah	I	I	_	1	mod
+3	ah	ah	I	I	_	2	mod
+4	ah	ah	I	I	_	3	mod
+5	,	,	F	FF	_	4	punc
+6	buona	buono	A	A	num=s|gen=f	7	mod
+7	questa	questo	P	PD	num=s|gen=f	3	obj
+8	ah	ah	I	I	_	7	mod
+9	ah	ah	I	I	_	7	mod
+10	ah	ah	I	I	_	9	mod
+11	ah	ah	I	I	_	7	mod
+12	ah	ah	I	I	_	1	mod
+
+1	Ma	ma	C	CC	_	3	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	3	subj
+3	dim-	dire	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+4	mi	mi	P	PC	num=s|per=1|gen=n	3	obj
+5	non	non	B	BN	_	7	neg
+6	lo	lo	P	PC	num=s|per=3|gen=m	7	obj
+7	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	3	ROOT
+
+1	quanto	quanto	P	PR	num=s|gen=m	2	obj
+2	schifo	schifare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	ti	ti	P	PC	num=s|per=2|gen=n	5	comp_ind
+5	fai	fare	V	V	num=s|per=2|mod=i|ten=p	3	sub
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	muove	muovere	V	V	num=s|per=3|mod=i|ten=p	5	arg
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	obj
+5	salta	saltare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	rimbalza	rimbalzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	oscilla	oscillare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	saltella	saltellare	V	V	num=s|per=3|mod=i|ten=p	1	arg
+3	cade	cadere	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	rialza	rialzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	scivola	scivolare	V	V	num=s|per=3|mod=i|ten=p	2	modal
+2	ondeggia	ondeggiare	V	V	num=s|per=3|mod=i|ten=p	4	arg
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	immerge	immergere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	galleggia	galleggiare	V	V	num=s|per=3|mod=i|ten=p	5	arg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	gonfia	gonfiare	V	V	num=s|per=3|mod=i|ten=p	1	arg
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	dilata	dilatare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	schiaccia	schiacciare	V	V	num=s|per=3|mod=i|ten=p	4	arg
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	comprime	comprimere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	inutile	inutile	A	A	num=s|gen=n	3	mod
+3	inutile	inutile	A	A	num=s|gen=n	1	pred
+4	inutile	inutile	A	A	num=s|gen=n	3	mod
+
+1	Com'	come	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	grande	grande	A	A	num=s|gen=n	2	pred
+4	e	e	C	CC	_	2	con
+5	vuoto	vuoto	A	A	num=s|gen=m	2	conj
+6	e	e	C	CC	_	5	con
+7	docile	docile	A	A	num=s|gen=n	5	conj
+8	fragile	fragile	A	A	num=s|gen=n	5	conj
+
+1	ubbidiente	ubbidiente	A	A	num=s|gen=n	2	mod
+2	riflessivo	riflessivo	A	A	num=s|gen=m	0	ROOT
+3	indifeso	indifeso	A	A	num=s|gen=m	2	mod
+4	inoffensivo	inoffensivo	A	A	num=s|gen=m	2	mod
+
+1	debole	debole	A	A	num=s|gen=n	2	mod
+2	meschino	meschino	A	A	num=s|gen=m	0	ROOT
+3	vigliacco	vigliacco	A	A	num=s|gen=m	2	mod
+4	inchinato	inchinare	V	V	num=s|mod=p|gen=m	2	mod
+
+1	prostrato	prostrare	V	V	num=s|mod=p|gen=m	4	mod
+2	sudato	sudare	V	V	num=s|mod=p|gen=m	1	mod
+3	consenziente	consenziente	A	A	num=s|gen=n	2	mod
+4	affaticato	affaticare	V	V	num=s|mod=p|gen=m	0	_
+
+1	Inutile	inutile	A	A	num=s|gen=n	2	mod
+2	inutile	inutile	A	A	num=s|gen=n	0	ROOT
+3	inutile	inutile	A	A	num=s|gen=n	2	mod
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+3	inutile	inutile	A	A	num=s|gen=n	2	mod
+4	inutile	inutile	A	A	num=s|gen=n	2	mod
+5	inutile	inutile	A	A	num=s|gen=n	2	mod
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	palla	palla	S	S	num=s|gen=f	0	ROOT
+3	inutile	inutile	A	A	num=s|gen=n	2	mod
+
