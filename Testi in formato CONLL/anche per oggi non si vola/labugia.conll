@@ -1,0 +1,204 @@
+1	Credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	nella	in	E	EA	num=s|gen=f	1	comp
+3	bugia	bugia	S	S	num=s|gen=f	2	prep
+
+1	quando	quando	C	CS	_	5	mod
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	bambino	bambino	S	S	num=s|gen=m	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	nasconde	nascondere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	quando	quando	C	CS	_	0	ROOT
+2	sdraiato	sdraiare	V	V	num=s|mod=p|gen=m	1	sub
+3	timido	timido	A	A	num=s|gen=m	2	pred
+4	in	in	E	E	_	2	comp
+5	mezzo	mezzo	S	S	num=s|gen=m	4	prep
+6	all'	al	E	EA	num=s|gen=n	2	comp
+7	erba	erba	S	S	num=s|gen=f	6	prep
+
+1	non	non	B	BN	_	2	neg
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	niente	niente	P	PI	num=s|gen=m	2	obj
+4	di	di	E	E	_	2	comp
+5	male	male	B	B	_	4	prep
+
+1	accarezza	accarezzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	suo	suo	A	AP	num=s|gen=m	4	mod
+4	corpo	corpo	S	S	num=s|gen=m	1	obj
+
+1	e	e	C	CC	_	4	con
+2	dolcemente	dolcemente	B	B	_	4	mod
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	masturba	masturbare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	cosi	coso	S	S	num=p|gen=m	1	pred
+3	naturale	naturale	A	A	num=s|gen=n	2	mod
+
+1	ma	ma	C	CC	_	6	con
+2	poi	poi	B	B	_	6	mod
+3	non	non	B	BN	_	6	neg
+4	lo	lo	P	PC	num=s|per=3|gen=m	6	obj
+5	può	potere	V	VM	num=s|per=3|mod=i|ten=p	6	modal
+6	dire	dire	V	V	mod=f	0	ROOT
+7	dunque	dunque	B	B	_	6	mod
+
+1	Credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	nella	in	E	EA	num=s|gen=f	1	comp
+3	bugia	bugia	S	S	num=s|gen=f	2	prep
+
+1	quando	quando	C	CS	_	5	mod
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	bambino	bambino	S	S	num=s|gen=m	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	difende	difendere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	con	con	E	E	_	8	comp
+2	tutti	tutto	T	T	num=p|gen=m	5	mod
+3	i	il	R	RD	num=p|gen=m	5	det
+4	suoi	suo	A	AP	num=p|gen=m	5	mod
+5	divieti	divieto	S	S	num=p|gen=m	1	prep
+6	non	non	B	BN	_	8	neg
+7	può	potere	V	VM	num=s|per=3|mod=i|ten=p	8	modal
+8	far	fare	V	V	mod=f	0	ROOT
+9	meglio	meglio	B	B	_	8	mod
+
+1	la	il	R	RD	num=s|gen=f	4	det
+2	sua	suo	A	AP	num=s|gen=f	4	mod
+3	unica	unico	A	A	num=s|gen=f	4	mod
+4	arma	arma	S	S	num=s|gen=f	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	salvare	salvare	V	V	mod=f	1	pred
+3	se	se	C	CS	_	2	mod
+4	stesso	stesso	A	A	num=s|gen=m	3	sub
+
+1	con	con	E	E	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	aiuto	aiuto	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	imbroglio	imbroglio	S	S	num=s|gen=m	4	prep
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	fatto	fatto	S	S	num=s|gen=m	2	pred
+5	di	di	E	E	_	4	comp
+6	forma	forma	S	S	num=s|gen=f	5	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	in	in	E	E	_	1	pred
+3	cerca	cerca	S	S	num=s|gen=f	2	prep
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	sua	suo	A	AP	num=s|gen=f	6	mod
+6	normalità	normalità	S	S	num=n|gen=f	4	prep
+7	.	.	F	FS	_	1	punc
+
+1	Com'	come	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	strana	strano	A	A	num=s|gen=f	2	pred
+4	la	il	R	RD	num=s|gen=f	6	det
+5	nostra	nostro	A	AP	num=s|gen=f	6	mod
+6	morale	morale	S	S	num=s|gen=f	2	subj
+
+1	se	se	C	CS	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	fatto	fatto	S	S	num=s|gen=m	1	sub
+4	naturale	naturale	A	A	num=s|gen=n	3	mod
+
+1	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	5	det
+3	tua	tuo	A	AP	num=s|gen=f	5	mod
+4	prima	primo	N	NO	num=s|gen=f	5	mod
+5	oscenità	oscenità	S	S	num=n|gen=f	1	pred
+6	.	.	F	FS	_	1	punc
+
+1	Com'	come	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	strana	strano	A	A	num=s|gen=f	2	pred
+4	la	il	R	RD	num=s|gen=f	6	det
+5	nostra	nostro	A	AP	num=s|gen=f	6	mod
+6	apprensione	apprensione	S	S	num=s|gen=f	2	subj
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	comp_ind
+2	vuole	volere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	invenzione	invenzione	S	S	num=s|gen=f	2	subj
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	pred
+4	stravaganza	stravaganza	S	S	num=s|gen=f	3	prep
+5	o	o	C	CC	_	3	dis
+6	per	per	E	E	_	3	disj
+7	follia	follia	S	S	num=s|gen=f	6	prep
+
+1	viva	vivere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	bugia	bugia	S	S	num=s|gen=f	1	obj
+4	.	.	F	FS	_	1	punc
+
+1	Credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	nella	in	E	EA	num=s|gen=f	1	comp
+3	bugia	bugia	S	S	num=s|gen=f	2	prep
+
+1	quando	quando	C	CS	_	6	mod
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	bambino	bambino	S	S	num=s|gen=m	6	subj
+4	non	non	B	BN	_	6	neg
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	arrende	arrendere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	trova	trovare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	con	con	E	E	_	1	comp
+3	la	il	R	RD	num=s|gen=f	4	det
+4	finzione	finzione	S	S	num=s|gen=f	2	prep
+5	la	il	R	RD	num=s|gen=f	7	det
+6	sua	suo	A	AP	num=s|gen=f	7	mod
+7	misura	misura	S	S	num=s|gen=f	1	obj
+
+1	sfugge	sfuggire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	ad	ad	E	E	_	1	comp
+3	ogni	ogni	D	DI	num=s|gen=n	4	mod
+4	giudizio	giudizio	S	S	num=s|gen=m	2	prep
+
+1	per	per	E	E	_	4	comp
+2	non	non	B	BN	_	4	neg
+3	esser	essere	V	VA	mod=f	4	aux
+4	costretto	costringere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	a	a	E	E	_	0	ROOT
+2	fare	fare	V	V	mod=f	1	prep
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	torto	torto	S	S	num=s|gen=m	2	obj
+5	alla	al	E	EA	num=s|gen=f	2	comp
+6	natura	natura	S	S	num=s|gen=f	5	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	bugia	bugia	S	S	num=s|gen=f	0	ROOT
+3	che	che	C	CS	_	2	comp
+4	bel	bello	A	A	num=s|gen=m	5	mod
+5	vizio	vizio	S	S	num=s|gen=m	3	sub
+
+1	vorrei	volere	V	VM	num=s|per=1|mod=d|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	sincero	sincero	A	A	num=s|gen=m	2	pred
+4	come	come	E	E	_	3	comp
+5	lui	lui	P	PE	num=s|per=3|gen=m	4	prep
+6	.	.	F	FS	_	2	punc
+
+1	Non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	pred
+4	stravaganza	stravaganza	S	S	num=s|gen=f	3	prep
+5	o	o	C	CC	_	3	dis
+6	per	per	E	E	_	3	disj
+7	follia	follia	S	S	num=s|gen=f	6	prep
+
+1	viva	vivere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	bugia	bugia	S	S	num=s|gen=f	1	obj
+4	.	.	F	FS	_	1	punc
+

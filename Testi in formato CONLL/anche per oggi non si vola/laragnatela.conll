@@ -1,0 +1,342 @@
+1	Avverto	avvertire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	filo	filo	S	S	num=s|gen=m	1	obj
+4	di	di	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	ragnatela	ragnatela	S	S	num=s|gen=f	4	prep
+
+1	avverto	avvertire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	filo	filo	S	S	num=s|gen=m	1	obj
+4	di	di	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	ragnatela	ragnatela	S	S	num=s|gen=f	4	prep
+
+1	avverto	avvertire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	filo	filo	S	S	num=s|gen=m	1	obj
+4	di	di	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	ragnatela	ragnatela	S	S	num=s|gen=f	4	prep
+
+1	Non	non	B	BN	_	3	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	vede	vedere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	ma	ma	C	CC	_	3	con
+5	io	io	P	PE	num=s|per=1|gen=n	8	subj
+6	l'	lo	P	PC	num=s|per=3|gen=n	8	obj
+7	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	8	aux
+8	sentito	sentire	V	V	num=s|mod=p|gen=m	3	conj
+
+1	sottilissimo	sottile	A	A	num=s|gen=m	4	mod
+2	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+3	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	toccato	toccare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	credevo	credere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+2	di	di	E	E	_	1	arg
+3	poter-	potere	V	VM	mod=f	5	modal
+4	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+5	eliminare	eliminare	V	V	mod=f	2	prep
+6	con	con	E	E	_	5	comp
+7	tanta	tanto	D	DI	num=s|gen=f	8	mod
+8	facilità	facilità	S	S	num=n|gen=f	6	prep
+
+1	ma	ma	C	CC	_	6	con
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	filo	filo	S	S	num=s|gen=m	6	subj
+4	non	non	B	BN	_	6	neg
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+6	abbandonava	abbandonare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+
+1	E	e	C	CC	_	7	con
+2	quando	quando	C	CS	_	7	mod
+3	usciva	uscire	V	V	num=s|per=3|mod=i|ten=i	2	sub
+4	dalla	da	E	EA	num=s|gen=f	3	comp
+5	bocca	bocca	S	S	num=s|gen=f	4	prep
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	parola	parola	S	S	num=s|gen=f	0	ROOT
+
+1	per	per	E	E	_	0	ROOT
+2	strana	strano	A	A	num=s|gen=f	3	mod
+3	fatalità	fatalità	S	S	num=n|gen=f	1	prep
+
+1	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	filo	filo	S	S	num=s|gen=m	1	pred
+4	in	in	E	E	_	3	comp
+5	più	più	B	B	_	4	prep
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	aggiungeva	aggiungere	V	V	num=s|per=3|mod=i|ten=i	3	mod_rel
+
+1	e	e	C	CC	_	0	ROOT
+2	col	con	E	EA	num=s|gen=m	1	ROOT
+3	mio	mio	A	AP	num=s|gen=m	4	mod
+4	sforzo	sforzo	S	S	num=s|gen=m	2	prep
+5	di	di	E	E	_	4	arg
+6	agire	agire	V	V	mod=f	5	prep
+7	e	e	C	CC	_	6	con
+8	capire	capire	V	V	mod=f	6	conj
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	complicavo	complicare	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+3	e	e	C	CC	_	2	con
+4	intrecciavo	intrecciare	V	V	num=s|per=1|mod=i|ten=i	2	conj
+5	le	il	R	RD	num=p|gen=f	6	det
+6	fila	fila	S	S	num=n|gen=f	2	conj
+
+1	e	e	C	CC	_	5	con
+2	piano	piano	S	S	num=s|gen=m	5	mod_temp
+3	piano	piano	S	S	num=s|gen=m	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	formava	formare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	tela	tela	S	S	num=s|gen=f	5	obj
+8	.	.	F	FS	_	5	punc
+
+1	Ora	ora	B	B	_	2	mod_temp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	fitta	fitto	A	A	num=s|gen=f	2	pred
+4	e	e	C	CC	_	2	con
+5	complicata	complicare	V	V	num=s|mod=p|gen=f	2	conj
+
+1	ma	ma	C	CC	_	3	con
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	capito	capire	V	V	num=s|mod=p|gen=m	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	struttura	struttura	S	S	num=s|gen=f	3	obj
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	certo	certo	B	B	_	1	pred
+3	che	che	C	CS	_	1	subj
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	uscita	uscita	S	S	num=s|gen=f	6	subj
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+7	qui	qui	B	B	_	6	pred
+
+1	ma	ma	C	CC	_	0	ROOT
+2	ecco	ecco	B	B	_	5	mod
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	altro	altro	A	A	num=s|gen=m	5	mod
+5	filo	filo	S	S	num=s|gen=m	0	ROOT
+6	proprio	proprio	B	B	_	7	mod
+7	lì	lì	B	B	_	5	mod_temp
+8	.	.	F	FS	_	1	punc
+
+1	Se	se	C	CS	_	7	mod
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	tela	tela	S	S	num=s|gen=f	3	subj
+6	dev'	dev'	V	VM	num=s|per=3|mod=i|ten=p	7	modal
+7	esser-	essere	V	V	mod=f	0	ROOT
+8	ci	ci	P	PC	num=p|per=1|gen=n	7	clit
+9	un	uno	R	RI	num=s|gen=m	10	det
+10	ragno	ragno	S	S	num=s|gen=m	7	pred
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	tratta	trattare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	certo	certo	B	B	_	2	mod
+4	di	di	E	E	_	2	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	nemico	nemico	S	S	num=s|gen=m	4	prep
+7	esterno	esterno	A	A	num=s|gen=m	6	mod
+
+1	come	come	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	padrone	padrone	S	S	num=s|gen=m	1	prep
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	guardiano	guardiano	S	S	num=s|gen=m	3	mod
+6	o	o	C	CC	_	5	dis
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	Dio	Dio	S	SP	_	5	disj
+
+1	ma	ma	C	CC	_	5	con
+2	stiamo	stare	V	V	num=p|per=1|mod=i|ten=p	5	mod
+3	attenti	attenti	A	A	num=p|gen=n	2	pred
+4	potrei	potere	V	VM	num=s|per=1|mod=d|ten=p	5	modal
+5	essere	essere	V	V	mod=f	0	ROOT
+6	anch'	anche	B	B	_	7	mod
+7	io	io	P	PE	num=s|per=1|gen=n	5	subj
+8	.	.	F	FS	_	5	punc
+
+1	Come	come	B	B	_	3	mod
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	mosca	mosca	S	S	num=s|gen=f	0	ROOT
+4	io	io	P	PE	num=s|per=1|gen=n	3	mod
+
+1	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+2	tutto	tutto	D	DI	num=s|gen=m	3	mod
+3	attorcigliato	attorcigliare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	dentro	dentro	B	B	_	2	mod
+2	orribili	orribile	A	A	num=p|gen=n	4	mod
+3	tremende	tremendo	A	A	num=p|gen=f	2	mod
+4	ragnatele	ragnatela	S	S	num=p|gen=f	0	ROOT
+
+1	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	devi	dovere	V	VM	num=s|per=2|mod=i|ten=p	3	modal
+3	star-	stare	V	V	mod=f	0	ROOT
+4	te-	te	P	PC	num=s|per=2|gen=n	3	clit
+5	ne	ne	P	PC	num=n|gen=n	3	comp
+6	bloccato	bloccare	V	V	num=s|mod=p|gen=m	3	mod
+
+1	tira	tirare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fuori	fuori	E	E	_	1	comp
+3	la	il	R	RD	num=s|gen=f	5	det
+4	tua	tuo	A	AP	num=s|gen=f	5	mod
+5	rabbia	rabbia	S	S	num=s|gen=f	2	prep
+6	più	più	B	B	_	7	mod
+7	bestiale	bestiale	A	A	num=s|gen=n	1	pred
+
+1	Ed	e	C	CC	_	4	con
+2	ogni	ogni	D	DI	num=s|gen=n	4	mod
+3	mia	mio	A	AP	num=s|gen=f	4	mod
+4	parola	parola	S	S	num=s|gen=f	0	ROOT
+
+1	crea	creare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	altro	altro	A	A	num=s|gen=m	4	mod
+4	filo	filo	S	S	num=s|gen=m	1	subj
+5	in	in	E	E	_	4	comp
+6	più	più	B	B	_	5	prep
+7	ogni	ogni	D	DI	num=s|gen=n	8	mod
+8	volta	volta	S	S	num=s|gen=f	1	mod_temp
+
+1	di	di	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	tela	tela	S	S	num=s|gen=f	1	prep
+4	sempre	sempre	B	B	_	6	mod
+5	più	più	B	B	_	6	mod
+6	contorta	contorto	A	A	num=s|gen=f	3	mod
+7	.	.	F	FS	_	1	punc
+
+1	Tira	tirare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	indietro	indietro	B	B	_	1	mod
+3	la	il	R	RD	num=s|gen=f	5	det
+4	tua	tuo	A	AP	num=s|gen=f	5	mod
+5	testa	testa	S	S	num=s|gen=f	1	obj
+
+1	lo	lo	P	PC	num=s|per=3|gen=m	5	comp
+2	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	4	modal
+3	che	che	D	DQ	num=n|gen=n	4	mod
+4	giorno	giorno	S	S	num=s|gen=m	1	prep
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	2	aux
+2	scordato	scordare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	la	il	R	RD	num=s|gen=f	5	det
+4	tua	tuo	A	AP	num=s|gen=f	5	mod
+5	festa	festa	S	S	num=s|gen=f	2	obj
+
+1	non	non	B	BN	_	2	neg
+2	trascurare	trascurare	V	V	mod=f	0	ROOT
+3	il	il	R	RD	num=s|gen=m	6	det
+4	tuo	tuo	A	AP	num=s|gen=m	6	mod
+5	buon	buon	A	A	num=s|gen=m	6	mod
+6	compleanno	compleanno	S	S	num=s|gen=m	2	obj
+7	.	.	F	FS	_	2	punc
+
+1	(	(	F	FB	_	2	punc
+2	fuori	fuori	E	E	_	0	_
+3	campo	campo	S	S	num=s|gen=m	2	prep
+4	)	)	F	FB	_	2	punc
+5	Tanti	tanto	D	DI	num=p|gen=m	6	mod
+6	auguri	augurio	S	S	num=p|gen=m	2	conj
+7	a	a	E	E	_	6	comp
+8	te	te	P	PE	num=s|per=2|gen=n	7	prep
+
+1	Come	come	B	B	_	3	mod
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	mosca	mosca	S	S	num=s|gen=f	0	ROOT
+4	io	io	P	PE	num=s|per=1|gen=n	3	mod
+
+1	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+2	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	avvolto	avvolgere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+5	han	han	V	VA	num=s|per=1|mod=i|ten=p	6	aux
+6	distrutto	distruggere	V	V	num=s|mod=p|gen=m	3	arg
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	schifose	schifoso	S	S	num=p|gen=f	0	ROOT
+3	ragnatele	ragnatela	S	S	num=p|gen=f	2	mod
+4	che	che	P	PR	num=n|gen=n	7	subj
+5	ci	ci	P	PC	num=p|per=1|gen=n	7	comp_ind
+6	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	7	aux
+7	addosso	addosso	B	B	_	2	mod_rel
+
+1	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	me	me	P	PE	num=s|per=1|gen=n	3	subj
+2	le	le	P	PC	num=n|per=3|gen=f	3	comp_ind
+3	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dappertutto	dappertutto	B	B	_	3	mod
+
+1	sul	su	E	EA	num=s|gen=m	0	ROOT
+2	mio	mio	A	AP	num=s|gen=m	3	mod
+3	corpo	corpo	S	S	num=s|gen=m	1	prep
+4	sul	su	E	EA	num=s|gen=m	3	comp
+5	mio	mio	A	AP	num=s|gen=m	6	mod
+6	viso	viso	S	S	num=s|gen=m	4	prep
+7	sul	su	E	EA	num=s|gen=m	6	comp
+8	mio	mio	A	AP	num=s|gen=m	9	mod
+9	sesso	sesso	S	S	num=s|gen=m	7	prep
+
+1	Ed	e	C	CC	_	4	con
+2	ogni	ogni	D	DI	num=s|gen=n	4	mod
+3	mia	mio	A	AP	num=s|gen=f	4	mod
+4	parola	parola	S	S	num=s|gen=f	0	ROOT
+
+1	crea	creare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	altro	altro	A	A	num=s|gen=m	4	mod
+4	filo	filo	S	S	num=s|gen=m	1	subj
+5	in	in	E	E	_	4	comp
+6	più	più	B	B	_	5	prep
+7	ogni	ogni	D	DI	num=s|gen=n	8	mod
+8	volta	volta	S	S	num=s|gen=f	1	mod_temp
+
+1	di	di	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	tela	tela	S	S	num=s|gen=f	1	prep
+4	sempre	sempre	B	B	_	6	mod
+5	più	più	B	B	_	6	mod
+6	contorta	contorto	A	A	num=s|gen=f	3	mod
+7	.	.	F	FS	_	1	punc
+
+1	Lei	lei	P	PE	num=s|per=3|gen=n	3	subj
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	aveva	avere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	occhi	occhio	S	S	num=p|gen=m	3	obj
+6	chiari	chiaro	A	A	num=p|gen=m	5	mod
+
+1	rideva	ridere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	come	come	E	E	_	1	comp
+3	me	me	P	PE	num=s|per=1|gen=n	2	prep
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	3	obj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	sente	sentire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	5	mod
+5	sicuri	sicuro	A	A	num=p|gen=m	3	pred
+
+1	uniti	unito	A	A	num=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	abbandonati	abbandonare	V	V	num=p|mod=p|gen=m	1	conj
+4	nell'	in	E	EA	num=s|gen=n	1	comp
+5	amore	amore	S	S	num=s|gen=m	4	prep
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	quest'	questo	D	DD	num=s|gen=n	3	mod
+3	amore	amore	S	S	num=s|gen=m	0	ROOT
+4	splendido	splendido	A	A	num=s|gen=m	3	mod
+

@@ -1,0 +1,601 @@
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	oggettino	oggettino	S	S	num=s|gen=m	0	ROOT
+3	piccolo	piccolo	A	A	num=s|gen=m	2	mod
+4	,	,	F	FF	_	5	punc
+5	di	di	E	E	_	2	comp
+6	vetro	vetro	S	S	num=s|gen=m	5	prep
+7	,	,	F	FF	_	5	punc
+8	il	il	R	RD	num=s|gen=m	9	det
+9	mercurio	mercurio	S	S	num=s|gen=m	2	conj
+10	che	che	P	PR	num=n|gen=n	11	subj
+11	sale	salire	V	V	num=s|per=3|mod=i|ten=p	9	mod_rel
+12	,	,	F	FF	_	13	punc
+13	adagio	adagio	S	S	num=s|gen=m	2	mod
+14	,	,	F	FF	_	13	punc
+15	perfetto	perfetto	A	A	num=s|gen=m	2	mod
+16	.	.	F	FS	_	2	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	termometro	termometro	S	S	num=s|gen=m	0	ROOT
+3	....	....	C	CC	_	2	con
+4	che	che	C	CS	_	2	conj
+5	bell'	bell'	E	EA	num=s|gen=n	4	sub
+6	oggetto	oggetto	S	S	num=s|gen=m	5	prep
+7	.	.	F	FS	_	2	punc
+
+1	Trentasette	Trentasette	N	N	_	0	ROOT
+2	e	e	C	CC	_	1	con
+3	uno	uno	P	PI	num=s|gen=m	1	conj
+
+1	una	uno	R	RI	num=s|gen=f	3	det
+2	leggera	leggero	A	A	num=s|gen=f	3	mod
+3	alterazione	alterazione	S	S	num=s|gen=f	0	ROOT
+
+1	dolce	dolce	A	A	num=s|gen=n	3	mod
+2	non	non	B	BN	_	3	neg
+3	violenta	violento	A	A	num=s|gen=f	0	ROOT
+
+1	da	da	E	E	_	0	ROOT
+2	coltivare	coltivare	V	V	mod=f	1	prep
+
+1	Senza	senza	E	E	_	5	comp
+2	antibiotici	antibiotico	S	S	num=p|gen=m	1	prep
+3	senza	senza	E	E	_	1	comp
+4	aspirina	aspirina	S	S	num=s|gen=f	3	prep
+5	guai	guai	A	A	num=p|gen=m	0	ROOT
+
+1	come	come	E	E	_	6	comp
+2	la	il	R	RD	num=s|gen=f	3	det
+3	vivo	vivo	A	A	num=s|gen=m	1	prep
+4	la	il	R	RD	num=s|gen=f	6	det
+5	mia	mio	A	AP	num=s|gen=f	6	mod
+6	febbrina	febbrina	S	S	num=s|gen=f	0	ROOT
+
+1	Trentasette	Trentasette	N	N	_	0	ROOT
+2	e	e	C	CC	_	1	con
+3	tre	tre	N	N	_	1	conj
+
+1	sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	tremando	tremare	V	V	mod=g	1	arg
+3	di	di	E	E	_	2	comp
+4	freddo	freddo	S	S	num=s|gen=m	3	prep
+
+1	sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	1	mod_loc
+3	tremando	tremare	V	V	mod=g	1	mod
+
+1	Siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	al	a	E	EA	num=s|gen=m	1	comp_temp
+3	quindici	quindici	N	N	_	2	prep
+4	di	di	E	E	_	3	comp
+5	agosto	agosto	S	S	num=s|gen=m	4	prep
+6	,	,	F	FF	_	1	punc
+7	stupendo	stupendo	A	A	num=s|gen=m	0	ROOT
+
+1	Voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	4	modal
+2	un'	uno	R	RI	num=s|gen=f	4	det
+3	altra	altro	A	A	num=s|gen=f	4	mod
+4	coperta	coperta	S	S	num=s|gen=f	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	vuole	volere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	cappotto	cappotto	S	S	num=s|gen=m	3	subj
+6	.	.	F	FS	_	3	punc
+
+1	Trentasette	Trentasette	N	N	_	0	ROOT
+2	e	e	C	CC	_	1	con
+3	otto	otto	N	N	_	1	conj
+4	.	.	F	FS	_	1	punc
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	posto	posto	S	S	num=s|gen=m	0	ROOT
+3	qualunque	qualunque	D	DI	num=s|gen=n	2	mod
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	posto	posto	S	S	num=s|gen=m	0	ROOT
+3	per	per	E	E	_	2	comp
+4	star	star	S	S	num=n|gen=f	3	prep
+5	male	male	B	B	_	2	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	palestra	palestra	S	S	num=s|gen=f	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	ospedale	ospedale	S	S	num=s|gen=m	2	mod
+
+1	Forse	forse	B	B	_	2	mod
+2	come	come	E	E	_	0	_
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	collegio	collegio	S	S	num=s|gen=m	2	prep
+
+1	o	o	C	CC	_	0	ROOT
+2	come	come	E	E	_	1	disj
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	seminario	seminario	S	S	num=s|gen=m	2	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	lebbrosario	lebbrosario	S	S	num=s|gen=m	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	febbrosario	febbrosario	S	S	num=s|gen=m	2	mod
+
+1	Quando	quando	C	CS	_	3	mod
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	entrato	entrare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	avevo	avere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	valigia	valigia	S	S	num=s|gen=f	1	obj
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	occhi	occhio	S	S	num=p|gen=m	1	obj
+6	rossi	rosso	A	A	num=p|gen=m	5	mod
+
+1	e	e	C	CC	_	3	con
+2	il	il	R	RD	num=s|gen=m	3	det
+3	viso	viso	S	S	num=s|gen=m	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	3	mod
+5	pò	pò	B	B	_	6	mod
+6	umido	umido	A	A	num=s|gen=m	4	mod
+7	.	.	F	FS	_	3	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	presentato	presentare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	ma	ma	C	CC	_	3	con
+2	senza	senza	C	CS	_	3	mod
+3	esagerare	esagerare	V	V	mod=f	0	ROOT
+4	sulla	su	E	EA	num=s|gen=f	3	comp
+5	febbre	febbre	S	S	num=s|gen=f	4	prep
+
+1	perché	perché	C	CS	_	0	ROOT
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	1	sub
+3	timido	timido	A	A	num=s|gen=m	2	pred
+4	.	.	F	FS	_	1	punc
+
+1	Trentasette	Trentasette	N	N	_	6	mod
+2	e	e	C	CC	_	1	con
+3	sei	sei	N	N	_	1	conj
+4	,	,	F	FF	_	1	punc
+5	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	6	aux
+6	detto	dire	V	V	num=s|mod=p|gen=m	0	ROOT
+7	.	.	F	FS	_	6	punc
+
+1	Meno	meno	B	B	_	0	ROOT
+2	di	di	E	E	_	1	comp
+3	quello	quello	P	PD	num=s|gen=m	2	prep
+4	che	che	P	PR	num=n|gen=n	5	obj
+5	avevo	avere	V	V	num=s|per=1|mod=i|ten=i	3	mod_rel
+6	.	.	F	FS	_	1	punc
+
+1	Che	che	D	DE	num=n|gen=n	2	mod
+2	bestia	bestia	S	S	num=s|gen=f	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	finzione	finzione	S	S	num=s|gen=f	0	ROOT
+3	ispirata	ispirare	V	V	num=s|mod=p|gen=f	2	mod
+4	dalla	da	E	EA	num=s|gen=f	3	comp
+5	modestia	modestia	S	S	num=s|gen=f	4	prep
+6	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+2	senza	senza	E	E	_	1	comp
+3	esperienza	esperienza	S	S	num=s|gen=f	2	prep
+
+1	e	e	C	CC	_	3	con
+2	loro	loro	P	PE	num=p|per=3|gen=n	3	mod
+3	cosi	coso	S	S	num=p|gen=m	0	ROOT
+4	sensibili	sensibile	A	A	num=p|gen=n	3	mod
+5	e	e	C	CC	_	4	con
+6	caldi	caldo	A	A	num=p|gen=m	4	conj
+
+1	cosi	coso	S	S	num=p|gen=m	0	ROOT
+2	sofferenti	sofferente	A	A	num=p|gen=n	1	mod
+3	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+2	pieno	pieno	A	A	num=s|gen=m	1	mod
+3	di	di	E	E	_	2	comp
+4	speranza	speranza	S	S	num=s|gen=f	3	prep
+
+1	peccato	peccare	V	V	num=s|mod=p|gen=m	7	mod
+2	il	il	R	RD	num=s|gen=m	4	det
+3	primo	primo	N	NO	num=s|gen=m	4	mod
+4	giorno	giorno	S	S	num=s|gen=m	1	obj
+5	li	li	P	PC	num=p|per=3|gen=m	7	obj
+6	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	7	aux
+7	sentiti	sentire	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	pò	pò	B	B	_	3	mod
+3	diffidenti	diffidente	A	A	num=p|gen=n	0	ROOT
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	poi	poi	B	B	_	5	mod
+3	,	,	F	FF	_	2	punc
+4	il	il	R	RD	num=s|gen=m	5	det
+5	momento	momento	S	S	num=s|gen=m	0	ROOT
+6	più	più	B	B	_	7	mod
+7	bello	bello	A	A	num=s|gen=m	5	mod
+8	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	3	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	ora	ora	B	B	_	0	_
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	termometri	termometro	S	S	num=p|gen=m	4	prep
+6	di	di	E	E	_	5	comp
+7	vetro	vetro	S	S	num=s|gen=m	6	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	ora	ora	B	B	_	1	pred
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	termometri	termometro	S	S	num=p|gen=m	4	prep
+6	bianchi	bianco	A	A	num=p|gen=m	5	mod
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	argento	argento	S	S	num=s|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	mercurio	mercurio	S	S	num=s|gen=m	3	prep
+5	riscaldato	riscaldare	V	V	num=s|mod=p|gen=m	2	mod
+
+1	dal	da	E	EA	num=s|gen=m	0	ROOT
+2	tuo	tuo	A	AP	num=s|gen=m	3	mod
+3	corpo	corpo	S	S	num=s|gen=m	1	prep
+4	piano	piano	A	A	num=s|gen=m	5	mod
+5	piano	piano	S	S	num=s|gen=m	3	mod
+
+1	sale	salire	V	V	num=s|per=3|mod=i|ten=p	2	arg
+2	sale	salire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sale	sale	S	SW	num=n|gen=f	2	subj
+
+1	E	e	C	CC	_	3	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	ora	ora	S	S	num=s|gen=f	0	ROOT
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	silenzio	silenzio	S	S	num=s|gen=m	4	prep
+6	dei	di	E	EA	num=p|gen=m	5	comp
+7	malati	malato	S	S	num=p|gen=m	6	prep
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	dura	duro	A	A	num=s|gen=f	3	mod
+3	tre	tre	N	N	_	5	mod
+4	lunghissimi	lunghissimi	N	N	_	5	mod
+5	minuti	minuto	S	S	num=p|gen=m	0	ROOT
+
+1	ognuno	ognuno	P	PI	num=s|gen=m	4	subj
+2	se	se	P	PC	num=n|per=3|gen=n	4	clit
+3	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+4	tiene	tenere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	sotto	sotto	E	E	_	4	comp
+6	il	il	R	RD	num=s|gen=m	7	det
+7	braccio	braccio	S	S	num=s|gen=m	5	prep
+
+1	trepidante	trepidante	A	A	num=s|gen=n	0	ROOT
+2	di	di	E	E	_	1	comp
+3	emozione	emozione	S	S	num=s|gen=f	2	prep
+
+1	con	con	E	E	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	gioia	gioia	S	S	num=s|gen=f	1	prep
+4	e	e	C	CC	_	3	con
+5	la	il	R	RD	num=s|gen=f	6	det
+6	paura	paura	S	S	num=s|gen=f	3	conj
+7	della	di	E	EA	num=s|gen=f	6	comp
+8	sua	suo	A	AP	num=s|gen=f	9	mod
+9	misurazione	misurazione	S	S	num=s|gen=f	7	prep
+10	.	.	F	FS	_	1	punc
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	4	obj
+2	si	si	P	PC	num=n|per=3|gen=n	4	clit
+3	può	potere	V	VM	num=s|per=3|mod=i|ten=p	4	modal
+4	sentire	sentire	V	V	mod=f	0	ROOT
+5	anche	anche	B	B	_	6	mod
+6	madri	madre	S	S	num=p|gen=f	4	obj
+7	con	con	E	E	_	4	comp
+8	la	il	R	RD	num=s|gen=f	9	det
+9	febbre	febbre	S	S	num=s|gen=f	7	prep
+10	,	,	F	FF	_	12	punc
+11	una	uno	R	RI	num=s|gen=f	12	det
+12	madre	madre	S	S	num=s|gen=f	4	subj
+13	che	che	P	PR	num=n|gen=n	14	subj
+14	stringe	stringere	V	V	num=s|per=3|mod=i|ten=p	12	mod_rel
+15	il	il	R	RD	num=s|gen=m	17	det
+16	suo	suo	A	AP	num=s|gen=m	17	mod
+17	figlio	figlio	S	S	num=s|gen=m	14	obj
+18	di	di	E	E	_	17	comp
+19	vetro	vetro	S	S	num=s|gen=m	18	prep
+20	.	.	F	FS	_	4	punc
+
+1	E	e	C	CC	_	2	con
+2	poi	poi	B	B	_	0	_
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	lettura	lettura	S	S	num=s|gen=f	0	ROOT
+
+1	trentasei	trentasei	N	N	_	0	ROOT
+2	e	e	C	CC	_	1	con
+3	nove	nove	N	N	_	1	conj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	fregatura	fregatura	S	S	num=s|gen=f	0	_
+
+1	trentasette	trentasette	N	N	_	5	mod
+2	e	e	C	CC	_	1	con
+3	uno	uno	P	PI	num=s|gen=m	5	subj
+4	non	non	B	BN	_	5	neg
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	nessuno	nessuno	P	PI	num=s|gen=m	5	pred
+
+1	trentotto	trentotto	N	N	_	2	mod
+2	trentotto	trentotto	N	N	_	5	mod
+3	e	e	C	CC	_	2	con
+4	mezzo	mezzo	S	S	num=s|gen=m	2	conj
+5	trentanove	trentanove	N	N	_	0	ROOT
+
+1	trentanove	trentanove	N	N	_	0	ROOT
+2	e	e	C	CC	_	1	con
+3	nove	nove	N	N	_	1	conj
+
+1	con	con	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	voce	voce	S	S	num=s|gen=f	1	prep
+4	che	che	P	PR	num=n|gen=n	7	subj
+5	non	non	B	BN	_	7	neg
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	sente	sentire	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+8	neanche	neanche	B	B	_	7	mod
+9	il	il	R	RD	num=s|gen=m	10	det
+10	suono	suono	S	S	num=s|gen=m	7	subj
+
+1	che	che	D	DE	num=n|gen=n	2	mod
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+
+1	In	in	E	E	_	0	ROOT
+2	questo	questo	D	DD	num=s|gen=m	3	mod
+3	febbrosario	febbrosario	S	S	num=s|gen=m	1	prep
+
+1	quello	quello	P	PD	num=s|gen=m	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	sta	stare	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+4	male	male	B	B	_	3	mod_loc
+5	più	più	B	B	_	6	mod
+6	degli	di	E	EA	num=p|gen=m	3	comp
+7	altri	altro	P	PI	num=p|gen=m	6	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	più	più	B	B	_	4	mod
+4	sensibile	sensibile	A	A	num=s|gen=n	1	pred
+5	e	e	C	CC	_	4	con
+6	importante	importante	A	A	num=s|gen=n	4	conj
+7	.	.	F	FS	_	1	punc
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	1	mod
+3	necessario	necessario	A	A	num=s|gen=m	1	pred
+
+1	avere	avere	V	V	mod=f	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	tendenza	tendenza	S	S	num=s|gen=f	1	obj
+4	a	a	E	E	_	1	arg
+5	migliorare	migliorare	V	V	mod=f	4	prep
+
+1	e	e	C	CC	_	2	con
+2	progredire	progredire	V	V	mod=f	0	ROOT
+3	gradualmente	gradualmente	B	B	_	2	mod
+4	.	.	F	FS	_	2	punc
+
+1	Diffido	diffidare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	dei	di	E	EA	num=p|gen=m	1	comp
+3	febbroni	febbrone	S	S	num=p|gen=m	2	prep
+4	,	,	F	FF	_	5	punc
+5	spettacolari	spettacolare	A	A	num=p|gen=n	3	mod
+6	....	....	V	V	num=s|per=1|mod=i|ten=p	5	arg
+7	poi	poi	B	B	_	6	mod
+8	niente	niente	B	B	_	1	mod
+9	.	.	F	FS	_	1	punc
+
+1	Estremismo	estremismo	S	S	num=s|gen=m	0	ROOT
+2	,	,	F	FF	_	1	punc
+3	malattia	malattia	S	S	num=s|gen=f	1	mod
+4	infantile	infantile	A	A	num=s|gen=n	3	mod
+5	.	.	F	FS	_	1	punc
+
+1	Qui	qui	B	B	_	4	mod_loc
+2	dentro	dentro	B	B	_	4	mod
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	mantengono	mantenere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	le	il	R	RD	num=p|gen=f	6	det
+6	classi	classe	S	S	num=p|gen=f	4	subj
+
+1	e	e	C	CC	_	0	ROOT
+2	quelli	quello	P	PD	num=p|gen=m	1	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	rimangono	rimanere	V	V	num=p|per=3|mod=i|ten=p	2	mod_rel
+5	più	più	B	B	_	4	mod
+6	indietro	indietro	B	B	_	2	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	mettono	mettere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	arg
+4	applaudire	applaudire	V	V	mod=f	3	prep
+5	e	e	C	CC	_	2	con
+6	festeggiare	festeggiare	V	V	mod=f	2	conj
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	più	più	B	B	_	3	mod
+3	malati	malato	A	A	num=p|gen=m	0	_
+
+1	e	e	C	CC	_	3	con
+2	poi	poi	B	B	_	3	mod
+3	a	a	E	E	_	0	ROOT
+4	dire	dire	V	V	mod=f	3	prep
+5	bravi	bravo	A	A	num=p|gen=m	6	mod
+6	bravi	bravo	A	A	num=p|gen=m	4	pred
+7	bravi	bravo	A	A	num=p|gen=m	6	mod
+
+1	E	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	anche	anche	B	B	_	7	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	novità	novità	S	S	num=n|gen=f	4	subj
+8	politica	politico	A	A	num=s|gen=f	7	mod
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	intercambiabilità	intercambiabilità	S	S	num=n|gen=f	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	protagonisti	protagonista	S	S	num=p|gen=n	3	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	possono	potere	V	VM	num=p|per=3|mod=i|ten=p	3	modal
+3	cambiare	cambiare	V	V	mod=f	0	ROOT
+4	quando	quando	C	CS	_	3	mod
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	ora	ora	B	B	_	1	pred
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	termometri	termometro	S	S	num=p|gen=m	4	prep
+6	di	di	E	E	_	5	comp
+7	vetro	vetro	S	S	num=s|gen=m	6	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	ora	ora	B	B	_	1	pred
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	nostra	nostro	A	AP	num=s|gen=f	6	mod
+6	affermazione	affermazione	S	S	num=s|gen=f	4	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	febbre	febbre	S	S	num=s|gen=f	6	subj
+3	non	non	B	BN	_	5	neg
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	deve	dovere	V	VM	num=s|per=3|mod=i|ten=p	6	modal
+6	regredire	regredire	V	V	mod=f	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	arg
+2	questione	questione	S	S	num=s|gen=f	1	pred
+3	di	di	E	E	_	2	comp
+4	prestigio	prestigio	S	S	num=s|gen=m	3	prep
+5	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	6	modal
+6	essere	essere	V	V	mod=f	0	ROOT
+7	ambizioso	ambizioso	A	A	num=s|gen=m	6	pred
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	dolore	dolore	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	privilegio	privilegio	S	S	num=s|gen=m	3	pred
+6	.	.	F	FS	_	3	punc
+
+1	Sì	sì	B	B	_	3	mod
+2	,	,	F	FF	_	1	punc
+3	io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	più	più	B	B	_	5	mod
+5	malato	malato	A	A	num=s|gen=m	2	pred
+6	.	.	F	FS	_	2	punc
+
+1	Sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	malissimo	malissimo	B	B	_	1	mod_loc
+3	,	,	F	FF	_	1	con
+4	sto	stare	V	V	num=s|per=1|mod=i|ten=p	1	conj
+5	sudando	sudare	V	V	mod=g	4	arg
+6	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	11	subj
+2	,	,	F	FF	_	1	con
+3	io	io	P	PE	num=s|per=1|gen=n	6	subj
+4	l'	lo	P	PC	num=s|per=3|gen=n	6	obj
+5	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	6	aux
+6	inventato	inventare	V	V	num=s|mod=p|gen=m	1	conj
+7	il	il	R	RD	num=s|gen=m	8	det
+8	sudore	sudore	S	S	num=s|gen=m	6	obj
+9	,	,	F	FF	_	1	con
+10	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	11	aux
+11	sudato	sudare	V	V	num=s|mod=p|gen=m	0	ROOT
+12	io	io	P	PE	num=s|per=1|gen=n	11	obj
+13	per	per	E	E	_	11	comp
+14	primo	primo	N	NO	num=s|gen=m	13	prep
+15	,	,	F	FF	_	16	punc
+16	sono	essere	V	V	num=p|per=3|mod=i|ten=p	11	mod
+17	un	uno	R	RI	num=s|gen=m	18	det
+18	lago	lago	S	S	num=s|gen=m	16	pred
+19	,	,	F	FF	_	16	punc
+20	sono	essere	V	V	num=p|per=3|mod=i|ten=p	16	conj
+21	il	il	R	RD	num=s|gen=m	22	det
+22	migliore	migliore	A	A	num=s|gen=n	20	pred
+23	,	,	F	FF	_	16	punc
+24	sono	essere	V	V	num=p|per=3|mod=i|ten=p	16	conj
+25	meglio	meglio	B	B	_	24	pred
+26	di	di	E	E	_	25	comp
+27	tutti	tutto	D	DI	num=p|gen=m	28	mod
+28	voi	voi	P	PE	num=p|per=2|gen=n	26	prep
+29	.	.	F	FS	_	11	punc
+
+1	Sudo	sudare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	talmente	talmente	B	B	_	1	mod
+3	che	che	C	CS	_	1	arg
+4	non	non	B	BN	_	5	neg
+5	piscio	pisciare	V	V	num=s|per=1|mod=i|ten=p	3	sub
+6	mai	mai	B	B	_	5	mod_temp
+7	!	!	F	FS	_	1	punc
+
+1	Me	me	P	PE	num=s|per=1|gen=n	3	subj
+2	ne	ne	P	PC	num=n|gen=n	3	clit
+3	vado	andare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	,	,	F	FF	_	3	con
+5	me	me	P	PE	num=s|per=1|gen=n	7	subj
+6	ne	ne	P	PC	num=n|gen=n	7	comp
+7	vado	andare	V	V	num=s|per=1|mod=i|ten=p	3	conj
+8	,	,	F	FF	_	3	con
+9	li	li	P	PC	num=p|per=3|gen=m	10	obj
+10	ho	avere	V	V	num=s|per=1|mod=i|ten=p	3	conj
+11	tutti	tutto	P	PI	num=p|gen=m	12	mod
+12	contro	contro	B	B	_	10	mod
+13	.	.	F	FS	_	3	punc
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	3	clit
+2	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	3	aux
+3	murati	murare	V	V	num=p|mod=p|gen=m	0	ROOT
+4	dentro	dentro	B	B	_	7	mod
+5	ci	ci	P	PC	num=p|per=1|gen=n	7	clit
+6	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	7	aux
+7	murati	murare	V	V	num=p|mod=p|gen=m	3	arg
+8	dentro	dentro	B	B	_	11	mod
+9	ci	ci	P	PC	num=p|per=1|gen=n	11	clit
+10	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	11	aux
+11	murati	murare	V	V	num=p|mod=p|gen=m	7	arg
+12	dentro	dentro	B	B	_	15	mod
+13	ci	ci	P	PC	num=p|per=1|gen=n	15	clit
+14	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	15	aux
+15	murati	murare	V	V	num=p|mod=p|gen=m	11	conj
+16	dentro	dentro	B	B	_	15	mod
+
+1	G/coro	G/coro	S	SP	_	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	4	aux
+4	murati	murare	V	V	num=p|mod=p|gen=m	0	ROOT
+5	dentro	dentro	E	E	_	4	comp
+
+1	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	2	aux
+2	murati	murare	V	V	num=p|mod=p|gen=m	0	ROOT
+3	dentro	dentro	B	B	_	2	mod
+
+1	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	2	aux
+2	murati	murare	V	V	num=p|mod=p|gen=m	0	ROOT
+3	dentro	dentro	B	B	_	2	mod
+

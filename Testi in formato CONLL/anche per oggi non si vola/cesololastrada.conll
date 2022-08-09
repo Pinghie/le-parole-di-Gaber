@@ -1,0 +1,990 @@
+1	Maria	Maria	S	SP	_	3	subj
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	obj
+3	amo	amare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	Maria	Maria	S	SP	_	2	subj
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	bisogno	bisogno	S	S	num=s|gen=m	2	obj
+4	di	di	E	E	_	3	comp
+5	te	te	P	PE	num=s|per=2|gen=n	4	prep
+6	.	.	F	FS	_	2	punc
+
+1	Poi	poi	B	B	_	3	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	stringo	stringare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	e	e	C	CC	_	3	con
+5	la	il	R	RD	num=s|gen=f	6	det
+6	bacio	bacio	S	S	num=s|gen=m	3	conj
+7	,	,	F	FF	_	8	punc
+8	infagottato	infagottare	V	V	num=s|mod=p|gen=m	3	conj
+9	d'	di	E	E	_	8	comp
+10	amore	amore	S	S	num=s|gen=m	9	prep
+11	e	e	C	CC	_	9	con
+12	di	di	E	E	_	9	conj
+13	vestiti	vestito	S	S	num=p|gen=m	12	prep
+14	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	5	con
+2	anche	anche	B	B	_	5	mod
+3	lei	lei	P	PE	num=s|per=3|gen=n	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	muove	muovere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	,	,	F	FF	_	5	con
+7	felice	felice	A	A	num=s|gen=n	5	conj
+8	della	di	E	EA	num=s|gen=f	7	comp
+9	sua	suo	A	AP	num=s|gen=f	10	mod
+10	apparenza	apparenza	S	S	num=s|gen=f	8	prep
+11	e	e	C	CC	_	8	con
+12	del	di	E	EA	num=s|gen=m	8	conj
+13	nostro	nostro	A	AP	num=s|gen=m	14	mod
+14	amore	amore	S	S	num=s|gen=m	12	prep
+15	.	.	F	FS	_	5	punc
+
+1	E	e	C	CC	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	cosa	cosa	S	S	num=s|gen=f	0	ROOT
+4	continua	continuo	A	A	num=s|gen=f	3	mod
+5	bellissima	bello	A	A	num=s|gen=f	4	mod
+6	per	per	E	E	_	5	comp
+7	giorni	giorno	S	S	num=p|gen=m	6	prep
+8	e	e	C	CC	_	7	con
+9	giorni	giorno	S	S	num=p|gen=m	7	conj
+10	.	.	F	FS	_	1	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	nave	nave	S	S	num=s|gen=f	0	ROOT
+3	,	,	F	FF	_	4	punc
+4	con	con	E	E	_	2	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	rotta	rotta	S	S	num=s|gen=f	4	prep
+7	precisa	preciso	A	A	num=s|gen=f	6	mod
+8	che	che	C	CS	_	6	mod
+9	ci	ci	P	PC	num=p|per=1|gen=n	10	comp_ind
+10	porta	portare	V	V	num=s|per=3|mod=i|ten=p	8	sub
+11	dritti	dritti	S	S	num=p|gen=m	10	obj
+12	verso	verso	E	E	_	11	comp_loc
+13	una	uno	R	RI	num=s|gen=f	14	det
+14	casa	casa	S	S	num=s|gen=f	12	prep
+15	,	,	F	FF	_	14	con
+16	una	uno	R	RI	num=s|gen=f	17	det
+17	casa	casa	S	S	num=s|gen=f	14	conj
+18	con	con	E	E	_	17	comp
+19	noi	noi	P	PE	num=p|per=1|gen=n	18	prep
+20	due	due	N	N	_	21	mod
+21	soli	sole	S	S	num=p|gen=m	19	mod
+22	,	,	F	FF	_	25	punc
+23	una	uno	R	RI	num=s|gen=f	25	det
+24	gran	gran	A	A	num=n|gen=n	25	mod
+25	tenerezza	tenerezza	S	S	num=s|gen=f	21	mod
+26	e	e	C	CC	_	25	con
+27	una	uno	R	RI	num=s|gen=f	28	det
+28	porta	porta	S	S	num=s|gen=f	25	conj
+29	che	che	P	PR	num=n|gen=n	31	subj
+30	si	si	P	PC	num=n|per=3|gen=n	31	clit
+31	chiude	chiudere	V	V	num=s|per=3|mod=i|ten=p	28	mod_rel
+32	.	.	F	FS	_	2	punc
+
+1	Nelle	in	E	EA	num=p|gen=f	0	ROOT
+2	case	casa	S	S	num=p|gen=f	1	prep
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	niente	niente	P	PI	num=s|gen=m	3	subj
+5	di	di	E	E	_	4	comp
+6	buono	buono	A	A	num=s|gen=m	5	prep
+
+1	appena	appena	B	B	_	5	mod
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	porta	porta	S	S	num=s|gen=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	chiude	chiudere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	dietro	dietro	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	prep
+
+1	Succede	succedere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	qualcosa	qualcosa	P	PI	num=s|gen=n	1	subj
+3	di	di	E	E	_	2	comp
+4	strano	strano	A	A	num=s|gen=m	3	prep
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	niente	niente	P	PI	num=s|gen=m	3	subj
+5	da	da	E	E	_	3	arg
+6	fare	fare	V	V	mod=f	5	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fatale	fatale	A	A	num=s|gen=n	1	pred
+3	quell'	quello	D	DD	num=s|gen=n	4	mod
+4	uomo	uomo	S	S	num=s|gen=m	1	subj
+
+1	incomincia	incominciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	a	a	E	E	_	1	arg
+3	ammuffire	ammuffire	V	V	mod=f	2	prep
+
+1	Ma	ma	C	CC	_	2	con
+2	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	chiave	chiave	S	S	num=s|gen=f	2	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	chiuda	chiudere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	porta	porta	S	S	num=s|gen=f	2	obj
+5	d'	di	E	E	_	4	comp
+6	ingresso	ingresso	S	S	num=s|gen=m	5	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	non	non	B	BN	_	6	neg
+3	sei	essere	V	VA	num=s|per=2|mod=i|ten=p	6	aux
+4	già	già	B	B	_	5	mod
+5	più	più	B	B	_	6	mod
+6	come	come	E	E	_	1	comp
+7	prima	prima	B	B	_	6	prep
+
+1	e	e	C	CC	_	3	con
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	clit
+3	senti	sentire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	depresso	depresso	A	A	num=s|gen=m	3	pred
+5	.	.	F	FS	_	3	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	chiave	chiave	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	tremenda	tremendo	A	A	num=s|gen=f	3	pred
+
+1	appena	appena	B	B	_	3	mod
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	gira	girare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	chiave	chiave	S	S	num=s|gen=f	3	subj
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	dentro	dentro	E	E	_	1	pred
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	stanza	stanza	S	S	num=s|gen=f	2	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	6	arg
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	dorme	dormire	V	V	num=s|per=3|mod=i|ten=p	2	arg
+5	si	si	P	PC	num=n|per=3|gen=n	4	clit
+6	beve	bere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	.	.	F	FS	_	6	punc
+
+1	Ne	ne	P	PC	num=n|gen=n	3	comp
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	conosciute	conoscere	V	V	num=p|mod=p|gen=f	0	ROOT
+4	tante	tanto	P	PI	num=p|gen=f	3	subj
+5	di	di	E	E	_	4	comp
+6	famiglie	famiglia	S	S	num=p|gen=f	5	prep
+7	,	,	F	FF	_	3	punc
+8	la	il	R	RD	num=s|gen=f	9	det
+9	famiglia	famiglia	S	S	num=s|gen=f	10	subj
+10	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+11	più	più	B	B	_	12	mod
+12	economica	economico	A	A	num=s|gen=f	10	pred
+13	e	e	C	CC	_	10	con
+14	protegge	proteggere	V	V	num=s|per=3|mod=i|ten=p	10	conj
+15	di	di	E	E	_	14	comp
+16	più	più	B	B	_	15	prep
+17	.	.	F	FS	_	10	punc
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	3	obj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	organizza	organizzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	bene	bene	B	B	_	3	mod
+5	,	,	F	FF	_	7	punc
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	minestra	minestra	S	S	num=s|gen=f	3	obj
+8	per	per	E	E	_	7	comp
+9	tutti	tutto	P	PI	num=p|gen=m	8	prep
+10	,	,	F	FF	_	12	punc
+11	tranquillanti	tranquillante	A	A	num=p|gen=n	12	mod
+12	aspirine	aspirina	S	S	num=p|gen=f	7	mod
+13	per	per	E	E	_	12	comp
+14	tutti	tutto	P	PI	num=p|gen=m	13	prep
+15	,	,	F	FF	_	12	punc
+16	gli	il	R	RD	num=p|gen=m	17	det
+17	assorbenti	assorbente	S	S	num=p|gen=m	7	conj
+18	il	il	R	RD	num=s|gen=m	19	det
+19	cotone	cotone	S	S	num=s|gen=m	17	mod
+20	i	il	R	RD	num=p|gen=m	21	det
+21	confetti	confetto	S	S	num=p|gen=m	17	mod
+22	Falqui	Falqui	S	SP	_	21	mod
+23	,	,	F	FF	_	26	punc
+24	soltanto	soltanto	B	B	_	26	mod
+25	quattrocento	quattrocento	N	N	_	26	mod
+26	lire	lira	S	S	num=p|gen=f	22	mod
+27	per	per	E	E	_	19	mod
+28	purgare	purgare	V	V	mod=f	27	prep
+29	tutta	tutto	T	T	num=s|gen=f	31	mod
+30	la	il	R	RD	num=s|gen=f	31	det
+31	famiglia	famiglia	S	S	num=s|gen=f	28	obj
+32	,	,	F	FF	_	27	punc
+33	un	uno	R	RI	num=s|gen=m	34	det
+34	affare	affare	S	S	num=s|gen=m	19	conj
+35	.	.	F	FS	_	3	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	caga	cagare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	,	,	F	FF	_	4	punc
+4	in	in	E	E	_	2	comp
+5	famiglia	famiglia	S	S	num=s|gen=f	4	prep
+6	,	,	F	FF	_	4	punc
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	caga	cagare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+9	bene	bene	B	B	_	8	mod
+10	,	,	F	FF	_	8	con
+11	lo	lo	P	PC	num=s|per=3|gen=m	13	obj
+12	si	si	P	PC	num=n|per=3|gen=n	13	clit
+13	fa	fare	V	V	num=s|per=3|mod=i|ten=p	8	conj
+14	tutti	tutto	P	PI	num=p|gen=m	13	obj
+15	insieme	insieme	B	B	_	13	mod
+16	.	.	F	FS	_	2	punc
+
+1	Nelle	in	E	EA	num=p|gen=f	0	ROOT
+2	case	casa	S	S	num=p|gen=f	1	prep
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	niente	niente	P	PI	num=s|gen=m	3	subj
+5	di	di	E	E	_	4	comp
+6	buono	buono	A	A	num=s|gen=m	5	prep
+
+1	appena	appena	B	B	_	5	mod
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	porta	porta	S	S	num=s|gen=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	chiude	chiudere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	dietro	dietro	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	prep
+4	.	.	F	FS	_	1	punc
+
+1	Quell'	quello	D	DD	num=s|gen=n	2	mod
+2	uomo	uomo	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	pesante	pesante	A	A	num=s|gen=n	3	pred
+
+1	e	e	C	CC	_	2	con
+2	passa	passare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	comp
+4	moda	moda	S	S	num=s|gen=f	3	prep
+5	sul	su	E	EA	num=s|gen=m	2	comp_loc
+6	posto	posto	S	S	num=s|gen=m	5	prep
+
+1	incomincia	incominciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	a	a	E	E	_	1	arg
+3	marcire	marcire	V	V	mod=f	2	prep
+
+1	a	a	E	E	_	0	ROOT
+2	puzzare	puzzare	V	V	mod=f	1	prep
+3	molto	molto	B	B	_	4	mod
+4	presto	presto	B	B	_	2	mod
+5	.	.	F	FS	_	1	punc
+
+1	Nelle	in	E	EA	num=p|gen=f	0	ROOT
+2	case	casa	S	S	num=p|gen=f	1	prep
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	niente	niente	P	PI	num=s|gen=m	3	subj
+5	di	di	E	E	_	4	comp
+6	buono	buono	A	A	num=s|gen=m	5	prep
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	tutto	tutto	P	PI	num=s|gen=m	2	subj
+4	che	che	C	CS	_	2	subj
+5	puzza	puzza	S	S	num=s|gen=f	4	sub
+6	di	di	E	E	_	5	comp
+7	chiuso	chiuso	A	A	num=s|gen=m	6	prep
+8	e	e	C	CC	_	6	con
+9	di	di	E	E	_	6	conj
+10	cesso	cesso	S	S	num=s|gen=m	9	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	bagno	bagno	S	S	num=s|gen=m	7	subj
+5	ci	ci	P	PC	num=p|per=1|gen=n	7	comp_ind
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	lava	lavare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+8	i	il	R	RD	num=p|gen=m	9	det
+9	denti	dente	S	S	num=p|gen=m	7	obj
+
+1	ma	ma	C	CC	_	2	con
+2	puzziamo	puzzare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	lo	il	R	RD	num=s|gen=m	4	det
+4	stesso	stesso	A	A	num=s|gen=m	2	mod
+5	.	.	F	FS	_	2	punc
+
+1	Amore	amore	S	S	num=s|gen=m	3	mod_temp
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	lascio	lasciare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	ti	ti	P	PC	num=s|per=2|gen=n	3	obj
+5	lascio	lasciare	V	V	num=s|per=1|mod=i|ten=p	3	conj
+6	.	.	F	FS	_	3	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	2	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	strada	strada	S	S	num=s|gen=f	2	subj
+
+1	su	su	E	E	_	4	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	4	modal
+4	contare	contare	V	V	mod=f	0	ROOT
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	strada	strada	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	6	det
+5	unica	unico	A	A	num=s|gen=f	6	mod
+6	salvezza	salvezza	S	S	num=s|gen=f	3	pred
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	voglia	voglia	S	S	num=s|gen=f	2	subj
+6	e	e	C	CC	_	5	con
+7	il	il	R	RD	num=s|gen=m	8	det
+8	bisogno	bisogno	S	S	num=s|gen=m	5	conj
+9	di	di	E	E	_	8	arg
+10	uscire	uscire	V	V	mod=f	9	prep
+
+1	di	di	E	E	_	0	ROOT
+2	espor-	esporre	V	V	mod=f	1	prep
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	nella	in	E	EA	num=s|gen=f	2	comp_loc
+5	strada	strada	S	S	num=s|gen=f	4	prep
+6	e	e	C	CC	_	4	con
+7	nella	in	E	EA	num=s|gen=f	4	conj
+8	piazza	piazza	S	S	num=s|gen=f	7	prep
+9	.	.	F	FS	_	1	punc
+
+1	Perché	perché	B	B	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	giudizio	giudizio	S	S	num=s|gen=m	0	ROOT
+4	universale	universale	A	A	num=s|gen=n	3	mod
+
+1	non	non	B	BN	_	2	neg
+2	passa	passare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	le	il	R	RD	num=p|gen=f	5	det
+5	case	casa	S	S	num=p|gen=f	3	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	case	casa	S	S	num=p|gen=f	0	ROOT
+3	dove	dove	P	PR	num=n|gen=n	6	comp
+4	noi	noi	P	PE	num=p|per=1|gen=n	6	subj
+5	ci	ci	P	PC	num=p|per=1|gen=n	6	clit
+6	nascondiamo	nascondere	V	V	num=p|per=1|mod=i|ten=p	2	mod_rel
+
+1	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	ritornare	ritornare	V	V	mod=f	1	arg
+3	nella	in	E	EA	num=s|gen=f	2	comp_loc
+4	strada	strada	S	S	num=s|gen=f	3	prep
+
+1	nella	in	E	EA	num=s|gen=f	0	ROOT
+2	strada	strada	S	S	num=s|gen=f	1	prep
+3	per	per	E	E	_	2	arg
+4	conoscere	conoscere	V	V	mod=f	3	prep
+5	chi	chi	P	PQ	num=n|gen=n	4	obj
+6	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	5	mod_rel
+7	.	.	F	FS	_	1	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	strada	strada	S	S	num=s|gen=f	9	subj
+6	su	su	E	E	_	9	comp
+7	cui	cui	P	PR	num=n|gen=n	6	prep
+8	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	9	modal
+9	contare	contare	V	V	mod=f	2	subj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	strada	strada	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	6	det
+5	unica	unico	A	A	num=s|gen=f	6	mod
+6	salvezza	salvezza	S	S	num=s|gen=f	3	pred
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	voglia	voglia	S	S	num=s|gen=f	2	subj
+6	e	e	C	CC	_	5	con
+7	il	il	R	RD	num=s|gen=m	8	det
+8	bisogno	bisogno	S	S	num=s|gen=m	5	conj
+9	di	di	E	E	_	8	arg
+10	uscire	uscire	V	V	mod=f	9	prep
+
+1	di	di	E	E	_	0	ROOT
+2	espor-	esporre	V	V	mod=f	1	prep
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	nella	in	E	EA	num=s|gen=f	2	comp_loc
+5	strada	strada	S	S	num=s|gen=f	4	prep
+6	e	e	C	CC	_	4	con
+7	nella	in	E	EA	num=s|gen=f	4	conj
+8	piazza	piazza	S	S	num=s|gen=f	7	prep
+9	.	.	F	FS	_	1	punc
+
+1	Perché	perché	B	B	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	giudizio	giudizio	S	S	num=s|gen=m	0	ROOT
+4	universale	universale	A	A	num=s|gen=n	3	mod
+
+1	non	non	B	BN	_	2	neg
+2	passa	passare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	le	il	R	RD	num=p|gen=f	5	det
+5	case	casa	S	S	num=p|gen=f	3	prep
+
+1	e	e	C	CC	_	5	con
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	angeli	angelo	S	S	num=p|gen=m	5	subj
+4	non	non	B	BN	_	5	neg
+5	danno	dare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	appuntamenti	appuntamento	S	S	num=p|gen=m	5	obj
+
+1	e	e	C	CC	_	3	con
+2	anche	anche	B	B	_	3	mod
+3	nelle	in	E	EA	num=p|gen=f	0	ROOT
+4	case	casa	S	S	num=p|gen=f	3	prep
+5	più	più	B	B	_	6	mod
+6	spaziose	spazioso	A	A	num=p|gen=f	4	mod
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	spazio	spazio	S	S	num=s|gen=m	3	subj
+5	per	per	E	E	_	4	comp
+6	verifiche	verifica	S	S	num=p|gen=f	5	prep
+7	e	e	C	CC	_	6	con
+8	confronti	confronto	S	S	num=p|gen=m	6	conj
+9	.	.	F	FS	_	3	punc
+
+1	Laura	Laura	S	SP	_	4	mod
+2	,	,	F	FF	_	4	punc
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	clit
+4	amo	amare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	.	.	F	FS	_	4	punc
+
+1	Laura	Laura	S	SP	_	3	mod
+2	,	,	F	FF	_	1	con
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	bisogno	bisogno	S	S	num=s|gen=m	3	obj
+5	di	di	E	E	_	4	comp
+6	te	te	P	PE	num=s|per=2|gen=n	5	prep
+7	.	.	F	FS	_	3	punc
+
+1	Con	con	E	E	_	4	comp
+2	te	te	P	PE	num=s|per=2|gen=n	1	prep
+3	io	io	P	PE	num=s|per=1|gen=n	4	subj
+4	ritrovo	ritrovare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	strada	strada	S	S	num=s|gen=f	4	obj
+7	,	,	F	FF	_	4	con
+8	le	il	R	RD	num=p|gen=f	9	det
+9	piazze	piazza	S	S	num=p|gen=f	4	conj
+10	i	il	R	RD	num=p|gen=m	11	det
+11	giovani	giovane	S	S	num=p|gen=n	9	mod
+12	,	,	F	FF	_	14	punc
+13	gli	il	R	RD	num=p|gen=m	14	det
+14	studenti	studente	S	S	num=p|gen=m	11	mod
+15	.	.	F	FS	_	4	punc
+
+1	Li	li	P	PC	num=p|per=3|gen=m	2	obj
+2	avevo	avere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+3	lasciati	lasciare	V	V	num=p|mod=p|gen=m	2	pred
+4	qualche	qualche	D	DI	num=s|gen=n	5	mod
+5	anno	anno	S	S	num=s|gen=m	3	obj
+6	fa	fa	B	B	_	3	mod
+7	con	con	E	E	_	3	comp
+8	la	il	R	RD	num=s|gen=f	9	det
+9	cravatta	cravatta	S	S	num=s|gen=f	7	prep
+10	.	.	F	FS	_	2	punc
+
+1	Sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	molto	molto	B	B	_	3	mod
+3	cambiati	cambiare	V	V	num=p|mod=p|gen=m	1	pred
+4	,	,	F	FF	_	5	punc
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	3	mod
+6	molto	molto	B	B	_	7	mod
+7	più	più	B	B	_	8	mod
+8	belli	bello	A	A	num=p|gen=m	5	pred
+9	.	.	F	FS	_	1	punc
+
+1	Le	il	R	RD	num=p|gen=f	2	det
+2	idee	idea	S	S	num=p|gen=f	0	ROOT
+3	sì	sì	B	B	_	2	mod
+4	,	,	F	FF	_	3	punc
+5	le	il	R	RD	num=p|gen=f	6	det
+6	idee	idea	S	S	num=p|gen=f	8	subj_pass
+7	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	8	aux
+8	cambiate	cambiare	V	V	num=p|mod=p|gen=f	2	mod_rel
+9	,	,	F	FF	_	8	con
+10	e	e	C	CC	_	8	con
+11	i	il	R	RD	num=p|gen=m	13	det
+12	loro	loro	A	AP	num=n|gen=n	13	mod
+13	discorsi	discorso	S	S	num=p|gen=m	8	conj
+14	e	e	C	CC	_	8	con
+15	il	il	R	RD	num=s|gen=m	16	det
+16	modo	modo	S	S	num=s|gen=m	8	conj
+17	di	di	E	E	_	16	arg
+18	vestire	vestire	V	V	mod=f	17	prep
+19	.	.	F	FS	_	2	punc
+
+1	Gli	il	R	RD	num=p|gen=m	2	det
+2	esseri	essere	S	S	num=p|gen=m	0	ROOT
+3	meno	meno	B	B	_	2	mod
+4	,	,	F	FF	_	3	punc
+5	gli	il	R	RD	num=p|gen=m	6	det
+6	esseri	essere	S	S	num=p|gen=m	2	conj
+7	non	non	B	BN	_	10	neg
+8	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	10	aux
+9	molto	molto	B	B	_	10	mod
+10	cambiati	cambiare	V	V	num=p|mod=p|gen=m	6	mod
+11	.	.	F	FS	_	2	punc
+
+1	Vanno	andare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	ancora	ancora	B	B	_	1	mod
+3	nelle	in	E	EA	num=p|gen=f	1	comp
+4	aule	aula	S	S	num=p|gen=f	3	prep
+5	di	di	E	E	_	4	comp
+6	scuola	scuola	S	S	num=s|gen=f	5	prep
+7	a	a	E	E	_	1	arg
+8	brucare	brucare	V	V	mod=f	7	prep
+9	un	uno	R	RI	num=s|gen=m	14	det
+10	pò	pò	B	B	_	11	mod
+11	di	di	E	E	_	9	comp
+12	medicina	medicina	S	S	num=s|gen=f	11	prep
+13	,	,	F	FF	_	9	con
+14	fettine	fettine	S	S	num=p|gen=f	8	obj
+15	di	di	E	E	_	14	comp
+16	chimica	chimica	S	S	num=s|gen=f	15	prep
+17	,	,	F	FF	_	8	con
+18	pezzetti	pezzetti	S	S	num=p|gen=m	8	conj
+19	di	di	E	E	_	18	comp
+20	urbanistica	urbanistica	S	S	num=s|gen=f	19	prep
+21	con	con	E	E	_	18	comp
+22	inserti	inserto	S	S	num=p|gen=m	21	prep
+23	di	di	E	E	_	22	comp
+24	ecologia	ecologia	S	S	num=s|gen=f	23	prep
+25	,	,	F	FF	_	26	punc
+26	a	a	E	E	_	1	comp
+27	ore	ora	S	S	num=p|gen=f	26	prep
+28	pressappoco	pressappoco	B	B	_	29	mod
+29	regolari	regolare	A	A	num=p|gen=n	27	mod
+30	,	,	F	FF	_	26	punc
+31	ed	e	C	CC	_	1	con
+32	esiste	esistere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+33	ancora	ancora	B	B	_	32	mod
+34	il	il	R	RD	num=s|gen=m	35	det
+35	bar	bar	S	S	num=n|gen=m	32	subj
+36	,	,	F	FF	_	37	punc
+37	tra	tra	E	E	_	35	comp
+38	un	uno	R	RI	num=s|gen=m	39	det
+39	intervallo	intervallo	S	S	num=s|gen=m	37	prep
+40	e	e	C	CC	_	39	con
+41	l'	il	R	RD	num=s|gen=n	42	det
+42	altro	altro	P	PI	num=s|gen=m	39	conj
+43	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	0	ROOT
+2	poi	poi	B	B	_	4	mod
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	amore	amore	S	S	num=s|gen=m	1	ROOT
+5	,	,	F	FF	_	6	punc
+6	per	per	E	E	_	4	arg
+7	fabbricar-	fabbricare	V	V	mod=f	6	prep
+8	si	si	P	PC	num=n|per=3|gen=n	7	clit
+9	una	uno	R	RI	num=s|gen=f	10	det
+10	felicità	felicità	S	S	num=n|gen=f	7	obj
+11	.	.	F	FS	_	4	punc
+
+1	Come	come	B	B	_	0	ROOT
+2	noi	noi	P	PE	num=p|per=1|gen=n	1	prep
+3	ora	ora	B	B	_	2	mod
+4	,	,	F	FF	_	3	punc
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	coppia	coppia	S	S	num=s|gen=f	2	conj
+7	e	e	C	CC	_	2	con
+8	ancora	ancora	B	B	_	10	mod
+9	tante	tanto	D	DI	num=p|gen=f	10	mod
+10	coppie	coppia	S	S	num=p|gen=f	2	conj
+11	.	.	F	FS	_	1	punc
+
+1	Unica	unico	A	A	num=s|gen=f	2	mod
+2	diversità	diversità	S	S	num=n|gen=f	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	viaggio	viaggio	S	S	num=s|gen=m	2	conj
+5	in	in	E	E	_	4	comp_loc
+6	India	India	S	SP	_	5	prep
+7	su	su	E	E	_	4	comp_loc
+8	una	uno	R	RI	num=s|gen=f	10	det
+9	Due	Due	S	SP	_	10	mod
+10	Cavalli	Cavalli	S	SP	_	7	prep
+11	.	.	F	FS	_	2	punc
+
+1	Due	due	N	N	_	0	ROOT
+2	,	,	F	FF	_	1	punc
+3	come	come	E	E	_	1	comp
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	5	con
+2	poi	poi	B	B	_	5	mod
+3	ancora	ancora	B	B	_	5	mod
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	porta	porta	S	S	num=s|gen=f	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	ancora	ancora	B	B	_	4	mod
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	casa	casa	S	S	num=s|gen=f	0	ROOT
+
+1	ma	ma	C	CC	_	3	con
+2	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	3	aux
+3	convinti	convinto	A	A	num=p|gen=m	0	ROOT
+
+1	che	che	C	CS	_	0	ROOT
+2	sia	essere	V	V	num=s|per=3|mod=c|ten=p	1	sub
+3	un'	uno	R	RI	num=s|gen=f	5	det
+4	altra	altro	A	A	num=s|gen=f	5	mod
+5	cosa	cosa	S	S	num=s|gen=f	2	pred
+
+1	Perché	perché	B	B	_	2	mod
+2	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	esperienze	esperienza	S	S	num=p|gen=f	2	obj
+4	diverse	diverso	A	A	num=p|gen=f	3	mod
+
+1	non	non	B	BN	_	3	neg
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	finir	finire	V	V	mod=f	0	ROOT
+4	male	male	B	B	_	3	mod
+
+1	perché	perché	C	CS	_	0	ROOT
+2	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	1	sub
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	chiave	chiave	S	S	num=s|gen=f	2	obj
+5	moderna	moderno	A	A	num=s|gen=f	4	mod
+
+1	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	Yale	Yale	S	SP	_	1	obj
+4	.	.	F	FS	_	1	punc
+
+1	Perché	perché	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	tutto	tutto	T	T	num=s|gen=m	5	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	rapporto	rapporto	S	S	num=s|gen=m	2	pred
+6	diverso	diverso	A	A	num=s|gen=m	5	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	molto	molto	B	B	_	4	mod
+4	più	più	B	B	_	2	mod
+5	avanti	avanti	B	B	_	2	mod
+
+1	ma	ma	C	CC	_	3	con
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	3	mod
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	casa	casa	S	S	num=s|gen=f	3	subj
+
+1	con	con	E	E	_	0	ROOT
+2	altre	altro	D	DI	num=p|gen=f	3	mod
+3	aspirine	aspirina	S	S	num=p|gen=f	1	prep
+4	e	e	C	CC	_	3	con
+5	calmanti	calmante	A	A	num=p|gen=n	3	conj
+6	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	5	con
+2	di	di	E	E	_	5	comp
+3	nuovo	nuovo	A	A	num=s|gen=m	2	prep
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	clit
+5	trovo	trovare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+6	a	a	E	E	_	5	arg
+7	marcire	marcire	V	V	mod=f	6	prep
+
+1	in	in	E	E	_	8	comp
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	altra	altro	A	A	num=s|gen=f	4	mod
+4	famiglia	famiglia	S	S	num=s|gen=f	1	prep
+5	la	il	R	RD	num=s|gen=f	6	det
+6	nostra	nostro	A	AP	num=s|gen=f	8	mod
+7	la	il	R	RD	num=s|gen=f	8	det
+8	mia	mio	A	AP	num=s|gen=f	0	_
+
+1	abbracciar-	abbracciare	V	V	mod=f	0	ROOT
+2	la	la	P	PC	num=s|per=3|gen=f	1	obj
+3	guardando	guardare	V	V	mod=g	1	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	porta	porta	S	S	num=s|gen=f	3	obj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	4	det
+3	mia	mio	A	AP	num=s|gen=f	4	mod
+4	poesia	poesia	S	S	num=s|gen=f	1	pred
+5	.	.	F	FS	_	1	punc
+
+1	Amore	amore	S	S	num=s|gen=m	3	mod_temp
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	lascio	lasciare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	vado	andare	V	V	num=s|per=1|mod=i|ten=p	3	arg
+5	via	via	B	B	_	4	mod
+6	.	.	F	FS	_	3	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	2	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	strada	strada	S	S	num=s|gen=f	2	subj
+
+1	su	su	E	E	_	4	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	4	modal
+4	contare	contare	V	V	mod=f	0	ROOT
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	strada	strada	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	6	det
+5	unica	unico	A	A	num=s|gen=f	6	mod
+6	salvezza	salvezza	S	S	num=s|gen=f	3	pred
+7	.	.	F	FS	_	3	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	voglia	voglia	S	S	num=s|gen=f	2	subj
+6	e	e	C	CC	_	5	con
+7	il	il	R	RD	num=s|gen=m	8	det
+8	bisogno	bisogno	S	S	num=s|gen=m	5	conj
+9	di	di	E	E	_	8	arg
+10	uscire	uscire	V	V	mod=f	9	prep
+
+1	di	di	E	E	_	0	ROOT
+2	espor-	esporre	V	V	mod=f	1	prep
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	nella	in	E	EA	num=s|gen=f	2	comp_loc
+5	strada	strada	S	S	num=s|gen=f	4	prep
+6	nella	in	E	EA	num=s|gen=f	5	comp_loc
+7	piazza	piazza	S	S	num=s|gen=f	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	Perché	perché	B	B	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	giudizio	giudizio	S	S	num=s|gen=m	0	ROOT
+4	universale	universale	A	A	num=s|gen=n	3	mod
+
+1	non	non	B	BN	_	2	neg
+2	passa	passare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	le	il	R	RD	num=p|gen=f	5	det
+5	case	casa	S	S	num=p|gen=f	3	prep
+
+1	in	in	E	E	_	5	comp
+2	casa	casa	S	S	num=s|gen=f	1	prep
+3	non	non	B	BN	_	5	neg
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	sentono	sentire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	le	il	R	RD	num=p|gen=f	7	det
+7	trombe	tromba	S	S	num=p|gen=f	5	subj
+
+1	in	in	E	E	_	4	comp
+2	casa	casa	S	S	num=s|gen=f	1	prep
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	clit
+4	allontani	allontanare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+5	dalla	da	E	EA	num=s|gen=f	4	comp
+6	vita	vita	S	S	num=s|gen=f	5	prep
+
+1	dalla	da	E	EA	num=s|gen=f	0	ROOT
+2	lotta	lotta	S	S	num=s|gen=f	1	prep
+3	dal	da	E	EA	num=s|gen=m	2	comp
+4	dolore	dolore	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	3	con
+6	dalle	da	E	EA	num=p|gen=f	3	conj
+7	bombe	bomba	S	S	num=p|gen=f	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	Lidia	Lidia	S	SP	_	4	mod
+2	,	,	F	FF	_	4	punc
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	clit
+4	amo	amare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	.	.	F	FS	_	4	punc
+
+1	Lidia	Lidia	S	SP	_	3	mod
+2	,	,	F	FF	_	1	con
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	bisogno	bisogno	S	S	num=s|gen=m	3	obj
+5	di	di	E	E	_	4	comp
+6	te	te	P	PE	num=s|per=2|gen=n	5	prep
+7	.	.	F	FS	_	3	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	per	per	E	E	_	0	ROOT
+3	favore	favore	S	S	num=s|gen=m	2	prep
+4	,	,	F	FF	_	1	punc
+5	in	in	E	E	_	2	conj
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	hotel	hotel	S	SW	num=n|gen=m	5	prep
+8	meublè	meublè	A	A	num=s|gen=f	7	mod
+9	.	.	F	FS	_	2	punc
+
+1	Perché	perché	B	B	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	giudizio	giudizio	S	S	num=s|gen=m	0	ROOT
+4	universale	universale	A	A	num=s|gen=n	3	mod
+
+1	non	non	B	BN	_	2	neg
+2	passa	passare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	le	il	R	RD	num=p|gen=f	5	det
+5	case	casa	S	S	num=p|gen=f	3	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	case	casa	S	S	num=p|gen=f	0	ROOT
+3	dove	dove	P	PR	num=n|gen=n	6	comp
+4	noi	noi	P	PE	num=p|per=1|gen=n	6	subj
+5	ci	ci	P	PC	num=p|per=1|gen=n	6	clit
+6	nascondiamo	nascondere	V	V	num=p|per=1|mod=i|ten=p	2	mod_rel
+
+1	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	ritornare	ritornare	V	V	mod=f	1	arg
+3	nella	in	E	EA	num=s|gen=f	2	comp_loc
+4	strada	strada	S	S	num=s|gen=f	3	prep
+
+1	nella	in	E	EA	num=s|gen=f	0	ROOT
+2	strada	strada	S	S	num=s|gen=f	1	prep
+3	per	per	E	E	_	2	arg
+4	conoscere	conoscere	V	V	mod=f	3	prep
+5	chi	chi	P	PQ	num=n|gen=n	4	obj
+6	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	5	mod_rel
+7	.	.	F	FS	_	1	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	strada	strada	S	S	num=s|gen=f	9	subj
+6	su	su	E	E	_	9	comp
+7	cui	cui	P	PR	num=n|gen=n	6	prep
+8	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	9	modal
+9	contare	contare	V	V	mod=f	2	subj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	strada	strada	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	6	det
+5	unica	unico	A	A	num=s|gen=f	6	mod
+6	salvezza	salvezza	S	S	num=s|gen=f	3	pred
+7	.	.	F	FS	_	3	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	voglia	voglia	S	S	num=s|gen=f	2	subj
+6	e	e	C	CC	_	5	con
+7	il	il	R	RD	num=s|gen=m	8	det
+8	bisogno	bisogno	S	S	num=s|gen=m	5	conj
+9	di	di	E	E	_	8	arg
+10	uscire	uscire	V	V	mod=f	9	prep
+
+1	di	di	E	E	_	0	ROOT
+2	espor-	esporre	V	V	mod=f	1	prep
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	nella	in	E	EA	num=s|gen=f	2	comp_loc
+5	strada	strada	S	S	num=s|gen=f	4	prep
+6	nella	in	E	EA	num=s|gen=f	5	comp_loc
+7	piazza	piazza	S	S	num=s|gen=f	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	Perché	perché	B	B	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	giudizio	giudizio	S	S	num=s|gen=m	0	ROOT
+4	universale	universale	A	A	num=s|gen=n	3	mod
+
+1	non	non	B	BN	_	2	neg
+2	passa	passare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	le	il	R	RD	num=p|gen=f	5	det
+5	case	casa	S	S	num=p|gen=f	3	prep
+
+1	in	in	E	E	_	5	comp
+2	casa	casa	S	S	num=s|gen=f	1	prep
+3	non	non	B	BN	_	5	neg
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	sentono	sentire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	le	il	R	RD	num=p|gen=f	7	det
+7	trombe	tromba	S	S	num=p|gen=f	5	subj
+
+1	in	in	E	E	_	4	comp
+2	casa	casa	S	S	num=s|gen=f	1	prep
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	clit
+4	allontani	allontanare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+5	dalla	da	E	EA	num=s|gen=f	4	comp
+6	vita	vita	S	S	num=s|gen=f	5	prep
+
+1	dalla	da	E	EA	num=s|gen=f	0	ROOT
+2	lotta	lotta	S	S	num=s|gen=f	1	prep
+3	dal	da	E	EA	num=s|gen=m	2	comp
+4	dolore	dolore	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	3	con
+6	dalle	da	E	EA	num=p|gen=f	3	conj
+7	bombe	bomba	S	S	num=p|gen=f	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	Perché	perché	B	B	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	giudizio	giudizio	S	S	num=s|gen=m	0	ROOT
+4	universale	universale	A	A	num=s|gen=n	3	mod
+
+1	non	non	B	BN	_	2	neg
+2	passa	passare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	le	il	R	RD	num=p|gen=f	5	det
+5	case	casa	S	S	num=p|gen=f	3	prep
+
+1	in	in	E	E	_	5	comp
+2	casa	casa	S	S	num=s|gen=f	1	prep
+3	non	non	B	BN	_	5	neg
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	sentono	sentire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	le	il	R	RD	num=p|gen=f	7	det
+7	trombe	tromba	S	S	num=p|gen=f	5	subj
+
+1	in	in	E	E	_	4	comp
+2	casa	casa	S	S	num=s|gen=f	1	prep
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	clit
+4	allontani	allontanare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+5	dalla	da	E	EA	num=s|gen=f	4	comp
+6	vita	vita	S	S	num=s|gen=f	5	prep
+
+1	dalla	da	E	EA	num=s|gen=f	0	ROOT
+2	lotta	lotta	S	S	num=s|gen=f	1	prep
+3	dal	da	E	EA	num=s|gen=m	2	comp
+4	dolore	dolore	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	3	con
+6	dalle	da	E	EA	num=p|gen=f	3	conj
+7	bombe	bomba	S	S	num=p|gen=f	6	prep
+8	.	.	F	FS	_	1	punc
+
