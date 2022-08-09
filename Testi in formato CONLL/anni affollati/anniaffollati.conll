@@ -1,0 +1,396 @@
+1	Anni	anno	S	S	num=p|gen=m	0	ROOT
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	di	di	E	E	_	2	comp
+4	idiomi	idioma	S	S	num=p|gen=m	3	prep
+5	di	di	E	E	_	4	comp
+6	idioti	idiota	S	S	num=p|gen=m	5	prep
+
+1	di	di	E	E	_	0	ROOT
+2	guerrieri	guerriero	S	S	num=p|gen=m	1	prep
+3	e	e	C	CC	_	1	con
+4	di	di	E	E	_	1	conj
+5	pazzi	pazzo	S	S	num=p|gen=m	4	prep
+6	e	e	C	CC	_	5	con
+7	anni	anno	S	S	num=p|gen=m	5	conj
+8	di	di	E	E	_	5	comp
+9	esercizi	esercizio	S	S	num=p|gen=m	8	prep
+
+1	anni	anno	S	S	num=p|gen=m	0	ROOT
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	di	di	E	E	_	2	comp
+4	arroganza	arroganza	S	S	num=s|gen=f	3	prep
+5	e	e	C	CC	_	3	con
+6	di	di	E	E	_	3	conj
+7	stucchevole	stucchevole	A	A	num=s|gen=n	8	mod
+8	bontà	bontà	S	S	num=s|gen=f	6	prep
+
+1	di	di	E	E	_	4	comp
+2	tentativi	tentativo	S	S	num=p|gen=m	1	prep
+3	disperati	disperato	A	A	num=p|gen=m	2	mod
+4	anni	anno	S	S	num=p|gen=m	0	ROOT
+5	affollati	affollato	A	A	num=p|gen=m	4	mod
+
+1	di	di	E	E	_	0	ROOT
+2	qualsiasi	qualsiasi	D	DI	num=s|gen=n	3	mod
+3	forma	forma	S	S	num=s|gen=f	1	prep
+4	di	di	E	E	_	3	comp
+5	incapacità	incapacità	S	S	num=n|gen=f	4	prep
+6	.	.	F	FS	_	1	punc
+
+1	Anni	anno	S	S	num=p|gen=m	7	subj
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	per	per	E	E	_	2	comp
+4	fortuna	fortuna	S	S	num=s|gen=f	3	prep
+5	siete	essere	V	VA	num=p|per=2|mod=i|ten=p	7	aux
+6	già	già	B	B	_	7	mod
+7	passati	passare	V	V	num=p|mod=p|gen=m	0	_
+
+1	Ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	indigestione	indigestione	S	S	num=s|gen=f	2	obj
+4	la	il	R	RD	num=s|gen=f	6	det
+5	mia	mio	A	AP	num=s|gen=f	6	mod
+6	testa	testa	S	S	num=s|gen=f	7	subj
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	piena	pieno	A	A	num=s|gen=f	7	pred
+
+1	dall'	da	E	EA	num=s|gen=n	0	ROOT
+2	Africa	Africa	S	SP	_	1	prep
+3	all'	al	E	EA	num=s|gen=n	2	comp
+4	America	America	S	SP	_	3	prep
+5	al	a	E	EA	num=s|gen=m	1	conj
+6	mio	mio	A	AP	num=s|gen=m	7	mod
+7	letto	letto	S	S	num=s|gen=m	5	prep
+
+1	non	non	B	BN	_	4	neg
+2	c'	ci	P	PC	num=n|gen=n	4	comp
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	rimasto	rimanere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	niente	niente	B	B	_	4	mod
+6	che	che	C	CS	_	4	subj
+7	non	non	B	BN	_	8	neg
+8	so	sapere	V	V	num=s|per=1|mod=i|ten=p	6	sub
+9	.	.	F	FS	_	4	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	7	arg
+3	così	così	B	B	_	4	mod
+4	pieno	pieno	A	A	num=s|gen=m	2	pred
+5	da	da	E	E	_	4	comp
+6	neanche	neanche	B	B	_	5	prep
+7	ricordare	ricordare	V	V	mod=f	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	giorno	giorno	S	S	num=s|gen=m	0	ROOT
+3	in	in	E	E	_	5	comp
+4	cui	cui	P	PR	num=n|gen=n	3	prep
+5	lasciai	lasciare	V	V	num=s|per=1|mod=i|ten=s	2	mod_rel
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	donna	donna	S	S	num=s|gen=f	5	obj
+
+1	o	o	C	CC	_	7	con
+2	in	in	E	E	_	7	comp
+3	cui	cui	P	PR	num=n|gen=n	2	prep
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	donna	donna	S	S	num=s|gen=f	7	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	obj
+7	lasciò	lasciare	V	V	num=s|per=3|mod=i|ten=s	0	ROOT
+8	.	.	F	FS	_	7	punc
+
+1	Anni	anno	S	S	num=p|gen=m	7	subj
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	per	per	E	E	_	2	comp
+4	fortuna	fortuna	S	S	num=s|gen=f	3	prep
+5	siete	essere	V	VA	num=p|per=2|mod=i|ten=p	7	aux
+6	già	già	B	B	_	7	mod
+7	passati	passare	V	V	num=p|mod=p|gen=m	0	_
+
+1	E	e	C	CC	_	5	con
+2	quanti	quanto	P	PQ	num=p|gen=m	5	subj
+3	ne	ne	P	PC	num=n|gen=n	5	comp
+4	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	5	aux
+5	mangiati	mangiare	V	V	num=p|mod=p|gen=m	0	ROOT
+6	di	di	E	E	_	5	comp
+7	domani	domani	B	B	_	6	prep
+8	e	e	C	CC	_	6	con
+9	di	di	E	E	_	6	conj
+10	destini	destino	S	S	num=p|gen=m	9	prep
+
+1	e	e	C	CC	_	5	con
+2	poi	poi	B	B	_	4	mod
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	spazi	spazio	S	S	num=p|gen=m	5	subj
+5	aperti	aprire	V	V	num=p|mod=p|gen=m	0	ROOT
+6	le	il	R	RD	num=p|gen=f	7	det
+7	donne	donna	S	S	num=p|gen=f	5	obj
+8	solidali	solidale	A	A	num=p|gen=n	7	mod
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	erbe	erba	S	S	num=p|gen=f	0	ROOT
+3	dopo	dopo	E	E	_	2	comp_temp
+4	i	il	R	RD	num=p|gen=m	5	det
+5	pasti	pasto	S	S	num=p|gen=m	3	prep
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	orgasmo	orgasmo	S	S	num=s|gen=m	2	conj
+8	a	a	E	E	_	7	comp
+9	tutti	tutto	T	T	num=p|gen=m	11	mod
+10	i	il	R	RD	num=p|gen=m	11	det
+11	costi	costo	S	S	num=p|gen=m	8	prep
+
+1	con	con	E	E	_	6	comp
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	Arci	Arci	S	SP	_	1	prep
+4	non	non	B	BN	_	6	neg
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	soli	solo	A	A	num=p|gen=m	8	mod
+8	famiglia	famiglia	S	S	num=s|gen=f	6	pred
+9	meneghina	meneghino	A	A	num=s|gen=f	8	mod
+10	gli	il	R	RD	num=p|gen=m	11	det
+11	amici	amico	S	S	num=p|gen=m	8	mod
+12	della	di	E	EA	num=s|gen=f	11	comp
+13	Francia	Francia	S	SP	_	12	prep
+
+1	a	a	E	E	_	3	comp
+2	scuola	scuola	S	S	num=s|gen=f	1	prep
+3	imparerò	imparare	V	V	num=s|per=1|mod=i|ten=f	0	ROOT
+4	a	a	E	E	_	3	arg
+5	ballare	ballare	V	V	mod=f	4	prep
+6	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+7	vien	vien	V	V	num=s|per=1|mod=i|ten=p	3	conj
+8	da	da	E	E	_	7	arg
+9	vomitare	vomitare	V	V	mod=f	8	prep
+10	.	.	F	FS	_	3	punc
+
+1	Anni	anno	S	S	num=p|gen=m	0	ROOT
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	degli	di	E	EA	num=p|gen=m	2	comp
+4	ultimi	ultimo	A	A	num=p|gen=m	6	mod
+5	dieci	dieci	N	N	_	6	mod
+6	anni	anno	S	S	num=p|gen=m	3	prep
+
+1	non	non	B	BN	_	2	neg
+2	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	a	a	E	E	_	2	arg
+5	smaltir-	smaltire	V	V	mod=f	4	prep
+6	vi	vi	P	PC	num=p|per=2|gen=n	5	obj
+7	c'	ci	P	PC	num=n|gen=n	5	comp
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+9	troppo	troppo	B	B	_	10	mod
+10	poco	poco	B	B	_	11	mod
+11	oblio	oblio	S	S	num=s|gen=m	8	pred
+
+1	anni	anno	S	S	num=p|gen=m	0	ROOT
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	di	di	E	E	_	2	comp
+4	gente	gente	S	S	num=s|gen=f	3	prep
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+7	pensato	pensare	V	V	num=s|mod=p|gen=m	4	mod_rel
+8	a	a	E	E	_	7	comp
+9	tutto	tutto	D	DI	num=s|gen=m	8	prep
+
+1	senza	senza	C	CS	_	0	ROOT
+2	mai	mai	B	B	_	3	mod_temp
+3	pensare	pensare	V	V	mod=f	1	sub
+4	a	a	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	Dio	Dio	S	SP	_	4	prep
+7	.	.	F	FS	_	1	punc
+
+1	Anni	anno	S	S	num=p|gen=m	0	ROOT
+2	di	di	E	E	_	1	comp
+3	gente	gente	S	S	num=s|gen=f	2	prep
+4	informata	informato	A	A	num=s|gen=f	3	mod
+5	e	e	C	CC	_	1	con
+6	noiosa	noioso	A	A	num=s|gen=f	1	conj
+
+1	vi	vi	P	PC	num=n|gen=n	2	comp
+2	sbiadiranno	sbiadire	V	V	num=p|per=3|mod=i|ten=f	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	anni	anno	S	S	num=p|gen=m	2	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sbiadiscono	sbiadire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	ogni	ogni	D	DI	num=s|gen=n	4	mod
+4	cosa	cosa	S	S	num=s|gen=f	2	obj
+5	.	.	F	FS	_	2	punc
+
+1	Anni	anno	S	S	num=p|gen=m	0	ROOT
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	di	di	E	E	_	2	comp
+4	paure	paura	S	S	num=p|gen=f	3	prep
+5	e	e	C	CC	_	1	con
+6	ricatti	ricatto	S	S	num=p|gen=m	1	conj
+7	di	di	E	E	_	6	comp
+8	impossibili	impossibile	A	A	num=p|gen=n	9	mod
+9	guerre	guerra	S	S	num=p|gen=f	7	prep
+
+1	anni	anno	S	S	num=p|gen=m	0	ROOT
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	di	di	E	E	_	2	comp
+4	mani	mano	S	S	num=p|gen=f	3	prep
+5	sentenziose	sentenzioso	A	A	num=p|gen=f	4	mod
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	maltrattano	maltrattare	V	V	num=p|per=3|mod=i|ten=p	4	mod_rel
+8	le	il	R	RD	num=p|gen=f	9	det
+9	chitarre	chitarra	S	S	num=p|gen=f	7	obj
+
+1	anni	anno	S	S	num=p|gen=m	0	ROOT
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	di	di	E	E	_	2	comp
+4	spunti	spunto	S	S	num=p|gen=m	3	prep
+5	divertenti	divertente	A	A	num=p|gen=n	4	mod
+
+1	che	che	C	CS	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	giorno	giorno	S	S	num=s|gen=m	5	subj
+4	dopo	dopo	B	B	_	5	mod_temp
+5	diventano	diventare	V	V	num=p|per=3|mod=i|ten=p	1	sub
+6	idiozie	idiozia	S	S	num=p|gen=f	7	mod
+7	anni	anno	S	S	num=p|gen=m	5	obj
+8	di	di	E	E	_	7	comp
+9	terapie	terapia	S	S	num=p|gen=f	8	prep
+10	.	.	F	FS	_	1	punc
+
+1	Anni	anno	S	S	num=p|gen=m	7	subj
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	per	per	E	E	_	2	comp
+4	fortuna	fortuna	S	S	num=s|gen=f	3	prep
+5	siete	essere	V	VA	num=p|per=2|mod=i|ten=p	7	aux
+6	giù	giù	B	B	_	7	mod
+7	passati	passare	V	V	num=p|mod=p|gen=m	0	ROOT
+8	.	.	F	FS	_	7	punc
+
+1	Anni	anno	S	S	num=p|gen=m	0	ROOT
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	3	mod
+3	disperati	disperato	S	S	num=p|gen=m	1	mod
+4	senza	senza	E	E	_	3	comp
+5	dignità	dignità	S	S	num=n|gen=f	4	prep
+
+1	di	di	E	E	_	5	comp
+2	mendicanti	mendicante	S	S	num=p|gen=n	1	prep
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	arroganti	arrogante	A	A	num=p|gen=n	0	ROOT
+6	e	e	C	CC	_	5	con
+7	senza	senza	E	E	_	5	comp
+8	fisarmonica	fisarmonica	S	S	num=s|gen=f	7	prep
+
+1	di	di	E	E	_	8	comp
+2	chi	chi	P	PR	num=n|gen=n	1	prep
+3	rovescia	rovesciare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+4	tutto	tutto	P	PI	num=s|gen=m	3	obj
+5	e	e	C	CC	_	1	con
+6	poi	poi	B	B	_	8	mod
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	arrende	arrendere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+9	alla	al	E	EA	num=s|gen=f	8	comp
+10	domenica	domenica	S	S	num=s|gen=f	9	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	Cina	Cina	S	SP	_	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	8	det
+5	pò	pò	B	B	_	6	mod
+6	scaduta	scadere	V	V	num=s|mod=p|gen=f	8	mod
+7	Cian	Cian	S	SP	_	8	mod
+8	Cing	Cing	S	SP	_	11	subj
+9	l'	lo	P	PC	num=s|per=3|gen=n	11	obj
+10	han	han	V	VA	num=p|per=3|mod=i|ten=p	11	aux
+11	condannata	condannare	V	V	num=s|mod=p|gen=f	3	pred
+
+1	ma	ma	C	CC	_	5	con
+2	forse	forse	B	B	_	5	mod
+3	lo	lo	P	PC	num=s|per=3|gen=m	5	comp_ind
+4	dovevano	dovere	V	VM	num=p|per=3|mod=i|ten=i	5	modal
+5	fare	fare	V	V	mod=f	0	ROOT
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	clit
+7	vien	vien	V	V	num=s|per=1|mod=i|ten=p	5	conj
+8	da	da	E	E	_	7	arg
+9	vomitare	vomitare	V	V	mod=f	8	prep
+10	.	.	F	FS	_	5	punc
+
+1	Anni	anno	S	S	num=p|gen=m	0	ROOT
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	degli	di	E	EA	num=p|gen=m	2	comp
+4	ultimi	ultimo	A	A	num=p|gen=m	6	mod
+5	dieci	dieci	N	N	_	6	mod
+6	anni	anno	S	S	num=p|gen=m	3	prep
+
+1	non	non	B	BN	_	2	neg
+2	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	a	a	E	E	_	2	arg
+5	smaltir-	smaltire	V	V	mod=f	4	prep
+6	vi	vi	P	PC	num=p|per=2|gen=n	5	obj
+7	c'	ci	P	PC	num=n|gen=n	5	comp
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+9	troppo	troppo	B	B	_	10	mod
+10	poco	poco	B	B	_	11	mod
+11	oblio	oblio	S	S	num=s|gen=m	8	pred
+
+1	anni	anno	S	S	num=p|gen=m	0	ROOT
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	di	di	E	E	_	2	comp
+4	gente	gente	S	S	num=s|gen=f	3	prep
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+7	pensato	pensare	V	V	num=s|mod=p|gen=m	4	mod_rel
+8	a	a	E	E	_	7	comp
+9	tutto	tutto	D	DI	num=s|gen=m	8	prep
+
+1	senza	senza	C	CS	_	0	ROOT
+2	mai	mai	B	B	_	3	mod_temp
+3	pensare	pensare	V	V	mod=f	1	sub
+4	a	a	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	Dio	Dio	S	SP	_	4	prep
+7	.	.	F	FS	_	1	punc
+
+1	Di	di	E	E	_	5	comp
+2	troppe	troppo	D	DI	num=p|gen=f	3	mod
+3	cose	cosa	S	S	num=p|gen=f	1	prep
+4	non	non	B	BN	_	5	neg
+5	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+6	cosa	cosa	P	PQ	num=s|gen=n	7	obj
+7	far-	fare	V	V	mod=f	5	arg
+8	ne	ne	P	PC	num=n|gen=n	7	comp
+
+1	per	per	E	E	_	5	comp
+2	me	me	P	PE	num=s|per=1|gen=n	1	prep
+3	che	che	D	DE	num=n|gen=n	5	subj
+4	avrei	avere	V	VA	num=s|per=1|mod=d|ten=p	5	aux
+5	bisogno	bisogno	S	S	num=s|gen=m	0	ROOT
+
+1	di	di	E	E	_	0	ROOT
+2	poche	poco	D	DI	num=p|gen=f	3	mod
+3	immagini	immagine	S	S	num=p|gen=f	1	prep
+4	ma	ma	C	CC	_	3	con
+5	eterne	eterno	A	A	num=p|gen=f	3	conj
+6	.	.	F	FS	_	1	punc
+
+1	Anni	anno	S	S	num=p|gen=m	4	mod
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	4	mod
+3	oh	oh	I	I	_	4	mod
+4	anni	anno	S	S	num=p|gen=m	0	ROOT
+5	affollati	affollato	A	A	num=p|gen=m	4	mod
+
+1	anni	anno	S	S	num=p|gen=m	7	subj
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	per	per	E	E	_	2	comp
+4	fortuna	fortuna	S	S	num=s|gen=f	3	prep
+5	siete	essere	V	VA	num=p|per=2|mod=i|ten=p	7	aux
+6	giù	giù	B	B	_	7	mod
+7	passati	passare	V	V	num=p|mod=p|gen=m	0	_
+
+1	anni	anno	S	S	num=p|gen=m	7	subj
+2	affollati	affollare	V	V	num=p|mod=p|gen=m	1	mod
+3	per	per	E	E	_	2	comp
+4	fortuna	fortuna	S	S	num=s|gen=f	3	prep
+5	siete	essere	V	VA	num=p|per=2|mod=i|ten=p	7	aux
+6	giù	giù	B	B	_	7	mod
+7	passati	passare	V	V	num=p|mod=p|gen=m	0	ROOT
+8	.	.	F	FS	_	7	punc
+

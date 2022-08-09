@@ -1,0 +1,195 @@
+1	Da	da	E	E	_	0	_
+2	solo	solo	B	B	_	1	prep
+3	lungo	lungo	E	E	_	1	comp
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	autostrada	autostrada	S	S	num=s|gen=f	3	prep
+
+1	alle	al	E	EA	num=p|gen=f	0	ROOT
+2	prime	primo	N	NO	num=p|gen=f	3	mod
+3	luci	luce	S	S	num=p|gen=f	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mattino	mattino	S	S	num=s|gen=m	4	prep
+
+1	a	a	E	E	_	3	comp
+2	volte	volta	S	S	num=p|gen=f	1	prep
+3	spengo	spegnere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	anche	anche	B	B	_	6	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	radio	radio	S	S	num=n|gen=f	3	obj
+
+1	e	e	C	CC	_	2	con
+2	lascio	lasciare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	5	det
+4	mio	mio	A	AP	num=s|gen=m	5	mod
+5	cuore	cuore	S	S	num=s|gen=m	2	obj
+6	incollato	incollare	V	V	num=s|mod=p|gen=m	5	mod
+7	al	a	E	EA	num=s|gen=m	6	comp
+8	finestrino	finestrino	S	S	num=s|gen=m	7	prep
+9	.	.	F	FS	_	2	punc
+
+1	Lo	lo	P	PC	num=s|per=3|gen=m	2	obj
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	mondo	mondo	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	2	con
+6	anche	anche	B	B	_	7	mod
+7	del	di	E	EA	num=s|gen=m	2	comp
+8	resto	resto	S	S	num=s|gen=m	7	prep
+
+1	lo	lo	P	PC	num=s|per=3|gen=m	2	obj
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	tutto	tutto	P	PI	num=s|gen=m	5	subj
+5	va	andare	V	V	num=s|per=3|mod=i|ten=p	3	sub
+6	in	in	E	E	_	5	comp
+7	rovina	rovina	S	S	num=s|gen=f	6	prep
+
+1	ma	ma	C	CC	_	7	con
+2	di	di	E	E	_	7	comp
+3	mattina	mattina	S	S	num=s|gen=f	2	prep
+4	quando	quando	C	CS	_	7	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	gente	gente	S	S	num=s|gen=f	7	subj
+7	dorme	dormire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	col	con	E	EA	num=s|gen=m	0	ROOT
+2	suo	suo	A	AP	num=s|gen=m	4	mod
+3	normale	normale	A	A	num=s|gen=n	4	mod
+4	malumore	malumore	S	S	num=s|gen=m	1	prep
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	bastare	bastare	V	V	mod=f	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	niente	niente	P	PI	num=s|gen=m	3	obj
+
+1	forse	forse	B	B	_	4	mod
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	piccolo	piccolo	A	A	num=s|gen=m	4	mod
+4	bagliore	bagliore	S	S	num=s|gen=m	0	ROOT
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	aria	aria	S	S	num=s|gen=f	0	ROOT
+3	già	già	B	B	_	4	mod
+4	vissuta	vivere	V	V	num=s|mod=p|gen=f	2	mod
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	paesaggio	paesaggio	S	S	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	ne	ne	P	PC	num=n|gen=n	5	comp
+5	so	sapere	V	V	num=s|per=1|mod=i|ten=p	2	mod_rel
+
+1	E	e	C	CC	_	2	con
+2	sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	bene	bene	B	B	_	2	pred
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	bene	bene	B	B	_	2	pred
+4	come	come	C	CS	_	2	comp
+5	uno	uno	P	PI	num=s|gen=m	4	sub
+6	che	che	C	CS	_	8	subj
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	sogna	sognare	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+
+1	non	non	B	BN	_	3	neg
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	6	subj
+4	se	se	P	PC	num=n|per=3|gen=n	6	clit
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+6	conviene	convenire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	ma	ma	C	CC	_	2	con
+2	sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	bene	bene	B	B	_	2	pred
+4	che	che	C	CS	_	5	subj
+5	vergogna	vergognarsi	V	V	num=s|per=3|mod=i|ten=p	2	conj
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	bene	bene	B	B	_	2	mod
+
+1	proprio	proprio	B	B	_	2	mod
+2	ora	ora	B	B	_	3	mod_temp
+3	proprio	proprio	B	B	_	4	mod
+4	qui	qui	B	B	_	0	_
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	mica	mica	B	B	_	2	mod
+4	colpa	colpa	S	S	num=s|gen=f	2	pred
+5	mia	mio	A	AP	num=s|gen=f	4	mod
+
+1	se	se	P	PC	num=n|per=3|gen=n	3	clit
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	capita	capitare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	cosi	coso	S	S	num=p|gen=m	3	subj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	pred
+3	un'	uno	R	RI	num=s|gen=f	5	det
+4	illogica	illogico	A	A	num=s|gen=f	5	mod
+5	allegria	allegria	S	S	num=s|gen=f	2	prep
+
+1	di	di	E	E	_	4	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	non	non	B	BN	_	4	neg
+4	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	motivo	motivo	S	S	num=s|gen=m	4	obj
+
+1	non	non	B	BN	_	2	neg
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	cosa	cosa	S	S	num=s|gen=f	5	subj
+5	sia	essere	V	VA	num=s|per=3|mod=c|ten=p	3	sub
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	C	CS	_	3	mod
+3	se	se	C	CS	_	1	mod
+4	improvvisamente	improvviso	B	B	_	3	sub
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	3	clit
+2	fossi	essere	V	VA	num=s|per=1|mod=c|ten=i	3	aux
+3	preso	prendere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	diritto	diritto	S	S	num=s|gen=m	3	subj_pass
+
+1	di	di	E	E	_	0	ROOT
+2	vivere	vivere	V	V	mod=f	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	presente	presente	S	S	num=s|gen=n	2	obj
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	bene	bene	B	B	_	2	mod
+
+1	la	il	R	RD	num=s|gen=f	5	det
+2	la	il	R	RD	num=s|gen=f	5	det
+3	la	il	R	RD	num=s|gen=f	5	det
+4	la	il	R	RD	num=s|gen=f	5	det
+5	la	il	R	RD	num=s|gen=f	6	det
+6	la	il	R	RD	num=s|gen=f	0	_
+
+1	quest'	questo	D	DD	num=s|gen=n	3	mod
+2	illogica	illogico	A	A	num=s|gen=f	3	mod
+3	allegria	allegria	S	S	num=s|gen=f	0	ROOT
+
+1	proprio	proprio	B	B	_	2	mod
+2	ora	ora	B	B	_	3	mod_temp
+3	proprio	proprio	B	B	_	4	mod
+4	qui	qui	B	B	_	0	_
+
+1	Da	da	E	E	_	0	ROOT
+2	solo	solo	B	B	_	1	prep
+
+1	lungo	lungo	E	E	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	autostrada	autostrada	S	S	num=s|gen=f	1	prep
+
+1	alle	al	E	EA	num=p|gen=f	0	ROOT
+2	prime	primo	N	NO	num=p|gen=f	3	mod
+3	luci	luce	S	S	num=p|gen=f	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mattino	mattino	S	S	num=s|gen=m	4	prep
+

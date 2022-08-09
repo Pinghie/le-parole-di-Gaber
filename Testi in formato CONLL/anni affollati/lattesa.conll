@@ -1,0 +1,305 @@
+1	No	no	B	BN	_	3	neg
+2	non	non	B	BN	_	3	neg
+3	muovete-	muovere	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+4	vi	vi	P	PC	num=p|per=2|gen=n	3	obj
+
+1	c'	ci	P	PC	num=n|gen=n	4	comp
+2	e	e	C	CC	_	1	con
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	aria	aria	S	S	num=s|gen=f	0	ROOT
+5	stranamente	strano	B	B	_	6	mod
+6	tesa	teso	A	A	num=s|gen=f	4	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	bisogno	bisogno	S	S	num=s|gen=m	1	ROOT
+5	di	di	E	E	_	4	comp
+6	silenzio	silenzio	S	S	num=s|gen=m	5	prep
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	come	come	B	B	_	1	pred
+3	in	in	E	E	_	1	comp
+4	attesa	attesa	S	S	num=s|gen=f	3	prep
+
+1	No	no	B	BN	_	3	neg
+2	non	non	B	BN	_	3	neg
+3	parlatemi	parlatemi	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	bisognerebbe	bisognare	V	V	num=s|per=3|mod=d|ten=p	0	ROOT
+2	ritrovare	ritrovare	V	V	mod=f	1	arg
+
+1	le	il	R	RD	num=p|gen=f	3	det
+2	giuste	giusto	A	A	num=p|gen=f	3	mod
+3	solitudini	solitudine	S	S	num=p|gen=f	0	ROOT
+
+1	stare	stare	V	V	mod=f	0	ROOT
+2	in	in	E	E	_	1	comp
+3	silenzio	silenzio	S	S	num=s|gen=m	2	prep
+4	ad	ad	E	E	_	1	arg
+5	ascoltare	ascoltare	V	V	mod=f	4	prep
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	attesa	attesa	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	suspance	suspance	S	S	num=s|gen=f	3	pred
+6	elementare	elementare	A	A	num=s|gen=n	5	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	antico	antico	A	A	num=s|gen=m	4	mod
+4	idioma	idioma	S	S	num=s|gen=m	1	pred
+5	che	che	P	PR	num=n|gen=n	8	subj
+6	non	non	B	BN	_	8	neg
+7	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	8	modal
+8	decifrare	decifrare	V	V	mod=f	4	mod_rel
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	irrequietezza	irrequietezza	S	S	num=s|gen=f	0	ROOT
+3	misteriosa	misterioso	A	A	num=s|gen=f	2	mod
+4	e	e	C	CC	_	2	con
+5	anonima	anonimo	A	A	num=s|gen=f	2	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	curiosità	curiosità	S	S	num=n|gen=f	1	pred
+4	dell'	di	E	EA	num=s|gen=n	3	comp
+5	anima	anima	S	S	num=s|gen=f	4	prep
+
+1	E	e	C	CC	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	ROOT
+4	in	in	E	E	_	3	comp
+5	quelle	quello	D	DD	num=p|gen=f	6	mod
+6	ore	ora	S	S	num=p|gen=f	4	prep
+
+1	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fisso	figgere	V	V	num=s|mod=p|gen=m	1	pred
+3	il	il	R	RD	num=s|gen=m	5	det
+4	suo	suo	A	AP	num=s|gen=m	5	mod
+5	tempo	tempo	S	S	num=s|gen=m	1	subj
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	tempo	tempo	S	S	num=s|gen=m	0	ROOT
+3	immune	immune	A	A	num=s|gen=n	2	mod
+
+1	da	da	E	E	_	0	ROOT
+2	avventure	avventura	S	S	num=p|gen=f	1	prep
+3	o	o	C	CC	_	1	dis
+4	da	da	E	E	_	1	disj
+5	speciale	speciale	A	A	num=s|gen=n	6	mod
+6	sgomento	sgomento	S	S	num=s|gen=m	4	prep
+
+1	No	no	B	BN	_	3	neg
+2	non	non	B	BN	_	3	neg
+3	muovete-	muovere	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+4	vi	vi	P	PC	num=p|per=2|gen=n	3	obj
+
+1	c'	ci	P	PC	num=n|gen=n	4	comp
+2	e	e	C	CC	_	1	con
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	aria	aria	S	S	num=s|gen=f	0	ROOT
+5	stranamente	strano	B	B	_	6	mod
+6	tesa	teso	A	A	num=s|gen=f	4	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	bisogno	bisogno	S	S	num=s|gen=m	1	ROOT
+5	di	di	E	E	_	4	comp
+6	silenzio	silenzio	S	S	num=s|gen=m	5	prep
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	come	come	B	B	_	1	pred
+3	in	in	E	E	_	1	comp
+4	attesa	attesa	S	S	num=s|gen=f	3	prep
+
+1	Perché	perché	B	B	_	5	mod
+2	da	da	E	E	_	5	comp
+3	sempre	sempre	B	B	_	2	prep
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	attesa	attesa	S	S	num=s|gen=f	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	destino	destino	S	S	num=s|gen=m	1	pred
+4	di	di	E	E	_	3	comp
+5	chi	chi	P	PR	num=n|gen=n	4	prep
+6	osserva	osservare	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+7	il	il	R	RD	num=s|gen=m	8	det
+8	mondo	mondo	S	S	num=s|gen=m	6	obj
+
+1	con	con	E	E	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	4	det
+3	curiosa	curioso	A	A	num=s|gen=f	4	mod
+4	sensazione	sensazione	S	S	num=s|gen=f	1	prep
+5	di	di	E	E	_	4	arg
+6	aver	avere	V	VA	mod=f	7	aux
+7	toccato	toccare	V	V	num=s|mod=p|gen=m	5	prep
+8	il	il	R	RD	num=s|gen=m	9	det
+9	fondo	fondo	S	S	num=s|gen=m	7	obj
+
+1	Senza	senza	E	E	_	0	ROOT
+2	sapere	sapere	V	V	mod=f	1	prep
+
+1	se	se	C	CS	_	0	ROOT
+2	sarà	essere	V	V	num=s|per=3|mod=i|ten=f	1	sub
+3	il	il	R	RD	num=s|gen=m	4	det
+4	momento	momento	S	S	num=s|gen=m	2	pred
+
+1	della	di	E	EA	num=s|gen=f	0	ROOT
+2	sua	suo	A	AP	num=s|gen=f	3	mod
+3	fine	fine	S	S	num=s|gen=n	1	prep
+
+1	o	o	C	CC	_	0	ROOT
+2	di	di	E	E	_	1	disj
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	neo	neo	S	S	num=s|gen=m	2	prep
+5	rinascimento	rinascimento	S	S	num=s|gen=m	4	mod
+
+1	Non	non	B	BN	_	2	neg
+2	disturbate-	disturbare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+3	mi	mi	P	PC	num=s|per=1|gen=n	2	obj
+
+1	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	attirato	attirare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	da	da	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	brusio	brusio	S	S	num=s|gen=m	3	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	a	a	E	E	_	3	arg
+5	penetrare	penetrare	V	V	mod=f	4	prep
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	ancora	ancora	B	B	_	2	mod
+4	mio	mio	A	AP	num=s|gen=m	2	pred
+
+1	Perché	perché	B	B	_	8	mod
+2	in	in	E	E	_	8	comp
+3	fondo	fondo	S	S	num=s|gen=m	2	prep
+4	anche	anche	B	B	_	6	mod
+5	il	il	R	RD	num=s|gen=m	6	det
+6	mondo	mondo	S	S	num=s|gen=m	8	subj
+7	nascente	nascente	A	A	num=s|gen=n	6	mod
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+9	un	uno	R	RI	num=s|gen=m	11	det
+10	pò	pò	B	B	_	11	mod
+11	artista	artista	S	S	num=s|gen=m	8	pred
+
+1	predicatore	predicatore	S	S	num=s|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	mercante	mercante	S	S	num=s|gen=m	1	conj
+4	e	e	C	CC	_	1	con
+5	pensatore	pensatore	S	S	num=s|gen=m	1	conj
+6	e	e	C	CC	_	1	con
+7	automobilista	automobilista	S	S	num=s|gen=m	1	conj
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	nuovo	nuovo	A	A	num=s|gen=m	3	mod
+3	qualunquista	qualunquista	S	S	num=s|gen=m	4	subj
+4	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	anche	anche	B	B	_	6	mod
+6	lui	lui	P	PE	num=s|per=3|gen=m	4	mod
+7	il	il	R	RD	num=s|gen=m	8	det
+8	presente	presente	S	S	num=s|gen=n	4	obj
+
+1	un	uno	R	RI	num=s|gen=m	3	det
+2	pò	pò	B	B	_	3	mod
+3	stupito	stupito	A	A	num=s|gen=m	7	mod
+4	di	di	E	E	_	7	comp_temp
+5	non	non	B	BN	_	7	neg
+6	aver	avere	V	VA	mod=f	7	aux
+7	capito	capire	V	V	num=s|mod=p|gen=m	0	ROOT
+8	niente	niente	B	B	_	7	mod
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	attesa	attesa	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	risultato	risultato	S	S	num=s|gen=m	3	pred
+6	il	il	R	RD	num=s|gen=m	7	det
+7	retroscena	retroscena	S	S	num=n|gen=m	5	mod
+
+1	di	di	E	E	_	6	comp
+2	questa	questo	D	DD	num=s|gen=f	4	mod
+3	nostra	nostro	A	AP	num=s|gen=f	4	mod
+4	vita	vita	S	S	num=s|gen=f	1	prep
+5	troppo	troppo	B	B	_	6	mod
+6	piena	pieno	A	A	num=s|gen=f	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	andar	andare	V	V	mod=f	1	pred
+4	via	via	B	B	_	5	mod
+5	di	di	E	E	_	3	comp
+6	cose	cosa	S	S	num=p|gen=f	5	prep
+7	dove	dove	P	PR	num=n|gen=n	6	comp
+8	al	a	E	EA	num=s|gen=m	7	comp
+9	loro	loro	A	AP	num=n|gen=n	10	mod
+10	posto	posto	S	S	num=s|gen=m	8	prep
+
+1	c'	ci	P	PC	num=n|gen=n	3	comp
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	rimasto	rimanere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	vuoto	vuoto	S	S	num=s|gen=m	3	subj_pass
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	senso	senso	S	S	num=s|gen=m	0	ROOT
+3	quieto	quieto	A	A	num=s|gen=m	2	mod
+4	e	e	C	CC	_	3	con
+5	religioso	religioso	A	A	num=s|gen=m	3	conj
+
+1	in	in	E	E	_	4	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	comp_ind
+4	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	da	da	E	E	_	4	arg
+6	pensare	pensare	V	V	mod=f	5	prep
+
+1	e	e	C	CC	_	6	con
+2	lo	lo	P	PC	num=s|per=3|gen=m	6	obj
+3	confesso	confesso	A	A	num=s|gen=m	2	mod
+4	c'	ci	P	PC	num=n|gen=n	6	comp
+5	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	6	aux
+6	pensato	pensare	V	V	num=s|mod=p|gen=m	0	ROOT
+7	anch'	anche	B	B	_	6	mod
+8	io	io	P	PE	num=s|per=1|gen=n	6	subj
+
+1	al	a	E	EA	num=s|gen=m	0	ROOT
+2	gusto	gusto	S	S	num=s|gen=m	1	prep
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	morte	morte	S	S	num=s|gen=f	3	prep
+5	o	o	C	CC	_	3	dis
+6	dell'	di	E	EA	num=s|gen=n	3	disj
+7	oblio	oblio	S	S	num=s|gen=m	6	prep
+
+1	No	no	B	BN	_	3	neg
+2	non	non	B	BN	_	3	neg
+3	muovete-	muovere	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+4	vi	vi	P	PC	num=p|per=2|gen=n	3	obj
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	aria	aria	S	S	num=s|gen=f	2	subj
+5	stranamente	strano	B	B	_	6	mod
+6	tesa	teso	A	A	num=s|gen=f	4	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	bisogno	bisogno	S	S	num=s|gen=m	1	ROOT
+5	di	di	E	E	_	4	comp
+6	silenzio	silenzio	S	S	num=s|gen=m	5	prep
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	tutti	tutto	P	PI	num=p|gen=m	1	pred
+3	in	in	E	E	_	1	comp
+4	attesa	attesa	S	S	num=s|gen=f	3	prep
+

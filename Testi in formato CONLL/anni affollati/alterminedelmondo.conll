@@ -1,0 +1,572 @@
+1	I	il	R	RD	num=p|gen=m	2	det
+2	vetri	vetro	S	S	num=p|gen=m	0	ROOT
+3	delle	di	E	EA	num=p|gen=f	2	comp
+4	stanze	stanza	S	S	num=p|gen=f	3	prep
+
+1	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	forma	forma	S	S	num=s|gen=f	1	obj
+4	rigida	rigido	A	A	num=s|gen=f	3	mod
+5	e	e	C	CC	_	4	con
+6	perfetta	perfetto	A	A	num=s|gen=f	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	fermo	fermo	A	A	num=s|gen=m	4	pred
+6	alla	al	E	EA	num=s|gen=f	5	comp
+7	finestra	finestra	S	S	num=s|gen=f	6	prep
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	uomo	uomo	S	S	num=s|gen=m	3	subj
+3	aspetta	aspettare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	grattacielo	grattacielo	S	S	num=s|gen=m	0	ROOT
+3	enorme	enorme	A	A	num=s|gen=n	2	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	mitologia	mitologia	S	S	num=s|gen=f	0	ROOT
+3	nascente	nascente	A	A	num=s|gen=n	2	mod
+
+1	e	e	C	CC	_	4	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	4	subj
+4	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	in	in	E	E	_	4	comp
+6	basso	basso	A	A	num=s|gen=m	5	prep
+7	dove	dove	B	B	_	9	mod_loc
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	la	il	R	RD	num=s|gen=f	11	det
+11	strada	strada	S	S	num=s|gen=f	9	subj
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	niente	niente	B	B	_	3	mod
+5	.	.	F	FS	_	3	punc
+
+1	Adagio	adagio	B	B	_	2	mod
+2	distrattamente	distratto	B	B	_	0	_
+
+1	senza	senza	E	E	_	4	comp
+2	angoscia	angoscia	S	S	num=s|gen=f	1	prep
+3	né	né	C	CC	_	1	con
+4	stupore	stupore	S	S	num=s|gen=m	0	ROOT
+
+1	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	qualche	qualche	D	DI	num=s|gen=n	3	mod
+3	passo	passo	S	S	num=s|gen=m	1	obj
+4	nel	in	E	EA	num=s|gen=m	3	comp
+5	silenzio	silenzio	S	S	num=s|gen=m	4	prep
+6	delle	di	E	EA	num=p|gen=f	5	comp
+7	stanze	stanza	S	S	num=p|gen=f	6	prep
+
+1	copiando	copiare	V	V	mod=g	0	_
+2	gelide	gelido	A	A	num=p|gen=f	1	pred
+3	e	e	C	CC	_	2	con
+4	automatiche	automatico	A	A	num=p|gen=f	2	conj
+5	sequenze	sequenza	S	S	num=p|gen=f	1	obj
+
+1	senza	senza	E	E	_	4	comp
+2	futuro	futuro	S	S	num=s|gen=m	1	prep
+3	né	né	C	CC	_	1	con
+4	passato	passato	S	S	num=s|gen=m	0	ROOT
+
+1	probabilmente	probabilmente	B	B	_	6	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	tempo	tempo	S	S	num=s|gen=m	6	subj
+4	s'	si	P	PC	num=n|per=3|gen=n	6	clit
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	fermato	fermare	V	V	num=s|mod=p|gen=m	0	ROOT
+7	.	.	F	FS	_	6	punc
+
+1	E	e	C	CC	_	3	con
+2	ancora	ancora	B	B	_	3	mod
+3	lui	lui	P	PE	num=s|per=3|gen=m	0	ROOT
+4	nel	in	E	EA	num=s|gen=m	3	comp
+5	semibuio	semibuio	S	S	num=s|gen=m	4	prep
+
+1	sfiora	sfiorare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	con	con	E	E	_	1	comp
+3	le	il	R	RD	num=p|gen=f	4	det
+4	mani	mano	S	S	num=p|gen=f	2	prep
+5	qualche	qualche	D	DI	num=s|gen=n	6	mod
+6	oggetto	oggetto	S	S	num=s|gen=m	1	obj
+
+1	poi	poi	B	B	_	3	mod_temp
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	sposta	spostare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	direbbe	dire	V	V	num=s|per=3|mod=d|ten=p	0	ROOT
+3	senza	senza	E	E	_	2	arg
+4	far-	fare	V	V	mod=f	3	prep
+5	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+6	apposta	apposta	B	B	_	4	mod
+7	.	.	F	FS	_	2	punc
+
+1	Ripensa	ripensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	distrattamente	distratto	B	B	_	1	mod
+
+1	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	alla	al	E	EA	num=s|gen=f	1	comp
+3	sua	suo	A	AP	num=s|gen=f	4	mod
+4	storia	storia	S	S	num=s|gen=f	2	prep
+5	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	quasi	quasi	B	B	_	7	mod
+7	con	con	E	E	_	5	comp
+8	sollievo	sollievo	S	S	num=s|gen=m	7	prep
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	suo	suo	A	AP	num=s|gen=m	3	mod
+3	bilancio	bilancio	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	positivo	positivo	A	A	num=s|gen=m	4	pred
+6	.	.	F	FS	_	4	punc
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+
+1	che	che	C	CS	_	0	ROOT
+2	nella	in	E	EA	num=s|gen=f	6	comp_loc
+3	vita	vita	S	S	num=s|gen=f	2	prep
+4	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+5	sempre	sempre	B	B	_	6	mod
+6	usato	usare	V	V	num=s|mod=p|gen=m	1	sub
+7	la	il	R	RD	num=s|gen=f	8	det
+8	ragione	ragione	S	S	num=s|gen=f	6	obj
+
+1	con	con	E	E	_	8	comp
+2	la	il	R	RD	num=s|gen=f	3	det
+3	certezza	certezza	S	S	num=s|gen=f	1	prep
+4	di	di	E	E	_	3	arg
+5	aver	avere	V	VA	mod=f	6	aux
+6	fatto	fare	V	V	num=s|mod=p|gen=m	4	prep
+7	tutto	tutto	D	DI	num=s|gen=m	6	mod
+8	bene	bene	B	B	_	0	_
+
+1	adesso	adesso	B	B	_	2	mod_temp
+2	abbassa	abbassare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	le	il	R	RD	num=p|gen=f	4	det
+4	lussuose	lussuoso	A	A	num=p|gen=f	2	obj
+5	veneziane	veneziano	A	A	num=p|gen=f	4	mod
+
+1	e	e	C	CC	_	2	con
+2	aspetta	aspettare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	colpo	colpo	S	S	num=s|gen=m	2	obj
+5	di	di	E	E	_	4	comp
+6	fucile	fucile	S	S	num=s|gen=m	5	prep
+7	della	di	E	EA	num=s|gen=f	6	comp
+8	fine	fine	S	S	num=s|gen=n	7	prep
+9	.	.	F	FS	_	2	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	forse	forse	B	B	_	3	mod
+3	commettiamo	commettere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	grosso	grosso	A	A	num=s|gen=m	6	mod
+6	errore	errore	S	S	num=s|gen=m	3	obj
+
+1	quando	quando	C	CS	_	3	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	che	che	C	CS	_	3	ROOT
+5	quell'	quello	D	DD	num=s|gen=n	6	mod
+6	uomo	uomo	S	S	num=s|gen=m	3	ROOT
+
+1	aspetta	aspettare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	solo	solo	B	B	_	1	mod
+3	di	di	E	E	_	1	arg
+4	morire	morire	V	V	mod=f	3	prep
+
+1	quando	quando	C	CS	_	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	al	a	E	EA	num=s|gen=m	3	comp
+5	futuro	futuro	S	S	num=s|gen=m	4	prep
+6	della	di	E	EA	num=s|gen=f	5	comp
+7	storia	storia	S	S	num=s|gen=f	6	prep
+
+1	come	come	C	CS	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	avessimo	avessimo	A	A	num=s|gen=m	1	prep
+4	già	già	B	B	_	5	mod
+5	visto	vedere	V	V	num=s|mod=p|gen=m	3	mod
+
+1	o	o	C	CC	_	0	ROOT
+2	lo	il	R	RD	num=s|gen=m	3	det
+3	sapessimo	sapessimo	A	A	num=s|gen=m	1	pred
+4	a	a	E	E	_	3	comp
+5	memoria	memoria	S	S	num=s|gen=f	4	prep
+6	.	.	F	FS	_	1	punc
+
+1	Quando	quando	C	CS	_	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+
+1	a	a	E	E	_	0	ROOT
+2	uno	uno	R	RI	num=s|gen=m	3	det
+3	sviluppo	sviluppo	S	S	num=s|gen=m	1	prep
+4	inarrestabile	inarrestabile	A	A	num=s|gen=n	3	mod
+
+1	e	e	C	CC	_	2	con
+2	perfetto	perfetto	A	A	num=s|gen=m	4	pred
+3	come	come	C	CS	_	2	con
+4	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+5	Dio	Dio	S	SP	_	4	subj
+
+1	e	e	C	CC	_	6	con
+2	lo	lo	P	PC	num=s|per=3|gen=m	6	obj
+3	confesso	confesso	A	A	num=s|gen=m	2	mod
+4	ci	ci	P	PC	num=n|gen=n	6	comp
+5	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	6	aux
+6	pensato	pensare	V	V	num=s|mod=p|gen=m	0	ROOT
+7	anch'	anche	B	B	_	6	mod
+8	io	io	P	PE	num=s|per=1|gen=n	6	subj
+
+1	piagnucolando	piagnucolare	V	V	mod=g	0	ROOT
+2	per	per	E	E	_	1	arg
+3	come	come	C	CS	_	6	mod
+4	aveva	avere	V	VA	num=s|per=3|mod=i|ten=i	6	aux
+5	già	già	B	B	_	6	mod
+6	ridotto	ridurre	V	V	num=s|mod=p|gen=m	2	prep
+
+1	quel	quello	D	DD	num=s|gen=m	2	mod
+2	poco	poco	P	PI	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	restava	restare	V	V	num=s|per=3|mod=i|ten=i	2	mod_rel
+5	ancora	ancora	B	B	_	4	mod
+6	del	di	E	EA	num=s|gen=m	4	comp
+7	soggetto	soggetto	S	S	num=s|gen=m	6	prep
+8	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	4	con
+2	vero	vero	A	A	num=s|gen=m	4	mod
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	momento	momento	S	S	num=s|gen=m	4	subj
+7	in	in	E	E	_	10	comp
+8	cui	cui	P	PR	num=n|gen=n	7	prep
+9	ti	ti	P	PC	num=s|per=2|gen=n	10	comp_ind
+10	pare	parere	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+
+1	sia	essere	V	VA	num=s|per=3|mod=c|ten=p	2	aux
+2	finito	finire	V	V	num=s|mod=p|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	5	det
+4	tuo	tuo	A	AP	num=s|gen=m	5	mod
+5	viaggio	viaggio	S	S	num=s|gen=m	2	subj_pass
+
+1	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	2	aux
+2	messo	mettere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	tutto	tutto	P	PI	num=s|gen=m	2	obj
+4	a	a	E	E	_	2	comp
+5	posto	posto	S	S	num=s|gen=m	4	prep
+
+1	senza	senza	C	CS	_	6	mod
+2	accorger-	accorgersi	V	V	mod=f	6	subj
+3	ti	ti	P	PC	num=s|per=2|gen=n	2	clit
+4	che	che	C	CS	_	6	subj
+5	stai	stare	V	V	num=s|per=2|mod=i|ten=p	6	modal
+6	morendo	morire	V	V	mod=g	0	_
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	sei	essere	V	VA	num=s|per=2|mod=i|ten=p	3	aux
+3	arrivato	arrivare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	al	a	E	EA	num=s|gen=m	3	comp_loc
+5	capolinea	capolinea	S	S	num=s|gen=m	4	prep
+
+1	al	a	E	EA	num=s|gen=m	0	ROOT
+2	termine	termine	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	mondo	mondo	S	S	num=s|gen=m	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	al	a	E	EA	num=s|gen=m	0	ROOT
+3	termine	termine	S	S	num=s|gen=m	2	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+6	per	per	E	E	_	1	comp
+7	fortuna	fortuna	S	S	num=s|gen=f	6	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	strade	strada	S	S	num=p|gen=f	3	subj
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	5	mod
+5	più	più	B	B	_	6	mod
+6	di	di	E	E	_	3	pred
+7	una	uno	R	RI	num=s|gen=f	6	prep
+8	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	4	con
+2	vero	vero	A	A	num=s|gen=m	4	mod
+3	abbiam	abbiam	B	B	_	4	mod
+4	commesso	commettere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	qualche	qualche	D	DI	num=s|gen=n	6	mod
+6	errore	errore	S	S	num=s|gen=m	4	obj
+
+1	a	a	E	E	_	0	ROOT
+2	dir	dire	V	V	mod=f	1	prep
+3	che	che	C	CS	_	2	arg
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	uomo	uomo	S	S	num=s|gen=m	6	subj
+6	muore	morire	V	V	num=s|per=3|mod=i|ten=p	3	sub
+
+1	ma	ma	C	CC	_	2	con
+2	come	come	E	E	_	0	ROOT
+3	Diogene	Diogene	S	SP	_	2	prep
+4	che	che	C	CS	_	2	concat
+5	certo	certo	B	B	_	7	mod
+6	non	non	B	BN	_	7	neg
+7	invidio	invidiare	V	V	num=s|per=1|mod=i|ten=p	4	sub
+
+1	quanto	quanto	B	B	_	3	mod
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	faticava	faticare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	a	a	E	E	_	3	arg
+5	riconoscer	riconoscere	V	V	mod=f	4	prep
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	individuo	individuo	S	S	num=s|gen=m	5	obj
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	individuo	individuo	S	S	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	obbediva	obbedire	V	V	num=s|per=3|mod=i|ten=i	2	mod_rel
+5	alla	al	E	EA	num=s|gen=f	4	comp
+6	sua	suo	A	AP	num=s|gen=f	7	mod
+7	sorte	sorte	S	S	num=s|gen=f	5	prep
+
+1	ma	ma	C	CC	_	4	con
+2	stranamente	strano	B	B	_	4	mod
+3	non	non	B	BN	_	4	neg
+4	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+5	ancora	ancora	B	B	_	8	mod
+6	la	il	R	RD	num=s|gen=f	8	det
+7	sua	suo	A	AP	num=s|gen=f	8	mod
+8	morte	morte	S	S	num=s|gen=f	4	pred
+
+1	e	e	C	CC	_	2	con
+2	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	stranamente	strano	B	B	_	2	mod
+
+1	per	per	E	E	_	0	ROOT
+2	quelli	quello	P	PD	num=p|gen=m	1	prep
+3	come	come	E	E	_	2	comp
+4	me	me	P	PE	num=s|per=1|gen=n	3	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	creduto	credere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	troppo	troppo	B	B	_	5	mod
+5	a	a	E	E	_	3	comp_loc
+6	Francoforte	Francoforte	S	SP	_	5	prep
+7	.	.	F	FS	_	3	punc
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	al	a	E	EA	num=s|gen=m	0	ROOT
+3	termine	termine	S	S	num=s|gen=m	2	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+6	per	per	E	E	_	1	comp
+7	fortuna	fortuna	S	S	num=s|gen=f	6	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	strade	strada	S	S	num=p|gen=f	3	subj
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	5	mod
+5	più	più	B	B	_	6	mod
+6	di	di	E	E	_	3	pred
+7	una	uno	R	RI	num=s|gen=f	6	prep
+8	.	.	F	FS	_	3	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	qualche	qualche	D	DI	num=s|gen=n	5	mod
+5	cosa	cosa	S	S	num=s|gen=f	2	subj
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	sfugge	sfuggire	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+
+1	alla	al	E	EA	num=s|gen=f	0	ROOT
+2	ragione	ragione	S	S	num=s|gen=f	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	presente	presente	S	S	num=s|gen=n	3	prep
+
+1	persino	persino	B	B	_	3	mod
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	esattezza	esattezza	S	S	num=s|gen=f	0	ROOT
+4	e	e	C	CC	_	3	con
+5	la	il	R	RD	num=s|gen=f	6	det
+6	potenza	potenza	S	S	num=s|gen=f	3	conj
+7	del	di	E	EA	num=s|gen=m	3	comp
+8	sistema	sistema	S	S	num=s|gen=m	7	prep
+
+1	le	il	R	RD	num=p|gen=f	3	det
+2	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	3	aux
+3	viste	vedere	V	V	num=p|mod=p|gen=f	0	ROOT
+4	come	come	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	mito	mito	S	S	num=s|gen=m	4	prep
+
+1	probabilmente	probabilmente	B	B	_	2	mod
+2	esagerato	esagerato	A	A	num=s|gen=m	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	qualche	qualche	D	DI	num=s|gen=n	5	mod
+5	cosa	cosa	S	S	num=s|gen=f	2	subj
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	sfugge	sfuggire	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+
+1	alla	al	E	EA	num=s|gen=f	0	ROOT
+2	ragione	ragione	S	S	num=s|gen=f	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	presente	presente	S	S	num=s|gen=n	3	prep
+
+1	persino	persino	B	B	_	0	ROOT
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	residuo	residuo	S	S	num=s|gen=m	1	ROOT
+4	di	di	E	E	_	3	comp
+5	individuo	individuo	S	S	num=s|gen=m	4	prep
+
+1	chi	chi	P	PR	num=n|gen=n	0	_
+2	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+3	può	potere	V	VM	num=s|per=3|mod=i|ten=p	4	modal
+4	dire	dire	V	V	mod=f	1	mod_rel
+5	che	che	C	CS	_	4	comp
+6	d'	di	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	tratto	tratto	S	S	num=s|gen=m	6	prep
+
+1	non	non	B	BN	_	2	neg
+2	tiri	tirare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	fuori	fuori	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	6	det
+5	suo	suo	A	AP	num=s|gen=m	6	mod
+6	carattere	carattere	S	S	num=s|gen=m	2	obj
+7	ancestrale	ancestrale	A	A	num=s|gen=n	6	mod
+
+1	di	di	E	E	_	0	ROOT
+2	stare	stare	V	V	mod=f	1	prep
+3	sempre	sempre	B	B	_	4	mod
+4	alla	al	E	EA	num=s|gen=f	2	comp
+5	finestra	finestra	S	S	num=s|gen=f	4	prep
+6	col	con	E	EA	num=s|gen=m	5	comp
+7	fucile	fucile	S	S	num=s|gen=m	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	qualche	qualche	D	DI	num=s|gen=n	5	mod
+5	cosa	cosa	S	S	num=s|gen=f	2	subj
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	sfugge	sfuggire	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+
+1	alla	al	E	EA	num=s|gen=f	0	ROOT
+2	ragione	ragione	S	S	num=s|gen=f	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	presente	presente	S	S	num=s|gen=n	3	prep
+
+1	persino	persino	B	B	_	3	mod
+2	lo	il	R	RD	num=s|gen=m	3	det
+3	sfacelo	sfacelo	S	S	num=s|gen=m	0	ROOT
+4	generale	generale	A	A	num=s|gen=n	3	mod
+
+1	magari	magari	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	2	mod
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	giusto	giusto	A	A	num=s|gen=m	6	mod
+6	ammonimento	ammonimento	S	S	num=s|gen=m	2	pred
+
+1	e	e	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	la	il	R	RD	num=s|gen=f	4	det
+4	fine	fine	S	S	num=s|gen=n	0	ROOT
+
+1	irreversibile	irreversibile	A	A	num=s|gen=n	0	ROOT
+2	e	e	C	CC	_	1	con
+3	totale	totale	A	A	num=s|gen=n	1	conj
+4	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	al	a	E	EA	num=s|gen=m	0	ROOT
+3	termine	termine	S	S	num=s|gen=m	2	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+6	per	per	E	E	_	1	comp
+7	fortuna	fortuna	S	S	num=s|gen=f	6	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	strade	strada	S	S	num=p|gen=f	3	subj
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	5	mod
+5	più	più	B	B	_	6	mod
+6	di	di	E	E	_	3	pred
+7	una	uno	R	RI	num=s|gen=f	6	prep
+8	.	.	F	FS	_	3	punc
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	al	a	E	EA	num=s|gen=m	0	ROOT
+3	termine	termine	S	S	num=s|gen=m	2	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+6	per	per	E	E	_	1	comp
+7	fortuna	fortuna	S	S	num=s|gen=f	6	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	strade	strada	S	S	num=p|gen=f	3	subj
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	5	mod
+5	più	più	B	B	_	6	mod
+6	di	di	E	E	_	3	pred
+7	una	uno	R	RI	num=s|gen=f	6	prep
+8	.	.	F	FS	_	3	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	prima	prima	B	B	_	3	mod
+3	di	di	E	E	_	9	ROOT
+4	ammazzare	ammazzare	V	V	mod=f	3	prep
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	uomo	uomo	S	S	num=s|gen=m	4	obj
+7	ce	ce	P	PC	num=n|gen=n	9	comp
+8	ne	ne	P	PC	num=n|gen=n	9	comp
+9	vuole	volere	V	VM	num=s|per=3|mod=i|ten=p	6	mod_rel
+
+1	mettiamo-	mettere	V	V	num=p|per=1|mod=m|ten=p	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	1	clit
+3	ogni	ogni	D	DI	num=s|gen=n	4	mod
+4	giorno	giorno	S	S	num=s|gen=m	1	mod_temp
+5	alla	al	E	EA	num=s|gen=f	1	comp
+6	finestra	finestra	S	S	num=s|gen=f	5	prep
+7	col	con	E	EA	num=s|gen=m	6	comp
+8	fucile	fucile	S	S	num=s|gen=m	7	prep
+
+1	e	e	C	CC	_	4	con
+2	l'	il	R	RD	num=s|gen=n	4	det
+3	ultimo	ultimo	A	A	num=s|gen=m	4	mod
+4	bagliore	bagliore	S	S	num=s|gen=m	0	ROOT
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	vedremo	vedere	V	V	num=p|per=1|mod=i|ten=f	4	mod_rel
+7	bene	bene	B	B	_	6	mod
+
+1	non	non	B	BN	_	2	neg
+2	sarà	essere	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+3	certo	certo	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	colpo	colpo	S	S	num=s|gen=m	2	pred
+6	di	di	E	E	_	5	comp
+7	fucile	fucile	S	S	num=s|gen=m	6	prep
+8	della	di	E	EA	num=s|gen=f	7	comp
+9	fine	fine	S	S	num=s|gen=n	8	prep
+10	.	.	F	FS	_	2	punc
+
