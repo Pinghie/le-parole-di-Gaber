@@ -1,0 +1,406 @@
+1	La	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	0	ROOT
+4	di	di	E	E	_	3	comp
+5	ogni	ogni	D	DI	num=s|gen=n	6	mod
+6	giorno	giorno	S	S	num=s|gen=m	4	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	preoccupar-	preoccupare	V	V	mod=f	1	pred
+3	me	me	P	PC	num=s|per=1|gen=n	2	clit
+4	di	di	E	E	_	2	comp
+5	ciò	ciò	P	PD	num=s|gen=m	4	prep
+6	che	che	P	PR	num=n|gen=n	7	obj
+7	ho	avere	V	V	num=s|per=1|mod=i|ten=p	5	mod_rel
+8	intorno	intorno	B	B	_	2	mod
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	sensibile	sensibile	A	A	num=s|gen=n	1	pred
+3	e	e	C	CC	_	2	con
+4	umano	umano	A	A	num=s|gen=m	2	conj
+
+1	probabilmente	probabilmente	B	B	_	2	pred
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	più	più	B	B	_	5	mod
+5	buono	buono	A	A	num=s|gen=m	2	pred
+
+1	Ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	dentro	dentro	B	B	_	4	mod
+3	il	il	R	RD	num=s|gen=m	4	det
+4	cuore	cuore	S	S	num=s|gen=m	1	obj
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	affetto	affetto	S	S	num=s|gen=m	4	mod
+7	vero	vero	A	A	num=s|gen=m	6	mod
+
+1	per	per	E	E	_	0	ROOT
+2	i	il	R	RD	num=p|gen=m	3	det
+3	bambini	bambino	S	S	num=p|gen=m	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+6	intero	intero	A	A	num=s|gen=m	5	mod
+
+1	ogni	ogni	D	DI	num=s|gen=n	2	mod
+2	tragedia	tragedia	S	S	num=s|gen=f	4	subj
+3	nazionale	nazionale	A	A	num=s|gen=n	2	mod
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	7	det
+6	mio	mio	A	AP	num=s|gen=m	7	mod
+7	terreno	terreno	S	S	num=s|gen=m	4	pred
+8	naturale	naturale	A	A	num=s|gen=n	7	mod
+
+1	perché	perché	B	B	_	4	mod
+2	dovunque	dovunque	B	B	_	4	mod
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	sofferenza	sofferenza	S	S	num=s|gen=f	4	subj
+
+1	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	voce	voce	S	S	num=s|gen=f	1	obj
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	mia	mio	A	AP	num=s|gen=f	6	mod
+6	coscienza	coscienza	S	S	num=s|gen=f	4	prep
+
+1	Penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	ad	ad	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	popolo	popolo	S	S	num=s|gen=m	2	prep
+5	multirazziale	multirazziale	A	A	num=s|gen=n	4	mod
+
+1	ad	ad	E	E	_	0	ROOT
+2	uno	uno	R	RI	num=s|gen=m	3	det
+3	stato	stato	S	S	num=s|gen=m	1	prep
+4	molto	molto	B	B	_	5	mod
+5	solidale	solidale	A	A	num=s|gen=n	3	mod
+
+1	che	che	C	CS	_	0	ROOT
+2	stanzi	stanziare	V	V	num=s|per=3|mod=c|ten=p	1	sub
+3	fondi	fondo	S	S	num=p|gen=m	2	obj
+4	in	in	E	E	_	2	comp
+5	abbondanza	abbondanza	S	S	num=s|gen=f	4	prep
+
+1	perché	perché	C	CS	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	mio	mio	A	AP	num=s|gen=m	4	mod
+4	motto	motto	S	S	num=s|gen=m	5	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	accoglienza	accoglienza	S	S	num=s|gen=f	5	pred
+
+1	Penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	al	a	E	EA	num=s|gen=m	1	comp
+3	problema	problema	S	S	num=s|gen=m	2	prep
+4	degli	di	E	EA	num=p|gen=m	3	comp
+5	albanesi	albanese	A	A	num=p|gen=n	4	prep
+
+1	dei	di	E	EA	num=p|gen=m	0	ROOT
+2	marocchini	marocchino	S	S	num=p|gen=m	1	prep
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	senegalesi	senegalese	S	S	num=p|gen=n	3	prep
+
+1	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	dare	dare	V	V	mod=f	1	arg
+3	appartamenti	appartamento	S	S	num=p|gen=m	2	obj
+
+1	ai	al	E	EA	num=p|gen=m	5	comp
+2	clandestini	clandestino	S	S	num=p|gen=m	1	prep
+3	e	e	C	CC	_	1	con
+4	anche	anche	B	B	_	5	mod
+5	ai	al	E	EA	num=p|gen=m	0	ROOT
+6	parenti	parente	S	S	num=p|gen=n	5	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	per	per	E	E	_	1	comp_temp
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	zingari	zingaro	S	S	num=p|gen=m	2	prep
+5	degli	di	E	EA	num=p|gen=m	4	comp
+6	albergoni	albergoni	S	S	num=p|gen=m	5	prep
+
+1	coi	con	E	EA	num=p|gen=m	5	comp
+2	frigobar	frigobar	S	S	num=n|gen=m	1	prep
+3	e	e	C	CC	_	2	con
+4	le	il	R	RD	num=p|gen=f	5	det
+5	televisioni	televisione	S	S	num=p|gen=f	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	potere	potere	S	S	num=s|gen=m	1	pred
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	più	più	B	B	_	4	prep
+6	buoni	buono	A	A	num=p|gen=m	0	ROOT
+
+1	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	potere	potere	S	S	num=s|gen=m	1	obj
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	più	più	B	B	_	4	prep
+6	buoni	buono	A	A	num=p|gen=m	0	ROOT
+
+1	son	son	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+2	già	già	B	B	_	3	mod
+3	iscritto	iscrivere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	a	a	E	E	_	3	comp
+5	più	più	B	B	_	6	mod
+6	di	di	E	E	_	4	comp
+7	mille	mille	N	N	_	8	mod
+8	associazioni	associazione	S	S	num=p|gen=f	6	prep
+
+1	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	potere	potere	S	S	num=s|gen=m	1	obj
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	più	più	B	B	_	4	prep
+6	buoni	buono	A	A	num=p|gen=m	0	ROOT
+
+1	e	e	C	CC	_	2	con
+2	organizzo	organizzare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	dovunque	dovunque	B	B	_	2	mod
+4	manifestazioni	manifestazione	S	S	num=p|gen=f	2	obj
+
+1	G	G	S	SP	_	2	mod
+2	coro	coro	S	S	num=s|gen=m	0	ROOT
+3	:	:	F	FC	_	2	punc
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	potere	potere	S	S	num=s|gen=m	4	pred
+7	dei	di	E	EA	num=p|gen=m	6	comp
+8	più	più	B	B	_	7	prep
+9	buoni	buono	A	A	num=p|gen=m	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	potere	potere	S	S	num=s|gen=m	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	più	più	B	B	_	3	prep
+5	buoni	buono	A	A	num=p|gen=m	2	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	potere	potere	S	S	num=s|gen=m	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	più	più	B	B	_	3	prep
+5	buoni	buono	A	A	num=p|gen=m	2	mod
+
+1	G	G	S	SP	_	2	mod
+2	coro	coro	S	S	num=s|gen=m	0	ROOT
+3	:	:	F	FC	_	2	punc
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	potere	potere	S	S	num=s|gen=m	4	pred
+7	dei	di	E	EA	num=p|gen=m	6	comp
+8	più	più	B	B	_	7	prep
+9	buoni	buono	A	A	num=p|gen=m	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	potere	potere	S	S	num=s|gen=m	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	più	più	B	B	_	3	prep
+5	buoni	buono	A	A	num=p|gen=m	2	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	potere	potere	S	S	num=s|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	potere	potere	S	S	num=s|gen=m	2	mod
+5	dei	di	E	EA	num=p|gen=m	4	comp
+6	più	più	B	B	_	5	prep
+7	buoni	buono	A	A	num=p|gen=m	0	ROOT
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	0	ROOT
+4	di	di	E	E	_	3	comp
+5	ogni	ogni	D	DI	num=s|gen=n	6	mod
+6	giorno	giorno	S	S	num=s|gen=m	4	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	preoccupar-	preoccupare	V	V	mod=f	1	pred
+3	me	me	P	PC	num=s|per=1|gen=n	2	clit
+4	di	di	E	E	_	2	comp
+5	ciò	ciò	P	PD	num=s|gen=m	4	prep
+6	che	che	P	PR	num=n|gen=n	7	obj
+7	ho	avere	V	V	num=s|per=1|mod=i|ten=p	5	mod_rel
+8	intorno	intorno	B	B	_	2	mod
+
+1	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	passione	passione	S	S	num=s|gen=f	1	obj
+4	travolgente	travolgente	A	A	num=s|gen=n	3	mod
+
+1	per	per	E	E	_	0	comp
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	animali	animale	S	S	num=p|gen=m	1	prep
+4	e	e	C	CC	_	1	con
+5	per	per	E	E	_	1	conj
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	ambiente	ambiente	S	S	num=s|gen=m	5	prep
+
+1	Penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	alle	al	E	EA	num=p|gen=f	1	comp
+3	vipere	vipera	S	S	num=p|gen=f	2	prep
+4	sempre	sempre	B	B	_	5	mod
+5	più	più	B	B	_	6	mod
+6	rare	raro	A	A	num=p|gen=f	3	mod
+
+1	e	e	C	CC	_	3	con
+2	anche	anche	B	B	_	3	mod
+3	al	a	E	EA	num=s|gen=m	0	ROOT
+4	rispetto	rispetto	S	S	num=s|gen=m	3	prep
+5	per	per	E	E	_	4	comp
+6	le	il	R	RD	num=p|gen=f	7	det
+7	zanzare	zanzara	S	S	num=p|gen=f	5	prep
+
+1	In	in	E	E	_	5	comp
+2	questi	questo	D	DD	num=p|gen=m	3	mod
+3	tempi	tempo	S	S	num=p|gen=m	1	prep
+4	così	così	B	B	_	5	mod
+5	immorali	immorale	A	A	num=p|gen=n	0	ROOT
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	agli	al	E	EA	num=p|gen=m	2	comp
+4	habitat	habitat	S	SW	num=n|gen=m	3	prep
+5	naturali	naturale	A	A	num=p|gen=n	4	mod
+
+1	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	alla	al	E	EA	num=s|gen=f	1	comp
+3	cosa	cosa	S	S	num=s|gen=f	2	prep
+4	più	più	B	B	_	5	mod
+5	importante	importante	A	A	num=s|gen=n	3	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	abbracciare	abbracciare	V	V	mod=f	2	pred
+4	le	il	R	RD	num=p|gen=f	5	det
+5	piante	pianta	S	S	num=p|gen=f	3	obj
+
+1	Penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	al	a	E	EA	num=s|gen=m	1	comp
+3	ricupero	ricupero	S	S	num=s|gen=m	2	prep
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	criminali	criminale	S	S	num=p|gen=n	4	prep
+
+1	delle	di	E	EA	num=p|gen=f	0	ROOT
+2	puttane	puttana	S	S	num=p|gen=f	1	prep
+3	e	e	C	CC	_	1	con
+4	dei	di	E	EA	num=p|gen=m	1	conj
+5	transessuali	transessuale	S	S	num=p|gen=n	4	prep
+
+1	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	allo	al	E	EA	num=s|gen=m	1	comp
+3	stress	stress	S	SW	num=n|gen=m	2	prep
+4	degli	di	E	EA	num=p|gen=m	3	comp
+5	alluvionati	alluvionato	S	S	num=p|gen=m	4	prep
+
+1	al	a	E	EA	num=s|gen=m	0	ROOT
+2	tempo	tempo	S	S	num=s|gen=m	1	prep
+3	libero	libero	A	A	num=s|gen=m	2	mod
+4	dei	di	E	EA	num=p|gen=m	2	comp
+5	carcerati	carcerato	S	S	num=p|gen=m	4	prep
+
+1	Penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	alle	al	E	EA	num=p|gen=f	1	comp
+3	nuove	nuovo	A	A	num=p|gen=f	4	mod
+4	povertà	povertà	S	S	num=n|gen=f	2	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	danno	dare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	molta	molto	D	DI	num=s|gen=f	4	mod
+4	visibilità	visibilità	S	S	num=n|gen=f	2	obj
+
+1	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	5	aux
+4	bello	bello	A	A	num=s|gen=m	5	modal
+5	sentir-	sentire	V	V	mod=f	2	sub
+6	si	si	P	PC	num=n|per=3|gen=n	5	clit
+7	buoni	buono	A	A	num=p|gen=m	5	pred
+
+1	usando	usare	V	V	mod=g	0	_
+2	i	il	R	RD	num=p|gen=m	3	det
+3	soldi	soldo	S	S	num=p|gen=m	1	obj
+4	degli	di	E	EA	num=p|gen=m	3	comp
+5	italiani	italiano	S	S	num=p|gen=m	4	prep
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	potere	potere	S	S	num=s|gen=m	1	pred
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	più	più	B	B	_	4	prep
+6	buoni	buono	A	A	num=p|gen=m	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	potere	potere	S	S	num=s|gen=m	1	pred
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	più	più	B	B	_	4	prep
+6	buoni	buono	A	A	num=p|gen=m	0	ROOT
+
+1	costruito	costruire	V	V	num=s|mod=p|gen=m	0	ROOT
+2	sulle	su	E	EA	num=p|gen=f	1	comp
+3	tragedie	tragedia	S	S	num=p|gen=f	2	prep
+4	e	e	C	CC	_	2	con
+5	sulle	su	E	EA	num=p|gen=f	2	conj
+6	frustrazioni	frustrazione	S	S	num=p|gen=f	5	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	potere	potere	S	S	num=s|gen=m	1	pred
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	più	più	B	B	_	4	prep
+6	buoni	buono	A	A	num=p|gen=m	0	ROOT
+
+1	che	che	C	CS	_	5	mod
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	domani	domani	S	S	num=n|gen=m	5	subj
+4	può	potere	V	VM	num=s|per=3|mod=i|ten=p	5	modal
+5	venir	venire	V	V	mod=f	0	ROOT
+6	buono	buono	A	A	num=s|gen=m	5	mod
+7	per	per	E	E	_	6	comp
+8	le	il	R	RD	num=p|gen=f	9	det
+9	elezioni	elezione	S	S	num=p|gen=f	7	prep
+
+1	G	G	S	SP	_	2	mod
+2	coro	coro	S	S	num=s|gen=m	0	ROOT
+3	:	:	F	FC	_	2	punc
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	potere	potere	S	S	num=s|gen=m	4	pred
+7	dei	di	E	EA	num=p|gen=m	6	comp
+8	più	più	B	B	_	7	prep
+9	buoni	buono	A	A	num=p|gen=m	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	potere	potere	S	S	num=s|gen=m	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	più	più	B	B	_	3	prep
+5	buoni	buono	A	A	num=p|gen=m	2	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	potere	potere	S	S	num=s|gen=m	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	più	più	B	B	_	3	prep
+5	buoni	buono	A	A	num=p|gen=m	2	mod
+
+1	G	G	S	SP	_	2	mod
+2	coro	coro	S	S	num=s|gen=m	0	ROOT
+3	:	:	F	FC	_	2	punc
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	potere	potere	S	S	num=s|gen=m	4	pred
+7	dei	di	E	EA	num=p|gen=m	6	comp
+8	più	più	B	B	_	7	prep
+9	buoni	buono	A	A	num=p|gen=m	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	potere	potere	S	S	num=s|gen=m	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	più	più	B	B	_	3	prep
+5	buoni	buono	A	A	num=p|gen=m	2	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	potere	potere	S	S	num=s|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	potere	potere	S	S	num=s|gen=m	2	mod
+5	dei	di	E	EA	num=p|gen=m	4	comp
+6	più	più	B	B	_	5	prep
+7	buoni	buono	A	A	num=p|gen=m	0	ROOT
+

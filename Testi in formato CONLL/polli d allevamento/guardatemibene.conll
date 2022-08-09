@@ -1,0 +1,309 @@
+1	Guardate-	guardare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	1	obj
+3	bene	bene	B	B	_	1	mod
+4	ecco-	ecco	B	B	_	7	mod
+5	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+6	davanti	davanti	B	B	_	7	mod
+7	a	a	E	E	_	1	comp
+8	voi	voi	P	PE	num=p|per=2|gen=n	7	prep
+
+1	non	non	B	BN	_	2	neg
+2	per	per	E	E	_	9	mod
+3	fare	fare	V	V	mod=f	2	prep
+4	strani	strano	A	A	num=p|gen=m	5	mod
+5	mischiamenti	mischiamenti	A	A	num=p|gen=m	3	obj
+6	non	non	B	BN	_	7	neg
+7	per	per	E	E	_	5	arg
+8	stare	stare	V	V	mod=f	7	prep
+9	insieme	insieme	B	B	_	0	_
+
+1	non	non	B	BN	_	3	neg
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	6	det
+5	vostra	vostro	A	AP	num=s|gen=f	6	mod
+6	scuola	scuola	S	S	num=s|gen=f	3	subj
+7	la	il	R	RD	num=s|gen=f	9	det
+8	vostra	vostro	A	AP	num=s|gen=f	9	mod
+9	famiglia	famiglia	S	S	num=s|gen=f	3	obj
+
+1	e	e	C	CC	_	0	ROOT
+2	di	di	E	E	_	0	ROOT
+3	rispettar-	rispettare	V	V	mod=f	2	prep
+4	vi	vi	P	PC	num=p|per=2|gen=n	1	punc
+
+1	non	non	B	BN	_	2	neg
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	nessuna	nessuna	D	DI	num=s|gen=f	4	mod
+4	voglia	voglia	S	S	num=s|gen=f	2	obj
+
+1	Guardate-	guardare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	1	obj
+3	bene	bene	B	B	_	1	mod
+4	non	non	B	BN	_	5	neg
+5	credo	credere	V	V	num=s|per=1|mod=i|ten=p	1	conj
+6	più	più	B	B	_	5	mod
+7	a	a	E	E	_	5	comp
+8	niente	niente	B	B	_	7	prep
+
+1	non	non	B	BN	_	4	neg
+2	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	4	modal
+3	più	più	B	B	_	4	mod
+4	lavorare	lavorare	V	V	mod=f	0	ROOT
+5	come	come	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	5	prep
+7	deficiente	deficiente	A	A	num=s|gen=n	6	mod
+
+1	non	non	B	BN	_	2	neg
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	4	mod
+4	speranze	speranza	S	S	num=p|gen=f	2	obj
+5	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+6	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	7	aux
+7	fregato	fregare	V	V	num=s|mod=p|gen=m	2	conj
+
+1	ma	ma	C	CC	_	5	con
+2	ormai	ormai	B	B	_	3	mod
+3	me	me	P	PE	num=s|per=1|gen=n	5	subj
+4	ne	ne	P	PC	num=n|gen=n	5	comp
+5	fotto	fottere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	come	come	C	CS	_	2	mod
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	ridotto	ridurre	V	V	num=s|mod=p|gen=m	3	sub
+
+1	Guardate-	guardare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	1	obj
+3	bene	bene	B	B	_	1	mod
+4	ora	ora	B	B	_	1	mod
+5	non	non	B	BN	_	7	neg
+6	ne	ne	P	PC	num=n|gen=n	7	comp
+7	posso	potere	V	VM	num=s|per=1|mod=i|ten=p	4	sub
+8	più	più	B	B	_	7	mod
+
+1	non	non	B	BN	_	2	neg
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	4	mod
+4	problemi	problema	S	S	num=p|gen=m	2	obj
+5	di	di	E	E	_	4	comp
+6	coscienza	coscienza	S	S	num=s|gen=f	5	prep
+7	ne	ne	P	PC	num=n|gen=n	8	comp
+8	ho	avere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+9	le	il	R	RD	num=p|gen=f	10	det
+10	palle	palla	S	S	num=p|gen=f	8	obj
+11	piene	pieno	A	A	num=p|gen=f	10	mod
+
+1	me	me	P	PE	num=s|per=1|gen=n	3	subj
+2	ne	ne	P	PC	num=n|gen=n	3	comp
+3	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	partiti	partito	S	S	num=p|gen=m	4	prep
+6	me	me	P	PE	num=s|per=1|gen=n	8	subj
+7	ne	ne	P	PC	num=n|gen=n	8	comp
+8	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	3	conj
+9	dei	di	E	EA	num=p|gen=m	8	comp
+10	gruppi	gruppo	S	S	num=p|gen=m	9	prep
+
+1	tentativi	tentativo	S	S	num=p|gen=m	0	ROOT
+2	disperati	disperato	A	A	num=p|gen=m	1	mod
+
+1	ne	ne	P	PC	num=n|gen=n	3	comp
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	fatti	fare	V	V	num=p|mod=p|gen=m	0	ROOT
+4	già	già	B	B	_	3	mod
+5	troppi	troppo	D	DI	num=p|gen=m	3	mod
+
+1	E	e	C	CC	_	3	con
+2	ora	ora	B	B	_	3	mod_temp
+3	andiamo	andare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	a	a	E	E	_	3	arg
+5	ballare	ballare	V	V	mod=f	4	prep
+6	tanto	tanto	B	B	_	5	mod
+7	per	per	E	E	_	5	arg
+8	consolar-	consolare	V	V	mod=f	7	prep
+9	ci	ci	P	PC	num=p|per=1|gen=n	8	obj
+
+1	su	su	E	E	_	0	ROOT
+2	quello	quello	P	PD	num=s|gen=m	1	prep
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	rimane	rimanere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	dei	di	E	EA	num=p|gen=m	4	comp
+6	circoli	circolo	S	S	num=p|gen=m	5	prep
+7	Arci	Arci	S	SP	_	6	mod
+
+1	arriva	arrivare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	febbre	febbre	S	S	num=s|gen=f	1	subj
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	sabato	sabato	S	S	num=s|gen=m	4	prep
+6	sera	sera	S	S	num=s|gen=f	3	mod
+
+1	e	e	C	CC	_	5	con
+2	io	io	P	PE	num=s|per=1|gen=n	5	subj
+3	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+4	ci	ci	P	PC	num=p|per=1|gen=n	3	clit
+5	butto	buttare	V	V	num=s|per=1|mod=i|ten=p	0	_
+
+1	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	come	come	C	CS	_	2	mod
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	ridotto	ridurre	V	V	num=s|mod=p|gen=m	3	sub
+
+1	Guardate-	guardare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	1	obj
+3	bene	bene	B	B	_	1	mod
+4	ecco-	ecco	B	B	_	7	mod
+5	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+6	davanti	davanti	B	B	_	7	mod
+7	a	a	E	E	_	1	comp
+8	voi	voi	P	PE	num=p|per=2|gen=n	7	prep
+
+1	con	con	E	E	_	10	comp
+2	lo	il	R	RD	num=s|gen=m	3	det
+3	stile	stile	S	S	num=s|gen=m	1	prep
+4	arguto	arguto	A	A	num=s|gen=m	3	mod
+5	di	di	E	E	_	3	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	giullare	giullare	S	S	num=s|gen=m	5	prep
+8	gaio	gaio	A	A	num=s|gen=m	7	mod
+9	e	e	C	CC	_	1	con
+10	originale	originale	A	A	num=s|gen=n	0	_
+
+1	ecco-	ecco	B	B	_	5	mod
+2	mi	mi	P	PC	num=s|per=1|gen=n	5	clit
+3	che	che	C	CS	_	2	concat
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	clit
+5	esibisco	esibire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+6	e	e	C	CC	_	5	con
+7	vi	vi	P	PC	num=p|per=2|gen=n	8	clit
+8	rido	ridare	V	V	num=s|per=1|mod=i|ten=p	5	conj
+9	sul	su	E	EA	num=s|gen=m	8	comp
+10	muso	muso	S	S	num=s|gen=m	9	prep
+
+1	fiero	fiero	A	A	num=s|gen=m	0	ROOT
+2	dei	di	E	EA	num=p|gen=m	1	comp
+3	miei	mio	A	AP	num=p|gen=m	4	mod
+4	orecchini	orecchino	S	S	num=p|gen=m	2	prep
+5	e	e	C	CC	_	2	con
+6	degli	di	E	EA	num=p|gen=m	2	conj
+7	spilli	spillo	S	S	num=p|gen=m	6	prep
+8	nel	in	E	EA	num=s|gen=m	1	comp
+9	naso	naso	S	S	num=s|gen=m	8	prep
+
+1	Guardate-	guardare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	1	obj
+3	bene	bene	B	B	_	1	mod
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	fa	fare	V	V	num=s|per=3|mod=i|ten=p	1	conj
+6	schifo	schifo	A	A	num=s|gen=m	5	pred
+7	la	il	R	RD	num=s|gen=f	8	det
+8	gente	gente	S	S	num=s|gen=f	5	subj
+
+1	quando	quando	C	CS	_	6	mod
+2	vi	vi	P	PC	num=p|per=2|gen=n	3	comp_ind
+3	mostro	mostrare	V	V	num=s|per=1|mod=i|ten=p	1	sub
+4	il	il	R	RD	num=s|gen=m	5	det
+5	culo	culo	S	S	num=s|gen=m	6	subj
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	segnale	segnale	S	S	num=s|gen=m	6	pred
+9	importante	importante	A	A	num=s|gen=n	8	mod
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	vostro	vostro	B	B	_	3	mod
+3	figlio	figlio	S	S	num=s|gen=m	1	pred
+4	una	uno	R	RI	num=s|gen=f	6	det
+5	vostra	vostro	A	AP	num=s|gen=f	6	mod
+6	creazione	creazione	S	S	num=s|gen=f	1	subj
+
+1	un	uno	R	RI	num=s|gen=m	3	det
+2	vostro	vostro	A	AP	num=s|gen=m	3	mod
+3	prodotto	prodotto	S	S	num=s|gen=m	0	ROOT
+
+1	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	come	come	C	CS	_	2	mod
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	ridotto	ridurre	V	V	num=s|mod=p|gen=m	3	sub
+
+1	Guardate-	guardare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	1	obj
+3	bene	bene	B	B	_	1	mod
+4	ecco-	ecco	B	B	_	7	mod
+5	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+6	davanti	davanti	B	B	_	7	mod
+7	a	a	E	E	_	1	comp
+8	voi	voi	P	PE	num=p|per=2|gen=n	7	prep
+
+1	questa	questo	D	DD	num=s|gen=f	2	mod
+2	volta	volta	S	S	num=s|gen=f	6	mod_temp
+3	senza	senza	C	CS	_	6	mod
+4	recitare	recitare	V	V	mod=f	6	subj
+5	senza	senza	C	CS	_	6	mod
+6	fare	fare	V	V	mod=f	0	ROOT
+7	scene	scena	S	S	num=p|gen=f	6	obj
+
+1	ecco-	ecco	B	B	_	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+3	davanti	davanti	B	B	_	4	mod
+4	a	a	E	E	_	1	comp
+5	voi	voi	P	PE	num=p|per=2|gen=n	4	prep
+6	come	come	C	CS	_	4	mod
+7	fossi	essere	V	VA	num=s|per=1|mod=c|ten=i	8	aux
+8	a	a	E	E	_	6	sub
+9	un	uno	R	RI	num=s|gen=m	10	det
+10	processo	processo	S	S	num=s|gen=m	8	prep
+
+1	fiero	fiero	A	A	num=s|gen=m	0	ROOT
+2	dei	di	E	EA	num=p|gen=m	1	comp
+3	miei	mio	A	AP	num=p|gen=m	5	mod
+4	vent'	venti	N	N	_	5	mod
+5	anni	anno	S	S	num=p|gen=m	2	prep
+6	buttati	buttare	V	V	num=p|mod=p|gen=m	5	mod
+7	nel	in	E	EA	num=s|gen=m	6	comp
+8	cesso	cesso	S	S	num=s|gen=m	7	prep
+
+1	Guardate-	guardare	V	V	num=p|per=2|mod=m|ten=p	5	mod
+2	mi	mi	P	PC	num=s|per=1|gen=n	1	obj
+3	bene	bene	B	B	_	5	mod
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	distrutto	distruggere	V	V	num=s|mod=p|gen=m	0	ROOT
+6	e	e	C	CC	_	5	con
+7	impotente	impotente	A	A	num=s|gen=n	5	conj
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	degradazione	degradazione	S	S	num=s|gen=f	1	pred
+4	non	non	B	BN	_	5	neg
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	conj
+6	più	più	B	B	_	5	mod
+7	niente	niente	B	B	_	5	pred
+
+1	guardate-	guardare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	1	obj
+3	bene	bene	B	B	_	4	mod
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	1	conj
+5	gli	il	R	RD	num=p|gen=m	6	det
+6	occhi	occhio	S	S	num=p|gen=m	4	obj
+7	nel	in	E	EA	num=s|gen=m	1	comp
+8	vuoto	vuoto	S	S	num=s|gen=m	7	prep
+
+1	drogati	drogare	V	V	num=p|mod=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	corrotti	corrotto	A	A	num=p|gen=m	1	conj
+
+1	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	come	come	C	CS	_	2	mod
+4	siete	essere	V	VA	num=p|per=2|mod=i|ten=p	5	aux
+5	ridotti	ridurre	V	V	num=p|mod=p|gen=m	3	sub
+
+1	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	come	come	C	CS	_	2	mod
+4	siete	essere	V	VA	num=p|per=2|mod=i|ten=p	5	aux
+5	ridotti	ridurre	V	V	num=p|mod=p|gen=m	3	sub
+

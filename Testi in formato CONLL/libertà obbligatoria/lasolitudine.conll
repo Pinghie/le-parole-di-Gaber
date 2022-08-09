@@ -1,0 +1,374 @@
+1	La	il	R	RD	num=s|gen=f	2	det
+2	solitudine	solitudine	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	mica	mica	B	B	_	4	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	follia	follia	S	S	num=s|gen=f	4	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	indispensabile	indispensabile	A	A	num=s|gen=n	1	pred
+
+1	per	per	E	E	_	0	ROOT
+2	star	star	S	S	num=s|gen=m	1	prep
+3	bene	bene	B	B	_	4	mod
+4	in	in	E	E	_	1	conj
+5	compagnia	compagnia	S	S	num=s|gen=f	4	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	solitudine	solitudine	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	mica	mica	B	B	_	4	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	follia	follia	S	S	num=s|gen=f	4	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	indispensabile	indispensabile	A	A	num=s|gen=n	1	pred
+
+1	per	per	E	E	_	0	ROOT
+2	star	star	S	S	num=s|gen=m	1	prep
+3	bene	bene	B	B	_	4	mod
+4	in	in	E	E	_	1	conj
+5	compagnia	compagnia	S	S	num=s|gen=f	4	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	solitudine	solitudine	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	mica	mica	B	B	_	4	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	follia	follia	S	S	num=s|gen=f	4	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	indispensabile	indispensabile	A	A	num=s|gen=n	1	pred
+
+1	per	per	E	E	_	0	ROOT
+2	star	star	S	S	num=s|gen=m	1	prep
+3	bene	bene	B	B	_	4	mod
+4	in	in	E	E	_	1	conj
+5	compagnia	compagnia	S	S	num=s|gen=f	4	prep
+
+1	Uno	uno	P	PI	num=s|gen=m	3	subj
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	tante	tanto	D	DI	num=p|gen=f	5	mod
+5	idee	idea	S	S	num=p|gen=f	3	obj
+
+1	ma	ma	C	CC	_	0	ROOT
+2	di	di	E	E	_	1	comp
+3	modi	modo	S	S	num=p|gen=m	2	prep
+4	di	di	E	E	_	3	arg
+5	stare	stare	V	V	mod=f	4	prep
+6	insieme	insieme	B	B	_	5	mod
+
+1	ce	ce	P	PC	num=p|per=1|gen=n	3	comp_ind
+2	n'	ne	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	solo	solo	B	B	_	3	pred
+5	due	due	N	N	_	3	subj
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	chi	chi	P	PR	num=n|gen=n	2	subj
+4	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	in	in	E	E	_	0	ROOT
+2	piccole	piccolo	A	A	num=p|gen=f	3	mod
+3	comuni	comune	S	S	num=p|gen=n	1	prep
+4	o	o	C	CC	_	1	dis
+5	in	in	E	E	_	1	disj
+6	tribù	tribù	S	S	num=n|gen=f	5	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	famiglia	famiglia	S	S	num=s|gen=f	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	rapporto	rapporto	S	S	num=s|gen=m	2	mod
+5	di	di	E	E	_	2	comp
+6	coppia	coppia	S	S	num=s|gen=f	5	prep
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	già	già	B	B	_	2	mod
+4	nei	in	E	EA	num=p|gen=m	2	comp
+5	capitoli	capitolo	S	S	num=p|gen=m	4	prep
+6	precedenti	precedente	A	A	num=p|gen=n	5	mod
+
+1	ormai	ormai	B	B	_	0	ROOT
+2	non	non	B	BN	_	5	neg
+3	se	se	P	PC	num=n|per=3|gen=n	5	clit
+4	ne	ne	P	PC	num=n|gen=n	5	comp
+5	può	potere	V	VM	num=s|per=3|mod=i|ten=p	1	ROOT
+6	più	più	B	B	_	5	mod
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	solitudine	solitudine	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	mica	mica	B	B	_	4	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	follia	follia	S	S	num=s|gen=f	4	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	indispensabile	indispensabile	A	A	num=s|gen=n	1	pred
+
+1	per	per	E	E	_	0	ROOT
+2	star	star	S	S	num=s|gen=m	1	prep
+3	bene	bene	B	B	_	4	mod
+4	in	in	E	E	_	1	conj
+5	compagnia	compagnia	S	S	num=s|gen=f	4	prep
+
+1	Uno	uno	P	PI	num=s|gen=m	2	subj
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	quel	quello	P	PD	num=s|gen=m	2	obj
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	per	per	E	E	_	3	comp
+2	poter	potere	V	VM	mod=f	3	modal
+3	conquistare	conquistare	V	V	mod=f	0	ROOT
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	altri	altro	P	PI	num=p|gen=m	3	obj
+
+1	castrando-	castrare	V	V	mod=g	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	1	clit
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	1	mod
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	chi	chi	P	PR	num=n|gen=n	2	subj
+4	ama	amare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+5	o	o	C	CC	_	4	dis
+6	fa	fare	V	V	num=s|per=3|mod=i|ten=p	4	disj
+7	sfoggio	sfoggio	S	S	num=s|gen=m	6	obj
+8	di	di	E	E	_	7	comp
+9	bontà	bontà	S	S	num=s|gen=f	8	prep
+
+1	ma	ma	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	lui	lui	P	PE	num=s|per=3|gen=m	3	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	suo	suo	A	AP	num=s|gen=m	4	mod
+4	modo	modo	S	S	num=s|gen=m	1	pred
+5	di	di	E	E	_	4	arg
+6	far-	fare	V	VM	mod=f	8	modal
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	accettare	accettare	V	V	mod=f	5	prep
+9	di	di	E	E	_	8	comp
+10	più	più	B	B	_	9	prep
+
+1	anche	anche	B	B	_	2	mod
+2	a	a	E	E	_	0	ROOT
+3	costo	costo	S	S	num=s|gen=m	2	prep
+4	di	di	E	E	_	3	arg
+5	scordar-	scordare	V	V	mod=f	4	prep
+6	si	si	P	PC	num=n|per=3|gen=n	5	clit
+7	di	di	E	E	_	5	comp
+8	se	se	P	PC	num=n|per=3|gen=n	7	prep
+
+1	ma	ma	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	mai	mai	B	B	_	3	mod
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	solitudine	solitudine	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	mica	mica	B	B	_	4	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	follia	follia	S	S	num=s|gen=f	4	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	indispensabile	indispensabile	A	A	num=s|gen=n	1	pred
+
+1	per	per	E	E	_	0	ROOT
+2	star	star	S	S	num=s|gen=m	1	prep
+3	bene	bene	B	B	_	4	mod
+4	in	in	E	E	_	1	conj
+5	compagnia	compagnia	S	S	num=s|gen=f	4	prep
+
+1	Certo	certo	B	B	_	2	mod
+2	vivendo	vivere	V	V	mod=g	0	ROOT
+3	insieme	insieme	B	B	_	2	mod
+
+1	se	se	C	CS	_	4	mod
+2	chiedi	chiedere	V	V	num=s|per=2|mod=m|ten=p	1	sub
+3	aiuto	aiuto	S	S	num=s|gen=m	2	obj
+4	quando	quando	C	CS	_	0	ROOT
+5	sei	sei	N	N	_	4	sub
+
+1	disperato	disperato	A	A	num=s|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	non	non	B	BN	_	4	neg
+4	sopporti	sopportare	V	V	num=s|per=3|mod=c|ten=p	1	conj
+
+1	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	2	modal
+2	appoggiar-	appoggiare	V	V	mod=f	0	ROOT
+3	ti	ti	P	PC	num=s|per=2|gen=n	2	obj
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	pò	pò	B	B	_	3	mod
+3	di	di	E	E	_	0	ROOT
+4	buona	buono	A	A	num=s|gen=f	5	mod
+5	volontà	volontà	S	S	num=n|gen=f	3	prep
+
+1	e	e	C	CC	_	2	con
+2	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	pure	pure	B	B	_	4	mod
+4	a	a	E	E	_	2	arg
+5	far-	fare	V	VM	mod=f	7	modal
+6	me	me	P	PC	num=s|per=1|gen=n	5	clit
+7	amare	amare	V	V	mod=f	4	prep
+
+1	ma	ma	C	CC	_	2	con
+2	perdo	perdere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	troppi	troppo	D	DI	num=p|gen=m	4	mod
+4	pezzi	pezzo	S	S	num=p|gen=m	2	obj
+5	e	e	C	CC	_	2	con
+6	poi	poi	B	B	_	2	mod
+
+1	son	son	E	E	_	0	ROOT
+2	cazzi	cazzo	S	S	num=p|gen=m	1	prep
+3	miei	miei	A	A	num=p|gen=m	2	mod
+
+1	non	non	B	BN	_	3	neg
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	clit
+3	ritrovo	ritrovare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	3	mod
+
+1	Maledizione	maledizione	S	S	num=s|gen=f	0	ROOT
+2	,	,	F	FF	_	4	punc
+3	dove	dove	P	PR	num=n|gen=n	4	subj
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	mod_rel
+5	?	?	F	FS	_	4	punc
+
+1	Ecco-	ecco	B	B	_	3	mod
+2	li	li	P	PC	num=p|per=3|gen=m	3	obj
+3	lì	lì	B	B	_	0	ROOT
+4	,	,	F	FF	_	3	con
+5	ecco-	ecco	B	B	_	3	conj
+6	li	li	P	PC	num=p|per=3|gen=m	5	comp
+7	lì	lì	B	B	_	6	concat
+8	che	che	C	CS	_	7	concat
+9	se	se	P	PC	num=n|per=3|gen=n	11	clit
+10	li	li	P	PC	num=p|per=3|gen=m	11	obj
+11	mangiano	mangiare	V	V	num=p|per=3|mod=i|ten=p	8	sub
+12	i	il	R	RD	num=p|gen=m	14	det
+13	miei	mio	A	AP	num=p|gen=m	14	mod
+14	pezzi	pezzo	S	S	num=p|gen=m	11	obj
+15	,	,	F	FF	_	14	con
+16	cannibali	cannibale	S	S	num=p|gen=m	14	conj
+17	.	.	F	FS	_	3	punc
+
+1	Troppa	troppo	D	DI	num=s|gen=f	2	mod
+2	fame	fame	S	S	num=s|gen=f	3	obj
+3	credi-	credere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+4	me	me	P	PC	num=s|per=1|gen=n	3	clit
+5	,	,	F	FF	_	6	punc
+6	gli	gli	P	PC	num=s|per=3|gen=m	3	mod
+7	dai	da	E	EA	num=p|gen=m	6	comp
+8	una	uno	R	RI	num=s|gen=f	9	det
+9	mano	mano	S	S	num=s|gen=f	7	prep
+10	,	,	F	FF	_	6	punc
+11	ti	ti	P	PC	num=s|per=2|gen=n	12	comp_ind
+12	prendono	prendere	V	V	num=p|per=3|mod=i|ten=p	3	conj
+13	un	uno	R	RI	num=s|gen=m	14	det
+14	braccio	braccio	S	S	num=s|gen=m	12	obj
+15	.	.	F	FS	_	3	punc
+
+1	Ve	Ve	P	PC	num=n|gen=n	3	comp
+2	la	la	P	PC	num=s|per=3|gen=f	3	obj
+3	do	dare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	io	io	P	PE	num=s|per=1|gen=n	3	subj
+5	la	il	R	RD	num=s|gen=f	6	det
+6	comune	comune	S	S	num=s|gen=n	4	mod
+7	,	,	F	FF	_	6	con
+8	cannibali	cannibale	S	S	num=p|gen=m	6	conj
+9	,	,	F	FF	_	6	con
+10	credi-	credere	V	V	num=s|per=2|mod=m|ten=p	6	conj
+11	me	me	P	PC	num=s|per=1|gen=n	10	clit
+12	,	,	F	FF	_	13	punc
+13	in	in	E	E	_	16	comp_temp
+14	due	due	N	N	_	13	prep
+15	si	si	P	PC	num=n|per=3|gen=n	16	clit
+16	sta	stare	V	V	num=s|per=3|mod=i|ten=p	6	conj
+17	bene	bene	B	B	_	16	mod
+18	,	,	F	FF	_	19	punc
+19	in	in	E	E	_	16	comp
+20	due	due	N	N	_	19	prep
+21	....	....	C	CC	_	20	con
+22	un	uno	R	RI	num=s|gen=m	23	det
+23	esercito	esercito	S	S	num=s|gen=m	16	pred
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	solitudine	solitudine	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	mica	mica	B	B	_	4	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	follia	follia	S	S	num=s|gen=f	4	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	indispensabile	indispensabile	A	A	num=s|gen=n	1	pred
+
+1	per	per	E	E	_	0	ROOT
+2	star	star	S	S	num=s|gen=m	1	prep
+3	bene	bene	B	B	_	4	mod
+4	in	in	E	E	_	1	conj
+5	compagnia	compagnia	S	S	num=s|gen=f	4	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	solitudine	solitudine	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	mica	mica	B	B	_	4	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	follia	follia	S	S	num=s|gen=f	4	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	indispensabile	indispensabile	A	A	num=s|gen=n	1	pred
+
+1	per	per	E	E	_	0	ROOT
+2	star	star	S	S	num=s|gen=m	1	prep
+3	bene	bene	B	B	_	4	mod
+4	in	in	E	E	_	1	conj
+5	compagnia	compagnia	S	S	num=s|gen=f	4	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	solitudine	solitudine	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	mica	mica	B	B	_	4	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	follia	follia	S	S	num=s|gen=f	4	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	indispensabile	indispensabile	A	A	num=s|gen=n	1	pred
+
+1	per	per	E	E	_	0	ROOT
+2	star	star	S	S	num=s|gen=m	1	prep
+3	bene	bene	B	B	_	4	mod
+4	in	in	E	E	_	1	conj
+5	compagnia	compagnia	S	S	num=s|gen=f	4	prep
+
+1	Bravi	bravo	A	A	num=p|gen=m	0	ROOT
+2	,	,	F	FF	_	1	punc
+3	tutti	tutto	P	PI	num=p|gen=m	1	conj
+4	insieme	insieme	B	B	_	3	mod
+5	,	,	F	FF	_	3	con
+6	che	che	D	DE	num=n|gen=n	3	conj
+7	affiatamento	affiatamento	S	S	num=s|gen=m	6	sub
+8	,	,	F	FF	_	13	punc
+9	quasi	quasi	B	B	_	13	mod
+10	quasi	quasi	B	B	_	13	mod
+11	farei	fare	V	VM	num=s|per=1|mod=d|ten=p	13	modal
+12	un	uno	R	RI	num=s|gen=m	13	det
+13	gruppo	gruppo	S	S	num=s|gen=m	7	mod
+14	eh	eh	I	I	_	13	mod
+15	.	.	F	FS	_	1	punc
+

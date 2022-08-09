@@ -1,0 +1,494 @@
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	comincia	cominciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	così	così	B	B	_	2	mod
+4	da	da	E	E	_	2	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	fotografia	fotografia	S	S	num=s|gen=f	4	prep
+
+1	fatte	fare	V	V	num=p|mod=p|gen=f	0	ROOT
+2	alla	al	E	EA	num=s|gen=f	1	comp
+3	stazione	stazione	S	S	num=s|gen=f	2	prep
+4	in	in	E	E	_	3	comp
+5	quelle	quello	D	DD	num=p|gen=f	6	mod
+6	macchinette	macchinette	S	S	num=p|gen=f	4	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	alza	alzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	tendina	tendina	S	S	num=s|gen=f	2	subj
+5	e	e	C	CC	_	2	con
+6	ci	ci	P	PC	num=p|per=1|gen=n	8	obj
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	mette	mettere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+9	in	in	E	E	_	8	comp
+10	posizione	posizione	S	S	num=s|gen=f	9	prep
+
+1	con	con	E	E	_	6	comp
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	occhi	occhio	S	S	num=p|gen=m	1	prep
+4	fermi	fermo	A	A	num=p|gen=m	3	mod
+5	davanti	davanti	B	B	_	6	mod
+6	alle	al	E	EA	num=p|gen=f	0	ROOT
+7	crocette	crocette	S	S	num=p|gen=f	6	prep
+
+1	E	e	C	CC	_	2	con
+2	flash	flash	S	SW	num=n|gen=m	0	ROOT
+3	flash	flash	S	SW	num=n|gen=m	2	concat
+4	flash	flash	S	SW	num=n|gen=m	2	concat
+
+1	trecento	trecento	N	N	_	2	mod
+2	lire	lira	S	S	num=p|gen=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	minuto	minuto	S	S	num=s|gen=m	3	prep
+6	quattro	quattro	N	N	_	7	mod
+7	foto	foto	S	S	num=n|gen=f	0	ROOT
+
+1	e	e	C	CC	_	2	con
+2	flash	flash	S	SW	num=n|gen=m	0	ROOT
+3	flash	flash	S	SW	num=n|gen=m	2	concat
+4	flash	flash	S	SW	num=n|gen=m	2	concat
+
+1	trecento	trecento	N	N	_	2	mod
+2	lire	lira	S	S	num=p|gen=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	minuto	minuto	S	S	num=s|gen=m	3	prep
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	depravato	depravato	S	S	num=s|gen=m	0	ROOT
+
+1	Peccato	peccare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	,	,	F	FF	_	1	con
+3	credevo	credere	V	V	num=s|per=1|mod=i|ten=i	1	conj
+4	di	di	E	E	_	3	arg
+5	essere	essere	V	V	mod=f	4	prep
+6	più	più	B	B	_	7	mod
+7	luminoso	luminoso	A	A	num=s|gen=m	5	pred
+8	....	....	C	CC	_	5	con
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	5	conj
+10	colpa	colpa	S	S	num=s|gen=f	9	pred
+11	delle	di	E	EA	num=p|gen=f	10	comp
+12	macchinette	macchinette	S	S	num=p|gen=f	11	prep
+13	.	.	F	FS	_	1	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	ricordo	ricordare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	Patrizia	Patrizia	S	SP	_	2	obj
+6	,	,	F	FF	_	7	punc
+7	gio	gio	S	S	num=s|gen=m	5	mod
+8	¬vane	¬vane	S	S	num=p|gen=f	7	mod
+9	tratti	tratto	S	S	num=p|gen=m	8	mod
+10	regolari	regolare	A	A	num=p|gen=n	9	mod
+11	,	,	F	FF	_	7	punc
+12	carina	carino	A	A	num=s|gen=f	5	conj
+13	....	....	A	A	num=n|gen=n	12	mod
+14	flash	flash	S	SW	num=n|gen=m	13	concat
+15	!	!	F	FS	_	16	punc
+16	....	....	V	V	num=s|per=1|mod=i|ten=p	2	conj
+17	assassina	assassino	S	S	num=s|gen=f	16	obj
+18	.	.	F	FS	_	2	punc
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	così	così	B	B	_	1	pred
+3	Patrizia	Patrizia	S	SP	_	1	subj
+4	,	,	F	FF	_	1	con
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	comincia	cominciare	V	V	num=s|per=3|mod=i|ten=p	1	conj
+7	così	così	B	B	_	6	mod
+8	....	....	F	FS	_	1	punc
+
+1	Davanti	davanti	B	B	_	2	mod
+2	agli	al	E	EA	num=p|gen=m	0	ROOT
+3	sportelli	sportello	S	S	num=p|gen=m	2	prep
+4	di	di	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	ufficio	ufficio	S	S	num=s|gen=m	4	prep
+7	postale	postale	A	A	num=s|gen=n	6	mod
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	clit
+2	senti	sentire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	impacciato	impacciare	V	V	num=s|mod=p|gen=m	2	pred
+6	e	e	C	CC	_	2	con
+7	ti	ti	P	PC	num=s|per=2|gen=n	8	comp_ind
+8	guardano	guardare	V	V	num=p|per=3|mod=i|ten=p	2	conj
+9	male	malo	A	A	num=p|gen=f	8	mod
+10	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	calmo	calmo	A	A	num=s|gen=m	2	pred
+4	li	li	P	PC	num=p|per=3|gen=m	6	obj
+5	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	6	aux
+6	contati	contare	V	V	num=p|mod=p|gen=m	8	modal
+7	ne	ne	P	PC	num=n|gen=n	6	comp
+8	ho	avere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+9	davanti	davanti	B	B	_	10	mod
+10	nove	nove	N	N	_	8	obj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	4	subj
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	insinua	insinuare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	le	il	R	RD	num=p|gen=f	6	det
+6	donne	donna	S	S	num=p|gen=f	4	obj
+7	son	son	C	CS	_	9	mod
+8	più	più	B	B	_	9	mod
+9	brave	bravo	A	A	num=p|gen=f	6	mod
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	calmo	calmo	A	A	num=s|gen=m	2	pred
+4	però	però	B	B	_	6	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	controllo	controllo	S	S	num=s|gen=m	2	conj
+7	con	con	E	E	_	6	comp
+8	l'	il	R	RD	num=s|gen=n	9	det
+9	avambraccio	avambraccio	S	S	num=s|gen=m	7	prep
+
+1	tengo	tenere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	duro	duro	A	A	num=s|gen=m	1	pred
+3	in	in	E	E	_	2	comp
+4	silenzio	silenzio	S	S	num=s|gen=m	3	prep
+5	lei	lei	P	PE	num=s|per=3|gen=n	7	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+7	odia	odiare	V	V	num=s|per=3|mod=i|ten=p	1	conj
+8	io	io	P	PE	num=s|per=1|gen=n	7	subj
+9	la	il	R	RD	num=s|gen=f	10	det
+10	schiaccio	schiacciare	V	V	num=s|per=1|mod=i|ten=p	1	conj
+
+1	aiuto	aiuto	S	S	num=s|gen=m	5	obj
+2	ce	ce	P	PC	num=p|per=1|gen=n	5	comp_ind
+3	l'	lo	P	PC	num=s|per=3|gen=n	5	obj
+4	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	fatta	fare	V	V	num=s|mod=p|gen=f	0	ROOT
+6	si	si	P	PC	num=n|per=3|gen=n	8	clit
+7	è	essere	V	VA	num=s|per=3|mod=i|ten=p	8	aux
+8	insinuata	insinuare	V	V	num=s|mod=p|gen=f	5	arg
+
+1	maledetta	maledire	V	V	num=s|mod=p|gen=f	4	mod
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	avrei	avere	V	VA	num=s|per=1|mod=d|ten=p	4	aux
+4	ammazzata	ammazzare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	Meno	meno	B	B	_	5	mod
+2	male	male	B	B	_	5	mod
+3	si	si	P	PC	num=n|per=3|gen=n	5	clit
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	ribellati	ribellare	V	V	num=p|mod=p|gen=m	0	ROOT
+6	tutti	tutto	P	PI	num=p|gen=m	5	subj
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	urta	urtare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	ci	ci	P	PC	num=p|per=1|gen=n	3	clit
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	spinge	spingere	V	V	num=s|per=3|mod=i|ten=p	3	conj
+7	senza	senza	E	E	_	6	comp
+8	complimenti	complimento	S	S	num=p|gen=m	7	prep
+
+1	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	2	aux
+2	impazziti	impazzire	V	V	num=p|mod=p|gen=m	6	arg
+3	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	2	arg
+4	furiosi	furioso	A	A	num=p|gen=m	3	pred
+5	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	6	aux
+6	stravolti	stravolgere	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	più	più	B	B	_	5	mod
+3	che	che	C	CS	_	2	comp
+4	giusto	giusto	A	A	num=s|gen=m	3	sub
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	1	pred
+6	assetati	assetato	A	A	num=p|gen=m	5	pred
+7	di	di	E	E	_	5	comp
+8	documenti	documento	S	S	num=p|gen=m	7	prep
+9	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	3	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	3	mod
+3	Patrizia	Patrizia	S	SP	_	0	ROOT
+4	?	?	F	FS	_	3	punc
+
+1	Che	che	D	DQ	num=n|gen=n	2	subj
+2	faccia	fare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	fai	fare	V	V	num=s|per=2|mod=i|ten=p	2	arg
+4	quando	quando	C	CS	_	3	arg
+5	vai	andare	V	V	num=s|per=2|mod=i|ten=p	4	sub
+6	in	in	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	ufficio	ufficio	S	S	num=s|gen=m	6	prep
+9	a	a	E	E	_	5	arg
+10	chiedere	chiedere	V	V	mod=f	9	prep
+11	una	uno	R	RI	num=s|gen=f	12	det
+12	tessera	tessera	S	S	num=s|gen=f	10	obj
+13	?	?	F	FS	_	2	punc
+
+1	Come	come	B	B	_	2	mod
+2	fai	fare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	?	?	F	FS	_	2	punc
+
+1	Non	non	B	BN	_	3	neg
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	clit
+3	conosco	conoscere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	6	con
+2	Mauro	Mauro	S	SP	_	6	mod
+3	,	,	F	FF	_	1	punc
+4	il	il	R	RD	num=s|gen=m	6	det
+5	tuo	tuo	A	AP	num=s|gen=m	6	mod
+6	Mauro	Mauro	S	SP	_	0	ROOT
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	va	andare	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+9	sempre	sempre	B	B	_	8	mod
+10	in	in	E	E	_	8	comp_loc
+11	India	India	S	SP	_	10	prep
+12	....	....	F	FS	_	6	punc
+13	l'	lo	P	PC	num=s|per=3|gen=n	15	obj
+14	avrà	avere	V	VA	num=s|per=3|mod=i|ten=f	15	aux
+15	dato	dare	V	V	num=s|mod=p|gen=m	0	ROOT
+16	anche	anche	B	B	_	17	mod
+17	lui	lui	P	PE	num=s|per=3|gen=m	15	subj
+18	l'	il	R	RD	num=s|gen=n	19	det
+19	esame	esame	S	S	num=s|gen=m	15	obj
+20	della	di	E	EA	num=s|gen=f	19	comp
+21	patente	patente	S	S	num=s|gen=f	20	prep
+22	,	,	F	FF	_	15	punc
+23	in	in	E	E	_	29	comp
+24	macchina	macchina	S	S	num=s|gen=f	23	prep
+25	con	con	E	E	_	24	comp
+26	l'	il	R	RD	num=s|gen=n	27	det
+27	ingegnere	ingegnere	S	S	num=s|gen=m	25	prep
+28	....	....	C	CC	_	23	con
+29	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+30	impossibile	impossibile	A	A	num=s|gen=n	29	pred
+31	eh	eh	I	I	_	29	subj
+32	.	.	F	FS	_	31	punc
+
+1	E	e	C	CC	_	3	con
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	faccia	fare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+4	avrete	avere	V	V	num=p|per=2|mod=i|ten=f	3	pred
+5	quando	quando	C	CS	_	4	mod
+6	pagherete	pagare	V	V	num=p|per=2|mod=i|ten=f	5	sub
+7	le	il	R	RD	num=p|gen=f	8	det
+8	tasse	tassa	S	S	num=p|gen=f	6	subj
+9	?	?	F	FS	_	3	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	gente	gente	S	S	num=s|gen=f	2	subj
+4	che	che	P	PR	num=n|gen=n	7	subj
+5	non	non	B	BN	_	7	neg
+6	può	potere	V	VM	num=s|per=3|mod=i|ten=p	7	modal
+7	pagare	pagare	V	V	mod=f	3	mod_rel
+8	le	il	R	RD	num=p|gen=f	9	det
+9	tasse	tassa	S	S	num=p|gen=f	7	obj
+10	,	,	F	FF	_	2	con
+11	non	non	B	BN	_	12	neg
+12	può	potere	V	VM	num=s|per=3|mod=i|ten=p	2	ROOT
+13	,	,	F	FF	_	14	punc
+14	fisicamente	fisico	B	B	_	12	mod
+15	.	.	F	FS	_	12	punc
+
+1	Dovrebbero	dovere	V	VM	num=p|per=3|mod=d|ten=p	2	modal
+2	pensar-	pensare	V	V	mod=f	0	ROOT
+3	ci	ci	P	PC	num=p|per=1|gen=n	2	comp
+4	.	.	F	FS	_	2	punc
+
+1	Non	non	B	BN	_	2	neg
+2	importa	importare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	Patrizia	Patrizia	S	SP	_	2	subj
+4	.	.	F	FS	_	2	punc
+
+1	Ormai	ormai	B	B	_	5	mod_temp
+2	ce	ce	P	PC	num=p|per=1|gen=n	5	comp_ind
+3	le	le	P	PC	num=n|per=3|gen=f	5	comp_ind
+4	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	fatte	fare	V	V	num=p|mod=p|gen=f	0	ROOT
+6	le	le	P	PC	num=n|per=3|gen=f	5	comp_ind
+7	fo	fo	S	SW	num=n|gen=n	6	concat
+8	¬tografie....	¬tografie....	S	SA	_	5	pred
+
+1	Flash	flash	S	SW	num=n|gen=m	0	ROOT
+
+1	Ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+2	ci	ci	P	PC	num=n|gen=n	3	comp
+3	abituerai	abituare	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+4	ti	ti	P	PC	num=s|per=2|gen=n	3	subj
+5	ci	ci	P	PC	num=n|gen=n	4	comp
+6	abituerai	abituare	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	comincia	cominciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	così	così	B	B	_	2	mod
+5	da	da	E	E	_	2	comp
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	fotografia	fotografia	S	S	num=s|gen=f	5	prep
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	obj
+2	servirà	servire	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+3	dovunque	dovunque	B	B	_	2	mod
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	avrai	avere	V	V	num=s|per=2|mod=i|ten=f	2	conj
+6	sempre	sempre	B	B	_	5	mod
+7	presente	presente	A	A	num=s|gen=n	5	pred
+
+1	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	già	già	B	B	_	3	mod
+3	parte	parte	S	S	num=s|gen=f	1	pred
+4	di	di	E	E	_	3	comp
+5	te	te	P	PE	num=s|per=2|gen=n	4	prep
+6	non	non	B	BN	_	8	neg
+7	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	8	modal
+8	buttar-	buttare	V	V	mod=f	1	conj
+9	la	la	P	PC	num=s|per=3|gen=f	8	obj
+10	via	via	B	B	_	8	mod
+
+1	Non	non	B	BN	_	4	neg
+2	la	il	R	RD	num=s|gen=f	4	det
+3	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	4	modal
+4	strappare	strappare	V	V	mod=f	0	ROOT
+5	non	non	B	BN	_	6	neg
+6	ci	ci	P	PC	num=p|per=1|gen=n	4	obj
+7	riesci	riuscire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	essere	essere	S	S	num=s|gen=m	1	pred
+4	uguale	uguale	A	A	num=s|gen=n	3	mod
+5	a	a	E	E	_	4	comp
+6	te	te	P	PE	num=s|per=2|gen=n	5	prep
+7	stessa	stessa	A	A	num=s|gen=f	6	mod
+8	che	che	P	PR	num=n|gen=n	10	subj
+9	non	non	B	BN	_	10	neg
+10	conosci	conoscere	V	V	num=s|per=2|mod=i|ten=p	3	mod_rel
+
+1	e	e	C	CC	_	2	con
+2	porterai	portare	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+3	a	a	E	E	_	2	comp_ind
+4	spasso	spasso	S	S	num=s|gen=m	3	prep
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	doppio	doppio	S	S	num=s|gen=m	2	obj
+7	di	di	E	E	_	6	comp
+8	te	te	P	PE	num=s|per=2|gen=n	7	prep
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	specie	specie	S	S	num=n|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	morta	morta	S	S	num=s|gen=f	3	prep
+5	venuta	venire	V	V	num=s|mod=p|gen=f	2	mod
+6	male	male	B	B	_	2	mod
+
+1	cogli	con	E	EA	num=p|gen=m	0	ROOT
+2	occhi	occhio	S	S	num=p|gen=m	1	prep
+3	in	in	E	E	_	2	comp
+4	fuori	fuori	B	B	_	3	prep
+5	una	uno	R	RI	num=s|gen=f	1	ROOT
+6	criminale	criminale	A	A	num=s|gen=n	5	mod
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	comp_ind
+4	lascia	lasciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	mai	mai	B	B	_	4	mod_temp
+
+1	Ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+2	ci	ci	P	PC	num=n|gen=n	3	comp
+3	abituerai	abituare	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+4	ti	ti	P	PC	num=s|per=2|gen=n	3	subj
+5	ci	ci	P	PC	num=n|gen=n	4	comp
+6	abituerai	abituare	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	faremo	fare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+4	più	più	B	B	_	3	mod
+5	nessuna	nessuna	D	DI	num=s|gen=f	6	mod
+6	resistenza	resistenza	S	S	num=s|gen=f	3	obj
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	eravamo	essere	V	VA	num=p|per=1|mod=i|ten=i	4	aux
+4	certi	certo	P	PI	num=p|gen=m	8	subj_pass
+5	di	di	E	E	_	8	comp
+6	non	non	B	BN	_	8	neg
+7	essere	essere	V	VA	mod=f	8	aux
+8	coinvolti	coinvolgere	V	V	num=p|mod=p|gen=m	2	sub
+
+1	ora	ora	B	B	_	4	mod_temp
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	può	potere	V	VM	num=s|per=3|mod=i|ten=p	4	modal
+4	contare	contare	V	V	mod=f	0	ROOT
+5	sulla	su	E	EA	num=s|gen=f	4	comp
+6	nostra	nostro	A	AP	num=s|gen=f	7	mod
+7	presenza	presenza	S	S	num=s|gen=f	5	prep
+
+1	Lo	lo	P	PC	num=s|per=3|gen=m	0	_
+2	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	1	ROOT
+3	che	che	C	CS	_	2	arg
+4	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	attesi	attendere	V	V	num=p|mod=p|gen=m	3	sub
+
+1	alla	al	E	EA	num=s|gen=f	0	ROOT
+2	mutua	mutua	S	S	num=s|gen=f	1	prep
+3	all'	al	E	EA	num=s|gen=n	2	comp
+4	igiene	igiene	S	S	num=s|gen=f	3	prep
+
+1	alle	al	E	EA	num=p|gen=f	0	ROOT
+2	scuole	scuola	S	S	num=p|gen=f	1	prep
+3	agli	al	E	EA	num=p|gen=m	2	comp
+4	ospedali	ospedale	S	S	num=p|gen=m	3	prep
+
+1	ai	al	E	EA	num=p|gen=m	0	ROOT
+2	seggi	seggio	S	S	num=p|gen=m	1	prep
+3	elettorali	elettorale	A	A	num=p|gen=n	2	mod
+
+1	Lo	lo	P	PC	num=s|per=3|gen=m	0	_
+2	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	1	ROOT
+3	che	che	C	CS	_	2	arg
+4	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	attesi	attendere	V	V	num=p|mod=p|gen=m	3	sub
+
+1	con	con	E	E	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	4	det
+3	nostre	nostro	A	AP	num=p|gen=f	4	mod
+4	carte	carta	S	S	num=p|gen=f	1	prep
+
+1	coi	con	E	EA	num=p|gen=m	4	comp
+2	timbri	timbro	S	S	num=p|gen=m	1	prep
+3	i	il	R	RD	num=p|gen=m	4	det
+4	fogli	foglio	S	S	num=p|gen=m	0	ROOT
+5	i	il	R	RD	num=p|gen=m	6	det
+6	registri	registro	S	S	num=p|gen=m	4	mod
+
+1	Coi	con	E	EA	num=p|gen=m	4	comp
+2	certificati	certificato	S	S	num=p|gen=m	1	prep
+3	le	il	R	RD	num=p|gen=f	4	det
+4	carte	carta	S	S	num=p|gen=f	0	ROOT
+5	da	da	E	E	_	4	comp
+6	bollo	bollo	S	S	num=s|gen=m	5	prep
+
+1	identificati	identificare	V	V	num=p|mod=p|gen=m	0	ROOT
+2	da	da	E	E	_	1	comp
+3	schede	scheda	S	S	num=p|gen=f	2	prep
+4	e	e	C	CC	_	2	con
+5	da	da	E	E	_	2	conj
+6	nastri	nastro	S	S	num=p|gen=m	5	prep
+
+1	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	2	aux
+2	sommersi	sommerso	A	A	num=p|gen=m	0	ROOT
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	dentro	dentro	B	B	_	1	mod
+3	fino	fino	E	E	_	1	pred
+4	al	a	E	EA	num=s|gen=m	3	concat
+5	collo	collo	S	S	num=s|gen=m	3	prep
+
+1	Flash	flash	S	SW	num=n|gen=m	0	ROOT
+2	!	!	F	FS	_	1	punc
+

@@ -1,0 +1,371 @@
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	quando	quando	C	CS	_	0	ROOT
+2	eravamo	essere	V	V	num=p|per=1|mod=i|ten=i	1	sub
+3	in	in	E	E	_	2	pred
+4	tanti	tanto	P	PI	num=p|gen=m	3	prep
+5	a	a	E	E	_	2	arg
+6	correr	correre	V	V	mod=f	5	prep
+7	dietro	dietro	B	B	_	8	mod
+8	a	a	E	E	_	6	comp
+9	un	uno	R	RI	num=s|gen=m	10	det
+10	pallone	pallone	S	S	num=s|gen=m	8	prep
+
+1	senza	senza	E	E	_	0	ROOT
+2	alcuna	alcuno	D	DI	num=s|gen=f	1	mod
+3	ragione	ragione	S	S	num=s|gen=f	1	prep
+
+1	ed	e	C	CC	_	5	con
+2	a	a	E	E	_	5	comp
+3	scoprir-	scoprire	V	V	mod=f	2	prep
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	spinte	spinta	S	S	num=p|gen=f	0	ROOT
+6	sorridendo	sorridere	V	V	mod=g	5	mod
+
+1	così	così	B	B	_	2	mod
+2	lontani	lontano	A	A	num=p|gen=m	0	ROOT
+3	dal	da	E	EA	num=s|gen=m	2	comp
+4	mondo	mondo	S	S	num=s|gen=m	3	prep
+5	.	.	F	FS	_	2	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	quando	quando	C	CS	_	0	ROOT
+2	di	di	E	E	_	5	comp
+3	pomeriggio	pomeriggio	S	S	num=s|gen=m	2	prep
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	festa	festa	S	S	num=s|gen=f	5	subj
+8	in	in	E	E	_	7	comp_loc
+9	qualche	qualche	D	DI	num=s|gen=n	10	mod
+10	casa	casa	S	S	num=s|gen=f	8	prep
+
+1	quell'	quello	D	DD	num=s|gen=n	2	mod
+2	atmosfera	atmosfera	S	S	num=s|gen=f	0	ROOT
+3	precisa	preciso	A	A	num=s|gen=f	2	mod
+
+1	balli	ballo	S	S	num=p|gen=m	0	ROOT
+2	ritmati	ritmati	A	A	num=p|gen=m	1	mod
+3	e	e	C	CC	_	1	con
+4	poi	poi	B	B	_	5	mod
+5	canzoni	canzone	S	S	num=p|gen=f	1	conj
+6	lente	lento	A	A	num=p|gen=f	5	mod
+
+1	a	a	E	E	_	6	comp
+2	luci	luce	S	S	num=p|gen=f	1	prep
+3	basse	basso	A	A	num=p|gen=f	2	mod
+4	o	o	C	CC	_	1	dis
+5	meglio	meglio	B	B	_	6	mod
+6	spente	spento	A	A	num=p|gen=f	0	ROOT
+7	.	.	F	FS	_	6	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	quando	quando	C	CS	_	0	ROOT
+2	rubando	rubare	V	V	mod=g	1	sub
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	ora	ora	S	S	num=s|gen=f	2	obj
+5	allo	al	E	EA	num=s|gen=m	4	comp
+6	studio	studio	S	S	num=s|gen=m	5	prep
+7	del	di	E	EA	num=s|gen=m	6	comp
+8	latino	latino	S	S	num=s|gen=m	7	prep
+
+1	io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	le	le	P	PC	num=n|per=3|gen=f	3	comp_ind
+3	corro	correre	V	V	num=s|per=1|mod=i|ten=p	0	_
+4	vicino	vicino	B	B	_	3	mod
+
+1	coi	con	E	EA	num=p|gen=m	7	comp
+2	nostri	nostro	A	AP	num=p|gen=m	3	mod
+3	scherzi	scherzo	S	S	num=p|gen=m	1	prep
+4	e	e	C	CC	_	1	con
+5	i	il	R	RD	num=p|gen=m	7	det
+6	frettolosi	frettoloso	A	A	num=p|gen=m	7	mod
+7	baci	bacio	S	S	num=p|gen=m	0	ROOT
+
+1	in	in	E	E	_	0	ROOT
+2	intervalli	intervallo	S	S	num=p|gen=m	1	prep
+3	rapidi	rapido	A	A	num=p|gen=m	2	mod
+4	e	e	C	CC	_	3	con
+5	felici	felice	A	A	num=p|gen=n	3	conj
+6	.	.	F	FS	_	1	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	Ma	ma	C	CC	_	4	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	4	subj
+3	cosa	cosa	P	PQ	num=s|gen=n	4	obj
+4	fai	fare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	sera	sera	S	S	num=s|gen=f	4	subj
+
+1	a	a	E	E	_	3	comp
+2	parte	parte	S	S	num=s|gen=f	1	prep
+3	stare	stare	V	V	mod=f	0	ROOT
+4	a	a	E	E	_	3	comp_ind
+5	casa	casa	S	S	num=s|gen=f	4	prep
+6	se	se	C	CS	_	3	mod
+7	c'	ci	P	PC	num=n|gen=n	8	comp
+8	hai	hai	V	V	num=p|per=1|mod=i|ten=p	6	sub
+9	qualcosa	qualcosa	P	PI	num=s|gen=n	3	obj
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	gioco	gioco	S	S	num=s|gen=m	6	mod_temp
+3	qualche	qualche	D	DI	num=s|gen=n	4	mod
+4	amico	amico	S	S	num=s|gen=m	2	mod_temp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	ragazza	ragazzo	S	S	num=s|gen=f	0	ROOT
+
+1	qualcuno	qualcuno	P	PI	num=s|gen=m	0	ROOT
+2	che	che	C	CS	_	1	mod
+3	sia	sia	C	CC	_	2	sub
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	tua	tuo	A	AP	num=s|gen=f	6	mod
+6	razza	razza	S	S	num=s|gen=f	4	prep
+7	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	0	ROOT
+3	che	che	C	CS	_	2	ROOT
+4	fai	fare	V	V	num=s|per=2|mod=i|ten=p	3	sub
+
+1	Se	se	C	CS	_	0	ROOT
+2	hai	hai	V	V	num=s|per=2|mod=m|ten=p	1	sub
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	progetto	progetto	S	S	num=s|gen=m	2	obj
+5	insieme	insieme	B	B	_	6	mod
+6	agli	al	E	EA	num=p|gen=m	2	comp
+7	altri	altro	P	PI	num=p|gen=m	6	prep
+
+1	se	se	P	PC	num=n|per=3|gen=n	3	clit
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	qualcosa	qualcosa	P	PI	num=s|gen=n	3	subj
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	ti	ti	P	PC	num=s|per=2|gen=n	7	comp_ind
+7	fa	fare	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+8	star	star	S	S	num=n|gen=f	7	obj
+9	bene	bene	B	B	_	3	mod
+
+1	se	se	C	CS	_	0	ROOT
+2	provi	provare	V	V	num=s|per=3|mod=c|ten=p	1	sub
+3	ancora	ancora	B	B	_	2	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	sentimento	sentimento	S	S	num=s|gen=m	2	obj
+6	o	o	C	CC	_	5	dis
+7	un'	uno	R	RI	num=s|gen=f	8	det
+8	emozione	emozione	S	S	num=s|gen=f	5	disj
+9	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	0	ROOT
+3	che	che	C	CS	_	2	ROOT
+4	fai	fare	V	V	num=s|per=2|mod=i|ten=p	3	sub
+5	che	che	P	PR	num=n|gen=n	4	arg
+6	fai	fare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	quando	quando	C	CS	_	0	ROOT
+2	nelle	in	E	EA	num=p|gen=f	4	comp
+3	osterie	osteria	S	S	num=p|gen=f	2	prep
+4	discutevamo	discutere	V	V	num=p|per=1|mod=i|ten=i	1	sub
+5	ore	ora	S	S	num=p|gen=f	4	obj
+6	e	e	C	CC	_	5	con
+7	ore	ora	S	S	num=p|gen=f	5	conj
+
+1	per	per	E	E	_	0	ROOT
+2	riuscire	riuscire	V	V	mod=f	1	prep
+3	a	a	E	E	_	2	arg
+4	capire	capire	V	V	mod=f	3	prep
+
+1	a	a	E	E	_	0	ROOT
+2	penetrare	penetrare	V	V	mod=f	1	prep
+3	proprio	proprio	B	B	_	2	mod
+4	fino	fino	E	E	_	2	comp
+5	in	in	E	E	_	4	concat
+6	fondo	fondo	S	S	num=s|gen=m	4	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	cose	cosa	S	S	num=p|gen=f	0	ROOT
+3	vere	vero	A	A	num=p|gen=f	2	mod
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	2	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	quando	quando	C	CS	_	0	ROOT
+2	lasciando	lasciare	V	V	mod=g	1	sub
+3	i	il	R	RD	num=p|gen=m	4	det
+4	libri	libro	S	S	num=p|gen=m	2	obj
+5	io	io	P	PE	num=s|per=1|gen=n	6	subj
+6	comincio	cominciare	V	V	num=s|per=1|mod=i|ten=p	2	conj
+7	a	a	E	E	_	6	arg
+8	lavorare	lavorare	V	V	mod=f	7	prep
+
+1	con	con	E	E	_	0	_
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	4	mod
+4	di	di	E	E	_	1	comp
+5	timore	timore	S	S	num=s|gen=m	4	prep
+
+1	per	per	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	strada	strada	S	S	num=s|gen=f	1	prep
+4	scomoda	scomodo	A	A	num=s|gen=f	3	mod
+5	e	e	C	CC	_	1	con
+6	in	in	E	E	_	1	conj
+7	salita	salita	S	S	num=s|gen=f	6	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	poi	poi	B	B	_	3	mod
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	senso	senso	S	S	num=s|gen=m	3	pred
+6	della	di	E	EA	num=s|gen=f	5	comp
+7	vita	vita	S	S	num=s|gen=f	6	prep
+8	.	.	F	FS	_	3	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	dietro	dietro	B	B	_	2	mod
+2	a	a	E	E	_	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	ragazzina	ragazzina	S	S	num=s|gen=f	2	prep
+5	conosciuta	conoscere	V	V	num=s|mod=p|gen=f	4	mod
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pò	pò	B	B	_	8	mod
+8	per	per	E	E	_	5	comp
+9	caso	caso	S	S	num=s|gen=m	8	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	amore	amore	S	S	num=s|gen=m	0	ROOT
+3	improvviso	improvviso	A	A	num=s|gen=m	2	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	crescendo	crescere	V	V	mod=g	2	pred
+4	giorno	giorno	S	S	num=s|gen=m	3	obj
+5	dopo	dopo	E	E	_	3	comp_temp
+6	giorno	giorno	S	S	num=s|gen=m	5	prep
+
+1	in	in	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	abbraccio	abbraccio	S	S	num=s|gen=m	1	prep
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+6	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+7	eterno	eterno	A	A	num=s|gen=m	6	pred
+8	.	.	F	FS	_	1	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	Ma	ma	C	CC	_	4	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	4	subj
+3	cosa	cosa	P	PQ	num=s|gen=n	4	obj
+4	fai	fare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	sera	sera	S	S	num=s|gen=f	4	subj
+
+1	quel	quello	D	DD	num=s|gen=m	2	mod
+2	giorno	giorno	S	S	num=s|gen=m	0	ROOT
+3	che	che	D	DE	num=n|gen=n	2	comp
+4	magari	magari	B	B	_	5	mod
+5	tu	tu	P	PE	num=s|per=2|gen=n	3	prep
+6	non	non	B	BN	_	7	neg
+7	lavori	lavoro	S	S	num=p|gen=m	5	mod
+
+1	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	0	_
+2	ancora	ancora	B	B	_	3	mod
+3	voglia	voglia	S	S	num=s|gen=f	1	obj
+4	di	di	E	E	_	3	arg
+5	parlare	parlare	V	V	mod=f	4	prep
+6	di	di	E	E	_	5	arg
+7	ascoltare	ascoltare	V	V	mod=f	6	prep
+
+1	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	0	ROOT
+2	ancora	ancora	B	B	_	4	mod
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	energia	energia	S	S	num=s|gen=f	1	obj
+5	per	per	E	E	_	4	comp
+6	qualche	qualche	D	DI	num=s|gen=n	7	mod
+7	amore	amore	S	S	num=s|gen=m	5	prep
+8	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	fai	fare	V	V	num=s|per=2|mod=i|ten=p	3	sub
+5	.	.	F	FS	_	2	punc
+
+1	Ti	ti	P	PC	num=s|per=2|gen=n	4	comp_ind
+2	sei	essere	V	VA	num=s|per=2|mod=i|ten=p	4	aux
+3	mai	mai	B	B	_	4	mod_temp
+4	posto	porre	V	V	num=s|mod=p|gen=m	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	domanda	domanda	S	S	num=s|gen=f	4	obj
+
+1	se	se	C	CS	_	0	ROOT
+2	questo	questo	D	DD	num=s|gen=m	3	mod
+3	mondo	mondo	S	S	num=s|gen=m	5	subj
+4	non	non	B	BN	_	5	neg
+5	sia	essere	V	V	num=s|per=3|mod=c|ten=p	1	sub
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pò	pò	B	B	_	9	mod
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	mistero	mistero	S	S	num=s|gen=m	5	pred
+
+1	con	con	E	E	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	4	det
+3	inquietante	inquietante	A	A	num=s|gen=n	4	mod
+4	sensazione	sensazione	S	S	num=s|gen=f	1	prep
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	futuro	futuro	S	S	num=s|gen=m	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	0	ROOT
+3	che	che	C	CS	_	2	ROOT
+4	fai	fare	V	V	num=s|per=2|mod=i|ten=p	3	sub
+
+1	Sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	2	modal
+2	immaginare	immaginare	V	V	mod=f	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	individuo	individuo	S	S	num=s|gen=m	2	obj
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	stranamente	strano	B	B	_	4	mod
+3	sappia	sapere	V	VM	num=s|per=3|mod=c|ten=p	4	modal
+4	diventare	diventare	V	V	mod=f	0	_
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	7	subj
+3	nuovo	nuovo	A	A	num=s|gen=m	2	mod
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	non	non	B	BN	_	6	neg
+6	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+7	paura	paura	S	S	num=s|gen=f	0	ROOT
+
+1	di	di	E	E	_	0	ROOT
+2	vivere	vivere	V	V	mod=f	1	prep
+3	e	e	C	CC	_	2	con
+4	morire	morire	V	V	mod=f	2	conj
+5	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	0	ROOT
+3	che	che	C	CS	_	2	ROOT
+4	fai	fare	V	V	num=s|per=2|mod=i|ten=p	3	sub
+5	ma	ma	C	CC	_	4	con
+6	tu	tu	P	PE	num=s|per=2|gen=n	4	conj
+

@@ -1,0 +1,342 @@
+1	E	e	C	CC	_	2	con
+2	voi	voi	P	PE	num=p|per=2|gen=n	0	ROOT
+3	così	così	B	B	_	4	mod
+4	innocenti	innocente	A	A	num=p|gen=n	2	mod
+
+1	colpevoli	colpevole	S	S	num=p|gen=n	0	ROOT
+2	d'	di	E	E	_	1	arg
+3	esser	essere	V	VA	mod=f	4	aux
+4	nati	nascere	V	V	num=p|mod=p|gen=m	2	prep
+
+1	in	in	E	E	_	7	comp
+2	giro	giro	S	S	num=s|gen=m	1	prep
+3	per	per	E	E	_	7	comp
+4	le	il	R	RD	num=p|gen=f	5	det
+5	strade	strada	S	S	num=p|gen=f	3	prep
+6	gli	il	R	RD	num=p|gen=m	7	det
+7	sguardi	sguardo	S	S	num=p|gen=m	0	ROOT
+8	vuoti	vuoto	A	A	num=p|gen=m	7	mod
+
+1	e	e	C	CC	_	3	con
+2	i	il	R	RD	num=p|gen=m	3	det
+3	gesti	gesto	S	S	num=p|gen=m	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	sguaiati	sguaiato	A	A	num=p|gen=m	3	mod
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	vede	vedere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	da	da	E	E	_	2	comp
+4	lontano	lontano	B	B	_	3	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	siete	essere	V	V	num=p|per=2|mod=i|ten=p	1	sub
+3	privi	privo	A	A	num=p|gen=m	2	pred
+4	di	di	E	E	_	3	comp
+5	ideali	ideale	S	S	num=p|gen=m	4	prep
+
+1	con	con	E	E	_	0	ROOT
+2	quello	quello	D	DD	num=s|gen=m	3	mod
+3	spreco	spreco	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	energia	energia	S	S	num=s|gen=f	4	prep
+
+1	dei	di	E	EA	num=p|gen=m	0	ROOT
+2	giovani	giovane	S	S	num=p|gen=n	1	prep
+3	normali	normale	A	A	num=p|gen=n	2	mod
+
+1	E	e	C	CC	_	2	con
+2	voi	voi	P	PE	num=p|per=2|gen=n	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	pretendete	pretendere	V	V	num=p|per=2|mod=m|ten=p	2	mod_rel
+
+1	che	che	D	DE	num=n|gen=n	5	comp
+2	tutto	tutto	P	PI	num=s|gen=m	5	subj
+3	vi	vi	P	PC	num=p|per=2|gen=n	5	comp_ind
+4	sia	essere	V	VA	num=s|per=3|mod=c|ten=p	5	aux
+5	dovuto	dovere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	con	con	E	E	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	scusa	scusa	S	S	num=s|gen=f	1	prep
+4	infantile	infantile	A	A	num=s|gen=n	3	mod
+
+1	che	che	P	PR	num=n|gen=n	6	obj
+2	nessuno	nessuno	P	PI	num=s|gen=m	6	subj
+3	vi	vi	P	PC	num=p|per=2|gen=n	6	comp_ind
+4	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+5	mai	mai	B	B	_	6	mod_temp
+6	capito	capire	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	Siete	essere	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+2	così	così	B	B	_	1	mod
+3	velleitari	velleitario	A	A	num=p|gen=m	1	pred
+
+1	come	come	E	E	_	3	comp
+2	artisti	artista	S	S	num=p|gen=m	1	prep
+3	improvvisati	improvvisare	V	V	num=p|mod=p|gen=m	0	_
+
+1	con	con	E	E	_	4	comp
+2	quella	quello	D	DD	num=s|gen=f	3	mod
+3	finta	finta	S	S	num=s|gen=f	1	prep
+4	libertà	libertà	S	S	num=n|gen=f	0	ROOT
+
+1	dei	di	E	EA	num=p|gen=m	0	ROOT
+2	giovani	giovane	S	S	num=p|gen=n	1	prep
+3	viziati	viziato	A	A	num=p|gen=m	2	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	vuoto	vuoto	S	S	num=s|gen=m	1	pred
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	vi	vi	P	PC	num=p|per=2|gen=n	3	comp_ind
+3	circonda	circondare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	e	e	C	CC	_	3	con
+5	che	che	C	CS	_	7	subj
+6	vi	vi	P	PC	num=p|per=2|gen=n	7	comp_ind
+7	blocca	bloccare	V	V	num=s|per=3|mod=i|ten=p	3	conj
+
+1	come	come	C	CS	_	0	ROOT
+2	se	se	C	CS	_	1	concat
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	grido	grido	S	S	num=s|gen=m	3	pred
+
+1	in	in	E	E	_	0	ROOT
+2	cerca	cerca	S	S	num=s|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	bocca	bocca	S	S	num=s|gen=f	3	prep
+
+1	Come	come	B	B	_	2	mod
+2	se	se	C	CS	_	0	ROOT
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	grido	grido	S	S	num=s|gen=m	3	pred
+6	in	in	E	E	_	5	comp
+7	cerca	cerca	S	S	num=s|gen=f	6	prep
+8	di	di	E	E	_	7	comp
+9	una	uno	R	RI	num=s|gen=f	10	det
+10	bocca	bocca	S	S	num=s|gen=f	8	prep
+
+1	E	e	C	CC	_	2	con
+2	voi	voi	P	PE	num=p|per=2|gen=n	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	rincorrete	rincorrere	V	V	num=p|per=2|mod=i|ten=p	2	mod_rel
+
+1	decisi	deciso	A	A	num=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	intraprendenti	intraprendente	A	A	num=p|gen=n	1	conj
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	idea	idea	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	carriera	carriera	S	S	num=s|gen=f	3	prep
+6	tipo	tipo	S	S	num=s|gen=m	5	mod
+7	imprenditori	imprenditore	S	S	num=p|gen=m	0	ROOT
+
+1	sempre	sempre	B	B	_	2	mod
+2	più	più	B	B	_	3	mod
+3	rampanti	rampante	A	A	num=p|gen=n	0	_
+
+1	Disponibili	disponibile	A	A	num=p|gen=n	0	ROOT
+2	a	a	E	E	_	1	comp
+3	tutto	tutto	D	DI	num=s|gen=m	2	prep
+
+1	all'	al	E	EA	num=s|gen=n	4	comp
+2	occorrenza	occorrenza	S	S	num=s|gen=f	1	prep
+3	anche	anche	B	B	_	4	mod
+4	disonesti	disonesto	A	A	num=p|gen=m	0	ROOT
+
+1	con	con	E	E	_	0	ROOT
+2	tutta	tutto	T	T	num=s|gen=f	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	meschinità	meschinità	S	S	num=n|gen=f	1	prep
+
+1	dei	di	E	EA	num=p|gen=m	0	ROOT
+2	giovani	giovane	A	A	num=p|gen=n	3	mod
+3	arrivisti	arrivista	S	S	num=p|gen=m	1	prep
+4	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	2	con
+2	voi	voi	P	PE	num=p|per=2|gen=n	0	ROOT
+3	così	così	B	B	_	4	mod
+4	randagi	randagio	A	A	num=p|gen=m	2	mod
+
+1	sempre	sempre	B	B	_	2	mod
+2	sull'	su	E	EA	num=s|gen=n	4	comp
+3	orlo	orlo	S	S	num=s|gen=m	2	prep
+4	del	di	E	EA	num=s|gen=m	0	ROOT
+5	suicidio	suicidio	S	S	num=s|gen=m	4	prep
+
+1	covate	covare	V	V	num=p|mod=p|gen=f	0	ROOT
+2	ben	ben	B	B	_	3	mod
+3	racchiusa	racchiudere	V	V	num=s|mod=p|gen=f	1	mod
+4	dentro	dentro	E	E	_	3	comp
+5	il	il	R	RD	num=s|gen=m	7	det
+6	vostro	vostro	A	AP	num=s|gen=m	7	mod
+7	petto	petto	S	S	num=s|gen=m	4	prep
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	implosione	implosione	S	S	num=s|gen=f	0	ROOT
+3	d'	di	E	E	_	2	comp
+4	odio	odio	S	S	num=s|gen=m	3	prep
+
+1	L'	il	R	RD	num=s|gen=n	3	det
+2	eroico	eroico	A	A	num=s|gen=m	3	mod
+3	vittimismo	vittimismo	S	S	num=s|gen=m	0	ROOT
+
+1	da	da	E	E	_	7	comp
+2	barboni	barbone	S	S	num=p|gen=n	1	prep
+3	finti	finto	A	A	num=p|gen=m	2	mod
+4	e	e	C	CC	_	1	con
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	frustrati	frustrato	A	A	num=p|gen=m	0	ROOT
+
+1	e	e	C	CC	_	0	ROOT
+2	col	con	E	EA	num=s|gen=m	1	ROOT
+3	cervello	cervello	S	S	num=s|gen=m	2	prep
+4	in	in	E	E	_	3	comp
+5	avaria	avaria	S	S	num=s|gen=f	4	prep
+
+1	dei	di	E	EA	num=p|gen=m	0	ROOT
+2	giovani	giovane	S	S	num=p|gen=n	1	prep
+3	scoppiati	scoppiare	V	V	num=p|mod=p|gen=m	2	mod
+4	.	.	F	FS	_	1	punc
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	rabbia	rabbia	S	S	num=s|gen=f	1	pred
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	vi	vi	P	PC	num=p|per=2|gen=n	3	comp_ind
+3	stravolge	stravolgere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	e	e	C	CC	_	3	con
+5	che	che	C	CS	_	7	subj
+6	vi	vi	P	PC	num=p|per=2|gen=n	7	comp_ind
+7	blocca	bloccare	V	V	num=s|per=3|mod=i|ten=p	3	conj
+
+1	come	come	C	CS	_	0	ROOT
+2	se	se	C	CS	_	1	concat
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	grido	grido	S	S	num=s|gen=m	3	pred
+
+1	in	in	E	E	_	0	ROOT
+2	cerca	cerca	S	S	num=s|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	bocca	bocca	S	S	num=s|gen=f	3	prep
+
+1	Come	come	B	B	_	2	mod
+2	se	se	C	CS	_	0	ROOT
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	grido	grido	S	S	num=s|gen=m	3	pred
+6	in	in	E	E	_	5	comp
+7	cerca	cerca	S	S	num=s|gen=f	6	prep
+8	di	di	E	E	_	7	comp
+9	una	uno	R	RI	num=s|gen=f	10	det
+10	bocca	bocca	S	S	num=s|gen=f	8	prep
+11	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	2	con
+2	voi	voi	P	PE	num=p|per=2|gen=n	0	ROOT
+3	così	così	B	B	_	4	mod
+4	innocenti	innocente	A	A	num=p|gen=n	2	mod
+
+1	tutti	tutto	P	PI	num=p|gen=m	0	ROOT
+2	in	in	E	E	_	1	comp
+3	balia	balia	S	S	num=s|gen=f	2	prep
+4	tra	tra	E	E	_	3	comp
+5	il	il	R	RD	num=s|gen=m	6	det
+6	male	male	S	S	num=s|gen=m	4	prep
+7	e	e	C	CC	_	6	con
+8	il	il	R	RD	num=s|gen=m	9	det
+9	bene	bene	S	S	num=s|gen=m	6	conj
+
+1	col	con	E	EA	num=s|gen=m	0	ROOT
+2	rischio	rischio	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	arg
+4	affondare	affondare	V	V	mod=f	3	prep
+
+1	nella	in	E	EA	num=s|gen=f	0	ROOT
+2	totale	totale	A	A	num=s|gen=n	3	mod
+3	degradazione	degradazione	S	S	num=s|gen=f	1	prep
+
+1	Aggrappate-	aggrappare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	vi	vi	P	PC	num=p|per=2|gen=n	1	obj
+3	al	a	E	EA	num=s|gen=m	1	comp
+4	sogno	sogno	S	S	num=s|gen=m	3	prep
+
+1	di	di	E	E	_	7	comp
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	razza	razza	S	S	num=s|gen=f	1	prep
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	potrebbe	potere	V	VM	num=s|per=3|mod=d|ten=p	6	modal
+6	oppor-	opporre	V	V	mod=f	3	mod_rel
+7	si	si	P	PC	num=n|per=3|gen=n	0	_
+
+1	per	per	E	E	_	0	ROOT
+2	costruire	costruire	V	V	mod=f	1	prep
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	realtà	realtà	S	S	num=n|gen=f	2	obj
+
+1	di	di	E	E	_	0	ROOT
+2	giovani	giovane	S	S	num=p|gen=n	1	prep
+3	diversi	diverso	A	A	num=p|gen=m	2	mod
+4	.	.	F	FS	_	1	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	nell'	in	E	EA	num=s|gen=n	2	comp
+4	aria	aria	S	S	num=s|gen=f	3	prep
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	energia	energia	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	6	subj
+4	non	non	B	BN	_	6	neg
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	sblocca	sbloccare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+
+1	come	come	C	CS	_	0	ROOT
+2	se	se	C	CS	_	1	concat
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	grido	grido	S	S	num=s|gen=m	3	pred
+
+1	in	in	E	E	_	0	ROOT
+2	cerca	cerca	S	S	num=s|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	bocca	bocca	S	S	num=s|gen=f	3	prep
+
+1	Come	come	B	B	_	2	mod
+2	se	se	C	CS	_	0	ROOT
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	grido	grido	S	S	num=s|gen=m	3	pred
+
+1	in	in	E	E	_	0	ROOT
+2	cerca	cerca	S	S	num=s|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	bocca	bocca	S	S	num=s|gen=f	3	prep
+6	.	.	F	FS	_	1	punc
+
+1	Come	come	B	B	_	2	mod
+2	se	se	C	CS	_	0	ROOT
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	grido	grido	S	S	num=s|gen=m	3	pred
+6	in	in	E	E	_	5	comp
+7	cerca	cerca	S	S	num=s|gen=f	6	prep
+8	di	di	E	E	_	7	comp
+9	una	uno	R	RI	num=s|gen=f	10	det
+10	bocca	bocca	S	S	num=s|gen=f	8	prep
+11	.	.	F	FS	_	2	punc
+

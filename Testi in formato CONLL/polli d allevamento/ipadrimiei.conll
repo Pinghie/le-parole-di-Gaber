@@ -1,0 +1,223 @@
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	5	subj
+3	miei	mio	A	AP	num=p|gen=m	2	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	padri	padre	S	S	num=p|gen=m	0	ROOT
+6	che	che	P	PR	num=n|gen=n	9	subj
+7	ci	ci	P	PC	num=n|gen=n	9	comp
+8	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	9	aux
+9	avuto	avere	V	V	num=s|mod=p|gen=m	5	mod_rel
+10	io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+
+1	erano	essere	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+2	seri	serio	A	A	num=p|gen=m	1	pred
+3	e	e	C	CC	_	1	con
+4	prudenti	prudente	A	A	num=p|gen=n	1	conj
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	abiti	abito	S	S	num=p|gen=m	0	ROOT
+3	grigi	grigio	A	A	num=p|gen=m	2	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	modi	modo	S	S	num=p|gen=m	2	conj
+6	calmi	calmo	A	A	num=p|gen=m	5	mod
+7	e	e	C	CC	_	2	con
+8	misurati	misurare	V	V	num=p|mod=p|gen=m	2	mod
+
+1	persino	persino	B	B	_	2	mod
+2	nei	in	E	EA	num=p|gen=m	0	ROOT
+3	divertimenti	divertimento	S	S	num=p|gen=m	2	prep
+4	.	.	F	FS	_	2	punc
+
+1	Parlavano	parlare	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+2	con	con	E	E	_	1	comp
+3	le	il	R	RD	num=p|gen=f	4	det
+4	donne	donna	S	S	num=p|gen=f	2	prep
+5	di	di	E	E	_	4	comp
+6	casa	casa	S	S	num=s|gen=f	5	prep
+
+1	con	con	E	E	_	0	ROOT
+2	quell'	quello	D	DD	num=s|gen=n	3	mod
+3	aria	aria	S	S	num=s|gen=f	1	prep
+4	da	da	E	E	_	3	comp
+5	vecchi	vecchio	A	A	num=p|gen=m	6	mod
+6	padroni	padrone	S	S	num=p|gen=m	4	prep
+
+1	quel	quello	D	DD	num=s|gen=m	0	ROOT
+2	tanto	tanto	B	B	_	1	mod
+3	di	di	E	E	_	1	comp
+4	distacco	distacco	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	3	con
+6	di	di	E	E	_	3	conj
+7	superiorità	superiorità	S	S	num=n|gen=f	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	miei	miei	A	A	num=p|gen=m	4	mod
+4	appassionati	appassionati	S	S	num=p|gen=m	2	mod
+5	di	di	E	E	_	4	comp
+6	poesia	poesia	S	S	num=s|gen=f	5	prep
+
+1	nei	in	E	EA	num=p|gen=m	0	ROOT
+2	loro	loro	A	AP	num=n|gen=n	4	mod
+3	antichi	antico	A	A	num=p|gen=m	4	mod
+4	appartamenti	appartamento	S	S	num=p|gen=m	1	prep
+
+1	sotto	sotto	E	E	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	lampade	lampada	S	S	num=p|gen=f	1	prep
+4	di	di	E	E	_	3	comp
+5	vetro	vetro	S	S	num=s|gen=m	4	prep
+6	a	a	E	E	_	1	conj
+7	sospensione	sospensione	S	S	num=s|gen=f	6	prep
+
+1	dietro	dietro	E	E	_	0	ROOT
+2	discreti	discreto	A	A	num=p|gen=m	3	mod
+3	paraventi	paravento	S	S	num=p|gen=m	1	prep
+
+1	Parlavano	parlare	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+2	e	e	C	CC	_	1	con
+3	discutevano	discutere	V	V	num=p|per=3|mod=i|ten=i	1	conj
+
+1	come	come	E	E	_	4	comp
+2	vecchi	vecchio	A	A	num=p|gen=m	1	prep
+3	europei	europeo	A	A	num=p|gen=m	2	mod
+4	ammuffiti	ammuffito	A	A	num=p|gen=m	0	_
+
+1	imprigionati	imprigionare	V	V	num=p|mod=p|gen=m	0	ROOT
+2	dal	da	E	EA	num=s|gen=m	1	comp
+3	glicine	glicine	S	S	num=s|gen=m	2	prep
+4	e	e	C	CC	_	2	con
+5	dalla	da	E	EA	num=s|gen=f	2	conj
+6	stupidità	stupidità	S	S	num=n|gen=f	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	5	subj
+3	miei	mio	A	AP	num=p|gen=m	2	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	padri	padre	S	S	num=p|gen=m	0	ROOT
+6	che	che	P	PR	num=n|gen=n	9	subj
+7	ci	ci	P	PC	num=n|gen=n	9	comp
+8	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	9	aux
+9	avuto	avere	V	V	num=s|mod=p|gen=m	5	mod_rel
+10	io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+
+1	in	in	E	E	_	5	comp_loc
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	Italia	Italia	S	SP	_	1	prep
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	strana	strano	A	A	num=s|gen=f	0	ROOT
+
+1	non	non	B	BN	_	4	neg
+2	han	han	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+3	potuto	potere	V	VM	num=s|mod=p|gen=m	4	modal
+4	fare	fare	V	V	mod=f	0	ROOT
+5	a	a	E	E	_	4	comp
+6	meno	meno	B	B	_	5	prep
+7	di	di	E	E	_	4	arg
+8	sognare	sognare	V	V	mod=f	7	prep
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	Africa	Africa	S	SP	_	0	ROOT
+3	orientale	orientale	A	A	num=s|gen=n	2	mod
+4	italiana	italiano	A	A	num=s|gen=f	2	mod
+5	.	.	F	FS	_	2	punc
+
+1	Nei	in	E	EA	num=p|gen=m	3	comp
+2	padri	padre	S	S	num=p|gen=m	1	prep
+3	miei	mio	P	PP	num=p|gen=m	5	subj
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	un'	uno	R	RI	num=s|gen=f	7	det
+7	aria	aria	S	S	num=s|gen=f	5	subj
+8	che	che	P	PR	num=n|gen=n	9	subj
+9	assomiglia	assomigliare	V	V	num=s|per=3|mod=i|ten=p	7	mod_rel
+
+1	alle	al	E	EA	num=p|gen=f	0	ROOT
+2	foto	foto	S	S	num=n|gen=f	1	prep
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	vecchi	vecchio	A	A	num=p|gen=m	5	mod
+5	bersaglieri	bersagliere	S	S	num=p|gen=m	3	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	mostrano	mostrare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	comp
+4	colori	colore	S	S	num=p|gen=m	3	prep
+5	la	il	R	RD	num=s|gen=f	7	det
+6	loro	loro	A	AP	num=n|gen=n	7	mod
+7	dignità	dignità	S	S	num=n|gen=f	2	obj
+8	.	.	F	FS	_	2	punc
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	5	subj
+3	miei	mio	P	PP	num=p|gen=m	2	mod
+4	non	non	B	BN	_	5	neg
+5	ispiravano	ispirare	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+6	allegria	allegria	S	S	num=s|gen=f	5	obj
+
+1	chiudevano	chiudere	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	porte	porta	S	S	num=p|gen=f	1	obj
+4	a	a	E	E	_	1	comp_ind
+5	tutto	tutto	D	DI	num=s|gen=m	4	prep
+
+1	e	e	C	CC	_	6	con
+2	per	per	E	E	_	6	comp
+3	i	il	R	RD	num=p|gen=m	4	det
+4	giovani	giovane	S	S	num=p|gen=n	2	prep
+5	vivaci	vivace	A	A	num=p|gen=n	4	mod
+6	esuberanti	esuberante	A	A	num=p|gen=n	0	_
+
+1	non	non	B	BN	_	2	neg
+2	avevano	avere	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+3	nessun	nessun	D	DI	num=s|gen=m	4	mod
+4	rispetto	rispetto	S	S	num=s|gen=m	2	obj
+5	.	.	F	FS	_	2	punc
+
+1	Punivano	punire	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+2	e	e	C	CC	_	1	con
+3	perdonavano	perdonare	V	V	num=p|per=3|mod=i|ten=i	1	conj
+
+1	come	come	E	E	_	0	ROOT
+2	vecchi	vecchio	A	A	num=p|gen=m	3	mod
+3	maestri	maestro	A	A	num=p|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	scuola	scuola	S	S	num=s|gen=f	4	prep
+
+1	suggestionati	suggestionare	V	V	num=p|mod=p|gen=m	0	ROOT
+2	dal	da	E	EA	num=s|gen=m	1	comp
+3	cuore	cuore	S	S	num=s|gen=m	2	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	dalla	da	E	EA	num=s|gen=f	1	ROOT
+3	moralità	moralità	S	S	num=n|gen=f	2	prep
+4	.	.	F	FS	_	2	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	avevano	avere	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	5	det
+4	certa	certo	A	A	num=s|gen=f	5	mod
+5	consistenza	consistenza	S	S	num=s|gen=f	2	obj
+
+1	e	e	C	CC	_	2	con
+2	davano	dare	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	idea	idea	S	S	num=s|gen=f	2	obj
+5	di	di	E	E	_	4	comp
+6	persone	persona	S	S	num=p|gen=f	5	prep
+
+1	persone	persona	S	S	num=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	passato	passato	S	S	num=s|gen=m	2	prep
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	se	se	P	PC	num=n|per=3|gen=n	4	clit
+3	ne	ne	P	PC	num=n|gen=n	4	comp
+4	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	da	da	E	E	_	4	comp
+6	se	se	C	CS	_	5	prep
+7	.	.	F	FS	_	4	punc
+

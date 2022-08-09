@@ -1,0 +1,412 @@
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	pred
+5	nuovo	nuovo	A	A	num=s|gen=m	4	mod
+
+1	talmente	talmente	B	B	_	2	mod
+2	nuovo	nuovo	A	A	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	da	da	E	E	_	4	pred
+6	tempo	tempo	S	S	num=s|gen=m	5	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	neanche	neanche	B	B	_	3	mod
+5	più	più	B	B	_	6	mod
+6	fascista	fascista	A	A	num=s|gen=n	3	pred
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	sensibile	sensibile	A	A	num=s|gen=n	1	pred
+3	e	e	C	CC	_	2	con
+4	altruista	altruista	A	A	num=s|gen=n	2	conj
+5	orientalista	orientalista	A	A	num=s|gen=n	2	conj
+
+1	ed	e	C	CC	_	5	con
+2	in	in	E	E	_	5	comp
+3	passato	passato	S	S	num=s|gen=m	2	prep
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	stato	essere	V	V	num=s|mod=p|gen=m	0	ROOT
+6	un	uno	R	RI	num=s|gen=m	5	pred
+7	pò	pò	B	B	_	8	mod
+8	sessantottista	sessantottista	A	A	num=s|gen=m	6	mod
+9	.	.	F	FS	_	5	punc
+
+1	Da	da	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	1	prep
+3	pò	pò	B	B	_	4	mod
+4	di	di	E	E	_	2	comp
+5	tempo	tempo	S	S	num=s|gen=m	4	prep
+6	ambientalista	ambientalista	A	A	num=s|gen=n	5	mod
+
+1	qualche	qualche	D	DI	num=s|gen=n	2	mod
+2	anno	anno	S	S	num=s|gen=m	8	mod_temp
+3	fa	fa	B	B	_	2	mod
+4	nell'	in	E	EA	num=s|gen=n	2	comp
+5	euforia	euforia	S	S	num=s|gen=f	4	prep
+6	mi	mi	P	PC	num=s|per=1|gen=n	8	comp_ind
+7	son	son	V	VA	num=s|per=1|mod=i|ten=p	8	aux
+8	sentito	sentire	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	come	come	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	4	mod
+4	tutti	tutto	P	PI	num=p|gen=m	1	prep
+5	socialista	socialista	A	A	num=s|gen=m	4	mod
+6	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	pred
+5	nuovo	nuovo	A	A	num=s|gen=m	4	mod
+
+1	per	per	E	E	_	4	comp
+2	carità	carità	S	S	num=n|gen=f	1	prep
+3	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+4	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	in	in	E	E	_	4	comp
+6	senso	senso	S	S	num=s|gen=m	5	prep
+7	letterale	letterale	A	A	num=s|gen=n	4	pred
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	progressista	progressista	S	S	num=s|gen=n	1	pred
+
+1	al	a	E	EA	num=s|gen=m	0	ROOT
+2	tempo	tempo	S	S	num=s|gen=m	1	prep
+3	stesso	stesso	A	A	num=s|gen=m	2	mod
+4	liberista	liberista	A	A	num=s|gen=n	2	mod
+5	antirazzista	antirazzista	A	A	num=s|gen=m	2	mod
+
+1	e	e	C	CC	_	2	con
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	5	arg
+3	molto	molto	B	B	_	4	mod
+4	buono	buono	A	A	num=s|gen=m	2	pred
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	animalista	animalista	A	A	num=s|gen=f	5	pred
+7	.	.	F	FS	_	5	punc
+
+1	Non	non	B	BN	_	2	neg
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	assistenzialista	assistenzialista	A	A	num=s|gen=f	2	pred
+
+1	ultimamente	ultimo	B	B	_	2	mod
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	2	pred
+5	controcorrente	controcorrente	B	B	_	2	mod
+
+1	son	son	C	CC	_	2	mod
+2	federalista	federalista	S	S	num=s|gen=n	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	conformista	conformista	S	S	num=s|gen=m	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	uno	uno	P	PI	num=s|gen=m	1	pred
+3	che	che	C	CC	_	1	con
+4	di	di	E	E	_	1	comp
+5	solito	solito	S	S	num=s|gen=m	4	prep
+6	sta	stare	V	V	num=s|per=3|mod=i|ten=p	1	conj
+7	sempre	sempre	B	B	_	6	mod
+8	dalla	da	E	EA	num=s|gen=f	6	comp
+9	parte	parte	S	S	num=s|gen=f	8	prep
+10	giusta	giusta	B	B	_	6	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	conformista	conformista	S	S	num=s|gen=m	0	ROOT
+
+1	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	0	_
+2	tutte	tutto	T	T	num=p|gen=f	4	mod
+3	le	il	R	RD	num=p|gen=f	4	det
+4	risposte	risposta	S	S	num=p|gen=f	1	obj
+5	belle	bello	A	A	num=p|gen=f	4	mod
+6	chiare	chiaro	A	A	num=p|gen=f	4	mod
+7	dentro	dentro	E	E	_	6	comp
+8	la	il	R	RD	num=s|gen=f	10	det
+9	sua	suo	A	AP	num=s|gen=f	10	mod
+10	testa	testa	S	S	num=s|gen=f	7	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	concentrato	concentrato	S	S	num=s|gen=m	1	pred
+4	di	di	E	E	_	3	comp
+5	opinioni	opinione	S	S	num=p|gen=f	4	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	tiene	tenere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sotto	sotto	E	E	_	2	comp
+4	il	il	R	RD	num=s|gen=m	5	det
+5	braccio	braccio	S	S	num=s|gen=m	3	prep
+6	due	due	N	N	_	2	obj
+7	o	o	C	CC	_	2	dis
+8	tre	tre	N	N	_	9	mod
+9	quotidiani	quotidiano	S	S	num=p|gen=m	2	obj
+10	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	10	con
+2	quando	quando	C	CS	_	10	mod
+3	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	voglia	voglia	S	S	num=s|gen=f	7	subj
+5	di	di	E	E	_	4	arg
+6	pensare	pensare	V	V	mod=f	5	prep
+7	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	2	sub
+8	per	per	E	E	_	7	comp
+9	sentito	sentito	A	A	num=s|gen=m	8	prep
+10	dire	dire	V	V	mod=f	0	_
+
+1	forse	forse	B	B	_	2	mod
+2	da	da	E	E	_	4	comp
+3	buon	buon	A	A	num=s|gen=m	2	prep
+4	opportunista	opportunista	S	S	num=s|gen=m	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	adegua	adeguare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	senza	senza	E	E	_	2	comp
+4	far-	fare	V	VM	mod=f	3	prep
+5	ci	ci	P	PC	num=p|per=1|gen=n	4	clit
+6	caso	caso	S	S	num=s|gen=m	4	obj
+
+1	e	e	C	CC	_	2	con
+2	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	nel	in	E	EA	num=s|gen=m	2	comp_loc
+4	suo	suo	A	AP	num=s|gen=m	5	mod
+5	paradiso	paradiso	S	S	num=s|gen=m	3	prep
+6	.	.	F	FS	_	2	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	conformista	conformista	S	S	num=s|gen=m	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+4	a	a	E	E	_	3	comp
+5	tutto	tutto	D	DI	num=s|gen=m	6	mod
+6	tondo	tondo	S	S	num=s|gen=m	4	prep
+7	che	che	C	CS	_	1	subj
+8	si	si	P	PC	num=n|per=3|gen=n	9	clit
+9	muove	muovere	V	V	num=s|per=3|mod=i|ten=p	7	sub
+
+1	senza	senza	E	E	_	4	comp
+2	consistenza	consistenza	S	S	num=s|gen=f	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	conformista	conformista	S	S	num=s|gen=m	0	ROOT
+
+1	s'	si	P	PC	num=n|per=3|gen=n	2	clit
+2	allena	allenare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	arg
+4	scivolare	scivolare	V	V	mod=f	3	prep
+5	dentro	dentro	E	E	_	4	comp
+6	il	il	R	RD	num=s|gen=m	7	det
+7	mare	mare	S	S	num=s|gen=m	5	prep
+8	della	di	E	EA	num=s|gen=f	7	comp
+9	maggioranza	maggioranza	S	S	num=s|gen=f	8	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	animale	animale	S	S	num=s|gen=m	1	pred
+4	assai	assai	B	B	_	5	mod
+5	comune	comune	A	A	num=s|gen=n	3	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	comp
+4	parole	parola	S	S	num=p|gen=f	3	prep
+5	da	da	E	E	_	4	comp
+6	conversazione	conversazione	S	S	num=s|gen=f	5	prep
+7	.	.	F	FS	_	2	punc
+
+1	Di	di	E	E	_	3	comp
+2	notte	notte	S	S	num=s|gen=f	1	prep
+3	sogna	sognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	e	e	C	CC	_	3	con
+5	vengon	vengon	V	V	num=p|per=3|mod=i|ten=p	3	conj
+6	fuori	fuori	B	B	_	8	mod
+7	i	il	R	RD	num=p|gen=m	8	det
+8	sogni	sogno	S	S	num=p|gen=m	5	obj
+9	di	di	E	E	_	8	comp
+10	altri	altro	D	DI	num=p|gen=m	11	mod
+11	sognatori	sognatore	A	A	num=p|gen=m	9	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	giorno	giorno	S	S	num=s|gen=m	3	subj
+3	esplode	esplodere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	6	det
+5	sua	suo	A	AP	num=s|gen=f	6	mod
+6	festa	festa	S	S	num=s|gen=f	3	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	stare	stare	V	V	mod=f	2	pred
+4	in	in	E	E	_	3	comp
+5	pace	pace	S	S	num=s|gen=f	4	prep
+6	con	con	E	E	_	3	comp
+7	il	il	R	RD	num=s|gen=m	8	det
+8	mondo	mondo	S	S	num=s|gen=m	6	prep
+
+1	e	e	C	CC	_	5	con
+2	far-	fare	V	VM	mod=f	5	modal
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	largo	largo	S	S	num=s|gen=m	2	obj
+5	galleggiando	galleggiare	V	V	mod=g	0	ROOT
+6	il	il	R	RD	num=s|gen=m	7	det
+7	conformista	conformista	S	S	num=s|gen=m	5	obj
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	conformista	conformista	S	S	num=s|gen=m	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	pred
+5	nuovo	nuovo	A	A	num=s|gen=m	4	mod
+
+1	e	e	C	CC	_	6	con
+2	con	con	E	E	_	6	comp
+3	le	il	R	RD	num=p|gen=f	4	det
+4	donne	donna	S	S	num=p|gen=f	2	prep
+5	c'	ci	P	PC	num=n|gen=n	6	comp
+6	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	rapporto	rapporto	S	S	num=s|gen=m	6	obj
+9	straordinario	straordinario	A	A	num=s|gen=m	8	mod
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	femminista	femminista	V	V	num=s|mod=p|gen=f	1	pred
+
+1	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	disponibile	disponibile	A	A	num=s|gen=n	1	pred
+3	e	e	C	CC	_	2	con
+4	ottimista	ottimista	A	A	num=s|gen=n	2	conj
+5	europeista	europeista	A	A	num=s|gen=n	2	conj
+6	.	.	F	FS	_	1	punc
+
+1	Non	non	B	BN	_	2	neg
+2	alzo	alzare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	mai	mai	B	B	_	2	mod_temp
+4	la	il	R	RD	num=s|gen=f	5	det
+5	voce	voce	S	S	num=s|gen=f	2	obj
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	arg
+7	pacifista	pacifista	S	S	num=s|gen=n	6	pred
+
+1	ero	essere	V	VA	num=s|per=1|mod=i|ten=i	2	aux
+2	marxista-leninista	marxista-leninista	A	A	num=s|gen=f	0	ROOT
+
+1	e	e	C	CC	_	10	con
+2	dopo	dopo	E	E	_	10	comp_temp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	6	mod
+5	non	non	B	BN	_	6	neg
+6	so	sapere	V	V	num=s|per=1|mod=i|ten=p	2	prep
+7	perché	perché	C	CS	_	10	mod
+8	mi	mi	P	PC	num=s|per=1|gen=n	9	clit
+9	son	son	V	VA	num=s|per=1|mod=i|ten=p	10	aux
+10	trovato	trovare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	cattocomunista	cattocomunista	S	S	num=s|gen=n	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	conformista	conformista	S	S	num=s|gen=m	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	capito	capire	V	V	num=s|mod=p|gen=m	0	ROOT
+4	bene	bene	B	B	_	5	mod
+5	che	che	C	CS	_	3	arg
+6	rimbalza	rimbalzare	V	V	num=s|per=3|mod=i|ten=p	5	sub
+7	meglio	meglio	B	B	_	6	mod
+8	di	di	E	E	_	6	comp
+9	un	uno	R	RI	num=s|gen=m	10	det
+10	pallone	pallone	S	S	num=s|gen=m	8	prep
+11	il	il	R	RD	num=s|gen=m	12	det
+12	conformista	conformista	S	S	num=s|gen=m	6	obj
+
+1	areostato	areostato	V	V	num=s|mod=p|gen=m	0	ROOT
+2	evoluto	evoluto	A	A	num=s|gen=m	1	mod
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	gonfiato	gonfiare	V	V	num=s|mod=p|gen=m	2	mod_rel
+6	dall'	da	E	EA	num=s|gen=n	5	comp
+7	informazione	informazione	S	S	num=s|gen=f	6	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	risultato	risultato	S	S	num=s|gen=m	1	pred
+4	di	di	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	specie	specie	S	S	num=n|gen=f	4	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	vola	volare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	a	a	E	E	_	2	comp
+5	bassa	basso	A	A	num=s|gen=f	6	mod
+6	quota	quota	S	S	num=s|gen=f	4	prep
+7	in	in	E	E	_	6	comp
+8	superficie	superficie	S	S	num=s|gen=f	7	prep
+9	.	.	F	FS	_	2	punc
+
+1	Poi	poi	B	B	_	2	mod
+2	sfiora	sfiorare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	mondo	mondo	S	S	num=s|gen=m	2	obj
+5	con	con	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	dito	dito	S	S	num=s|gen=m	5	prep
+8	e	e	C	CC	_	2	con
+9	si	si	P	PC	num=n|per=3|gen=n	10	clit
+10	sente	sentire	V	V	num=s|per=3|mod=i|ten=p	2	conj
+11	realizzato	realizzare	V	V	num=s|mod=p|gen=m	10	pred
+
+1	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	e	e	C	CC	_	1	con
+3	questo	questo	P	PD	num=s|gen=m	1	conj
+4	già	già	B	B	_	3	mod
+5	gli	gli	P	PC	num=s|per=3|gen=m	6	comp_ind
+6	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	1	conj
+
+1	e	e	C	CC	_	3	con
+2	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	3	modal
+3	dire	dire	V	V	mod=f	0	ROOT
+4	che	che	C	CS	_	3	comp
+5	oramai	oramai	B	B	_	4	sub
+
+1	somiglia	somigliare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	molto	molto	B	B	_	3	mod
+3	a	a	E	E	_	1	comp
+4	tutti	tutto	D	DI	num=p|gen=m	5	mod
+5	noi	noi	P	PE	num=p|per=1|gen=n	3	prep
+6	il	il	R	RD	num=s|gen=m	7	det
+7	conformista	conformista	S	S	num=s|gen=m	1	obj
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	conformista	conformista	S	S	num=s|gen=m	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	pred
+5	nuovo	nuovo	A	A	num=s|gen=m	4	mod
+
+1	talmente	talmente	B	B	_	2	mod
+2	nuovo	nuovo	A	A	num=s|gen=m	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	vede	vedere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+6	a	a	E	E	_	5	comp
+7	prima	primo	N	NO	num=s|gen=f	8	mod
+8	vista	vista	S	S	num=s|gen=f	6	prep
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	nuovo	nuovo	A	A	num=s|gen=m	4	mod
+4	conformista	conformista	S	S	num=s|gen=m	1	pred
+5	.	.	F	FS	_	1	punc
+

@@ -1,0 +1,414 @@
+1	Deve	dovere	V	VM	num=s|per=3|mod=i|ten=p	2	modal
+2	esser-	essere	V	V	mod=f	0	ROOT
+3	ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	accordo	accordo	S	S	num=s|gen=m	2	pred
+
+1	se	se	C	CS	_	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	sta	stare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	a	a	E	E	_	3	comp
+5	cuore	cuore	S	S	num=s|gen=m	4	prep
+6	la	il	R	RD	num=s|gen=f	7	det
+7	salvezza	salvezza	S	S	num=s|gen=f	3	subj
+8	del	di	E	EA	num=s|gen=m	7	comp
+9	paese	paese	S	S	num=s|gen=m	8	prep
+
+1	salviamo	salvare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	‘sto	‘sto	D	DD	num=s|gen=m	3	mod
+3	paese	paese	S	S	num=s|gen=m	1	obj
+4	?	?	F	FS	_	1	punc
+
+1	Eh	eh	I	I	_	0	ROOT
+2	?	?	F	FS	_	1	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	bisogno	bisogno	S	S	num=s|gen=m	2	subj
+4	di	di	E	E	_	3	comp
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	intesa	intesa	S	S	num=s|gen=f	4	prep
+
+1	vogliamo	volere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	tutti	tutto	P	PI	num=p|gen=m	1	obj
+3	insieme	insieme	B	B	_	1	mod
+
+1	metter-	mettere	V	V	mod=f	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	1	obj
+3	a	a	E	E	_	1	arg
+4	pensare	pensare	V	V	mod=f	3	prep
+5	seriamente	serio	B	B	_	4	mod
+6	alla	al	E	EA	num=s|gen=f	4	comp
+7	ripresa	ripresa	S	S	num=s|gen=f	6	prep
+8	?	?	F	FS	_	1	punc
+
+1	Eh	eh	I	I	_	0	ROOT
+2	?	?	F	FS	_	1	punc
+
+1	Economica	economico	A	A	num=s|gen=f	0	ROOT
+2	?	?	F	FS	_	1	punc
+
+1	Sì	sì	B	B	_	0	ROOT
+2	?	?	F	FS	_	1	punc
+
+1	Bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	lavorare	lavorare	V	V	mod=f	1	arg
+3	sul	su	E	EA	num=s|gen=m	2	comp_loc
+4	concreto	concreto	S	S	num=s|gen=m	3	prep
+
+1	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	rimboccar-	rimboccare	V	V	mod=f	1	arg
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	le	il	R	RD	num=p|gen=f	5	det
+5	maniche	manica	S	S	num=p|gen=f	2	obj
+6	per	per	E	E	_	2	arg
+7	incrementare	incrementare	V	V	mod=f	6	prep
+8	la	il	R	RD	num=s|gen=f	9	det
+9	produzio	produzio	S	S	num=s|gen=f	7	obj
+10	¬ne,	¬ne,	F	FF	_	2	con
+11	e	e	C	CC	_	2	con
+12	assicurare	assicurare	V	V	mod=f	2	conj
+13	uno	uno	R	RI	num=s|gen=m	15	det
+14	stabile	stabile	A	A	num=s|gen=n	15	mod
+15	benessere	benessere	S	S	num=s|gen=m	12	obj
+16	sociale	sociale	A	A	num=s|gen=n	15	mod
+17	a	a	E	E	_	16	comp
+18	tutti	tutto	D	DI	num=p|gen=m	19	mod
+19	coloro	coloro	P	PD	num=p|gen=n	17	prep
+20	ai	al	E	EA	num=p|gen=m	12	comp
+21	quali	quale	P	PR	num=p|gen=n	20	prep
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	6	subj
+2	per	per	E	E	_	6	comp
+3	il	il	R	RD	num=s|gen=m	4	det
+4	momento	momento	S	S	num=s|gen=m	2	prep
+5	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	6	aux
+6	chiesto	chiedere	V	V	num=s|mod=p|gen=m	0	ROOT
+7	sacrifici	sacrificio	S	S	num=p|gen=m	6	obj
+
+1	vogliamo	volere	V	VM	num=p|per=1|mod=i|ten=p	2	modal
+2	uscire	uscire	V	V	mod=f	0	ROOT
+3	a	a	E	E	_	2	comp
+4	testa	testa	S	S	num=s|gen=f	3	prep
+5	alta	alto	A	A	num=s|gen=f	4	mod
+6	dalla	da	E	EA	num=s|gen=f	2	comp
+7	crisi	crisi	S	S	num=n|gen=f	6	prep
+8	?	?	F	FS	_	2	punc
+
+1	Eh	eh	I	I	_	0	ROOT
+2	?	?	F	FS	_	1	punc
+
+1	Salviamo	salvare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	‘sto	‘sto	D	DD	num=s|gen=m	3	mod
+3	paese	paese	S	S	num=s|gen=m	1	obj
+4	?	?	F	FS	_	1	punc
+
+1	Sì	sì	B	B	_	0	ROOT
+2	?	?	F	FS	_	1	punc
+
+1	Eliminiamo	eliminare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	disfattismo	disfattismo	S	S	num=s|gen=m	1	obj
+
+1	con	con	E	E	_	0	ROOT
+2	della	di	E	EA	num=s|gen=f	1	prep
+3	gente	gente	S	S	num=s|gen=f	2	prep
+4	che	che	P	PR	num=n|gen=n	3	comp
+5	in	in	E	E	_	4	comp
+6	questa	questo	D	DD	num=s|gen=f	7	mod
+7	confusione	confusione	S	S	num=s|gen=f	5	prep
+
+1	sappia	sapere	V	VM	num=s|per=3|mod=c|ten=p	2	modal
+2	mettere	mettere	V	V	mod=f	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	2	obj
+4	pò	pò	B	B	_	5	mod
+5	d'	di	E	E	_	3	comp
+6	ordine	ordine	S	S	num=s|gen=m	5	prep
+7	,	,	F	FF	_	8	punc
+8	eh	eh	I	I	_	2	mod
+9	?	?	F	FS	_	2	punc
+
+1	Pubblico	pubblico	A	A	num=s|gen=m	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	1	clit
+3	?	?	F	FS	_	1	punc
+
+1	Bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	lo	il	R	RD	num=s|gen=m	4	det
+4	Stato	Stato	S	SP	_	5	subj
+5	sia	essere	V	V	num=s|per=3|mod=c|ten=p	2	sub
+6	più	più	B	B	_	7	mod
+7	forte	forte	A	A	num=s|gen=n	5	pred
+8	organizzando	organizzare	V	V	mod=g	5	mod
+9	anche	anche	B	B	_	11	mod
+10	un	uno	R	RI	num=s|gen=m	11	det
+11	corpo	corpo	S	S	num=s|gen=m	8	obj
+12	adeguato	adeguato	A	A	num=s|gen=m	11	mod
+13	e	e	C	CC	_	2	con
+14	se	se	C	CS	_	2	conj
+15	necessario	necessario	A	A	num=s|gen=m	16	mod
+16	addestrato	addestrare	V	V	num=s|mod=p|gen=m	14	sub
+17	,	,	F	FF	_	19	punc
+18	non	non	B	BN	_	19	neg
+19	come	come	E	E	_	16	comp
+20	proposta	proposta	S	S	num=s|gen=f	19	prep
+21	di	di	E	E	_	20	comp
+22	violenza	violenza	S	S	num=s|gen=f	21	prep
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	per	per	E	E	_	1	comp_temp
+3	quel	quello	D	DD	num=s|gen=m	5	mod
+4	nobile	nobile	A	A	num=s|gen=n	5	mod
+5	realismo	realismo	S	S	num=s|gen=m	2	prep
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	cui	cui	D	DR	num=n|gen=n	3	mod
+3	area	area	S	S	num=s|gen=f	6	subj
+4	si	si	P	PC	num=n|per=3|gen=n	6	clit
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	allargata	allargare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	3	modal
+3	negare	negare	V	V	mod=f	0	ROOT
+4	a	a	E	E	_	3	comp_loc
+5	certe	certo	D	DI	num=p|gen=f	6	mod
+6	zone	zona	S	S	num=p|gen=f	4	prep
+7	di	di	E	E	_	6	comp
+8	sinistra	sinistra	S	S	num=s|gen=f	7	prep
+9	eh	eh	I	I	_	3	mod
+10	?	?	F	FS	_	3	punc
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	buona	buono	A	A	num=s|gen=f	3	mod
+3	volontà	volontà	S	S	num=n|gen=f	0	ROOT
+4	siii	siii	A	A	num=p|gen=m	3	mod
+5	?	?	F	FS	_	3	punc
+
+1	In	in	E	E	_	0	ROOT
+2	questo	questo	D	DD	num=s|gen=m	3	mod
+3	clima	clima	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	distensione	distensione	S	S	num=s|gen=f	4	prep
+
+1	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	3	modal
+2	finalmente	finalmente	B	B	_	3	mod
+3	accordare	accordare	V	V	mod=f	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	fiducia	fiducia	S	S	num=s|gen=f	3	obj
+
+1	a	a	E	E	_	0	ROOT
+2	tutte	tutto	T	T	num=p|gen=f	4	mod
+3	le	il	R	RD	num=p|gen=f	4	det
+4	forze	forza	S	S	num=p|gen=f	1	prep
+5	,	,	F	FF	_	1	punc
+6	eh	eh	I	I	_	1	conj
+7	?	?	F	FS	_	6	punc
+
+1	Democratiche	democratico	A	A	num=p|gen=f	0	ROOT
+2	sìi	sìi	B	B	_	1	mod
+
+1	Bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	far	fare	V	V	mod=f	1	arg
+3	proposte	proposta	S	S	num=p|gen=f	2	obj
+4	in	in	E	E	_	3	comp
+5	positivo	positivo	S	S	num=s|gen=m	4	prep
+6	senza	senza	E	E	_	2	arg
+7	calcare	calcare	V	V	mod=f	6	prep
+8	la	il	R	RD	num=s|gen=f	9	det
+9	mano	mano	S	S	num=s|gen=f	7	obj
+10	sulle	su	E	EA	num=p|gen=f	7	comp_loc
+11	possibili	possibile	A	A	num=p|gen=n	12	mod
+12	carenze	carenza	S	S	num=p|gen=f	10	prep
+13	.	.	F	FS	_	1	punc
+
+1	Lasciamo	lasciare	V	V	num=p|per=1|mod=i|ten=p	24	ROOT
+2	perdere	perdere	V	V	mod=f	1	arg
+3	il	il	R	RD	num=s|gen=m	4	det
+4	pessimismo	pessimismo	S	S	num=s|gen=m	2	obj
+5	,	,	F	FF	_	1	con
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	insofferenza	insofferenza	S	S	num=s|gen=f	24	ROOT
+8	generale	generale	A	A	num=s|gen=n	7	mod
+9	dei	di	E	EA	num=p|gen=m	7	comp
+10	giovani	giovane	S	S	num=p|gen=n	9	prep
+11	,	,	F	FF	_	13	punc
+12	i	il	R	RD	num=p|gen=m	13	det
+13	posti	posto	S	S	num=p|gen=m	7	mod
+14	di	di	E	E	_	13	comp
+15	lavoro	lavoro	S	S	num=s|gen=m	14	prep
+16	,	,	F	FF	_	13	con
+17	l'	il	R	RD	num=s|gen=n	18	det
+18	instabilità	instabilità	S	S	num=n|gen=f	7	mod
+19	,	,	F	FF	_	18	con
+20	gente	gente	S	S	num=s|gen=f	18	conj
+21	che	che	P	PR	num=n|gen=n	20	comp
+22	non	non	B	BN	_	24	neg
+23	ne	ne	P	PC	num=n|gen=n	24	comp
+24	può	potere	V	VM	num=s|per=3|mod=i|ten=p	0	ROOT
+25	più	più	B	B	_	24	mod
+26	,	,	F	FF	_	25	punc
+27	la	il	R	RD	num=s|gen=f	28	det
+28	rabbia	rabbia	S	S	num=s|gen=f	24	subj
+29	,	,	F	FF	_	28	con
+30	la	il	R	RD	num=s|gen=f	31	det
+31	droga	droga	S	S	num=s|gen=f	28	conj
+32	,	,	F	FF	_	28	con
+33	l'	il	R	RD	num=s|gen=n	34	det
+34	incazzatura	incazzatura	S	S	num=s|gen=f	28	conj
+35	,	,	F	FF	_	28	con
+36	lo	il	R	RD	num=s|gen=m	37	det
+37	spappolamento	spappolamento	S	S	num=s|gen=m	28	conj
+38	,	,	F	FF	_	28	con
+39	il	il	R	RD	num=s|gen=m	40	det
+40	bisogno	bisogno	S	S	num=s|gen=m	28	conj
+41	di	di	E	E	_	40	arg
+42	sovverti	sovvertire	V	V	num=s|per=2|mod=i|ten=p	41	prep
+43	¬re,	¬re,	F	FB	_	28	punc
+44	il	il	R	RD	num=s|gen=m	45	det
+45	rifiuto	rifiuto	S	S	num=s|gen=m	28	conj
+46	,	,	F	FF	_	28	con
+47	la	il	R	RD	num=s|gen=f	48	det
+48	disperazione	disperazione	S	S	num=s|gen=f	28	conj
+49	.	.	F	FS	_	21	punc
+
+1	Cerchiamo	cercare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	di	di	E	E	_	1	arg
+3	essere	essere	V	V	mod=f	2	prep
+4	realisti	realista	S	S	num=p|gen=m	3	pred
+5	.	.	F	FS	_	1	punc
+
+1	Non	non	B	BN	_	2	neg
+2	lasciamo-	lasciare	V	V	num=p|per=1|mod=m|ten=p	0	ROOT
+3	ci	ci	P	PC	num=p|per=1|gen=n	2	obj
+4	trarre	trarre	V	V	mod=f	2	arg
+5	in	in	E	E	_	4	comp
+6	inganno	inganno	S	S	num=s|gen=m	5	prep
+7	............	............	V	V	num=s|per=1|mod=i|ten=p	4	arg
+8	dalla	da	E	EA	num=s|gen=f	7	comp
+9	realtà	realtà	S	S	num=n|gen=f	8	prep
+10	.	.	F	FS	_	2	punc
+
+1	Italia	Italia	S	SP	_	0	ROOT
+
+1	depressa	depresso	A	A	num=s|gen=f	0	ROOT
+2	ma	ma	C	CC	_	1	con
+3	bella	bello	A	A	num=s|gen=f	1	conj
+4	d'	di	E	E	_	3	comp
+5	aspetto	aspetto	S	S	num=s|gen=m	4	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	bel	bello	A	A	num=s|gen=m	4	mod
+4	paesotto	paesotto	S	S	num=s|gen=m	1	pred
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	tenta	tentare	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+7	di	di	E	E	_	6	arg
+8	essere	essere	V	V	mod=f	7	prep
+9	tutto	tutto	P	PI	num=s|gen=m	8	pred
+
+1	con	con	E	E	_	4	comp
+2	dentro	dentro	B	B	_	1	prep
+3	tanti	tanto	D	DI	num=p|gen=m	4	mod
+4	modelli	modello	S	S	num=p|gen=m	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	mischia	mischiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	confonde	confondere	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	e	e	C	CC	_	2	con
+5	concilia	conciliare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+
+1	riesce	riuscire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	a	a	E	E	_	1	arg
+3	non	non	B	BN	_	4	neg
+4	essere	essere	V	V	mod=f	2	prep
+5	niente	niente	B	B	_	4	mod
+6	.	.	F	FS	_	1	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	Italia	Italia	S	SP	_	0	ROOT
+
+1	negli	in	E	EA	num=p|gen=m	3	comp
+2	anni	anno	S	S	num=p|gen=m	1	prep
+3	sessanta	sessanta	N	N	_	4	subj
+4	fioriva	fiorire	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	gente	gente	S	S	num=s|gen=f	3	subj
+3	rideva	ridere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	e	e	C	CC	_	3	con
+5	comprava	comprare	V	V	num=s|per=3|mod=i|ten=i	3	conj
+6	la	il	R	RD	num=s|gen=f	7	det
+7	macchina	macchina	S	S	num=s|gen=f	5	subj
+8	nuova	nuovo	A	A	num=s|gen=f	7	mod
+
+1	ma	ma	C	CC	_	7	con
+2	proprio	proprio	B	B	_	3	mod
+3	in	in	E	E	_	7	comp
+4	questi	questo	D	DD	num=p|gen=m	5	mod
+5	momenti	momento	S	S	num=p|gen=m	3	prep
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	insinua	insinuare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	uno	uno	R	RI	num=s|gen=m	10	det
+9	strano	strano	A	A	num=s|gen=m	10	mod
+10	rifiuto	rifiuto	S	S	num=s|gen=m	7	obj
+
+1	e	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	contesta	contestare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	lo	il	R	RD	num=s|gen=m	5	det
+5	Stato	Stato	S	SP	_	3	subj
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	Italia	Italia	S	SP	_	3	subj
+3	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	ridare	ridare	V	V	mod=f	3	arg
+5	all'	al	E	EA	num=s|gen=n	4	comp
+6	Italia	Italia	S	SP	_	5	prep
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	folle	folle	A	A	num=s|gen=n	3	mod
+3	allegria	allegria	S	S	num=s|gen=f	0	ROOT
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	benessere	benessere	S	S	num=s|gen=m	4	prep
+6	sano	sano	A	A	num=s|gen=m	5	mod
+7	di	di	E	E	_	5	comp
+8	ieri	ieri	B	B	_	7	prep
+
+1	senza	senza	E	E	_	4	comp
+2	disordini	disordine	S	S	num=p|gen=m	1	prep
+3	né	né	C	CC	_	1	con
+4	guerriglieri	guerrigliero	S	S	num=p|gen=m	0	ROOT
+
+1	Salviamo	salvare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	‘sto	‘sto	D	DD	num=s|gen=m	3	mod
+3	paese	paese	S	S	num=s|gen=m	1	obj
+
+1	salviamo	salvare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	‘sto	‘sto	D	DD	num=s|gen=m	3	mod
+3	paese	paese	S	S	num=s|gen=m	1	obj
+
+1	per	per	E	E	_	0	ROOT
+2	essere	essere	V	V	mod=f	1	prep
+3	felici	felice	A	A	num=p|gen=n	2	pred
+4	e	e	C	CC	_	3	con
+5	spensierati	spensierato	A	A	num=p|gen=m	3	conj
+6	come	come	B	B	_	7	mod
+7	nel	in	E	EA	num=s|gen=m	2	comp
+8	sessa	sessa	S	S	num=s|gen=f	7	prep
+
+1	come	come	B	B	_	0	ROOT
+2	nel	in	E	EA	num=s|gen=m	1	ROOT
+3	sessa	sessa	S	S	num=s|gen=f	2	prep
+4	come	come	B	B	_	3	mod
+5	nel	in	E	EA	num=s|gen=m	4	concat
+6	sessa	sessa	S	S	num=s|gen=f	4	prep
+7	come	come	B	B	_	6	mod
+8	nel	in	E	EA	num=s|gen=m	7	concat
+9	sessa	sessa	S	S	num=s|gen=f	6	mod
+
+1	come	come	B	B	_	0	ROOT
+2	nel	in	E	EA	num=s|gen=m	1	comp_temp
+3	sessantadue	sessantadue	N	N	_	2	prep
+4	.	.	F	FS	_	1	punc
+

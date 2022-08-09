@@ -1,0 +1,429 @@
+1	Ricordo	ricordare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	,	,	F	FF	_	1	con
+3	che	che	D	DE	num=n|gen=n	1	conj
+4	tanti	tanto	D	DI	num=p|gen=m	6	mod
+5	tanti	tanto	D	DI	num=p|gen=m	6	mod
+6	anni	anno	S	S	num=p|gen=m	3	prep
+7	fa	fa	B	B	_	6	mod
+8	,	,	F	FF	_	6	punc
+9	io	io	P	PE	num=s|per=1|gen=n	10	subj
+10	dicevo	dire	V	V	num=s|per=1|mod=i|ten=i	1	conj
+11	:	:	F	FC	_	1	punc
+12	"	"	F	FB	_	13	punc
+13	Sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+14	un	uno	R	RI	num=s|gen=m	15	det
+15	uomo	uomo	S	S	num=s|gen=m	13	pred
+16	felice	felice	A	A	num=s|gen=n	15	mod
+17	.	.	F	FS	_	13	punc
+
+1	Forse	forse	B	B	_	3	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	felicità	felicità	S	S	num=n|gen=f	5	subj
+4	non	non	B	BN	_	5	neg
+5	esiste	esistere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	.	.	F	FS	_	5	punc
+
+1	Diciamo	dire	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	pred
+6	sereno	sereno	A	A	num=s|gen=m	5	mod
+7	:	:	F	FC	_	1	punc
+8	mi	mi	P	PC	num=s|per=1|gen=n	9	obj
+9	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	veramente	vero	B	B	_	9	mod
+11	così	così	B	B	_	12	mod
+12	poco	poco	B	B	_	9	mod
+13	!	!	F	FS	_	9	punc
+
+1	Pensate	pensare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	io	io	P	PE	num=s|per=1|gen=n	5	subj
+4	non	non	B	BN	_	5	neg
+5	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+6	niente	niente	B	B	_	5	mod
+7	!	!	F	FS	_	5	punc
+8	"	"	F	FB	_	0	punc
+
+1	-	-	F	FC	_	4	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+3	non	non	B	BN	_	4	neg
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	niente	niente	B	B	_	4	mod
+
+1	-	-	F	FC	_	4	punc
+2	io	io	P	PE	num=s|per=1|gen=n	4	subj
+3	non	non	B	BN	_	4	neg
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	niente	niente	B	B	_	4	mod
+
+1	-	-	F	FC	_	4	punc
+2	io	io	P	PE	num=s|per=1|gen=n	4	subj
+3	non	non	B	BN	_	4	neg
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	niente	niente	B	B	_	4	mod
+
+1	-	-	F	FC	_	3	punc
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pelo	pelo	S	S	num=s|gen=m	3	obj
+6	!	!	F	FS	_	3	punc
+
+1	Eh	eh	I	I	_	5	mod
+2	già	già	B	B	_	5	mod
+3	,	,	F	FF	_	2	punc
+4	lui	lui	P	PE	num=s|per=3|gen=m	5	subj
+5	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pelo	pelo	S	S	num=s|gen=m	5	obj
+8	.	.	F	FS	_	5	punc
+
+1	Chissà	chissà	B	B	_	5	mod
+2	cosa	cosa	P	PQ	num=s|gen=n	5	subj
+3	se	se	P	PC	num=n|per=3|gen=n	5	clit
+4	ne	ne	P	PC	num=n|gen=n	5	comp
+5	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	poi	poi	B	B	_	5	mod
+7	di	di	E	E	_	5	comp
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	pelo	pelo	S	S	num=s|gen=m	7	prep
+10	.	.	F	FS	_	5	punc
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pelo	pelo	S	S	num=s|gen=m	2	obj
+5	....	....	C	CC	_	4	con
+6	e	e	C	CC	_	2	con
+7	io	io	P	PE	num=s|per=1|gen=n	9	subj
+8	non	non	B	BN	_	9	neg
+9	ho	avere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+10	niente	niente	B	B	_	9	obj
+11	.	.	F	FS	_	2	punc
+
+1	Devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	ammettere	ammettere	V	V	mod=f	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pelo	pelo	S	S	num=s|gen=m	7	subj
+6	,	,	F	FF	_	5	punc
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	pelo	pelo	S	S	num=s|gen=m	7	pred
+10	,	,	F	FF	_	2	con
+11	ce	ce	P	PC	num=p|per=1|gen=n	2	conj
+12	chi	chi	P	PR	num=n|gen=n	11	mod
+13	ce	ce	P	PC	num=p|per=1|gen=n	15	obj
+14	l'	lo	P	PC	num=s|per=3|gen=n	15	obj
+15	ha	avere	V	V	num=s|per=3|mod=i|ten=p	12	mod_rel
+16	e	e	C	CC	_	15	con
+17	chi	chi	P	PR	num=n|gen=n	15	conj
+18	non	non	B	BN	_	21	neg
+19	ce	ce	P	PC	num=p|per=1|gen=n	21	comp_ind
+20	l'	lo	P	PC	num=s|per=3|gen=n	21	obj
+21	ha	avere	V	V	num=s|per=3|mod=i|ten=p	17	mod_rel
+22	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	8	subj
+2	per	per	E	E	_	8	comp
+3	eempio	eempio	S	SW	num=n|gen=n	2	prep
+4	,	,	F	FF	_	2	punc
+5	non	non	B	BN	_	8	neg
+6	ce	ce	P	PC	num=p|per=1|gen=n	8	clit
+7	l'	lo	P	PC	num=s|per=3|gen=n	8	obj
+8	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+9	,	,	F	FF	_	19	punc
+10	che	che	P	PR	num=n|gen=n	19	subj
+11	a	a	E	E	_	19	mod
+12	pensar-	pensare	V	V	mod=f	11	prep
+13	ci	ci	P	PC	num=p|per=1|gen=n	12	clit
+14	bene	bene	B	B	_	12	mod
+15	,	,	F	FF	_	11	punc
+16	un	uno	R	RI	num=s|gen=m	17	det
+17	pelo	pelo	S	S	num=s|gen=m	19	subj
+18	mi	mi	P	PC	num=s|per=1|gen=n	19	comp_ind
+19	sarebbe	essere	V	V	num=s|per=3|mod=d|ten=p	8	conj
+20	anche	anche	B	B	_	21	mod
+21	utile	utile	A	A	num=s|gen=n	19	pred
+22	.	.	F	FS	_	8	punc
+
+1	Bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	_
+2	che	che	D	DQ	num=n|gen=n	1	comp
+3	me	me	P	PE	num=s|per=1|gen=n	2	prep
+4	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+5	procuri	procurare	V	V	num=s|per=3|mod=c|ten=p	1	arg
+6	....	....	C	CC	_	1	con
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	3	modal
+3	avere	avere	V	V	mod=f	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pelo	pelo	S	S	num=s|gen=m	3	obj
+6	!	!	F	FS	_	3	punc
+
+1	Iaaaahhhh	Iaaaahhhh	S	SP	_	0	ROOT
+2	!	!	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pelo	pelo	S	S	num=s|gen=m	2	obj
+5	.	.	F	FS	_	2	punc
+
+1	-	-	F	FC	_	3	punc
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pelo	pelo	S	S	num=s|gen=m	3	obj
+
+1	-	-	F	FC	_	3	punc
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pelo	pelo	S	S	num=s|gen=m	3	obj
+
+1	-	-	F	FC	_	3	punc
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pelo	pelo	S	S	num=s|gen=m	3	obj
+
+1	-	-	F	FC	_	3	punc
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dieci	dieci	N	N	_	5	mod
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+6	!	!	F	FS	_	3	punc
+
+1	Beato	beato	S	S	num=s|gen=m	0	ROOT
+2	lui	lui	P	PE	num=s|per=3|gen=m	1	mod
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	ha	avere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	dieci	dieci	N	N	_	6	mod
+6	peli	pelo	S	S	num=p|gen=m	4	obj
+7	,	,	F	FF	_	1	punc
+8	no	no	B	BN	_	9	neg
+9	per	per	E	E	_	0	ROOT
+10	carità	carità	S	S	num=n|gen=f	9	prep
+11	,	,	F	FF	_	9	punc
+12	io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+13	non	non	B	BN	_	14	neg
+14	mi	mi	P	PC	num=s|per=1|gen=n	12	ROOT
+15	lamento	lamento	S	S	num=s|gen=m	14	mod
+16	.	.	F	FS	_	14	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	7	subj
+2	il	il	R	RD	num=s|gen=m	4	det
+3	mio	mio	A	AP	num=s|gen=m	4	mod
+4	pelo	pelo	S	S	num=s|gen=m	7	obj
+5	ce	ce	P	PC	num=p|per=1|gen=n	7	comp_ind
+6	l'	lo	P	PC	num=s|per=3|gen=n	7	obj
+7	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+8	!	!	F	FS	_	7	punc
+
+1	Certo	certo	B	B	_	0	ROOT
+2	che	che	C	CS	_	1	comp
+3	uno	uno	P	PI	num=s|gen=m	2	sub
+4	che	che	C	CS	_	3	mod
+5	ha	avere	V	V	num=s|per=3|mod=i|ten=p	4	sub
+6	dieci	dieci	N	N	_	7	mod
+7	peli	pelo	S	S	num=p|gen=m	5	obj
+8	....	....	C	CS	_	5	mod
+9	é	é	V	V	num=s|per=3|mod=i|ten=p	8	sub
+10	già	già	B	B	_	11	mod
+11	in	in	E	E	_	9	comp
+12	un'	uno	R	RI	num=s|gen=f	14	det
+13	altra	altro	A	A	num=s|gen=f	14	mod
+14	posizione	posizione	S	S	num=s|gen=f	11	prep
+15	eh	eh	I	I	_	14	mod
+16	.	.	F	FS	_	1	punc
+
+1	Uno	uno	P	PI	num=s|gen=m	7	subj
+2	con	con	E	E	_	1	comp
+3	dieci	dieci	N	N	_	4	mod
+4	peli	pelo	S	S	num=p|gen=m	2	prep
+5	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+6	praticamente	pratico	B	B	_	7	mod
+7	risolto	risolvere	V	V	num=s|mod=p|gen=m	0	ROOT
+8	.	.	F	FS	_	7	punc
+
+1	Dieci	dieci	N	N	_	2	mod
+2	peli	pelo	S	S	num=p|gen=m	0	ROOT
+3	....	....	C	CS	_	2	mod
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	3	sub
+5	già	già	B	B	_	4	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	peluria	peluria	S	S	num=s|gen=f	4	pred
+8	!	!	F	FS	_	2	punc
+
+1	Bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	me	me	P	PE	num=s|per=1|gen=n	5	subj
+4	li	li	P	PC	num=p|per=3|gen=m	5	obj
+5	procuri	procurare	V	V	num=s|per=3|mod=c|ten=p	2	sub
+6	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	3	modal
+3	avere	avere	V	V	mod=f	0	ROOT
+4	dieci	dieci	N	N	_	5	mod
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+6	!	!	F	FS	_	3	punc
+
+1	Iaaaahhhh	Iaaaahhhh	S	SP	_	0	ROOT
+2	!	!	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	dieci	dieci	N	N	_	4	mod
+4	peli	pelo	S	S	num=p|gen=m	2	obj
+
+1	-	-	F	FC	_	3	punc
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dieci	dieci	N	N	_	3	obj
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+
+1	-	-	F	FC	_	3	punc
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dieci	dieci	N	N	_	3	obj
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+
+1	-	-	F	FC	_	3	punc
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dieci	dieci	N	N	_	3	obj
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+
+1	-	-	F	FC	_	3	punc
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	cento	cento	N	N	_	3	obj
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+
+1	Maledizione	maledizione	S	S	num=s|gen=f	0	ROOT
+2	!	!	F	FS	_	1	punc
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	cento	cento	N	N	_	4	mod
+4	peli	pelo	S	S	num=p|gen=m	2	obj
+5	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	3	con
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	stanco	stanco	A	A	num=s|gen=m	3	pred
+5	,	,	F	FF	_	3	con
+6	distrutto	distruggere	V	V	num=s|mod=p|gen=m	3	conj
+7	,	,	F	FF	_	3	con
+8	non	non	B	BN	_	11	neg
+9	ce	ce	P	PC	num=p|per=1|gen=n	11	comp_ind
+10	la	la	P	PC	num=s|per=3|gen=f	11	obj
+11	faccio	fare	V	V	num=s|per=1|mod=i|ten=p	3	conj
+12	più	più	B	B	_	11	mod
+13	.	.	F	FS	_	3	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	resta	restare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	fatto	fatto	S	S	num=s|gen=m	2	subj
+5	che	che	C	CS	_	2	mod
+6	lui	lui	P	PE	num=s|per=3|gen=m	7	subj
+7	ha	avere	V	V	num=s|per=3|mod=i|ten=p	5	sub
+8	cento	cento	N	N	_	9	mod
+9	peli	pelo	S	S	num=p|gen=m	7	obj
+10	e	e	C	CC	_	7	con
+11	io	io	P	PE	num=s|per=1|gen=n	13	subj
+12	ne	ne	P	PC	num=n|gen=n	13	comp
+13	ho	avere	V	V	num=s|per=1|mod=i|ten=p	7	conj
+14	dieci	dieci	N	N	_	13	obj
+15	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	13	con
+2	dieci	dieci	N	N	_	3	mod
+3	peli	pelo	S	S	num=p|gen=m	13	subj
+4	oggi	oggi	B	B	_	9	mod_loc
+5	cosa	cosa	P	PQ	num=s|gen=n	9	subj
+6	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	9	aux
+7	....	....	B	B	_	9	mod
+8	non	non	B	BN	_	9	neg
+9	sono	essere	V	V	num=p|per=3|mod=i|ten=p	13	aux
+10	più	più	B	B	_	9	mod
+11	niente	niente	B	B	_	12	mod
+12	....	....	B	B	_	13	mod
+13	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+14	una	uno	R	RI	num=s|gen=f	15	det
+15	miseria	miseria	S	S	num=s|gen=f	13	pred
+16	....	....	F	FS	_	13	punc
+
+1	-	-	F	FC	_	3	punc
+2	noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+3	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	cento	cento	N	N	_	5	mod
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+6	-	-	F	FC	_	3	punc
+7	noi	noi	P	PE	num=p|per=1|gen=n	8	subj
+8	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	3	conj
+9	mille	mille	N	N	_	10	mod
+10	peli	pelo	S	S	num=p|gen=m	8	obj
+11	-	-	F	FC	_	13	punc
+12	noi	noi	P	PE	num=p|per=1|gen=n	13	subj
+13	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	3	conj
+14	centomila	centomila	N	N	_	15	mod
+15	peli	pelo	S	S	num=p|gen=m	13	obj
+16	-	-	F	FC	_	18	punc
+17	noi	noi	P	PE	num=p|per=1|gen=n	18	subj
+18	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	3	conj
+19	un	uno	R	RI	num=s|gen=m	20	det
+20	milione	milione	S	S	num=s|gen=m	18	obj
+21	di	di	E	E	_	20	comp
+22	peli	pelo	S	S	num=p|gen=m	21	prep
+
+1	Devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	far-	fare	V	V	mod=f	0	ROOT
+3	ce-	ce	P	PC	num=p|per=1|gen=n	7	comp_ind
+4	la	la	P	PC	num=s|per=3|gen=f	7	obj
+5	,	,	F	FF	_	4	punc
+6	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	7	modal
+7	reagire	reagire	V	V	mod=f	2	arg
+8	.	.	F	FS	_	2	punc
+
+1	Anch'	anche	B	B	_	2	mod
+2	io	io	P	PE	num=s|per=1|gen=n	4	subj
+3	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	4	modal
+4	avere	avere	V	V	mod=f	0	ROOT
+5	tanti	tanto	D	DI	num=p|gen=m	6	mod
+6	peli	pelo	S	S	num=p|gen=m	4	obj
+7	.	.	F	FS	_	4	punc
+
+1	Per	per	E	E	_	0	ROOT
+2	me	me	P	PE	num=s|per=1|gen=n	1	prep
+3	,	,	F	FF	_	4	punc
+4	per	per	E	E	_	1	comp
+5	i	il	R	RD	num=p|gen=m	7	det
+6	miei	mio	A	AP	num=p|gen=m	7	mod
+7	figli	figlio	S	S	num=p|gen=m	4	prep
+8	.	.	F	FS	_	1	punc
+
+1	Anch'	anche	B	B	_	2	mod
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	avrò	avere	V	V	num=s|per=1|mod=i|ten=f	0	ROOT
+4	tanti	tanto	D	DI	num=p|gen=m	5	mod
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+6	,	,	F	FF	_	3	con
+7	anch'	anche	B	B	_	8	mod
+8	io	io	P	PE	num=s|per=1|gen=n	3	conj
+9	!	!	F	FS	_	3	punc
+
+1	Anch'	anche	B	B	_	2	mod
+2	io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+3	!	!	F	FS	_	2	punc
+
+1	Anch'	anche	B	B	_	2	mod
+2	io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+3	!	!	F	FS	_	2	punc
+

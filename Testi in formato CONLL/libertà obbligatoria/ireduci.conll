@@ -1,0 +1,369 @@
+1	E	e	C	CC	_	4	con
+2	allora	allora	B	B	_	4	mod
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	venuta	venire	V	V	num=s|mod=p|gen=f	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	voglia	voglia	S	S	num=s|gen=f	4	subj
+7	di	di	E	E	_	6	arg
+8	rompere	rompere	V	V	mod=f	7	prep
+9	tutto	tutto	D	DI	num=s|gen=m	0	ROOT
+
+1	le	il	R	RD	num=p|gen=f	3	det
+2	nostre	nostro	A	AP	num=p|gen=f	3	mod
+3	famiglie	famiglia	S	S	num=p|gen=f	0	ROOT
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	armadi	armadio	S	S	num=p|gen=m	3	mod
+6	le	il	R	RD	num=p|gen=f	7	det
+7	chiese	chiesa	S	S	num=p|gen=f	3	conj
+8	i	il	R	RD	num=p|gen=m	9	det
+9	notai	notaio	S	S	num=p|gen=m	7	mod
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	banchi	banco	S	S	num=p|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	scuola	scuola	S	S	num=s|gen=f	3	prep
+5	i	il	R	RD	num=p|gen=m	6	det
+6	parenti	parente	S	S	num=p|gen=n	2	conj
+7	le	il	R	RD	num=p|gen=f	8	det
+8	centoventotto	centoventotto	S	S	num=p|gen=n	6	mod
+
+1	trasformare	trasformare	V	V	mod=f	0	ROOT
+2	in	in	E	E	_	1	comp
+3	coraggio	coraggio	S	S	num=s|gen=m	2	prep
+4	la	il	R	RD	num=s|gen=f	5	det
+5	rabbia	rabbia	S	S	num=s|gen=f	1	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	dentro	dentro	B	B	_	2	mod
+4	di	di	E	E	_	2	comp
+5	noi	noi	P	PE	num=p|per=1|gen=n	4	prep
+
+1	E	e	C	CC	_	2	con
+2	tutto	tutto	P	PI	num=s|gen=m	4	obj
+3	che	che	C	CS	_	4	subj
+4	saltava	saltare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+5	in	in	E	E	_	4	comp
+6	aria	aria	S	S	num=s|gen=f	5	prep
+
+1	e	e	C	CC	_	3	con
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	senso	senso	S	S	num=s|gen=m	3	subj
+6	di	di	E	E	_	5	comp
+7	vittoria	vittoria	S	S	num=s|gen=f	6	prep
+
+1	come	come	C	CS	_	2	mod
+2	se	se	C	CS	_	0	_
+3	tenesse	tenere	V	V	num=s|per=3|mod=c|ten=i	2	sub
+4	conto	conto	S	S	num=s|gen=m	3	obj
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	coraggio	coraggio	S	S	num=s|gen=m	5	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	storia	storia	S	S	num=s|gen=f	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	4	con
+2	allora	allora	B	B	_	4	mod
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	venuto	venire	V	V	num=s|mod=p|gen=m	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	momento	momento	S	S	num=s|gen=m	4	subj
+7	di	di	E	E	_	6	arg
+8	organizzar-	organizzare	V	V	mod=f	7	prep
+9	si	si	P	PC	num=n|per=3|gen=n	8	clit
+
+1	di	di	E	E	_	0	ROOT
+2	avere	avere	V	V	mod=f	1	prep
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	linea	linea	S	S	num=s|gen=f	2	obj
+5	e	e	C	CC	_	1	con
+6	di	di	E	E	_	1	conj
+7	unir-	unire	V	V	mod=f	6	prep
+8	si	si	P	PC	num=n|per=3|gen=n	7	clit
+9	intorno	intorno	B	B	_	10	mod
+10	a	a	E	E	_	7	comp
+11	un'	uno	R	RI	num=s|gen=f	12	det
+12	idea	idea	S	S	num=s|gen=f	7	obj
+
+1	dalle	da	E	EA	num=p|gen=f	0	ROOT
+2	scuole	scuola	S	S	num=p|gen=f	1	prep
+3	ai	al	E	EA	num=p|gen=m	1	comp
+4	quartieri	quartiere	S	S	num=p|gen=m	3	prep
+5	alle	al	E	EA	num=p|gen=f	4	comp
+6	fabbriche	fabbrica	S	S	num=p|gen=f	5	prep
+7	per	per	E	E	_	6	arg
+8	confrontar-	confrontare	V	V	mod=f	7	prep
+9	si	si	P	PC	num=n|per=3|gen=n	8	clit
+
+1	decidere	decidere	V	V	mod=f	0	ROOT
+2	insieme	insieme	B	B	_	1	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	lotta	lotta	S	S	num=s|gen=f	1	obj
+5	in	in	E	E	_	4	comp
+6	assemblea	assemblea	S	S	num=s|gen=f	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	2	con
+2	tutto	tutto	P	PI	num=s|gen=m	4	mod
+3	che	che	C	CS	_	4	subj
+4	sembrava	sembrare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+5	pronto	pronto	A	A	num=s|gen=m	4	pred
+
+1	per	per	E	E	_	0	ROOT
+2	fare	fare	V	V	mod=f	1	prep
+3	la	il	R	RD	num=s|gen=f	4	det
+4	rivoluzione	rivoluzione	S	S	num=s|gen=f	2	obj
+
+1	ma	ma	C	CC	_	2	con
+2	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	5	det
+4	tua	tuo	A	AP	num=s|gen=f	5	mod
+5	immagine	immagine	S	S	num=s|gen=f	2	pred
+6	o	o	C	CC	_	5	dis
+7	soltanto	soltanto	B	B	_	5	disj
+
+1	una	uno	R	RI	num=s|gen=f	3	det
+2	bella	bello	A	A	num=s|gen=f	3	mod
+3	intenzione	intenzione	S	S	num=s|gen=f	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	4	con
+2	allora	allora	B	B	_	4	mod
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	venuto	venire	V	V	num=s|mod=p|gen=m	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	periodo	periodo	S	S	num=s|gen=m	4	subj
+7	dei	di	E	EA	num=p|gen=m	6	comp
+8	lunghi	lungo	A	A	num=p|gen=m	9	mod
+9	discorsi	discorso	S	S	num=p|gen=m	7	prep
+
+1	ripartire	ripartire	V	V	mod=f	0	ROOT
+2	da	da	E	E	_	1	comp
+3	zero	zero	N	N	_	2	prep
+4	e	e	C	CC	_	1	con
+5	occupar-	occupare	V	V	mod=f	1	conj
+6	si	si	P	PC	num=n|per=3|gen=n	5	clit
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	momento	momento	S	S	num=s|gen=m	5	obj
+9	di	di	E	E	_	8	comp
+10	noi	noi	P	PE	num=p|per=1|gen=n	9	prep
+
+1	affrontare	affrontare	V	V	mod=f	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	crisi	crisi	S	S	num=n|gen=f	1	obj
+4	parlare	parlare	V	V	mod=f	1	arg
+5	parlare	parlare	V	V	mod=f	4	arg
+6	e	e	C	CC	_	4	con
+7	sfogar-	sfogare	V	V	mod=f	4	conj
+8	si	si	P	PC	num=n|per=3|gen=n	7	clit
+
+1	e	e	C	CC	_	2	con
+2	guardar-	guardare	V	V	mod=f	0	ROOT
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	di	di	E	E	_	2	comp
+5	dentro	dentro	B	B	_	4	prep
+6	per	per	E	E	_	2	arg
+7	sapere	sapere	V	V	mod=f	6	prep
+8	chi	chi	P	PQ	num=n|gen=n	7	obj
+9	sei	essere	V	VA	num=s|per=2|mod=i|ten=p	8	mod_rel
+
+1	E	e	C	CC	_	3	con
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	orgoglio	orgoglio	S	S	num=s|gen=m	3	subj
+6	di	di	E	E	_	5	arg
+7	capire	capire	V	V	mod=f	6	prep
+
+1	e	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	certezza	certezza	S	S	num=s|gen=f	0	ROOT
+5	di	di	E	E	_	4	comp
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	svolta	svolta	S	S	num=s|gen=f	5	prep
+
+1	come	come	C	CS	_	0	ROOT
+2	se	se	C	CS	_	1	concat
+3	capir	capire	V	V	mod=f	2	sub
+4	la	il	R	RD	num=s|gen=f	5	det
+5	crisi	crisi	S	S	num=n|gen=f	3	obj
+6	voglia	volere	V	VM	num=s|per=3|mod=c|ten=p	7	modal
+7	dire	dire	V	V	mod=f	1	sub
+
+1	che	che	C	CS	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	crisi	crisi	S	S	num=n|gen=f	5	subj
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	risolta	risolvere	V	V	num=s|mod=p|gen=f	1	sub
+6	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	4	con
+2	allora	allora	B	B	_	4	mod
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	comp_ind
+4	torna	tornare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	voglia	voglia	S	S	num=s|gen=f	4	obj
+7	di	di	E	E	_	6	arg
+8	fare	fare	V	V	mod=f	7	prep
+9	un'	uno	R	RI	num=s|gen=f	10	det
+10	azione	azione	S	S	num=s|gen=f	8	obj
+
+1	ma	ma	C	CC	_	3	con
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	sfugge	sfuggire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	comp
+5	mano	mano	S	S	num=s|gen=f	4	prep
+6	e	e	C	CC	_	3	con
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	invischia	invischiare	V	V	num=s|per=3|mod=i|ten=p	3	conj
+9	ogni	ogni	D	DI	num=s|gen=n	10	mod
+10	gesto	gesto	S	S	num=s|gen=m	8	obj
+11	che	che	P	PR	num=n|gen=n	12	subj
+12	fai	fare	V	V	num=s|per=2|mod=i|ten=p	10	mod_rel
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	sola	solo	A	A	num=s|gen=f	3	mod
+3	certezza	certezza	S	S	num=s|gen=f	6	subj
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	resta	restare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	la	il	R	RD	num=s|gen=f	9	det
+8	tua	tuo	A	AP	num=s|gen=f	9	mod
+9	confusione	confusione	S	S	num=s|gen=f	6	pred
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	vantaggio	vantaggio	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	arg
+4	avere	avere	V	V	mod=f	3	prep
+5	coscienza	coscienza	S	S	num=s|gen=f	4	obj
+6	di	di	E	E	_	5	comp
+7	quello	quello	P	PD	num=s|gen=m	6	prep
+8	che	che	P	PR	num=n|gen=n	9	obj
+9	sei	sei	N	N	_	7	mod_rel
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	fatto	fatto	S	S	num=s|gen=m	1	ROOT
+4	di	di	E	E	_	3	arg
+5	avere	avere	V	V	mod=f	4	prep
+6	la	il	R	RD	num=s|gen=f	7	det
+7	coscienza	coscienza	S	S	num=s|gen=f	5	obj
+
+1	che	che	C	CS	_	0	ROOT
+2	sei	sei	N	N	_	1	sub
+3	nella	in	E	EA	num=s|gen=f	2	comp
+4	merda	merda	S	S	num=s|gen=f	3	prep
+5	più	più	B	B	_	6	mod
+6	totale	totale	A	A	num=s|gen=n	4	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	unica	unico	A	A	num=s|gen=f	1	pred
+4	sostanziale	sostanziale	A	A	num=s|gen=n	3	mod
+5	differenza	differenza	S	S	num=s|gen=f	1	subj
+
+1	da	da	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	borghese	borghese	A	A	num=s|gen=n	4	mod
+4	normale	normale	A	A	num=s|gen=n	1	prep
+5	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	5	con
+2	allora	allora	B	B	_	5	mod
+3	ci	ci	P	PC	num=p|per=1|gen=n	5	clit
+4	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	sentiti	sentire	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	insicuri	insicuro	A	A	num=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	stravolti	stravolgere	V	V	num=p|mod=p|gen=m	1	conj
+
+1	come	come	E	E	_	0	ROOT
+2	reduci	reduce	S	S	num=p|gen=m	1	prep
+3	laceri	lacero	A	A	num=p|gen=m	2	mod
+4	e	e	C	CC	_	2	con
+5	stanchi	stanco	A	A	num=p|gen=m	2	conj
+
+1	come	come	E	E	_	0	ROOT
+2	inutili	inutile	A	A	num=p|gen=n	3	mod
+3	eroi	eroe	S	S	num=p|gen=m	1	prep
+
+1	Con	con	E	E	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	bende	benda	S	S	num=p|gen=f	1	prep
+4	perdute	perduto	A	A	num=p|gen=f	3	mod
+5	per	per	E	E	_	3	comp
+6	strada	strada	S	S	num=s|gen=f	5	prep
+
+1	e	e	C	CC	_	3	con
+2	le	il	R	RD	num=p|gen=f	3	det
+3	fasce	fascia	S	S	num=p|gen=f	0	ROOT
+4	sui	su	E	EA	num=p|gen=m	3	comp
+5	volti	volto	S	S	num=p|gen=m	4	prep
+
+1	già	già	B	B	_	5	mod
+2	a	a	E	E	_	5	comp_temp
+3	vent'	venti	N	N	_	4	mod
+4	anni	anno	S	S	num=p|gen=m	2	prep
+5	siam	siam	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+6	qui	qui	B	B	_	5	obj
+7	a	a	E	E	_	5	arg
+8	raccontare	raccontare	V	V	mod=f	7	prep
+
+1	ai	al	E	EA	num=p|gen=m	0	ROOT
+2	nipoti	nipote	S	S	num=p|gen=n	1	prep
+3	che	che	P	PR	num=n|gen=n	4	obj
+4	noi	noi	P	PE	num=p|per=1|gen=n	2	mod_rel
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	buttavamo	buttare	V	V	num=p|per=1|mod=i|ten=i	0	ROOT
+3	tutto	tutto	P	PI	num=s|gen=m	2	obj
+4	in	in	E	E	_	2	comp
+5	aria	aria	S	S	num=s|gen=f	4	prep
+
+1	e	e	C	CC	_	3	con
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	senso	senso	S	S	num=s|gen=m	3	subj
+6	di	di	E	E	_	5	comp
+7	vittoria	vittoria	S	S	num=s|gen=f	6	prep
+
+1	come	come	C	CS	_	0	ROOT
+2	se	se	C	CS	_	1	concat
+3	tenesse	tenere	V	V	num=s|per=3|mod=c|ten=i	1	sub
+4	conto	conto	S	S	num=s|gen=m	3	subj
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	coraggio	coraggio	S	S	num=s|gen=m	5	prep
+7	la	il	R	RD	num=s|gen=f	8	det
+8	storia	storia	S	S	num=s|gen=f	1	sub
+9	.	.	F	FS	_	1	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	buttavamo	buttare	V	V	num=p|per=1|mod=i|ten=i	0	ROOT
+3	tutto	tutto	P	PI	num=s|gen=m	2	obj
+4	in	in	E	E	_	2	comp
+5	aria	aria	S	S	num=s|gen=f	4	prep
+
+1	e	e	C	CC	_	3	con
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	senso	senso	S	S	num=s|gen=m	3	subj
+6	di	di	E	E	_	5	comp
+7	vittoria	vittoria	S	S	num=s|gen=f	6	prep
+
+1	come	come	C	CS	_	0	ROOT
+2	se	se	C	CS	_	1	concat
+3	tenesse	tenere	V	V	num=s|per=3|mod=c|ten=i	1	sub
+4	conto	conto	S	S	num=s|gen=m	3	subj
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	coraggio	coraggio	S	S	num=s|gen=m	5	prep
+7	la	il	R	RD	num=s|gen=f	8	det
+8	storia	storia	S	S	num=s|gen=f	1	sub
+9	.	.	F	FS	_	1	punc
+

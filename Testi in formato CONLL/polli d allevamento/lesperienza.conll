@@ -1,0 +1,399 @@
+1	Devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	fare	fare	V	V	mod=f	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	esperienza	esperienza	S	S	num=s|gen=f	2	obj
+
+1	io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	comp
+5	esperienza	esperienza	S	S	num=s|gen=f	4	prep
+
+1	Devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	fare	fare	V	V	mod=f	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	esperienza	esperienza	S	S	num=s|gen=f	2	obj
+
+1	io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	comp
+5	esperienza	esperienza	S	S	num=s|gen=f	4	prep
+
+1	Io	io	P	PE	num=s|per=1|gen=n	5	subj
+2	non	non	B	BN	_	5	neg
+3	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	5	aux
+4	mai	mai	B	B	_	5	mod_temp
+5	avuto	avere	V	V	num=s|mod=p|gen=m	0	ROOT
+6	difficoltà	difficoltà	S	S	num=n|gen=f	5	obj
+
+1	a	a	E	E	_	0	ROOT
+2	lasciare	lasciare	V	V	mod=f	1	prep
+3	le	il	R	RD	num=p|gen=f	4	det
+4	madri	madre	S	S	num=p|gen=f	2	obj
+5	le	il	R	RD	num=p|gen=f	6	det
+6	mogli	moglie	S	S	num=p|gen=f	2	subj
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	case	casa	S	S	num=p|gen=f	0	ROOT
+3	i	il	R	RD	num=p|gen=m	5	det
+4	miei	mio	A	AP	num=p|gen=m	5	mod
+5	cani	cane	S	S	num=p|gen=m	2	mod
+
+1	Io	io	P	PE	num=s|per=1|gen=n	8	subj
+2	che	che	P	PR	num=n|gen=n	4	obj
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	muovo	muovere	V	V	num=s|per=1|mod=i|ten=p	1	mod_rel
+5	e	e	C	CC	_	4	con
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	clit
+7	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	4	conj
+8	vitale	vitale	A	A	num=s|gen=n	0	ROOT
+
+1	di	di	E	E	_	0	ROOT
+2	fronte	fronte	S	S	num=s|gen=n	1	prep
+3	a	a	E	E	_	2	comp
+4	qualcosa	qualcosa	P	PI	num=s|gen=n	3	prep
+5	di	di	E	E	_	4	comp
+6	nuovo	nuovo	A	A	num=s|gen=m	5	prep
+
+1	quel	quello	D	DD	num=s|gen=m	0	ROOT
+2	tanto	tanto	B	B	_	1	mod
+3	che	che	C	CS	_	1	ROOT
+4	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	3	sub
+5	a	a	E	E	_	4	arg
+6	non	non	B	BN	_	9	neg
+7	far-	fare	V	VM	mod=f	9	modal
+8	me	me	P	PC	num=s|per=1|gen=n	9	comp_ind
+9	morire	morire	V	V	mod=f	5	prep
+
+1	rinascere	rinascere	V	V	mod=f	0	ROOT
+2	sempre	sempre	B	B	_	1	mod
+3	e	e	C	CC	_	1	con
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	volta	volta	S	S	num=s|gen=f	1	mod_temp
+6	cambiare	cambiare	V	V	mod=f	1	arg
+
+1	Quel	quello	D	DD	num=s|gen=m	4	mod
+2	tanto	tanto	B	B	_	1	mod
+3	che	che	C	CS	_	4	subj
+4	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	innamorato	innamorare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	di	di	E	E	_	3	comp
+5	un'	uno	R	RI	num=s|gen=f	7	det
+6	altra	altro	A	A	num=s|gen=f	7	mod
+7	ragazza	ragazzo	S	S	num=s|gen=f	4	prep
+
+1	di	di	E	E	_	9	comp
+2	un'	uno	R	RI	num=s|gen=f	4	det
+3	altra	altro	A	A	num=s|gen=f	4	mod
+4	situazione	situazione	S	S	num=s|gen=f	1	prep
+5	di	di	E	E	_	4	comp
+6	un'	uno	R	RI	num=s|gen=f	8	det
+7	altra	altro	A	A	num=s|gen=f	8	mod
+8	mia	mio	A	AP	num=s|gen=f	5	prep
+9	vita	vita	S	S	num=s|gen=f	0	ROOT
+
+1	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	condiviso	condividere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	odio	odio	S	S	num=s|gen=m	2	obj
+5	di	di	E	E	_	4	comp
+6	chi	chi	P	PR	num=n|gen=n	5	prep
+7	rifiuta	rifiutare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	tutto	tutto	P	PI	num=s|gen=m	7	obj
+
+1	come	come	C	CS	_	0	ROOT
+2	se	se	C	CS	_	1	concat
+3	fosse	essere	V	VA	num=s|per=3|mod=c|ten=i	4	aux
+4	nata	nascere	V	V	num=s|mod=p|gen=f	2	sub
+5	una	uno	R	RI	num=s|gen=f	7	det
+6	nuova	nuovo	A	A	num=s|gen=f	7	mod
+7	razza	razza	S	S	num=s|gen=f	4	subj_pass
+
+1	E	e	C	CC	_	4	con
+2	ci	ci	P	PC	num=n|gen=n	4	comp
+3	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+4	creduto	credere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	tanto	tanto	B	B	_	4	mod
+
+1	ci	ci	P	PC	num=n|gen=n	3	comp
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	creduto	credere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	da	da	E	E	_	3	arg
+5	impazzire	impazzire	V	V	mod=f	4	prep
+
+1	ero	essere	V	VA	num=s|per=1|mod=i|ten=i	2	aux
+2	disposto	disporre	V	V	num=s|mod=p|gen=m	0	ROOT
+3	a	a	E	E	_	2	arg
+4	perdere	perdere	V	V	mod=f	3	prep
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pezzo	pezzo	S	S	num=s|gen=m	4	obj
+7	di	di	E	E	_	6	comp
+8	vita	vita	S	S	num=s|gen=f	7	prep
+
+1	insomma	insomma	B	B	_	3	mod
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	arg
+5	dire	dire	V	V	mod=f	4	prep
+
+1	Aggrappar-	aggrappare	V	V	mod=f	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	1	clit
+3	alle	al	E	EA	num=p|gen=f	1	comp
+4	cose	cosa	S	S	num=p|gen=f	3	prep
+
+1	una	uno	R	RI	num=s|gen=f	3	det
+2	nuova	nuovo	A	A	num=s|gen=f	3	mod
+3	emozione	emozione	S	S	num=s|gen=f	0	ROOT
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	fede	fede	S	S	num=s|gen=f	0	ROOT
+3	feroce	feroce	A	A	num=s|gen=n	2	mod
+
+1	sentire	sentire	V	V	mod=f	4	subj
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	arg
+4	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	esplosione	esplosione	S	S	num=s|gen=f	4	pred
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	momento	momento	S	S	num=s|gen=m	0	ROOT
+3	felice	felice	A	A	num=s|gen=n	2	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	avvera	avverare	V	V	num=s|per=3|mod=i|ten=p	4	arg
+3	ti	ti	P	PC	num=s|per=2|gen=n	2	obj
+4	nutre	nutrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	comp_ind
+2	sfiora	sfiorare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	veloce	veloce	A	A	num=s|gen=n	2	mod
+
+1	dura	duro	A	A	num=s|gen=f	4	mod
+2	ancora	ancora	B	B	_	1	mod
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	istante	istante	S	S	num=s|gen=m	0	ROOT
+
+1	vorresti	vorresti	V	VA	num=s|per=2|mod=d|ten=p	2	modal
+2	fermar-	fermare	V	V	mod=f	0	ROOT
+3	lo	lo	P	PC	num=s|per=3|gen=m	2	obj
+4	ma	ma	C	CC	_	2	con
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+6	tardi	tardi	B	B	_	5	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	già	già	B	B	_	1	mod
+3	tra	tra	E	E	_	1	comp
+4	i	il	R	RD	num=p|gen=m	5	det
+5	ricordi	ricordo	S	S	num=p|gen=m	3	prep
+
+1	Devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	fare	fare	V	V	mod=f	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	esperienza	esperienza	S	S	num=s|gen=f	2	obj
+
+1	io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	comp
+5	esperienza	esperienza	S	S	num=s|gen=f	4	prep
+
+1	Devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	fare	fare	V	V	mod=f	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	esperienza	esperienza	S	S	num=s|gen=f	2	obj
+
+1	io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	comp
+5	esperienza	esperienza	S	S	num=s|gen=f	4	prep
+
+1	Io	io	P	PE	num=s|per=1|gen=n	5	subj
+2	non	non	B	BN	_	5	neg
+3	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	5	aux
+4	mai	mai	B	B	_	5	mod_temp
+5	avuto	avere	V	V	num=s|mod=p|gen=m	0	ROOT
+6	difficoltà	difficoltà	S	S	num=n|gen=f	5	obj
+
+1	a	a	E	E	_	0	ROOT
+2	lasciare	lasciare	V	V	mod=f	1	prep
+3	i	il	R	RD	num=p|gen=m	5	det
+4	miei	mio	A	AP	num=p|gen=m	5	mod
+5	studi	studio	S	S	num=p|gen=m	2	obj
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	ambienti	ambiente	S	S	num=p|gen=m	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	sport	sport	S	S	num=n|gen=m	2	mod
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	lavori	lavoro	S	S	num=p|gen=m	0	ROOT
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	dovrei	dovere	V	VM	num=s|per=1|mod=d|ten=p	3	modal
+3	avere	avere	V	V	mod=f	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	età	età	S	S	num=n|gen=f	3	obj
+6	di	di	E	E	_	5	comp
+7	mio	mio	A	AP	num=s|gen=m	8	mod
+8	nonno	nonno	S	S	num=s|gen=m	6	prep
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	senso	senso	S	S	num=s|gen=m	1	prep
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	5	aux
+5	fatto	fare	V	V	num=s|mod=p|gen=m	2	mod_rel
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pò	pò	B	B	_	8	mod
+8	tutto	tutto	P	PI	num=s|gen=m	5	obj
+
+1	quel	quello	D	DD	num=s|gen=m	0	ROOT
+2	tanto	tanto	B	B	_	1	mod
+3	che	che	C	CS	_	1	ROOT
+4	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	3	sub
+5	alla	al	E	EA	num=s|gen=f	4	comp
+6	mia	mio	A	AP	num=s|gen=f	7	mod
+7	conoscenza	conoscenza	S	S	num=s|gen=f	5	prep
+
+1	e	e	C	CC	_	3	con
+2	poi	poi	B	B	_	3	mod
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	già	già	B	B	_	5	mod
+5	bisogno	bisogno	S	S	num=s|gen=m	3	obj
+6	di	di	E	E	_	5	comp
+7	un'	uno	R	RI	num=s|gen=f	9	det
+8	altra	altro	A	A	num=s|gen=f	9	mod
+9	esperienza	esperienza	S	S	num=s|gen=f	6	prep
+
+1	Quel	quello	D	DD	num=s|gen=m	4	mod
+2	tanto	tanto	B	B	_	1	mod
+3	che	che	C	CS	_	4	subj
+4	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	3	clit
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	innamorato	innamorare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	di	di	E	E	_	3	comp
+5	tanta	tanto	D	DI	num=s|gen=f	7	mod
+6	altra	altro	D	DI	num=s|gen=f	7	mod
+7	gente	gente	S	S	num=s|gen=f	4	prep
+
+1	di	di	E	E	_	0	ROOT
+2	storie	storia	S	S	num=p|gen=f	1	prep
+3	personali	personale	A	A	num=p|gen=n	2	mod
+4	e	e	C	CC	_	1	con
+5	di	di	E	E	_	1	conj
+6	rivoluzione	rivoluzione	S	S	num=s|gen=f	5	prep
+
+1	di	di	E	E	_	0	_
+2	gruppi	gruppo	S	S	num=p|gen=m	1	prep
+3	d'	di	E	E	_	2	comp
+4	avanguardia	avanguardia	S	S	num=s|gen=f	3	prep
+5	o	o	C	CC	_	1	dis
+6	del	di	E	EA	num=s|gen=m	1	disj
+7	cielo	cielo	S	S	num=s|gen=m	6	prep
+8	dell'	di	E	EA	num=s|gen=n	7	comp
+9	oriente	oriente	S	S	num=s|gen=m	8	prep
+
+1	Sempre	sempre	B	B	_	4	mod
+2	come	come	C	CS	_	3	mod
+3	se	se	C	CS	_	4	subj
+4	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	soluzione	soluzione	S	S	num=s|gen=f	4	pred
+
+1	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	mia	mio	A	AP	num=s|gen=f	4	mod
+4	esigenza	esigenza	S	S	num=s|gen=f	1	pred
+5	o	o	C	CC	_	4	dis
+6	la	il	R	RD	num=s|gen=f	7	det
+7	paura	paura	S	S	num=s|gen=f	4	disj
+8	di	di	E	E	_	4	disj
+9	morire	morire	V	V	mod=f	8	prep
+
+1	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	insofferenza	insofferenza	S	S	num=s|gen=f	1	pred
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	sfida	sfida	S	S	num=s|gen=f	1	subj
+6	alla	al	E	EA	num=s|gen=f	5	comp
+7	vita	vita	S	S	num=s|gen=f	6	prep
+
+1	insomma	insomma	B	B	_	3	mod
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	arg
+5	dire	dire	V	V	mod=f	4	prep
+
+1	Aggrappar-	aggrappare	V	V	mod=f	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	1	clit
+3	alle	al	E	EA	num=p|gen=f	1	comp
+4	cose	cosa	S	S	num=p|gen=f	3	prep
+
+1	una	uno	R	RI	num=s|gen=f	3	det
+2	nuova	nuovo	A	A	num=s|gen=f	3	mod
+3	emozione	emozione	S	S	num=s|gen=f	0	ROOT
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	fede	fede	S	S	num=s|gen=f	0	ROOT
+3	feroce	feroce	A	A	num=s|gen=n	2	mod
+
+1	sentire	sentire	V	V	mod=f	4	subj
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	arg
+4	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	esplosione	esplosione	S	S	num=s|gen=f	4	pred
+
+1	Un	uno	R	RI	num=s|gen=m	3	det
+2	gran	gran	A	A	num=n|gen=n	3	mod
+3	senso	senso	S	S	num=s|gen=m	0	ROOT
+4	di	di	E	E	_	3	comp
+5	vita	vita	S	S	num=s|gen=f	4	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	dura	durare	V	V	num=s|per=3|mod=i|ten=p	7	arg
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	muta	mutare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+5	resiste	resistere	V	V	num=s|per=3|mod=i|ten=p	4	arg
+6	si	si	P	PC	num=n|per=3|gen=n	5	clit
+7	acquieta	acquietare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	ora	ora	B	B	_	2	mod_temp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	già	già	B	B	_	2	mod
+4	meno	meno	B	B	_	5	mod
+5	forte	forte	A	A	num=s|gen=n	2	pred
+
+1	poi	poi	B	B	_	6	mod_temp
+2	poco	poco	B	B	_	3	mod
+3	poi	poi	B	B	_	4	mod_temp
+4	meno	meno	B	B	_	5	mod
+5	poi	poi	B	B	_	1	mod
+6	niente	niente	B	B	_	0	_
+
+1	di	di	E	E	_	4	comp
+2	nuovo	nuovo	S	S	num=s|gen=m	1	prep
+3	la	il	R	RD	num=s|gen=f	4	det
+4	morte	morte	S	S	num=s|gen=f	0	ROOT
+
+1	Devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	fare	fare	V	V	mod=f	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	esperienza	esperienza	S	S	num=s|gen=f	2	obj
+
+1	io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	comp
+5	esperienza	esperienza	S	S	num=s|gen=f	4	prep
+
+1	Devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	fare	fare	V	V	mod=f	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	esperienza	esperienza	S	S	num=s|gen=f	2	obj
+

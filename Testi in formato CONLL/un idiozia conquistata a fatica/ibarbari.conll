@@ -1,0 +1,585 @@
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	fascino	fascino	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	atelier	atelier	S	SW	num=n|gen=m	3	prep
+6	pieno	pieno	A	A	num=s|gen=m	5	mod
+7	di	di	E	E	_	5	comp
+8	mèche	mèche	S	SW	num=n|gen=f	7	prep
+9	di	di	E	E	_	8	comp
+10	profumi	profumo	S	S	num=p|gen=m	9	prep
+11	e	e	C	CC	_	2	con
+12	sorrisi	sorriso	S	S	num=p|gen=m	2	conj
+
+1	Armani	Armani	S	SP	_	2	mod
+2	Dolce	Dolce	S	SP	_	0	ROOT
+3	e	e	C	CC	_	2	con
+4	Gabbana	Gabbana	S	SP	_	5	mod
+5	Valentino	Valentino	S	SP	_	2	conj
+6	.	.	F	FS	_	2	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	mito	mito	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	6	det
+5	rock	rock	S	SW	num=n|gen=m	6	mod
+6	star	star	S	S	num=n|gen=f	3	prep
+7	coi	con	E	EA	num=p|gen=m	2	comp
+8	suoi	suo	A	AP	num=p|gen=m	9	mod
+9	successi	successo	S	S	num=p|gen=m	7	prep
+10	sempre	sempre	B	B	_	11	mod
+11	più	più	B	B	_	12	mod
+12	famosi	famoso	A	A	num=p|gen=m	9	mod
+
+1	e	e	C	CC	_	2	con
+2	voi	voi	P	PE	num=p|per=2|gen=n	0	ROOT
+3	tutti	tutto	P	PI	num=p|gen=m	2	mod
+4	in	in	E	E	_	3	comp
+5	piedi	piede	S	S	num=p|gen=m	4	prep
+6	col	con	E	EA	num=s|gen=m	5	comp
+7	vostro	vostro	A	AP	num=s|gen=m	8	mod
+8	accendino	accendino	S	S	num=s|gen=m	6	prep
+9	.	.	F	FS	_	2	punc
+
+1	G/coro	G/coro	S	SP	_	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	e	e	C	CC	_	7	con
+4	intanto	intanto	B	B	_	6	mod
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	7	subj
+7	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+8	i	il	R	RD	num=p|gen=m	9	det
+9	barbari	barbaro	S	S	num=p|gen=m	7	obj
+10	.	.	F	FS	_	7	punc
+
+1	E	e	C	CC	_	5	con
+2	intanto	intanto	B	B	_	4	mod
+3	i	il	R	RD	num=p|gen=m	4	det
+4	barbari	barbaro	S	S	num=p|gen=m	5	subj
+5	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	i	il	R	RD	num=p|gen=m	7	det
+7	barbari	barbaro	S	S	num=p|gen=m	5	obj
+8	.	.	F	FS	_	5	punc
+
+1	Passare	passare	V	V	mod=f	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	serata	serata	S	S	num=s|gen=f	1	obj
+4	allegra	allegro	A	A	num=s|gen=f	3	mod
+5	nel	in	E	EA	num=s|gen=m	1	comp
+6	clima	clima	S	S	num=s|gen=m	5	prep
+7	intimo	intimo	A	A	num=s|gen=m	6	mod
+8	della	di	E	EA	num=s|gen=f	6	comp
+9	tua	tuo	A	AP	num=s|gen=f	10	mod
+10	casa	casa	S	S	num=s|gen=f	8	prep
+
+1	assistere	assistere	V	V	mod=f	0	ROOT
+2	a	a	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	programma	programma	S	S	num=s|gen=m	2	prep
+5	trucido	trucidare	V	V	num=s|per=1|mod=i|ten=p	1	conj
+6	con	con	E	E	_	5	comp
+7	il	il	R	RD	num=s|gen=m	8	det
+8	pianto	pianto	S	S	num=s|gen=m	6	prep
+9	in	in	E	E	_	8	comp
+10	gola	gola	S	S	num=s|gen=f	9	prep
+11	.	.	F	FS	_	1	punc
+
+1	Oppure	oppure	C	CC	_	0	ROOT
+2	in	in	E	E	_	1	comp_temp
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	grande	grande	A	A	num=s|gen=n	5	mod
+5	stadio	stadio	S	S	num=s|gen=m	2	prep
+6	all'	al	E	EA	num=s|gen=n	5	comp
+7	ultimo	ultimo	A	A	num=s|gen=m	8	mod
+8	minuto	minuto	S	S	num=s|gen=m	6	prep
+9	della	di	E	EA	num=s|gen=f	8	comp
+10	ripresa	ripresa	S	S	num=s|gen=f	9	prep
+
+1	arriva	arrivare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	finalmente	finalmente	B	B	_	4	mod
+3	il	il	R	RD	num=s|gen=m	4	det
+4	goal	goal	S	SW	num=n|gen=m	1	subj
+5	e	e	C	CC	_	4	con
+6	parte	parte	S	S	num=s|gen=f	4	conj
+7	la	il	R	RD	num=s|gen=f	8	det
+8	'	'	F	FB	_	9	punc
+9	olà	olà	I	I	_	1	mod
+10	.	.	F	FS	_	1	punc
+
+1	G/coro	G/coro	S	SP	_	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	e	e	C	CC	_	7	con
+4	intanto	intanto	B	B	_	6	mod
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	7	subj
+7	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+8	i	il	R	RD	num=p|gen=m	9	det
+9	barbari	barbaro	S	S	num=p|gen=m	7	obj
+10	.	.	F	FS	_	7	punc
+
+1	E	e	C	CC	_	5	con
+2	intanto	intanto	B	B	_	4	mod
+3	i	il	R	RD	num=p|gen=m	4	det
+4	barbari	barbaro	S	S	num=p|gen=m	5	subj
+5	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	i	il	R	RD	num=p|gen=m	7	det
+7	barbari	barbaro	S	S	num=p|gen=m	5	obj
+8	.	.	F	FS	_	5	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	lotto	lotto	S	S	num=s|gen=m	6	subj
+3	il	il	R	RD	num=s|gen=m	4	det
+4	totogoal	totogoal	S	S	num=s|gen=m	6	obj
+5	il	il	R	RD	num=s|gen=m	6	det
+6	gratta	grattare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	e	e	C	CC	_	6	con
+8	vinci	vincere	V	V	num=s|per=2|mod=i|ten=p	6	conj
+9	ma	ma	C	CC	_	6	con
+10	che	che	C	CS	_	6	comp
+11	emozione	emozione	S	S	num=s|gen=f	10	sub
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	vita	vita	S	S	num=s|gen=f	3	subj
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uovo	uovo	S	S	num=s|gen=m	3	obj
+6	di	di	E	E	_	5	comp
+7	Pasqua	Pasqua	S	SP	_	6	prep
+8	una	uno	R	RI	num=s|gen=f	9	det
+9	lotteria	lotteria	S	S	num=s|gen=f	5	conj
+10	.	.	F	FS	_	3	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	gusto	gusto	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	corpo	corpo	S	S	num=s|gen=m	3	prep
+6	sano	sano	A	A	num=s|gen=m	5	mod
+7	mangiare	mangiare	V	V	mod=f	2	mod_rel
+8	poco	poco	B	B	_	7	mod
+9	ed	e	C	CC	_	7	con
+10	allenar-	allenare	V	V	mod=f	7	conj
+11	si	si	P	PC	num=n|per=3|gen=n	10	clit
+12	bene	bene	B	B	_	10	mod
+
+1	coi	con	E	EA	num=p|gen=m	6	comp
+2	vostri	vostro	A	AP	num=p|gen=m	3	mod
+3	massaggi	massaggio	S	S	num=p|gen=m	1	prep
+4	e	e	C	CC	_	1	con
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	omeopatia	omeopatia	S	S	num=s|gen=f	0	ROOT
+7	.	.	F	FS	_	6	punc
+
+1	G/coro	G/coro	S	SP	_	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	e	e	C	CC	_	7	con
+4	intanto	intanto	B	B	_	6	mod
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	7	subj
+7	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+8	i	il	R	RD	num=p|gen=m	9	det
+9	barbari	barbaro	S	S	num=p|gen=m	7	obj
+10	.	.	F	FS	_	7	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	chi	chi	P	PR	num=n|gen=n	3	subj
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	i	il	R	RD	num=p|gen=m	5	det
+5	barbari	barbaro	S	S	num=p|gen=m	3	pred
+
+1	dopo	dopo	E	E	_	4	mod_temp
+2	ve	ve	P	PC	num=n|gen=n	4	comp
+3	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+4	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	4	subj
+7	.	.	F	FS	_	4	punc
+
+1	E	e	C	CC	_	3	con
+2	voi	voi	P	PE	num=p|per=2|gen=n	3	mod
+3	indaffarati	indaffarato	A	A	num=p|gen=m	0	ROOT
+4	con	con	E	E	_	3	comp
+5	niente	niente	P	PI	num=s|gen=m	4	prep
+6	da	da	E	E	_	5	arg
+7	fare	fare	V	V	mod=f	6	prep
+8	con	con	E	E	_	7	comp
+9	niente	niente	P	PI	num=s|gen=m	8	prep
+10	da	da	E	E	_	3	arg
+11	dire	dire	V	V	mod=f	10	prep
+
+1	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	2	aux
+2	capito	capire	V	V	num=s|mod=p|gen=m	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	anche	anche	B	B	_	6	mod
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	aspetto	aspetto	S	S	num=s|gen=m	9	subj
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	può	potere	V	VM	num=s|per=3|mod=i|ten=p	9	modal
+9	migliorare	migliorare	V	V	mod=f	3	sub
+10	.	.	F	FS	_	2	punc
+
+1	Vi	vi	P	PC	num=p|per=2|gen=n	2	comp_ind
+2	fate	fare	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	viso	viso	S	S	num=s|gen=m	2	obj
+5	le	il	R	RD	num=p|gen=f	6	det
+6	mani	mano	S	S	num=p|gen=f	4	mod
+7	i	il	R	RD	num=p|gen=m	8	det
+8	piedi	piede	S	S	num=p|gen=m	10	subj
+9	vi	vi	P	PC	num=p|per=2|gen=n	10	comp_ind
+10	fate	fare	V	V	num=p|per=2|mod=i|ten=p	2	conj
+11	i	il	R	RD	num=p|gen=m	12	det
+12	capelli	capello	S	S	num=p|gen=m	10	obj
+
+1	ma	ma	C	CC	_	4	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	ansia	ansia	S	S	num=s|gen=f	4	subj
+4	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	vi	vi	P	PC	num=p|per=2|gen=n	4	obj
+6	fate	fare	V	V	num=p|per=2|mod=i|ten=p	4	conj
+7	le	il	R	RD	num=p|gen=f	8	det
+8	tette	tetta	S	S	num=p|gen=f	6	pred
+9	il	il	R	RD	num=s|gen=m	10	det
+10	culo	culo	S	S	num=s|gen=m	6	obj
+11	e	e	C	CC	_	10	con
+12	le	il	R	RD	num=p|gen=f	13	det
+13	cosce	coscia	S	S	num=p|gen=f	10	conj
+14	mhh	mhh	C	CC	_	10	con
+15	che	che	P	PR	num=n|gen=n	16	mod
+16	cosce	coscia	S	S	num=p|gen=f	10	conj
+
+1	E	e	C	CC	_	3	con
+2	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	3	modal
+3	dir	dire	V	V	mod=f	0	ROOT
+4	che	che	C	CS	_	3	arg
+5	siete	essere	V	V	num=p|per=2|mod=i|ten=p	4	sub
+6	bravi	bravo	A	A	num=p|gen=m	7	mod
+7	bravi	bravo	A	A	num=p|gen=m	5	pred
+
+1	siete	essere	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	3	mod
+3	bravi	bravo	A	A	num=p|gen=m	1	pred
+4	bravi	bravo	A	A	num=p|gen=m	3	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	date	dare	V	V	num=p|mod=p|gen=f	0	_
+3	il	il	R	RD	num=s|gen=m	5	det
+4	vostro	vostro	A	AP	num=s|gen=m	5	mod
+5	contributo	contributo	S	S	num=s|gen=m	2	obj
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	vostro	vostro	A	AP	num=s|gen=m	3	mod
+3	aiuto	aiuto	S	S	num=s|gen=m	0	ROOT
+4	festoso	festoso	A	A	num=s|gen=m	3	mod
+5	e	e	C	CC	_	3	con
+6	originale	originale	A	A	num=s|gen=n	3	mod
+
+1	alla	al	E	EA	num=s|gen=f	0	ROOT
+2	caduta	caduta	S	S	num=s|gen=f	1	prep
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	caduta	caduta	S	S	num=s|gen=f	3	prep
+
+1	alla	al	E	EA	num=s|gen=f	0	ROOT
+2	caduta	caduta	S	S	num=s|gen=f	1	prep
+3	dell'	di	E	EA	num=s|gen=n	2	comp
+4	Impero	Impero	S	SP	_	5	mod
+5	Occidentale	Occidentale	S	SP	_	3	prep
+6	.	.	F	FS	_	1	punc
+
+1	In	in	E	E	_	0	ROOT
+2	questa	questo	D	DD	num=s|gen=f	4	mod
+3	allegra	allegro	A	A	num=s|gen=f	4	mod
+4	esibizione	esibizione	S	S	num=s|gen=f	1	prep
+
+1	ognuno	ognuno	P	PI	num=s|gen=m	2	subj
+2	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	artista	artista	S	S	num=s|gen=m	2	obj
+4	come	come	C	CS	_	2	mod
+5	può	potere	V	V	num=s|per=3|mod=i|ten=p	4	sub
+6	come	come	B	B	_	5	mod
+7	gli	gli	P	PC	num=s|per=3|gen=m	8	comp_ind
+8	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	2	conj
+
+1	Immerger-	immergere	V	V	mod=f	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	1	clit
+3	in	in	E	E	_	1	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	computer	computer	S	SW	num=s|gen=m	3	prep
+6	e	e	C	CC	_	1	con
+7	rincoglionir-	rincoglionire	V	V	mod=f	1	conj
+8	si	si	P	PC	num=n|per=3|gen=n	7	clit
+9	con	con	E	E	_	7	comp
+10	un	uno	R	RI	num=s|gen=m	12	det
+11	bel	bello	A	A	num=s|gen=m	12	mod
+12	giochino	giochino	S	S	num=s|gen=m	9	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	video	video	S	S	num=n|gen=m	0	ROOT
+3	pieno	pieno	A	A	num=s|gen=m	2	mod
+4	di	di	E	E	_	2	comp
+5	ostacoli	ostacolo	S	S	num=p|gen=m	4	prep
+6	senza	senza	E	E	_	5	comp
+7	fine	fine	S	S	num=s|gen=n	6	prep
+8	.	.	F	FS	_	2	punc
+
+1	In	in	E	E	_	4	comp
+2	genere	genere	S	S	num=s|gen=m	1	prep
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	finisce	finire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	in	in	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	8	det
+7	gradevole	gradevole	A	A	num=s|gen=n	8	mod
+8	ristorantino	ristorantino	S	S	num=s|gen=m	5	prep
+
+1	una	uno	R	RI	num=s|gen=f	4	det
+2	gran	gran	A	A	num=n|gen=n	4	mod
+3	bella	bello	A	A	num=s|gen=f	4	mod
+4	mangiata	mangiata	S	S	num=s|gen=f	7	subj
+5	e	e	C	CC	_	4	con
+6	tutto	tutto	P	PI	num=s|gen=m	7	subj
+7	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	bene	bene	B	B	_	7	mod
+9	.	.	F	FS	_	7	punc
+
+1	G/coro	G/coro	S	SP	_	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	e	e	C	CC	_	7	con
+4	intanto	intanto	B	B	_	6	mod
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	7	subj
+7	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+8	i	il	R	RD	num=p|gen=m	9	det
+9	barbari	barbaro	S	S	num=p|gen=m	7	obj
+10	.	.	F	FS	_	7	punc
+
+1	E	e	C	CC	_	5	con
+2	intanto	intanto	B	B	_	4	mod
+3	i	il	R	RD	num=p|gen=m	4	det
+4	barbari	barbaro	S	S	num=p|gen=m	5	subj
+5	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	i	il	R	RD	num=p|gen=m	7	det
+7	barbari	barbaro	S	S	num=p|gen=m	5	obj
+8	.	.	F	FS	_	5	punc
+
+1	L'	il	R	RD	num=s|gen=n	3	det
+2	insolita	insolito	A	A	num=s|gen=f	3	mod
+3	emozione	emozione	S	S	num=s|gen=f	0	ROOT
+4	di	di	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	domenica	domenica	S	S	num=s|gen=f	4	prep
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	pò	pò	B	B	_	9	mod
+9	speciale	speciale	A	A	num=s|gen=n	0	ROOT
+
+1	commossi	commosso	A	A	num=p|gen=m	0	ROOT
+2	tra	tra	E	E	_	1	comp
+3	la	il	R	RD	num=s|gen=f	4	det
+4	folla	folla	S	S	num=s|gen=f	2	prep
+5	a	a	E	E	_	4	arg
+6	vedere	vedere	V	V	mod=f	5	prep
+7	il	il	R	RD	num=s|gen=m	8	det
+8	Papa	Papa	S	SP	_	6	obj
+9	.	.	F	FS	_	1	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	senso	senso	S	S	num=s|gen=m	2	subj
+5	di	di	E	E	_	4	comp
+6	euforia	euforia	S	S	num=s|gen=f	5	prep
+7	di	di	E	E	_	6	comp
+8	grandi	grande	A	A	num=p|gen=n	9	mod
+9	mutamenti	mutamento	S	S	num=p|gen=m	7	prep
+10	nel	in	E	EA	num=s|gen=m	9	comp
+11	sociale	sociale	A	A	num=s|gen=n	10	prep
+
+1	tra	tra	E	E	_	3	comp
+2	poco	poco	B	B	_	1	prep
+3	cambia	cambiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	tutto	tutto	P	PI	num=s|gen=m	3	obj
+5	ormai	ormai	B	B	_	3	mod
+6	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	3	mod
+7	in	in	E	E	_	3	comp_loc
+8	Europa	Europa	S	SP	_	7	prep
+9	.	.	F	FS	_	3	punc
+
+1	G/coro	G/coro	S	SP	_	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	e	e	C	CC	_	7	con
+4	intanto	intanto	B	B	_	6	mod
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	7	subj
+7	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+8	i	il	R	RD	num=p|gen=m	9	det
+9	barbari	barbaro	S	S	num=p|gen=m	7	obj
+10	.	.	F	FS	_	7	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	chi	chi	P	PR	num=n|gen=n	3	subj
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	i	il	R	RD	num=p|gen=m	5	det
+5	barbari	barbaro	S	S	num=p|gen=m	3	pred
+
+1	dopo	dopo	E	E	_	6	comp_temp
+2	ve	ve	P	PC	num=n|gen=n	4	comp
+3	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+4	dico	dire	V	V	num=s|per=1|mod=i|ten=p	1	prep
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	0	ROOT
+
+1	E	e	C	CC	_	3	con
+2	voi	voi	P	PE	num=p|per=2|gen=n	3	mod
+3	spensierati	spensierato	A	A	num=p|gen=m	0	ROOT
+4	con	con	E	E	_	3	comp
+5	niente	niente	P	PI	num=s|gen=m	4	prep
+6	da	da	E	E	_	5	arg
+7	fare	fare	V	V	mod=f	6	prep
+8	con	con	E	E	_	7	comp
+9	niente	niente	P	PI	num=s|gen=m	8	prep
+10	da	da	E	E	_	3	arg
+11	dire	dire	V	V	mod=f	10	prep
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	idromassaggio	idromassaggio	S	S	num=s|gen=f	0	ROOT
+3	mezz'	mezz'	A	A	num=s|gen=f	4	mod
+4	ora	ora	S	S	num=s|gen=f	2	mod
+5	di	di	E	E	_	4	arg
+6	stretching	stretching	V	V	mod=f	5	prep
+7	e	e	C	CC	_	6	con
+8	via	via	B	B	_	9	mod
+9	a	a	E	E	_	6	arg
+10	ballare	ballare	V	V	mod=f	9	prep
+11	.	.	F	FS	_	2	punc
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	pò	pò	B	B	_	7	mod
+3	di	di	E	E	_	2	comp
+4	palestra	palestra	S	S	num=s|gen=f	3	prep
+5	la	il	R	RD	num=s|gen=f	7	det
+6	tua	tuo	A	AP	num=s|gen=f	7	mod
+7	pasticchina	pasticchina	S	S	num=s|gen=f	0	ROOT
+8	ma	ma	C	CC	_	7	con
+9	senza	senza	E	E	_	7	comp
+10	eccesso	eccesso	S	S	num=s|gen=m	9	prep
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	pò	pò	B	B	_	6	mod
+3	di	di	E	E	_	2	comp
+4	orecchini	orecchino	S	S	num=p|gen=m	3	prep
+5	la	il	R	RD	num=s|gen=f	6	det
+6	lampada	lampada	S	S	num=s|gen=f	0	ROOT
+7	al	a	E	EA	num=s|gen=m	6	comp
+8	quarzo	quarzo	S	S	num=s|gen=m	7	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pelo	pelo	S	S	num=s|gen=m	1	ROOT
+4	di	di	E	E	_	3	comp
+5	sesso	sesso	S	S	num=s|gen=m	4	prep
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	sesso	sesso	S	S	num=s|gen=m	5	mod_rel
+
+1	E	e	C	CC	_	3	con
+2	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	3	modal
+3	dir	dire	V	V	mod=f	0	ROOT
+4	che	che	C	CS	_	3	arg
+5	siete	essere	V	V	num=p|per=2|mod=i|ten=p	4	sub
+6	bravi	bravo	A	A	num=p|gen=m	7	mod
+7	bravi	bravo	A	A	num=p|gen=m	5	pred
+
+1	siete	essere	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	3	mod
+3	bravi	bravo	A	A	num=p|gen=m	1	pred
+4	bravi	bravo	A	A	num=p|gen=m	3	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	date	dare	V	V	num=p|mod=p|gen=f	0	_
+3	il	il	R	RD	num=s|gen=m	5	det
+4	vostro	vostro	A	AP	num=s|gen=m	5	mod
+5	contributo	contributo	S	S	num=s|gen=m	2	obj
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	vostro	vostro	A	AP	num=s|gen=m	3	mod
+3	aiuto	aiuto	S	S	num=s|gen=m	0	ROOT
+4	festoso	festoso	A	A	num=s|gen=m	3	mod
+5	e	e	C	CC	_	3	con
+6	originale	originale	A	A	num=s|gen=n	3	mod
+
+1	alla	al	E	EA	num=s|gen=f	0	ROOT
+2	caduta	caduta	S	S	num=s|gen=f	1	prep
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	caduta	caduta	S	S	num=s|gen=f	3	prep
+
+1	alla	al	E	EA	num=s|gen=f	0	ROOT
+2	caduta	caduta	S	S	num=s|gen=f	1	prep
+3	dell'	di	E	EA	num=s|gen=n	2	comp
+4	Impero	Impero	S	SP	_	5	mod
+5	Occidentale	Occidentale	S	SP	_	3	prep
+6	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	5	con
+2	intanto	intanto	B	B	_	4	mod
+3	i	il	R	RD	num=p|gen=m	4	det
+4	barbari	barbaro	S	S	num=p|gen=m	5	subj
+5	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	i	il	R	RD	num=p|gen=m	7	det
+7	barbari	barbaro	S	S	num=p|gen=m	5	obj
+
+1	e	e	C	CC	_	4	con
+2	intanto	intanto	B	B	_	4	mod
+3	i	il	R	RD	num=p|gen=m	4	det
+4	barbari	barbaro	S	S	num=p|gen=m	0	ROOT
+5	ma	ma	C	CC	_	4	con
+6	che	che	P	PR	num=n|gen=n	4	conj
+7	paura	paura	S	S	num=s|gen=f	6	sub
+8	i	il	R	RD	num=p|gen=m	9	det
+9	barbari	barbaro	S	S	num=p|gen=m	4	conj
+
+1	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	i	il	R	RD	num=p|gen=m	3	det
+3	barbari	barbaro	S	S	num=p|gen=m	1	subj
+
+1	Da	da	E	E	_	6	comp
+2	come	come	C	CS	_	1	prep
+3	noi	noi	P	PE	num=p|per=1|gen=n	4	subj
+4	viviamo	vivere	V	V	num=p|per=1|mod=i|ten=p	2	sub
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	0	ROOT
+
+1	da	da	E	E	_	0	ROOT
+2	quello	quello	P	PD	num=s|gen=m	1	prep
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	facciamo	fare	V	V	num=p|per=1|mod=i|ten=p	2	mod_rel
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	4	obj
+
+1	Sì	sì	B	B	_	4	mod
+2	ma	ma	C	CC	_	1	con
+3	chi	chi	P	PR	num=n|gen=n	4	subj
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	4	pred
+
+1	adesso	adesso	B	B	_	4	mod_temp
+2	ve	ve	P	PC	num=n|gen=n	4	comp
+3	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+4	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	4	subj
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	barbari	barbaro	S	S	num=p|gen=m	0	ROOT
+3	i	il	R	RD	num=p|gen=m	4	det
+4	barbari	barbaro	S	S	num=p|gen=m	2	conj
+5	i	il	R	RD	num=p|gen=m	6	det
+6	barbari	barbaro	S	S	num=p|gen=m	4	mod
+7	.	.	F	FS	_	2	punc
+
+1	Ecco-	ecco	B	B	_	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	1	comp
+3	qua	qua	B	B	_	2	mod
+4	ecco-	ecco	B	B	_	3	mod
+5	ci	ci	P	PC	num=p|per=1|gen=n	4	comp
+6	qua	qua	B	B	_	5	mod
+7	.	.	F	FS	_	1	punc
+

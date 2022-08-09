@@ -1,0 +1,313 @@
+1	Basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	guardare	guardare	V	V	mod=f	1	arg
+
+1	in	in	E	E	_	0	ROOT
+2	fondo	fondo	S	S	num=s|gen=m	1	prep
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	propria	proprio	A	AP	num=s|gen=f	5	mod
+5	faccia	faccia	S	S	num=s|gen=f	3	prep
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	frugar-	frugare	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+
+1	dentro	dentro	B	B	_	2	mod
+2	agli	al	E	EA	num=p|gen=m	0	_
+3	intestini	intestino	S	S	num=p|gen=m	2	prep
+
+1	Ogni	ogni	D	DI	num=s|gen=n	2	mod
+2	domanda	domanda	S	S	num=s|gen=f	0	ROOT
+3	al	a	E	EA	num=s|gen=m	2	comp
+4	corpo	corpo	S	S	num=s|gen=m	3	prep
+
+1	può	potere	V	VM	num=s|per=3|mod=i|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	breccia	breccia	S	S	num=s|gen=f	2	pred
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	inizio	inizio	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	inquietudini	inquietudine	S	S	num=p|gen=f	3	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	di	di	E	E	_	1	conj
+3	ossessioni	ossessione	S	S	num=p|gen=f	2	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	smorfia	smorfia	S	S	num=s|gen=f	3	subj
+3	avanza	avanzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	da	da	E	E	_	3	comp
+5	sola	solo	A	A	num=s|gen=f	4	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	smorfia	smorfia	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	indulgente	indulgente	A	A	num=s|gen=n	4	pred
+
+1	affiora	affiorare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	pian	pian	B	B	_	1	mod
+3	piano	piano	S	S	num=s|gen=m	1	obj
+
+1	e	e	C	CC	_	5	con
+2	non	non	B	BN	_	5	neg
+3	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	5	modal
+4	neanche	neanche	B	B	_	5	mod
+5	controllar-	controllare	V	V	mod=f	0	ROOT
+6	la	la	P	PC	num=s|per=3|gen=f	5	obj
+
+1	Racconta	raccontare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	spietatamente	spietato	B	B	_	1	mod
+
+1	come	come	C	CS	_	2	mod
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	e	e	C	CC	_	2	con
+4	dopo	dopo	E	E	_	2	comp_temp
+5	vent'	venti	N	N	_	6	mod
+6	anni	anno	S	S	num=p|gen=m	4	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	comincia	cominciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	ad	ad	E	E	_	2	arg
+4	avere	avere	V	V	mod=f	3	prep
+5	la	il	R	RD	num=s|gen=f	6	det
+6	faccia	faccia	S	S	num=s|gen=f	4	obj
+
+1	tutta	tutto	D	DI	num=s|gen=f	2	mod
+2	presa	prendere	V	V	num=s|mod=p|gen=f	0	ROOT
+3	da	da	E	E	_	2	comp
+4	quella	quello	D	DD	num=s|gen=f	5	mod
+5	smorfia	smorfia	S	S	num=s|gen=f	3	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	avanza	avanzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sicura	sicuro	A	A	num=s|gen=f	2	mod
+4	con	con	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	percorso	percorso	S	S	num=s|gen=m	4	prep
+
+1	preciso	preciso	A	A	num=s|gen=m	0	ROOT
+
+1	E	e	C	CC	_	2	con
+2	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	lo	il	R	RD	num=s|gen=m	4	det
+4	specchio	specchio	S	S	num=s|gen=m	2	pred
+
+1	di	di	E	E	_	0	ROOT
+2	miseri	misero	A	A	num=p|gen=m	3	mod
+3	errori	errore	S	S	num=p|gen=m	1	prep
+
+1	non	non	B	BN	_	2	neg
+2	permette	permettere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	comp_ind
+4	nessuno	nessuno	P	PI	num=s|gen=m	3	prep
+
+1	di	di	E	E	_	0	ROOT
+2	esser	essere	V	V	mod=f	1	prep
+3	bello	bello	A	A	num=s|gen=m	2	pred
+4	di	di	E	E	_	3	comp
+5	fuori	fuori	B	B	_	2	mod
+
+1	Ti	ti	P	PC	num=s|per=2|gen=n	0	ROOT
+2	vien	vien	B	BN	_	3	neg
+3	su	su	E	E	_	1	ROOT
+4	dal	da	E	EA	num=s|gen=m	3	concat
+5	di	di	E	E	_	3	comp
+6	dentro	dentro	B	B	_	5	prep
+
+1	e	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	blocca	bloccare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	comp
+5	sempre	sempre	B	B	_	4	prep
+
+1	sul	su	E	EA	num=s|gen=m	0	ROOT
+2	viso	viso	S	S	num=s|gen=m	1	prep
+
+1	Basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	guardare	guardare	V	V	mod=f	1	arg
+
+1	in	in	E	E	_	0	ROOT
+2	fondo	fondo	S	S	num=s|gen=m	1	prep
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	propria	proprio	A	AP	num=s|gen=f	5	mod
+5	faccia	faccia	S	S	num=s|gen=f	3	prep
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	frugar-	frugare	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+
+1	dentro	dentro	B	B	_	2	mod
+2	agli	al	E	EA	num=p|gen=m	0	_
+3	intestini	intestino	S	S	num=p|gen=m	2	prep
+
+1	Ogni	ogni	D	DI	num=s|gen=n	2	mod
+2	domanda	domanda	S	S	num=s|gen=f	0	ROOT
+3	al	a	E	EA	num=s|gen=m	2	comp
+4	corpo	corpo	S	S	num=s|gen=m	3	prep
+
+1	può	potere	V	VM	num=s|per=3|mod=i|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	breccia	breccia	S	S	num=s|gen=f	2	pred
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	inizio	inizio	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	inquietudini	inquietudine	S	S	num=p|gen=f	3	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	di	di	E	E	_	1	conj
+3	ossessioni	ossessione	S	S	num=p|gen=f	2	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	smorfia	smorfia	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	porta	portare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	sul	su	E	EA	num=s|gen=m	4	comp_loc
+6	viso	viso	S	S	num=s|gen=m	5	prep
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+3	a	a	E	E	_	2	arg
+4	confezionar-	confezionare	V	V	mod=f	3	prep
+5	la	la	P	PC	num=s|per=3|gen=f	2	ROOT
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	comp_ind
+2	impiega	impiegare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	vita	vita	S	S	num=s|gen=f	2	subj
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	sempre	sempre	B	B	_	4	mod
+4	riesce	riuscire	V	V	num=s|per=3|mod=i|ten=p	0	_
+
+1	a	a	E	E	_	3	arg
+2	terminar-	terminare	V	V	mod=f	1	prep
+3	la	la	P	PC	num=s|per=3|gen=f	0	_
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	quanto	quanto	B	B	_	1	conj
+3	questa	questo	D	DD	num=s|gen=f	4	mod
+4	smorfia	smorfia	S	S	num=s|gen=f	2	prep
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	complicata	complicare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	e	e	C	CC	_	6	con
+2	quanti	quanto	P	PQ	num=p|gen=m	3	det
+3	giri	giro	S	S	num=p|gen=m	6	subj
+4	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	dovuto	dovere	V	VM	num=s|mod=p|gen=m	6	modal
+6	fare	fare	V	V	mod=f	0	ROOT
+
+1	tra	tra	E	E	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	viscere	viscere	S	S	num=p|gen=f	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	suo	suo	A	AP	num=s|gen=m	6	mod
+6	corpo	corpo	S	S	num=s|gen=m	4	prep
+
+1	quasi	quasi	B	B	_	2	mod
+2	avesse	avere	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	fatale	fatale	A	A	num=s|gen=n	2	pred
+
+1	appuntamento	appuntamento	S	S	num=s|gen=m	0	ROOT
+
+1	E	e	C	CC	_	2	con
+2	quante	quanto	D	DQ	num=p|gen=f	4	mod
+3	orribili	orribile	A	A	num=p|gen=n	4	mod
+4	contorsioni	contorsione	S	S	num=p|gen=f	0	ROOT
+
+1	per	per	E	E	_	0	ROOT
+2	raggiungere	raggiungere	V	V	mod=f	1	prep
+3	la	il	R	RD	num=s|gen=f	5	det
+4	sua	suo	A	AP	num=s|gen=f	5	mod
+5	faccia	faccia	S	S	num=s|gen=f	2	obj
+
+1	per	per	E	E	_	0	ROOT
+2	esprimere	esprimere	V	V	mod=f	1	prep
+3	tutto	tutto	T	T	num=s|gen=m	6	mod
+4	il	il	R	RD	num=s|gen=m	6	det
+5	suo	suo	A	AP	num=s|gen=m	6	mod
+6	fallimento	fallimento	S	S	num=s|gen=m	2	obj
+
+1	E	e	C	CC	_	3	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	ti	ti	P	PC	num=s|per=2|gen=n	6	obj
+6	trovi	trovare	V	V	num=s|per=3|mod=c|ten=p	3	mod_rel
+7	davanti	davanti	B	B	_	3	ROOT
+
+1	in	in	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	strada	strada	S	S	num=s|gen=f	1	prep
+4	deserta	deserto	A	A	num=s|gen=f	3	mod
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	5	det
+4	certa	certo	A	A	num=s|gen=f	5	mod
+5	paura	paura	S	S	num=s|gen=f	2	obj
+
+1	Non	non	B	BN	_	2	neg
+2	tanto	tanto	B	B	_	0	ROOT
+3	per	per	E	E	_	2	comp
+4	la	il	R	RD	num=s|gen=f	6	det
+5	sua	suo	A	AP	num=s|gen=f	6	mod
+6	cattiveria	cattiveria	S	S	num=s|gen=f	3	prep
+
+1	ma	ma	C	CC	_	0	ROOT
+2	proprio	proprio	B	B	_	1	mod
+
+1	per	per	E	E	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	4	det
+3	sua	suo	A	AP	num=s|gen=f	4	mod
+4	bruttura	bruttura	S	S	num=s|gen=f	1	prep
+
+1	Basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	guardare	guardare	V	V	mod=f	1	arg
+
+1	in	in	E	E	_	0	ROOT
+2	fondo	fondo	S	S	num=s|gen=m	1	prep
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	propria	proprio	A	AP	num=s|gen=f	5	mod
+5	faccia	faccia	S	S	num=s|gen=f	3	prep
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	frugar-	frugare	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+
+1	dentro	dentro	B	B	_	2	mod
+2	agli	al	E	EA	num=p|gen=m	0	_
+3	intestini	intestino	S	S	num=p|gen=m	2	prep
+
+1	Ogni	ogni	D	DI	num=s|gen=n	2	mod
+2	domanda	domanda	S	S	num=s|gen=f	0	ROOT
+3	al	a	E	EA	num=s|gen=m	2	comp
+4	corpo	corpo	S	S	num=s|gen=m	3	prep
+
+1	può	potere	V	VM	num=s|per=3|mod=i|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	breccia	breccia	S	S	num=s|gen=f	2	pred
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	inizio	inizio	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	inquietudini	inquietudine	S	S	num=p|gen=f	3	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	di	di	E	E	_	1	conj
+3	ossessioni	ossessione	S	S	num=p|gen=f	2	prep
+

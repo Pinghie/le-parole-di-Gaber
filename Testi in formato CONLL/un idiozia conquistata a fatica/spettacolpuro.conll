@@ -1,0 +1,680 @@
+1	Con	con	E	E	_	0	ROOT
+2	tutte	tutto	T	T	num=p|gen=f	4	mod
+3	le	il	R	RD	num=p|gen=f	4	det
+4	contraddizioni	contraddizione	S	S	num=p|gen=f	1	prep
+5	e	e	C	CC	_	4	con
+6	le	il	R	RD	num=p|gen=f	7	det
+7	incertezze	incertezza	S	S	num=p|gen=f	4	conj
+8	del	di	E	EA	num=s|gen=m	7	comp
+9	destino	destino	S	S	num=s|gen=m	8	prep
+10	umano	umano	A	A	num=s|gen=m	9	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	vita	vita	S	S	num=s|gen=f	3	subj
+3	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	vissuta	vivere	V	V	num=s|mod=p|gen=f	3	mod
+5	sempre	sempre	B	B	_	4	mod
+6	come	come	C	CS	_	4	mod
+7	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	6	sub
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	dono	dono	S	S	num=s|gen=m	7	pred
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	oooh	oooh	S	SW	num=n|gen=n	0	ROOT
+4	yeah	yeah	S	SW	num=n|gen=n	3	concat
+
+1	A	a	E	E	_	4	comp
+2	volte	volta	S	S	num=p|gen=f	1	prep
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	sensazione	sensazione	S	S	num=s|gen=f	4	obj
+7	di	di	E	E	_	6	comp
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	presente	presente	S	S	num=s|gen=n	7	prep
+10	ostile	ostile	A	A	num=s|gen=n	9	mod
+11	di	di	E	E	_	9	comp
+12	un	uno	R	RI	num=s|gen=m	13	det
+13	futuro	futuro	S	S	num=s|gen=m	11	prep
+14	orrendo	orrendo	A	A	num=s|gen=m	13	mod
+
+1	ma	ma	C	CC	_	5	con
+2	in	in	E	E	_	5	comp
+3	fondo	fondo	S	S	num=s|gen=m	2	prep
+4	son	son	C	CS	_	5	mod
+5	contento	contento	A	A	num=s|gen=m	0	ROOT
+6	di	di	E	E	_	5	arg
+7	appartenere	appartenere	V	V	mod=f	6	prep
+8	al	a	E	EA	num=s|gen=m	7	comp
+9	mondo	mondo	S	S	num=s|gen=m	8	prep
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	oooh	oooh	S	SW	num=n|gen=n	0	ROOT
+4	yeah	yeah	S	SW	num=n|gen=n	3	concat
+
+1	G	G	S	SP	_	2	mod
+2	coro	coro	S	S	num=s|gen=m	0	ROOT
+3	:	:	F	FC	_	2	punc
+4	Piango	Piango	S	SP	_	9	subj
+5	di	di	E	E	_	4	comp
+6	qua	qua	B	B	_	8	mod
+7	Qualche	Qualche	P	PD	num=s|gen=m	8	mod
+8	volta	volta	S	S	num=s|gen=f	5	prep
+9	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+10	di	di	E	E	_	9	comp
+11	là	là	B	B	_	10	prep
+
+1	Piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	di	di	E	E	_	1	comp
+3	qua	qua	B	B	_	5	mod
+4	Qualche	Qualche	P	PD	num=s|gen=m	5	mod
+5	volta	volta	S	S	num=s|gen=f	2	prep
+6	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	1	conj
+7	di	di	E	E	_	6	comp
+8	là	là	B	B	_	7	prep
+
+1	Il	il	R	RD	num=s|gen=m	3	det
+2	tragico	tragico	A	A	num=s|gen=m	3	mod
+3	problema	problema	S	S	num=s|gen=m	0	ROOT
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	rifiuti	rifiuto	S	S	num=p|gen=m	4	prep
+
+1	i	il	R	RD	num=p|gen=m	3	det
+2	grandi	grande	A	A	num=p|gen=n	3	mod
+3	privilegi	privilegio	S	S	num=p|gen=m	0	ROOT
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	pentiti	pentito	S	S	num=p|gen=m	4	prep
+
+1	previsti	prevedere	V	V	num=p|mod=p|gen=m	2	mod
+2	aiuti	aiuto	S	S	num=p|gen=m	0	ROOT
+3	ai	al	E	EA	num=p|gen=m	2	comp
+4	pronipoti	pronipote	S	S	num=p|gen=n	3	prep
+5	dei	di	E	EA	num=p|gen=m	4	comp
+6	terremotati	terremotato	S	S	num=p|gen=m	5	prep
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	dramma	dramma	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	ingorgo	ingorgo	S	S	num=s|gen=m	3	prep
+6	cittadino	cittadino	A	A	num=s|gen=m	5	mod
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	aerei	aereo	S	S	num=p|gen=m	3	subj
+3	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	puntuali	puntuale	A	A	num=p|gen=n	3	mod
+5	sempre	sempre	B	B	_	4	mod
+6	meno	meno	B	B	_	3	mod
+
+1	scommesse	scommessa	S	S	num=p|gen=f	4	subj
+2	su	su	E	E	_	1	comp
+3	chi	chi	P	PR	num=n|gen=n	2	prep
+4	arriva	arrivare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	vivo	vivo	A	A	num=s|gen=m	4	mod
+
+1	sopra	sopra	E	E	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	pendolino	pendolino	S	S	num=s|gen=m	1	prep
+
+1	E	e	C	CC	_	2	con
+2	intanto	intanto	B	B	_	0	_
+
+1	G	G	S	SP	_	4	subj
+2	coro	coro	S	S	num=s|gen=m	1	mod
+3	:	:	F	FC	_	1	punc
+4	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	comp
+6	qua	qua	B	B	_	8	mod
+7	Qualche	Qualche	P	PD	num=s|gen=m	8	mod
+8	volta	volta	S	S	num=s|gen=f	5	prep
+9	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+10	di	di	E	E	_	9	comp
+11	là	là	B	B	_	10	prep
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	calcio	calcio	S	S	num=s|gen=m	3	subj
+3	sanno	sapere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	tutti	tutto	P	PI	num=p|gen=m	3	obj
+5	che	che	C	CS	_	3	mod
+6	è	essere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+7	corrotto	corrompere	V	V	num=s|mod=p|gen=m	5	sub
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	gente	gente	S	S	num=s|gen=f	4	subj
+3	ormai	ormai	B	B	_	4	mod
+4	sopporta	sopportare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	proprio	proprio	B	B	_	6	mod
+6	tutto	tutto	P	PI	num=s|gen=m	4	obj
+
+1	e	e	C	CC	_	8	con
+2	anche	anche	B	B	_	3	mod
+3	se	se	C	CS	_	8	mod
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+6	il	il	R	RD	num=s|gen=m	7	det
+7	trucco	trucco	S	S	num=s|gen=m	5	subj
+8	insiste	insistere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	gioca	giocare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	ancora	ancora	B	B	_	1	mod
+3	al	a	E	EA	num=s|gen=m	1	comp
+4	lotto	lotto	S	S	num=s|gen=m	3	prep
+
+1	Aumenta	aumentare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	spirale	spirale	S	S	num=s|gen=f	1	obj
+4	degli	di	E	EA	num=p|gen=m	3	comp
+5	orrori	orrore	S	S	num=p|gen=m	4	prep
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	Italia	Italia	S	SP	_	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	piena	pieno	A	A	num=s|gen=f	3	pred
+5	di	di	E	E	_	4	comp
+6	rapinatori	rapinatore	S	S	num=p|gen=m	5	prep
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	in	in	E	E	_	4	comp
+3	genere	genere	S	S	num=s|gen=m	2	prep
+4	stan	stan	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	dentro	dentro	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	giorno	giorno	S	S	num=s|gen=m	5	prep
+
+1	e	e	C	CC	_	3	con
+2	poi	poi	B	B	_	3	mod
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	già	già	B	B	_	3	mod
+5	fuori	fuori	B	B	_	0	ROOT
+
+1	E	e	C	CC	_	2	con
+2	allora	allora	B	B	_	0	_
+
+1	G	G	S	SP	_	4	subj
+2	coro	coro	S	S	num=s|gen=m	1	mod
+3	:	:	F	FC	_	1	punc
+4	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	comp
+6	qua	qua	B	B	_	8	mod
+7	Qualche	Qualche	P	PD	num=s|gen=m	8	mod
+8	volta	volta	S	S	num=s|gen=f	5	prep
+9	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+10	di	di	E	E	_	9	comp
+11	là	là	B	B	_	10	prep
+
+1	Piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	di	di	E	E	_	1	comp
+3	qua	qua	B	B	_	5	mod
+4	Qualche	Qualche	P	PD	num=s|gen=m	5	mod
+5	volta	volta	S	S	num=s|gen=f	2	prep
+6	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	1	conj
+7	di	di	E	E	_	6	comp
+8	là	là	B	B	_	7	prep
+
+1	Nel	in	E	EA	num=s|gen=m	0	ROOT
+2	gioco	gioco	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	falso	falso	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	3	con
+6	del	di	E	EA	num=s|gen=m	3	conj
+7	vero	vero	A	A	num=s|gen=m	6	prep
+
+1	qualsiasi	qualsiasi	D	DI	num=s|gen=n	2	mod
+2	dolore	dolore	S	S	num=s|gen=m	5	subj
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	mondo	mondo	S	S	num=s|gen=m	3	prep
+5	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	spettacolo	spettacolo	S	S	num=s|gen=m	5	obj
+7	puro	puro	A	A	num=s|gen=m	5	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	C	CS	_	1	pred
+3	se	se	C	CS	_	2	concat
+4	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	3	sub
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	libro	libro	S	S	num=s|gen=m	4	pred
+7	di	di	E	E	_	6	comp
+8	avventure	avventura	S	S	num=p|gen=f	7	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	obj
+3	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	bene	bene	B	B	_	3	mod
+5	e	e	C	CC	_	3	con
+6	male	male	B	B	_	7	mod
+7	al	a	E	EA	num=s|gen=m	3	comp
+8	cuore	cuore	S	S	num=s|gen=m	7	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	libro	libro	S	S	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	non	non	B	BN	_	5	neg
+5	chiudo	chiudere	V	V	num=s|per=1|mod=i|ten=p	2	mod_rel
+6	mai	mai	B	B	_	5	mod
+
+1	G	G	S	SP	_	4	subj
+2	coro	coro	S	S	num=s|gen=m	1	mod
+3	:	:	F	FC	_	1	punc
+4	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	comp
+6	qua	qua	B	B	_	8	mod
+7	Qualche	Qualche	P	PD	num=s|gen=m	8	mod
+8	volta	volta	S	S	num=s|gen=f	5	prep
+9	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+10	di	di	E	E	_	9	comp
+11	là	là	B	B	_	10	prep
+
+1	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	di	di	E	E	_	1	comp
+3	qua	qua	B	B	_	5	mod
+4	Qualche	Qualche	P	PD	num=s|gen=m	5	mod
+5	volta	volta	S	S	num=s|gen=f	2	prep
+6	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	1	conj
+7	di	di	E	E	_	6	comp
+8	là	là	B	B	_	7	prep
+
+1	Emergono	emergere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	ogni	ogni	D	DI	num=s|gen=n	3	mod
+3	giorno	giorno	S	S	num=s|gen=m	1	mod_temp
+4	brutte	brutto	A	A	num=p|gen=f	3	mod
+5	storie	storia	S	S	num=p|gen=f	1	subj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	Bindi	Bindi	S	SP	_	3	subj
+3	inventa	inventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	leggi	legge	S	S	num=p|gen=f	3	obj
+5	straordinarie	straordinario	A	A	num=p|gen=f	4	mod
+
+1	e	e	C	CC	_	4	con
+2	i	il	R	RD	num=p|gen=m	3	det
+3	topi	topo	S	S	num=p|gen=m	4	subj
+4	vanno	andare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	a	a	E	E	_	4	comp
+6	spasso	spasso	S	S	num=s|gen=m	5	prep
+7	nelle	in	E	EA	num=p|gen=f	4	comp
+
+1	sale	salire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	operatorie	operatorio	A	A	num=p|gen=f	1	mod
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	industria	industria	S	S	num=s|gen=f	5	subj
+3	nazionale	nazionale	A	A	num=s|gen=n	2	mod
+4	o	o	C	CC	_	2	dis
+5	evade	evadere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	o	o	C	CC	_	5	dis
+7	emigra	emigrare	V	V	num=s|per=3|mod=i|ten=p	5	disj
+
+1	nel	in	E	EA	num=s|gen=m	5	comp
+2	sud	sud	S	S	num=n|gen=m	1	prep
+3	la	il	R	RD	num=s|gen=f	4	det
+4	situazione	situazione	S	S	num=s|gen=f	5	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	poco	poco	B	B	_	5	mod
+7	allegra	allegro	A	A	num=s|gen=f	5	pred
+
+1	e	e	C	CC	_	6	con
+2	Bossi	Bossi	S	SP	_	6	subj
+3	non	non	B	BN	_	6	neg
+4	ce	ce	P	PC	num=p|per=1|gen=n	6	comp_ind
+5	l'	lo	P	PC	num=s|per=3|gen=n	6	obj
+6	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	più	più	B	B	_	8	mod
+8	duro	duro	A	A	num=s|gen=m	6	mod
+
+1	gli	gli	P	PC	num=s|per=3|gen=m	3	comp_ind
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	obj
+3	vuole	volere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	viagra	viagra	S	S	num=s|gen=m	3	subj
+
+1	Per	per	E	E	_	0	ROOT
+2	forza	forza	S	S	num=s|gen=f	1	prep
+
+1	G	G	S	SP	_	4	subj
+2	coro	coro	S	S	num=s|gen=m	1	mod
+3	:	:	F	FC	_	1	punc
+4	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	comp
+6	qua	qua	B	B	_	8	mod
+7	Qualche	Qualche	P	PD	num=s|gen=m	8	mod
+8	volta	volta	S	S	num=s|gen=f	5	prep
+9	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+10	di	di	E	E	_	9	comp
+11	là	là	B	B	_	10	prep
+
+1	Nessuno	nessuno	P	PI	num=s|gen=m	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	ricorda	ricordare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	6	det
+5	vecchio	vecchio	A	A	num=s|gen=m	6	mod
+6	impegno	impegno	S	S	num=s|gen=m	3	obj
+
+1	ognuno	ognuno	P	PI	num=s|gen=m	4	subj
+2	sotto	sotto	B	B	_	4	mod_temp
+3	sotto	sotto	B	B	_	4	mod
+4	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	7	det
+6	suo	suo	A	AP	num=s|gen=m	7	mod
+7	disegno	disegno	S	S	num=s|gen=m	4	obj
+
+1	Di	di	E	E	_	0	ROOT
+2	Pietro	Pietro	S	SP	_	1	prep
+3	se	se	C	CS	_	1	mod
+4	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	3	sub
+5	premier	premier	S	SW	num=n|gen=m	4	pred
+6	ci	ci	P	PC	num=p|per=1|gen=n	7	comp_ind
+7	starà	stare	V	V	num=s|per=3|mod=i|ten=f	4	conj
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	ventennio	ventennio	S	S	num=s|gen=m	7	subj
+
+1	Da	da	E	E	_	5	comp
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	1	prep
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	parla	parlare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	solo	solo	B	B	_	5	mod
+7	di	di	E	E	_	5	comp
+8	ricatti	ricatto	S	S	num=p|gen=m	7	prep
+
+1	D'	di	E	E	_	3	comp
+2	Alema	Alema	S	SP	_	1	prep
+3	cerca	cercare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	accordi	accordo	S	S	num=p|gen=m	3	obj
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	con	con	E	E	_	3	comp
+8	tutti	tutto	P	PI	num=p|gen=m	7	prep
+
+1	Qualcuno	qualcuno	P	PI	num=s|gen=m	2	subj
+2	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	pensando	pensare	V	V	mod=g	2	mod
+4	già	già	B	B	_	3	mod
+5	ridate-	ridare	V	V	num=p|per=2|mod=m|ten=p	3	arg
+6	ci	ci	P	PC	num=p|per=1|gen=n	5	obj
+7	Andreotti	Andreotti	S	SP	_	5	subj
+
+1	E	e	C	CC	_	2	con
+2	allora	allora	B	B	_	0	_
+
+1	G	G	S	SP	_	4	subj
+2	coro	coro	S	S	num=s|gen=m	1	mod
+3	:	:	F	FC	_	1	punc
+4	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	comp
+6	qua	qua	B	B	_	8	mod
+7	Qualche	Qualche	P	PD	num=s|gen=m	8	mod
+8	volta	volta	S	S	num=s|gen=f	5	prep
+9	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+10	di	di	E	E	_	9	comp
+11	là	là	B	B	_	10	prep
+
+1	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	di	di	E	E	_	1	comp
+3	qua	qua	B	B	_	5	mod
+4	Qualche	Qualche	P	PD	num=s|gen=m	5	mod
+5	volta	volta	S	S	num=s|gen=f	2	prep
+6	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	1	conj
+7	di	di	E	E	_	6	comp
+8	là	là	B	B	_	7	prep
+
+1	Nel	in	E	EA	num=s|gen=m	0	ROOT
+2	gioco	gioco	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	falso	falso	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	3	con
+6	del	di	E	EA	num=s|gen=m	3	conj
+7	vero	vero	A	A	num=s|gen=m	6	prep
+
+1	qualsiasi	qualsiasi	D	DI	num=s|gen=n	2	mod
+2	dolore	dolore	S	S	num=s|gen=m	5	subj
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	mondo	mondo	S	S	num=s|gen=m	3	prep
+5	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	spettacolo	spettacolo	S	S	num=s|gen=m	5	obj
+7	puro	puro	A	A	num=s|gen=m	5	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	C	CS	_	1	pred
+3	se	se	C	CS	_	2	concat
+4	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	3	sub
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	film	film	S	S	num=n|gen=m	4	pred
+7	di	di	E	E	_	6	comp
+8	sentimento	sentimento	S	S	num=s|gen=m	7	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	obj
+3	coinvolge	coinvolgere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	proprio	proprio	B	B	_	3	mod
+5	tanto	tanto	B	B	_	3	mod
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	film	film	S	S	num=n|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	non	non	B	BN	_	5	neg
+5	finisce	finire	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+6	mai	mai	B	B	_	5	mod
+
+1	G	G	S	SP	_	4	subj
+2	coro	coro	S	S	num=s|gen=m	1	mod
+3	:	:	F	FC	_	1	punc
+4	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	comp
+6	qua	qua	B	B	_	8	mod
+7	Qualche	Qualche	P	PD	num=s|gen=m	8	mod
+8	volta	volta	S	S	num=s|gen=f	5	prep
+9	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+10	di	di	E	E	_	9	comp
+11	là	là	B	B	_	10	prep
+
+1	Piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	di	di	E	E	_	1	comp
+3	qua	qua	B	B	_	5	mod
+4	Qualche	Qualche	P	PD	num=s|gen=m	5	mod
+5	volta	volta	S	S	num=s|gen=f	2	prep
+6	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	1	conj
+7	di	di	E	E	_	6	comp
+8	là	là	B	B	_	7	prep
+
+1	Il	il	R	RD	num=s|gen=m	3	det
+2	grande	grande	A	A	num=s|gen=n	3	mod
+3	sforzo	sforzo	S	S	num=s|gen=m	0	ROOT
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	maggioranza	maggioranza	S	S	num=s|gen=f	4	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	scontra	scontrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	con	con	E	E	_	2	comp
+4	i	il	R	RD	num=p|gen=m	5	det
+5	polo	polo	S	S	num=n|gen=n	3	prep
+6	che	che	P	PR	num=n|gen=n	5	comp
+7	riavanza	riavanza	A	A	num=s|gen=f	6	mod
+
+1	intanto	intanto	B	B	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	potere	potere	S	S	num=s|gen=m	0	ROOT
+4	vero	vero	A	A	num=s|gen=m	3	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	in	in	E	E	_	1	comp
+3	mano	mano	S	S	num=s|gen=f	2	prep
+4	alla	al	E	EA	num=s|gen=f	1	comp
+5	finanza	finanza	S	S	num=s|gen=f	4	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	pace	pace	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	missione	missione	S	S	num=s|gen=f	3	pred
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	ci	ci	P	PC	num=p|per=1|gen=n	8	comp_ind
+8	impegna	impegnare	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+
+1	scommetto	scommettere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	qualcuno	qualcuno	P	PI	num=s|gen=m	5	subj
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	comp_ind
+5	guadagna	guadagnare	V	V	num=s|per=3|mod=i|ten=p	2	sub
+
+1	adesso	adesso	B	B	_	7	mod_temp
+2	nel	in	E	EA	num=s|gen=m	7	comp_loc
+3	Kossovo	Kossovo	S	SP	_	2	prep
+4	e	e	C	CC	_	2	con
+5	in	in	E	E	_	2	conj
+6	Serbia	Serbia	S	SP	_	5	prep
+7	parte	partire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	magna	magno	A	A	num=s|gen=f	0	ROOT
+3	magna	magno	A	A	num=s|gen=f	2	mod
+
+1	E	e	C	CC	_	2	con
+2	intanto	intanto	B	B	_	0	_
+
+1	G	G	S	SP	_	4	subj
+2	coro	coro	S	S	num=s|gen=m	1	mod
+3	:	:	F	FC	_	1	punc
+4	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	comp
+6	qua	qua	B	B	_	8	mod
+7	Qualche	Qualche	P	PD	num=s|gen=m	8	mod
+8	volta	volta	S	S	num=s|gen=f	5	prep
+9	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+10	di	di	E	E	_	9	comp
+11	là	là	B	B	_	10	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	guerra	guerra	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	hobby	hobby	S	SW	num=n|gen=m	3	pred
+6	degli	di	E	EA	num=p|gen=m	5	comp
+7	americani	americano	S	S	num=p|gen=m	6	prep
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	tanto	tanto	B	B	_	5	mod
+3	di	di	E	E	_	2	comp
+4	armamenti	armamento	S	S	num=p|gen=m	3	prep
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	pieni	pieno	A	A	num=p|gen=m	5	pred
+
+1	e	e	C	CC	_	4	con
+2	tutti	tutto	T	T	num=p|gen=m	4	mod
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	alleati	alleato	S	S	num=p|gen=m	0	ROOT
+5	dietro	dietro	B	B	_	6	mod
+6	come	come	E	E	_	4	comp
+7	pecoroni	pecorone	S	S	num=p|gen=m	6	prep
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	2	comp
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	da	da	E	E	_	2	arg
+4	sfamare	sfamare	V	V	mod=f	3	prep
+5	tante	tanto	D	DI	num=p|gen=f	6	mod
+6	bocche	bocca	S	S	num=p|gen=f	4	obj
+
+1	insorgon	insorgon	S	SW	num=n|gen=n	3	mod
+2	le	il	R	RD	num=p|gen=f	3	det
+3	nazioni	nazione	S	S	num=p|gen=f	0	ROOT
+4	meno	meno	B	B	_	5	mod
+5	ricche	ricco	A	A	num=p|gen=f	3	mod
+
+1	e	e	C	CC	_	5	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	ONU	ONU	S	SP	_	5	subj
+4	ultimamente	ultimo	B	B	_	5	mod
+5	conta	contare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	come	come	C	CS	_	5	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	due	due	N	N	_	0	ROOT
+3	di	di	E	E	_	2	comp
+4	picche	picca	S	S	num=p|gen=f	3	prep
+
+1	Per	per	E	E	_	0	ROOT
+2	forza	forza	S	S	num=s|gen=f	1	prep
+
+1	G	G	S	SP	_	4	subj
+2	coro	coro	S	S	num=s|gen=m	1	mod
+3	:	:	F	FC	_	1	punc
+4	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	comp
+6	qua	qua	B	B	_	8	mod
+7	Qualche	Qualche	P	PD	num=s|gen=m	8	mod
+8	volta	volta	S	S	num=s|gen=f	5	prep
+9	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+10	di	di	E	E	_	9	comp
+11	là	là	B	B	_	10	prep
+
+1	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	di	di	E	E	_	1	comp
+3	qua	qua	B	B	_	5	mod
+4	Qualche	Qualche	P	PD	num=s|gen=m	5	mod
+5	volta	volta	S	S	num=s|gen=f	2	prep
+6	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	1	conj
+7	di	di	E	E	_	6	comp
+8	là	là	B	B	_	7	prep
+
+1	Nel	in	E	EA	num=s|gen=m	0	ROOT
+2	gioco	gioco	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	falso	falso	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	3	con
+6	del	di	E	EA	num=s|gen=m	3	conj
+7	vero	vero	A	A	num=s|gen=m	6	prep
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	comp
+5	qua	qua	B	B	_	7	mod
+6	Qualche	Qualche	P	PD	num=s|gen=m	7	mod
+7	volta	volta	S	S	num=s|gen=f	4	prep
+8	piango	piangere	V	V	num=s|per=1|mod=i|ten=p	3	conj
+9	di	di	E	E	_	8	comp
+10	là	là	B	B	_	9	prep
+
+1	Nel	in	E	EA	num=s|gen=m	0	ROOT
+2	gioco	gioco	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	falso	falso	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	3	con
+6	del	di	E	EA	num=s|gen=m	3	conj
+7	vero	vero	A	A	num=s|gen=m	6	prep
+
+1	persino	persino	B	B	_	7	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	vita	vita	S	S	num=s|gen=f	7	subj
+4	e	e	C	CC	_	3	con
+5	la	il	R	RD	num=s|gen=f	6	det
+6	morte	morte	S	S	num=s|gen=f	3	conj
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	spettacolo	spettacolo	S	S	num=s|gen=m	7	pred
+9	puro	puro	A	A	num=s|gen=m	8	mod
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	vita	vita	S	S	num=s|gen=f	6	subj
+3	e	e	C	CC	_	2	con
+4	la	il	R	RD	num=s|gen=f	5	det
+5	morte	morte	S	S	num=s|gen=f	2	conj
+6	spettacolo	spettacolo	S	S	num=s|gen=m	0	ROOT
+7	puro	puro	A	A	num=s|gen=m	6	mod
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	vita	vita	S	S	num=s|gen=f	6	subj
+3	e	e	C	CC	_	2	con
+4	la	il	R	RD	num=s|gen=f	5	det
+5	morte	morte	S	S	num=s|gen=f	2	conj
+6	spettacolo	spettacolo	S	S	num=s|gen=m	0	ROOT
+7	puro	puro	A	A	num=s|gen=m	6	mod
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	vita	vita	S	S	num=s|gen=f	6	subj
+3	e	e	C	CC	_	2	con
+4	la	il	R	RD	num=s|gen=f	5	det
+5	morte	morte	S	S	num=s|gen=f	2	conj
+6	spettacolo	spettacolo	S	S	num=s|gen=m	0	ROOT
+7	puro	puro	A	A	num=s|gen=m	6	mod
+

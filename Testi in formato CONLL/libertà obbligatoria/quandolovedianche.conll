@@ -1,0 +1,491 @@
+1	Quando	quando	C	CS	_	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	vedi	vedere	V	V	num=s|per=2|mod=m|ten=p	1	sub
+4	sulle	su	E	EA	num=p|gen=f	3	comp
+5	facce	faccia	S	S	num=p|gen=f	4	prep
+6	degli	di	E	EA	num=p|gen=m	5	comp
+7	altri	altro	P	PI	num=p|gen=m	6	prep
+
+1	quando	quando	C	CS	_	0	ROOT
+2	li	li	P	PC	num=p|per=3|gen=m	3	obj
+3	osservi	osservare	V	V	num=s|per=3|mod=c|ten=p	1	sub
+4	in	in	E	E	_	3	comp
+5	quel	quello	D	DD	num=s|gen=m	7	mod
+6	loro	loro	A	AP	num=n|gen=n	7	mod
+7	appiattimento	appiattimento	S	S	num=s|gen=m	4	prep
+
+1	in	in	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	salotto	salotto	S	S	num=s|gen=m	1	prep
+4	in	in	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	bar	bar	S	S	num=n|gen=m	4	prep
+7	con	con	E	E	_	6	comp
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	Campari	Campari	S	SP	_	7	prep
+10	soda	sodo	A	A	num=s|gen=f	9	mod
+
+1	così	così	B	B	_	2	mod
+2	assuefatti	assuefare	V	V	num=p|mod=p|gen=m	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	violenza	violenza	S	S	num=s|gen=f	3	prep
+5	dolce	dolce	A	A	num=s|gen=n	4	mod
+6	della	di	E	EA	num=s|gen=f	4	comp
+7	moda	moda	S	S	num=s|gen=f	6	prep
+
+1	Quando	quando	C	CS	_	8	mod
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	vedi	vedere	V	V	num=s|per=2|mod=m|ten=p	1	sub
+4	sugli	su	E	EA	num=p|gen=m	3	comp
+5	altri	altro	P	PI	num=p|gen=m	4	prep
+6	e	e	C	CC	_	1	con
+7	ti	ti	P	PC	num=s|per=2|gen=n	8	clit
+8	senti	sentire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+9	diverso	diverso	A	A	num=s|gen=m	8	pred
+
+1	e	e	C	CC	_	2	con
+2	credi	credere	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	arg
+4	non	non	B	BN	_	6	neg
+5	essere	essere	V	VA	mod=f	6	aux
+6	sommerso	sommergere	V	V	num=s|mod=p|gen=m	3	prep
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	ancora	ancora	B	B	_	5	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	momento	momento	S	S	num=s|gen=m	2	pred
+6	di	di	E	E	_	5	arg
+7	soffrire	soffrire	V	V	mod=f	6	prep
+
+1	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	2	modal
+2	ridere	ridere	V	V	mod=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	loro	loro	P	PE	num=p|per=3|gen=n	3	prep
+5	ti	ti	P	PC	num=s|per=2|gen=n	6	obj
+6	serve	servire	V	V	num=s|per=3|mod=i|ten=p	2	conj
+7	per	per	E	E	_	6	arg
+8	capire	capire	V	V	mod=f	7	prep
+
+1	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	persone	persona	S	S	num=p|gen=f	0	ROOT
+3	piatte	piatto	A	A	num=p|gen=f	2	mod
+4	molli	molle	A	A	num=p|gen=n	2	mod
+5	stanche	stanco	A	A	num=p|gen=f	2	mod
+
+1	Ma	ma	C	CC	_	4	con
+2	quando	quando	C	CS	_	4	mod
+3	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+4	vedi	vedere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+5	anche	anche	B	B	_	4	mod
+
+1	sulla	su	E	EA	num=s|gen=f	0	ROOT
+2	tua	tuo	A	AP	num=s|gen=f	3	mod
+3	maglietta	maglietta	S	S	num=s|gen=f	1	prep
+4	sulle	su	E	EA	num=p|gen=f	3	comp
+5	scarpe	scarpa	S	S	num=p|gen=f	4	prep
+6	da	da	E	E	_	1	ROOT
+7	tennis	tennis	S	S	num=s|gen=m	6	prep
+
+1	sui	su	E	EA	num=p|gen=m	6	comp
+2	blue	blue	S	S	num=n|gen=m	1	prep
+3	jeans	jeans	S	SW	num=n|gen=m	2	mod
+4	da	da	E	E	_	3	comp
+5	quattordici	quattordici	N	N	_	4	prep
+6	once	oncia	S	S	num=p|gen=f	0	ROOT
+
+1	Su	su	E	E	_	8	comp
+2	come	come	C	CS	_	3	mod
+3	parli	parlare	V	V	num=s|per=3|mod=c|ten=p	1	prep
+4	cosa	cosa	S	S	num=s|gen=f	3	mod
+5	canti	canto	S	S	num=p|gen=m	1	conj
+6	come	come	E	E	_	5	comp
+7	ti	ti	P	PC	num=s|per=2|gen=n	6	prep
+8	vesti	veste	S	S	num=p|gen=f	0	ROOT
+
+1	sui	su	E	EA	num=p|gen=m	6	comp
+2	tuoi	tuo	A	AP	num=p|gen=m	3	mod
+3	bisogni	bisogno	S	S	num=p|gen=m	1	prep
+4	le	il	R	RD	num=p|gen=f	6	det
+5	tue	tuo	A	AP	num=p|gen=f	6	mod
+6	scelte	scelta	S	S	num=p|gen=f	0	ROOT
+7	sui	su	E	EA	num=p|gen=m	6	comp
+8	tuoi	tuo	A	AP	num=p|gen=m	9	mod
+9	gusti	gusto	S	S	num=p|gen=m	7	prep
+
+1	allora	allora	B	B	_	3	mod
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	clit
+3	senti	sentire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	anche	anche	B	B	_	5	mod
+5	tu	tu	P	PE	num=s|per=2|gen=n	3	subj
+6	arrendevole	arrendevole	A	A	num=s|gen=n	5	mod
+7	e	e	C	CC	_	6	con
+8	fiacco	fiacco	A	A	num=s|gen=m	6	conj
+
+1	Allora	allora	B	B	_	3	mod
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	piaci	piacere	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	meno	meno	B	B	_	3	mod
+7	e	e	C	CC	_	3	con
+8	non	non	B	BN	_	9	neg
+9	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	3	ROOT
+10	perché	perché	C	CS	_	3	ROOT
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	riesci	riuscire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	a	a	E	E	_	3	arg
+5	trovare	trovare	V	V	mod=f	4	prep
+6	nemmeno	nemmeno	B	B	_	5	mod
+7	abbastanza	abbastanza	B	B	_	5	mod
+
+1	distacco	distacco	S	S	num=s|gen=m	0	ROOT
+2	per	per	E	E	_	1	arg
+3	ridere	ridere	V	V	mod=f	2	prep
+4	di	di	E	E	_	3	comp
+5	te	te	P	PE	num=s|per=2|gen=n	4	prep
+6	per	per	E	E	_	3	arg
+7	ridere	ridere	V	V	mod=f	6	prep
+8	di	di	E	E	_	7	comp
+9	te	te	P	PE	num=s|per=2|gen=n	8	prep
+
+1	Quando	quando	C	CS	_	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	vedi	vedere	V	V	num=s|per=2|mod=m|ten=p	1	sub
+4	sulle	su	E	EA	num=p|gen=f	3	comp
+5	facce	faccia	S	S	num=p|gen=f	4	prep
+6	degli	di	E	EA	num=p|gen=m	5	comp
+7	altri	altro	P	PI	num=p|gen=m	6	prep
+
+1	quando	quando	C	CS	_	0	ROOT
+2	li	li	P	PC	num=p|per=3|gen=m	3	obj
+3	osservi	osservare	V	V	num=s|per=3|mod=c|ten=p	1	sub
+4	in	in	E	E	_	3	comp
+5	quel	quello	D	DD	num=s|gen=m	7	mod
+6	loro	loro	A	AP	num=n|gen=n	7	mod
+7	appiattimento	appiattimento	S	S	num=s|gen=m	4	prep
+
+1	gli	il	R	RD	num=p|gen=m	3	det
+2	stessi	stessi	A	A	num=p|gen=m	3	mod
+3	atteggiamenti	atteggiamento	S	S	num=p|gen=m	0	ROOT
+4	la	il	R	RD	num=s|gen=f	6	det
+5	stessa	stessa	A	A	num=s|gen=f	6	mod
+6	ironia	ironia	S	S	num=s|gen=f	3	mod
+
+1	e	e	C	CC	_	4	con
+2	le	il	R	RD	num=p|gen=f	4	det
+3	loro	loro	A	AP	num=n|gen=n	4	mod
+4	battute	battuta	S	S	num=p|gen=f	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	da	da	E	E	_	4	comp
+8	trattoria	trattoria	S	S	num=s|gen=f	7	prep
+
+1	e	e	C	CC	_	3	con
+2	le	il	R	RD	num=p|gen=f	3	det
+3	mani	mano	S	S	num=p|gen=f	0	ROOT
+4	curate	curare	V	V	num=p|mod=p|gen=f	3	mod
+5	le	il	R	RD	num=p|gen=f	6	det
+6	camice	camice	S	S	num=s|gen=m	3	conj
+7	pulite	pulito	A	A	num=p|gen=f	6	mod
+
+1	bianche	bianco	A	A	num=p|gen=f	0	ROOT
+
+1	Ma	ma	C	CC	_	4	con
+2	quando	quando	C	CS	_	4	mod
+3	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+4	vedi	vedere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+5	anche	anche	B	B	_	4	mod
+
+1	sulla	su	E	EA	num=s|gen=f	0	ROOT
+2	tua	tuo	A	AP	num=s|gen=f	3	mod
+3	maglietta	maglietta	S	S	num=s|gen=f	1	prep
+4	sulle	su	E	EA	num=p|gen=f	3	comp
+5	scarpe	scarpa	S	S	num=p|gen=f	4	prep
+6	da	da	E	E	_	1	ROOT
+7	tennis	tennis	S	S	num=s|gen=m	6	prep
+
+1	sui	su	E	EA	num=p|gen=m	6	comp
+2	blue	blue	S	S	num=n|gen=m	1	prep
+3	jeans	jeans	S	SW	num=n|gen=m	2	mod
+4	da	da	E	E	_	3	comp
+5	quattordici	quattordici	N	N	_	4	prep
+6	once	oncia	S	S	num=p|gen=f	0	ROOT
+
+1	sul	su	E	EA	num=s|gen=m	0	ROOT
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	giaccone	giaccone	S	S	num=s|gen=m	1	prep
+4	americano	americano	A	A	num=s|gen=m	3	mod
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	7	aux
+7	comprato	comprare	V	V	num=s|mod=p|gen=m	3	mod_rel
+
+1	con	con	E	E	_	0	ROOT
+2	pochi	poco	D	DI	num=p|gen=m	3	mod
+3	soldi	soldo	S	S	num=p|gen=m	1	prep
+4	al	a	E	EA	num=s|gen=m	3	comp
+5	mercatino	mercatino	S	S	num=s|gen=m	4	prep
+6	dell'	di	E	EA	num=s|gen=n	5	comp
+7	usato	usato	S	S	num=s|gen=m	6	prep
+
+1	Allora	allora	B	B	_	2	mod
+2	arriva	arrivare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	al	a	E	EA	num=s|gen=m	2	comp
+4	disgusto	disgusto	S	S	num=s|gen=m	3	prep
+5	la	il	R	RD	num=s|gen=f	7	det
+6	tua	tuo	A	AP	num=s|gen=f	7	mod
+7	stravaganza	stravaganza	S	S	num=s|gen=f	2	subj
+
+1	allora	allora	B	B	_	2	mod
+2	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	moda	moda	S	S	num=s|gen=f	2	pred
+5	ogni	ogni	D	DI	num=s|gen=n	6	mod
+6	gesto	gesto	S	S	num=s|gen=m	2	mod_temp
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	fai	fare	V	V	num=s|per=2|mod=i|ten=p	6	mod_rel
+
+1	non	non	B	BN	_	3	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	riesce	riuscire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	nemmeno	nemmeno	B	B	_	3	mod
+5	ad	ad	E	E	_	3	arg
+6	avere	avere	V	V	mod=f	5	prep
+7	abbastanza	abbastanza	B	B	_	6	mod
+
+1	coscienza	coscienza	S	S	num=s|gen=f	0	ROOT
+2	per	per	E	E	_	1	arg
+3	piangere	piangere	V	V	mod=f	2	prep
+4	di	di	E	E	_	3	comp
+5	noi	noi	P	PE	num=p|per=1|gen=n	4	prep
+6	per	per	E	E	_	3	arg
+7	piangere	piangere	V	V	mod=f	6	prep
+8	di	di	E	E	_	7	comp
+9	noi	noi	P	PE	num=p|per=1|gen=n	8	prep
+
+1	Di	di	E	E	_	5	comp
+2	noi	noi	P	PE	num=p|per=1|gen=n	1	prep
+3	così	così	B	B	_	4	mod
+4	ribelli	ribelle	A	A	num=p|gen=n	2	mod
+5	così	così	B	B	_	6	mod
+6	devoti	devoto	A	A	num=p|gen=m	0	ROOT
+
+1	di	di	E	E	_	6	comp
+2	noi	noi	P	PE	num=p|per=1|gen=n	1	prep
+3	così	così	B	B	_	4	mod
+4	folli	folle	A	A	num=p|gen=n	2	mod
+5	così	così	B	B	_	6	mod
+6	massificati	massificare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	di	di	E	E	_	7	comp
+2	noi	noi	P	PE	num=p|per=1|gen=n	1	prep
+3	così	così	B	B	_	4	mod
+4	avanti	avanti	B	B	_	2	mod
+5	e	e	C	CC	_	1	con
+6	così	così	B	B	_	7	mod
+7	impotenti	impotente	A	A	num=p|gen=n	0	ROOT
+
+1	coi	con	E	EA	num=p|gen=m	5	comp
+2	capelli	capello	S	S	num=p|gen=m	1	prep
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	lunghi	lungo	A	A	num=p|gen=m	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	le	il	R	RD	num=p|gen=f	4	det
+3	nostre	nostro	A	AP	num=p|gen=f	4	mod
+4	barbe	barba	S	S	num=p|gen=f	0	ROOT
+5	da	da	E	E	_	4	comp
+6	impegnati	impegnato	A	A	num=p|gen=m	5	prep
+
+1	Di	di	E	E	_	0	ROOT
+2	questa	questo	D	DD	num=s|gen=f	5	mod
+3	nostra	nostro	A	AP	num=s|gen=f	5	mod
+4	assurda	assurdo	A	A	num=s|gen=f	5	mod
+5	mancanza	mancanza	S	S	num=s|gen=f	1	prep
+6	di	di	E	E	_	5	comp
+7	rigore	rigore	S	S	num=s|gen=m	6	prep
+
+1	di	di	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	mollezza	mollezza	S	S	num=s|gen=f	1	prep
+4	sorda	sordo	A	A	num=s|gen=f	3	mod
+5	che	che	P	PR	num=n|gen=n	8	subj
+6	non	non	B	BN	_	8	neg
+7	ci	ci	P	PC	num=p|per=1|gen=n	8	comp_ind
+8	fa	fare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+9	reagire	reagire	V	V	mod=f	8	arg
+
+1	di	di	E	E	_	0	_
+2	noi	noi	P	PE	num=p|per=1|gen=n	1	prep
+3	che	che	C	CS	_	1	con
+4	non	non	B	BN	_	5	neg
+5	sappiamo	sapere	V	V	num=p|per=1|mod=i|ten=p	3	sub
+6	cosa	cosa	S	S	num=s|gen=f	5	obj
+7	sia	sia	C	CC	_	6	con
+8	la	il	R	RD	num=s|gen=f	10	det
+9	nostra	nostro	A	AP	num=s|gen=f	10	mod
+10	malattia	malattia	S	S	num=s|gen=f	6	conj
+
+1	e	e	C	CC	_	6	con
+2	forse	forse	B	B	_	6	mod
+3	non	non	B	BN	_	6	neg
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	6	aux
+5	ancora	ancora	B	B	_	6	mod
+6	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	gemito	gemito	S	S	num=s|gen=m	6	obj
+
+1	ma	ma	C	CC	_	4	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	paura	paura	S	S	num=s|gen=f	4	subj
+4	comincia	cominciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	a	a	E	E	_	4	arg
+6	salire	salire	V	V	mod=f	5	prep
+7	dagli	da	E	EA	num=p|gen=m	6	comp
+8	intestini	intestino	S	S	num=p|gen=m	7	prep
+
+1	come	come	E	E	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	vomito	vomito	S	S	num=s|gen=m	1	prep
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+2	così	così	B	B	_	3	mod
+3	vitali	vitale	A	A	num=p|gen=n	1	mod
+4	così	così	B	B	_	5	mod
+5	distrutti	distruggere	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+2	così	così	B	B	_	3	mod
+3	creativi	creativo	A	A	num=p|gen=m	1	mod
+4	così	così	B	B	_	5	mod
+5	assuefatti	assuefare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+2	aggrappiamo	aggrappare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	ad	ad	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	gesto	gesto	S	S	num=s|gen=m	3	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	pred
+4	rottura	rottura	S	S	num=s|gen=f	3	prep
+
+1	con	con	E	E	_	6	comp
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	illusione	illusione	S	S	num=s|gen=f	1	prep
+4	e	e	C	CC	_	3	con
+5	il	il	R	RD	num=s|gen=m	6	det
+6	pretesto	pretesto	S	S	num=s|gen=m	0	ROOT
+
+1	di	di	E	E	_	0	ROOT
+2	scegliere	scegliere	V	V	mod=f	1	prep
+3	ancora	ancora	B	B	_	2	mod
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+2	così	così	B	B	_	3	mod
+3	originali	originale	A	A	num=p|gen=n	1	mod
+4	e	e	C	CC	_	1	con
+5	spappolati	spappolare	V	V	num=p|mod=p|gen=m	0	_
+
+1	creiamo	creare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	saltando	saltare	V	V	mod=g	1	mod
+3	liberi	libero	A	A	num=p|gen=m	2	mod
+4	come	come	E	E	_	2	comp
+5	pidocchi	pidocchio	S	S	num=p|gen=m	4	prep
+
+1	coi	con	E	EA	num=p|gen=m	5	comp
+2	nostri	nostro	A	AP	num=p|gen=m	3	mod
+3	gusti	gusto	S	S	num=p|gen=m	1	prep
+4	schifosi	schifoso	S	S	num=p|gen=m	3	mod
+5	accumulati	accumulare	V	V	num=p|mod=p|gen=m	0	_
+
+1	fra	fra	E	E	_	6	comp
+2	la	il	R	RD	num=s|gen=f	3	det
+3	testa	testa	S	S	num=s|gen=f	1	prep
+4	e	e	C	CC	_	3	con
+5	gli	il	R	RD	num=p|gen=m	6	det
+6	occhi	occhio	S	S	num=p|gen=m	0	ROOT
+
+1	Ormai	ormai	B	B	_	3	mod
+2	sei	essere	V	VA	num=s|per=2|mod=i|ten=p	3	aux
+3	soggetto	soggetto	S	S	num=s|gen=m	0	ROOT
+4	a	a	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	forza	forza	S	S	num=s|gen=f	4	prep
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	ti	ti	P	PC	num=s|per=2|gen=n	4	comp_ind
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	sconosciuta	sconoscere	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	ormai	ormai	B	B	_	3	mod
+2	sei	sei	N	N	_	3	mod
+3	libero	libero	A	A	num=s|gen=m	0	ROOT
+4	e	e	C	CC	_	3	con
+5	schiavo	schiavo	A	A	num=s|gen=m	3	conj
+
+1	ormai	ormai	B	B	_	3	mod
+2	sei	essere	V	VA	num=s|per=2|mod=i|ten=p	3	aux
+3	coinvolto	coinvolgere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	E	e	C	CC	_	5	con
+2	di	di	E	E	_	5	comp
+3	colpo	colpo	S	S	num=s|gen=m	2	prep
+4	ti	ti	P	PC	num=s|per=2|gen=n	5	comp_ind
+5	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	il	il	R	RD	num=s|gen=m	7	det
+7	sospetto	sospetto	S	S	num=s|gen=m	5	subj
+8	che	che	P	PR	num=n|gen=n	7	comp
+9	in	in	E	E	_	8	comp
+10	tutta	tutto	T	T	num=s|gen=f	12	mod
+11	la	il	R	RD	num=s|gen=f	12	det
+12	vita	vita	S	S	num=s|gen=f	9	prep
+
+1	non	non	B	BN	_	4	neg
+2	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	4	aux
+3	mai	mai	B	B	_	4	mod_temp
+4	scelto	scegliere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	non	non	B	BN	_	8	neg
+6	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	8	aux
+7	mai	mai	B	B	_	8	mod_temp
+8	scelto	scegliere	V	V	num=s|mod=p|gen=m	4	conj
+
+1	non	non	B	BN	_	4	neg
+2	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	4	aux
+3	mai	mai	B	B	_	4	mod_temp
+4	scelto	scegliere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	Quando	quando	C	CS	_	3	mod
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	vedi	vedere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+4	anche	anche	B	B	_	3	mod
+
+1	sulla	su	E	EA	num=s|gen=f	0	ROOT
+2	tua	tuo	A	AP	num=s|gen=f	3	mod
+3	maglietta	maglietta	S	S	num=s|gen=f	1	prep
+4	sulle	su	E	EA	num=p|gen=f	3	comp
+5	scarpe	scarpa	S	S	num=p|gen=f	4	prep
+6	da	da	E	E	_	1	ROOT
+7	tennis	tennis	S	S	num=s|gen=m	6	prep
+
+1	sui	su	E	EA	num=p|gen=m	6	comp
+2	blue	blue	S	S	num=n|gen=m	1	prep
+3	jeans	jeans	S	SW	num=n|gen=m	2	mod
+4	da	da	E	E	_	3	comp
+5	quattordici	quattordici	N	N	_	4	prep
+6	once	oncia	S	S	num=p|gen=f	0	ROOT
+
+1	quando	quando	C	CS	_	3	mod
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	vedi	vedere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+4	anche	anche	B	B	_	3	mod
+
+1	quando	quando	C	CS	_	3	mod
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	vedi	vedere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+4	anche	anche	B	B	_	3	mod
+

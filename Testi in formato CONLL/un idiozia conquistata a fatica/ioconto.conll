@@ -1,0 +1,464 @@
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	essere	essere	S	S	num=s|gen=m	2	pred
+5	umano	umano	A	A	num=s|gen=m	4	mod
+
+1	unico	unico	A	A	num=s|gen=m	0	ROOT
+2	sensibile	sensibile	A	A	num=s|gen=n	1	mod
+3	irripetibile	irripetibile	A	A	num=s|gen=n	1	mod
+
+1	e	e	C	CC	_	4	con
+2	come	come	E	E	_	4	comp
+3	tale	tale	A	A	num=s|gen=n	2	prep
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	responsabile	responsabile	A	A	num=s|gen=n	4	pred
+
+1	del	di	E	EA	num=s|gen=m	0	ROOT
+2	mio	mio	A	AP	num=s|gen=m	3	mod
+3	pensiero	pensiero	S	S	num=s|gen=m	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mio	mio	A	AP	num=s|gen=m	6	mod
+6	operato	operato	S	S	num=s|gen=m	4	prep
+
+1	perché	perché	C	CS	_	0	ROOT
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	sub
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	cittadino	cittadino	S	S	num=s|gen=m	2	pred
+5	dello	di	E	EA	num=s|gen=m	4	comp
+6	stato	stato	S	S	num=s|gen=m	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	ultimamente	ultimo	B	B	_	2	mod
+
+1	tante	tanto	D	DI	num=p|gen=f	2	mod
+2	cose	cosa	S	S	num=p|gen=f	0	ROOT
+3	per	per	E	E	_	2	comp
+4	esempio	esempio	S	S	num=s|gen=m	3	prep
+
+1	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	Unione	Unione	S	SP	_	2	obj
+5	Europea	Europea	S	SP	_	2	mod
+
+1	perché	perché	C	CS	_	0	ROOT
+2	dicon	dicon	V	V	num=p|per=3|mod=i|ten=p	1	sub
+3	che	che	C	CS	_	2	arg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+5	assai	assai	B	B	_	6	mod
+6	conveniente	conveniente	A	A	num=s|gen=n	4	pred
+7	.	.	F	FS	_	1	punc
+
+1	Hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	bel	bello	A	A	num=s|gen=m	2	pred
+5	pò	pò	B	B	_	4	mod
+6	di	di	E	E	_	4	comp
+7	discorsi	discorso	S	S	num=p|gen=m	6	prep
+
+1	e	e	C	CC	_	4	con
+2	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+3	anche	anche	B	B	_	4	mod
+4	eletto	eleggere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	il	il	R	RD	num=s|gen=m	7	det
+6	nuovo	nuovo	A	A	num=s|gen=m	7	mod
+7	presidente	presidente	S	S	num=s|gen=m	4	obj
+8	.	.	F	FS	_	4	punc
+
+1	Evvai	Evvai	S	SP	_	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	Han	Han	S	SP	_	4	mod
+2	ridotto	ridurre	V	V	num=s|mod=p|gen=m	1	mod
+3	le	il	R	RD	num=p|gen=f	4	det
+4	spese	spesa	S	S	num=p|gen=f	0	ROOT
+5	statali	statale	A	A	num=p|gen=n	4	mod
+
+1	senza	senza	C	CS	_	0	ROOT
+2	mettere	mettere	V	V	mod=f	1	sub
+3	a	a	E	E	_	2	comp
+4	rischio	rischio	S	S	num=s|gen=m	3	prep
+5	le	il	R	RD	num=p|gen=f	6	det
+6	pensioni	pensione	S	S	num=p|gen=f	2	obj
+
+1	han	han	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	discusso	discutere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	sul	su	E	EA	num=s|gen=m	2	comp
+4	costo	costo	S	S	num=s|gen=m	3	prep
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	denaro	denaro	S	S	num=s|gen=m	5	prep
+
+1	e	e	C	CC	_	3	con
+2	han	han	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	parlato	parlare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	spesso	spesso	B	B	_	3	mod
+5	di	di	E	E	_	3	comp
+6	nuove	nuovo	A	A	num=p|gen=f	7	mod
+7	istituzioni	istituzione	S	S	num=p|gen=f	5	prep
+8	.	.	F	FS	_	3	punc
+
+1	Evvai	Evvai	S	SP	_	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	4	con
+2	io	io	P	PE	num=s|per=1|gen=n	4	subj
+3	dov'	dove	B	B	_	4	mod_loc
+4	ero	essere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+
+1	probabilmente	probabilmente	B	B	_	0	_
+2	in	in	E	E	_	1	comp
+3	quel	quello	D	DD	num=s|gen=m	4	mod
+4	momento	momento	S	S	num=s|gen=m	2	prep
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	ero	essere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+
+1	ero	essere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+2	in	in	E	E	_	1	pred
+3	vacanza	vacanza	S	S	num=s|gen=f	2	prep
+4	o	o	C	CC	_	1	dis
+5	forse	forse	B	B	_	6	mod
+6	ero	essere	V	V	num=s|per=1|mod=i|ten=i	1	conj
+7	malato	malato	A	A	num=s|gen=m	6	pred
+
+1	chissà	chissà	B	B	_	6	mod
+2	perché	perché	C	CS	_	6	mod
+3	non	non	B	BN	_	6	neg
+4	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+5	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	6	aux
+6	interpellato	interpellare	V	V	num=s|mod=p|gen=m	0	ROOT
+7	.	.	F	FS	_	6	punc
+
+1	E	e	C	CC	_	3	con
+2	no	no	B	BN	_	3	neg
+3	perché	perché	C	CS	_	5	mod
+4	io	io	P	PE	num=s|per=1|gen=n	5	subj
+5	conto	conto	S	S	num=s|gen=m	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	me	me	P	PE	num=s|per=1|gen=n	4	subj
+3	ne	ne	P	PC	num=n|gen=n	4	comp
+4	faccio	fare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	vanto	vanto	S	S	num=s|gen=m	4	obj
+
+1	m'	m'	C	CC	_	3	con
+2	han	han	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	detto	dire	V	V	num=s|mod=p|gen=m	0	ROOT
+4	che	che	C	CS	_	3	comp
+5	io	io	P	PE	num=s|per=1|gen=n	6	subj
+6	conto	conto	S	S	num=s|gen=m	4	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	son	son	B	BN	_	3	neg
+3	contento	contento	A	A	num=s|gen=m	1	pred
+4	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	3	con
+2	anche	anche	B	B	_	3	mod
+3	se	se	C	CS	_	0	ROOT
+4	ogni	ogni	D	DI	num=s|gen=n	3	sub
+5	tanto	tanto	B	B	_	4	mod
+
+1	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	qualche	qualche	D	DI	num=s|gen=n	3	mod
+3	cedimento	cedimento	S	S	num=s|gen=m	1	obj
+
+1	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	già	già	B	B	_	1	mod
+3	che	che	C	CS	_	2	comp
+4	sotto	sotto	B	B	_	7	mod
+5	sotto	sotto	B	B	_	6	mod
+6	son	son	C	CS	_	7	mod
+7	convinto	convinto	A	A	num=s|gen=m	3	sub
+8	.	.	F	FS	_	1	punc
+
+1	Non	non	B	BN	_	2	neg
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	pred
+5	medio	medio	A	A	num=s|gen=m	4	mod
+
+1	ma	ma	C	CC	_	4	con
+2	come	come	C	CS	_	3	mod
+3	dire	dire	V	V	mod=f	4	subj
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	individuo	individuo	S	S	num=s|gen=m	4	pred
+
+1	non	non	B	BN	_	2	neg
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	affatto	affatto	B	B	_	4	mod
+4	inutile	inutile	A	A	num=s|gen=n	2	pred
+5	e	e	C	CC	_	2	con
+6	passivo	passivo	A	A	num=s|gen=m	2	conj
+
+1	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	di	di	E	E	_	1	arg
+3	esser	essere	V	V	mod=f	2	prep
+4	decisivo	decisivo	A	A	num=s|gen=m	3	pred
+
+1	dò	dò	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	mio	mio	A	AP	num=s|gen=m	4	mod
+4	contributo	contributo	S	S	num=s|gen=m	1	obj
+5	alla	al	E	EA	num=s|gen=f	4	comp
+6	democrazia	democrazia	S	S	num=s|gen=f	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	ultimamente	ultimo	B	B	_	2	mod
+
+1	tante	tanto	D	DI	num=p|gen=f	2	mod
+2	cose	cosa	S	S	num=p|gen=f	0	ROOT
+3	per	per	E	E	_	2	comp
+4	esempio	esempio	S	S	num=s|gen=m	3	prep
+
+1	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	bilancio	bilancio	S	S	num=s|gen=m	2	obj
+5	dello	di	E	EA	num=s|gen=m	4	comp
+6	stato	stato	S	S	num=s|gen=m	5	prep
+
+1	e	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	parla	parlare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	da	da	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	4	prep
+6	pò	pò	B	B	_	7	mod
+7	di	di	E	E	_	5	comp
+8	recessione	recessione	S	S	num=s|gen=f	7	prep
+9	.	.	F	FS	_	3	punc
+
+1	Han	Han	S	S	num=n|gen=m	0	ROOT
+2	ridotto	ridurre	V	V	num=s|mod=p|gen=m	1	mod
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	orari	orario	S	S	num=p|gen=m	1	conj
+5	di	di	E	E	_	4	comp
+6	lavoro	lavoro	S	S	num=s|gen=m	5	prep
+
+1	cercando	cercare	V	V	mod=g	0	ROOT
+2	di	di	E	E	_	1	arg
+3	frenare	frenare	V	V	mod=f	2	prep
+4	la	il	R	RD	num=s|gen=f	5	det
+5	disoccupazione	disoccupazione	S	S	num=s|gen=f	3	obj
+6	.	.	F	FS	_	1	punc
+
+1	Evvai	Evvai	S	SP	_	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	Hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	mercato	mercato	S	S	num=s|gen=m	2	obj
+5	globale	globale	A	A	num=s|gen=n	4	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	prevede	prevedere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	uno	uno	R	RI	num=s|gen=m	4	det
+4	scambio	scambio	S	S	num=s|gen=m	2	obj
+5	più	più	B	B	_	6	mod
+6	efficace	efficace	A	A	num=s|gen=n	4	mod
+7	.	.	F	FS	_	2	punc
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	scoppiata	scoppiare	V	V	num=s|mod=p|gen=f	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	crisi	crisi	S	S	num=n|gen=f	2	subj
+5	dei	di	E	EA	num=p|gen=m	4	comp
+6	Balcani	Balcani	S	SP	_	5	prep
+
+1	e	e	C	CC	_	2	con
+2	dicon	dicon	V	V	num=p|per=3|mod=c|ten=i	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	fatto	fare	V	V	num=s|mod=p|gen=m	2	obj
+6	la	il	R	RD	num=s|gen=f	7	det
+7	guerra	guerra	S	S	num=s|gen=f	5	obj
+8	per	per	E	E	_	5	comp
+9	la	il	R	RD	num=s|gen=f	10	det
+10	pace	pace	S	S	num=s|gen=f	8	prep
+11	.	.	F	FS	_	2	punc
+
+1	Evvai	Evvai	S	SP	_	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	No	no	B	BN	_	5	neg
+2	,	,	F	FF	_	1	punc
+3	no	no	B	BN	_	5	neg
+4	non	non	B	BN	_	5	neg
+5	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	8	aux
+8	fatto	fare	V	V	num=s|mod=p|gen=m	5	arg
+9	bene	bene	B	B	_	8	mod
+10	o	o	C	CC	_	8	dis
+11	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	12	aux
+12	fatto	fare	V	V	num=s|mod=p|gen=m	8	conj
+13	male	male	B	B	_	12	mod
+14	,	,	F	FF	_	12	con
+15	non	non	B	BN	_	17	neg
+16	mi	mi	P	PC	num=s|per=1|gen=n	17	comp_ind
+17	permetterei	permettere	V	V	num=s|per=1|mod=d|ten=p	12	conj
+18	mai	mai	B	B	_	17	mod_temp
+19	.	.	F	FS	_	5	punc
+
+1	D'	di	E	E	_	3	comp
+2	altronde	altronde	B	B	_	1	prep
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	loro	loro	P	PE	num=p|per=3|gen=n	3	subj
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	decidono	decidere	V	V	num=p|per=3|mod=i|ten=p	4	mod_rel
+7	e	e	C	CC	_	6	con
+8	,	,	F	FF	_	9	punc
+9	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	mod
+10	distrar-	distrarre	V	V	mod=f	9	arg
+11	si	si	P	PC	num=n|per=3|gen=n	10	clit
+12	un	uno	R	RI	num=s|gen=m	13	det
+13	attimo	attimo	S	S	num=s|gen=m	10	obj
+14	,	,	F	FF	_	9	con
+15	si	si	P	PC	num=n|per=3|gen=n	17	clit
+16	si	si	P	PC	num=n|per=3|gen=n	17	clit
+17	,	,	F	FF	_	9	con
+18	lo	lo	P	PC	num=s|per=3|gen=m	19	obj
+19	so	sapere	V	V	num=s|per=1|mod=i|ten=p	9	conj
+20	che	che	C	CS	_	19	arg
+21	gli	il	R	RD	num=p|gen=m	22	det
+22	assenti	assente	A	A	num=p|gen=n	25	subj
+23	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	25	aux
+24	sempre	sempre	B	B	_	25	mod
+25	torto	torcere	V	V	num=s|mod=p|gen=m	31	mod
+26	,	,	F	FF	_	25	con
+27	ma	ma	C	CC	_	25	con
+28	non	non	B	BN	_	31	neg
+29	c'	ci	P	PC	num=n|gen=n	31	comp
+30	è	essere	V	VA	num=s|per=3|mod=i|ten=p	31	aux
+31	stato	essere	V	V	num=s|mod=p|gen=m	20	sub
+32	un	uno	R	RI	num=s|gen=m	33	det
+33	imbecille	imbecille	A	A	num=s|gen=n	31	pred
+34	che	che	P	PR	num=n|gen=n	36	subj
+35	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	36	aux
+36	detto	dire	V	V	num=s|mod=p|gen=m	33	mod_rel
+37	,	,	F	FF	_	31	punc
+38	che	che	D	DE	num=n|gen=n	40	mod
+39	libertà	libertà	S	S	num=n|gen=f	40	subj
+40	è	essere	V	V	num=s|per=3|mod=i|ten=p	20	sub
+41	partecipazione	partecipazione	S	S	num=s|gen=f	40	pred
+42	?	?	F	FS	_	3	punc
+
+1	E	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	perché	perché	C	CS	_	5	mod
+4	io	io	P	PE	num=s|per=1|gen=n	5	subj
+5	conto	conto	S	S	num=s|gen=m	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	me	me	P	PE	num=s|per=1|gen=n	4	subj
+3	ne	ne	P	PC	num=n|gen=n	4	comp
+4	faccio	fare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	vanto	vanto	S	S	num=s|gen=m	4	obj
+
+1	m'	m'	C	CC	_	3	con
+2	han	han	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	detto	dire	V	V	num=s|mod=p|gen=m	0	ROOT
+4	che	che	C	CS	_	3	comp
+5	io	io	P	PE	num=s|per=1|gen=n	6	subj
+6	conto	conto	S	S	num=s|gen=m	4	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	son	son	B	BN	_	3	neg
+3	contento	contento	A	A	num=s|gen=m	1	pred
+4	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	2	con
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	pronto	pronto	A	A	num=s|gen=m	2	pred
+
+1	a	a	E	E	_	0	ROOT
+2	fare	fare	V	V	mod=f	1	prep
+3	il	il	R	RD	num=s|gen=m	5	det
+4	mio	mio	A	AP	num=s|gen=m	5	mod
+5	intervento	intervento	S	S	num=s|gen=m	2	obj
+
+1	son	son	B	BN	_	0	_
+2	pronto	pronto	A	A	num=s|gen=m	1	mod
+3	su	su	E	E	_	2	comp
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	tipo	tipo	S	S	num=s|gen=m	3	prep
+
+1	di	di	E	E	_	0	ROOT
+2	argomento	argomento	S	S	num=s|gen=m	1	prep
+3	.	.	F	FS	_	1	punc
+
+1	Non	non	B	BN	_	2	neg
+2	odio	odio	S	S	num=s|gen=m	0	ROOT
+3	e	e	C	CC	_	2	con
+4	non	non	B	BN	_	5	neg
+5	invidio	invidiare	V	V	num=s|per=1|mod=i|ten=p	2	conj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	arg
+2	naturale	naturale	A	A	num=s|gen=n	1	pred
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	individuo	individuo	S	S	num=s|gen=m	3	pred
+
+1	però	però	B	B	_	3	mod
+2	non	non	B	BN	_	3	neg
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	certo	certo	B	B	_	3	mod
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	qualunquista	qualunquista	S	S	num=s|gen=n	3	pred
+
+1	né	né	C	CC	_	3	con
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	frustrato	frustrato	S	S	num=s|gen=m	0	ROOT
+4	pessimista	pessimista	S	S	num=s|gen=m	3	mod
+
+1	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	nella	in	E	EA	num=s|gen=f	1	comp
+3	pace	pace	S	S	num=s|gen=f	2	prep
+4	e	e	C	CC	_	2	con
+5	nella	in	E	EA	num=s|gen=f	2	conj
+6	libertà	libertà	S	S	num=n|gen=f	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	essere	essere	S	S	num=s|gen=m	2	pred
+5	umano	umano	A	A	num=s|gen=m	4	mod
+
+1	unico	unico	A	A	num=s|gen=m	0	ROOT
+2	sensibile	sensibile	A	A	num=s|gen=n	1	mod
+3	irripetibile	irripetibile	A	A	num=s|gen=n	1	mod
+
+1	ma	ma	C	CC	_	4	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+3	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+4	detto	dire	V	V	num=s|mod=p|gen=m	0	ROOT
+5	che	che	C	CS	_	4	arg
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	5	sub
+7	molto	molto	B	B	_	8	mod
+8	fragile	fragile	A	A	num=s|gen=n	6	pred
+
+1	e	e	C	CC	_	4	con
+2	forse	forse	B	B	_	4	mod
+3	anche	anche	B	B	_	4	mod
+4	da	da	E	E	_	0	ROOT
+5	ricoverare	ricoverare	V	V	mod=f	4	prep
+
+1	perché	perché	C	CS	_	0	ROOT
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	sub
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	unico	unico	A	A	num=s|gen=m	2	pred
+5	italiano	italiano	A	A	num=s|gen=m	4	mod
+

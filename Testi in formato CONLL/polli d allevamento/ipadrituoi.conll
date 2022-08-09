@@ -1,0 +1,501 @@
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	padri	padre	S	S	num=p|gen=m	2	conj
+6	tuoi	tuoi	A	A	num=p|gen=m	5	mod
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	5	subj
+3	come	come	C	CS	_	5	mod
+4	potrei	potere	V	VM	num=s|per=1|mod=d|ten=p	5	modal
+5	essere	essere	V	V	mod=f	0	ROOT
+6	io	io	P	PE	num=s|per=1|gen=n	5	subj
+
+1	non	non	B	BN	_	2	neg
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	austeri	austero	A	A	num=p|gen=m	2	pred
+4	e	e	C	CC	_	2	con
+5	riservati	riservato	A	A	num=p|gen=m	2	conj
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	vestono	vestire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	o	o	C	CC	_	3	dis
+5	meno	meno	B	B	_	3	disj
+6	come	come	E	E	_	2	comp
+7	noi	noi	P	PE	num=p|per=1|gen=n	6	prep
+
+1	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	colorati	colorato	A	A	num=p|gen=m	0	ROOT
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	5	subj
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	sentono	sentire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	vicini	vicino	A	A	num=p|gen=m	5	pred
+7	ai	al	E	EA	num=p|gen=m	5	comp
+8	tuoi	tuo	A	AP	num=p|gen=m	9	mod
+9	problemi	problema	S	S	num=p|gen=m	7	prep
+
+1	parlandone	parlandone	B	B	_	3	mod
+2	così	così	B	B	_	3	mod
+3	da	da	E	E	_	0	_
+4	pari	pari	A	A	num=n|gen=n	3	prep
+5	a	a	E	E	_	3	comp
+6	pari	pari	A	A	num=n|gen=n	5	prep
+
+1	senza	senza	C	CS	_	0	ROOT
+2	fare	fare	V	V	mod=f	1	sub
+3	i	il	R	RD	num=p|gen=m	4	det
+4	signori	signore	S	S	num=p|gen=m	2	obj
+5	senza	senza	E	E	_	4	comp
+6	falsa	falso	A	A	num=s|gen=f	7	mod
+7	dignità	dignità	S	S	num=n|gen=f	5	prep
+8	.	.	F	FS	_	1	punc
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+
+1	di	di	E	E	_	6	comp
+2	cosa	cosa	S	S	num=s|gen=f	1	prep
+3	mai	mai	B	B	_	6	mod_temp
+4	li	li	P	PC	num=p|per=3|gen=m	6	obj
+5	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	6	modal
+6	rimproverare	rimproverare	V	V	mod=f	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	certo	certo	B	B	_	0	ROOT
+3	di	di	E	E	_	2	comp
+4	un'	uno	R	RI	num=s|gen=f	6	det
+5	assurda	assurdo	A	A	num=s|gen=f	6	mod
+6	incomprensione	incomprensione	S	S	num=s|gen=f	3	prep
+
+1	nemmeno	nemmeno	B	B	_	0	_
+2	di	di	E	E	_	1	comp
+3	cattiva	cattivo	A	A	num=s|gen=f	4	mod
+4	educazione	educazione	S	S	num=s|gen=f	2	prep
+5	o	o	C	CC	_	2	dis
+6	di	di	E	E	_	2	disj
+7	abuso	abuso	S	S	num=s|gen=m	6	prep
+8	di	di	E	E	_	1	comp
+9	potere	potere	S	S	num=s|gen=m	8	prep
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sembrano	sembrare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	studenti	studente	S	S	num=p|gen=m	2	obj
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	invecchiati	invecchiare	V	V	num=p|mod=p|gen=m	2	mod
+
+1	non	non	B	BN	_	4	neg
+2	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+3	mai	mai	B	B	_	4	mod_temp
+4	creduto	credere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	nel	in	E	EA	num=s|gen=m	4	comp
+6	mito	mito	S	S	num=s|gen=m	5	prep
+
+1	del	di	E	EA	num=s|gen=m	0	ROOT
+2	mestiere	mestiere	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	padre	padre	S	S	num=s|gen=m	3	prep
+5	nella	in	E	EA	num=s|gen=f	1	conj
+6	loro	loro	A	AP	num=n|gen=n	7	mod
+7	autorità	autorità	S	S	num=n|gen=f	5	prep
+8	.	.	F	FS	_	1	punc
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+
+1	In	in	E	E	_	7	comp
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	immagine	immagine	S	S	num=s|gen=f	1	prep
+4	sfocata	sfocato	A	A	num=s|gen=f	3	mod
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	allungata	allungare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fuori	fuori	B	B	_	1	mod
+3	senza	senza	E	E	_	1	comp
+4	alone	alone	S	S	num=s|gen=m	3	prep
+5	di	di	E	E	_	4	comp
+6	errori	errore	S	S	num=p|gen=m	5	prep
+
+1	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	3	modal
+2	fuori	fuori	B	B	_	3	mod
+3	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	5	modal
+4	fuori	fuori	B	B	_	5	mod
+5	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	fuori	fuori	B	B	_	0	ROOT
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+
+1	son	son	B	BN	_	4	neg
+2	sempre	sempre	B	B	_	4	mod
+3	più	più	B	B	_	4	mod
+4	sensibili	sensibile	A	A	num=p|gen=n	0	_
+5	e	e	C	CC	_	4	con
+6	corretti	corretto	A	A	num=p|gen=m	4	conj
+
+1	non	non	B	BN	_	2	neg
+2	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	mania	mania	S	S	num=s|gen=f	2	obj
+5	di	di	E	E	_	4	arg
+6	intervenire	intervenire	V	V	mod=f	5	prep
+
+1	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	2	modal
+2	fare	fare	V	V	mod=f	0	ROOT
+3	tutto	tutto	D	DI	num=s|gen=m	4	mod
+4	quello	quello	P	PD	num=s|gen=m	2	obj
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	ti	ti	P	PC	num=s|per=2|gen=n	7	comp_ind
+7	pare	parere	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	sempre	sempre	B	B	_	1	mod
+3	più	più	B	B	_	1	mod
+4	perfetti	perfetto	A	A	num=p|gen=m	1	pred
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+4	nel	in	E	EA	num=s|gen=m	2	comp
+5	ruolo	ruolo	S	S	num=s|gen=m	4	prep
+6	di	di	E	E	_	5	comp
+7	moderni	moderno	A	A	num=p|gen=m	8	mod
+8	animatori	animatore	S	S	num=p|gen=m	6	prep
+
+1	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	tutti	tutto	P	PI	num=p|gen=m	1	subj
+3	diventati	diventare	V	V	num=p|mod=p|gen=m	1	mod
+4	libertari	libertario	A	A	num=p|gen=m	3	pred
+
+1	collezionano	collezionare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	invenzioni	invenzione	S	S	num=p|gen=f	1	obj
+3	innovazioni	innovazione	S	S	num=p|gen=f	2	mod
+4	e	e	C	CC	_	3	con
+5	attualità	attualità	S	S	num=n|gen=f	3	conj
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+
+1	In	in	E	E	_	7	comp
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	immagine	immagine	S	S	num=s|gen=f	1	prep
+4	sfocata	sfocato	A	A	num=s|gen=f	3	mod
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	allungata	allungare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fuori	fuori	B	B	_	1	mod
+3	senza	senza	E	E	_	1	comp
+4	alone	alone	S	S	num=s|gen=m	3	prep
+5	di	di	E	E	_	4	comp
+6	errori	errore	S	S	num=p|gen=m	5	prep
+
+1	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fuori	fuori	B	B	_	1	mod
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	figura	figura	S	S	num=s|gen=f	1	subj
+5	pulita	pulito	A	A	num=s|gen=f	4	mod
+6	inconsueta	inconsueto	A	A	num=s|gen=f	4	mod
+
+1	Corredata	corredare	V	V	num=s|mod=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	nuovissimi	nuovo	A	A	num=p|gen=m	4	mod
+4	umori	umore	S	S	num=p|gen=m	2	prep
+
+1	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	3	modal
+2	fuori	fuori	B	B	_	3	mod
+3	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	5	modal
+4	fuori	fuori	B	B	_	5	mod
+5	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	fuori	fuori	B	B	_	0	ROOT
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	padri	padre	S	S	num=p|gen=m	2	conj
+6	tuoi	tuoi	A	A	num=p|gen=m	5	mod
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	5	subj
+3	come	come	C	CS	_	5	mod
+4	potrei	potere	V	VM	num=s|per=1|mod=d|ten=p	5	modal
+5	essere	essere	V	V	mod=f	0	ROOT
+6	io	io	P	PE	num=s|per=1|gen=n	5	subj
+
+1	come	come	C	CS	_	3	mod
+2	potrei	potere	V	VM	num=s|per=1|mod=d|ten=p	3	modal
+3	essere	essere	V	V	mod=f	0	ROOT
+4	io	io	P	PE	num=s|per=1|gen=n	3	subj
+
+1	come	come	B	B	_	4	mod
+2	potremmo	potere	V	VM	num=p|per=1|mod=d|ten=p	3	modal
+3	essere	essere	V	VA	mod=f	4	aux
+4	noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+
+1	spalanchiamo	spalancare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	porte	porta	S	S	num=p|gen=f	1	obj
+4	a	a	E	E	_	1	comp_ind
+5	tutto	tutto	D	DI	num=s|gen=m	4	prep
+
+1	per	per	E	E	_	5	comp
+2	il	il	R	RD	num=s|gen=m	3	det
+3	progresso	progresso	S	S	num=s|gen=m	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	0	ROOT
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	non	non	B	BN	_	4	neg
+4	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	2	sub
+5	certo	certo	B	B	_	4	mod
+6	padri	padre	S	S	num=p|gen=m	4	pred
+7	fascisti	fascista	A	A	num=p|gen=m	4	pred
+
+1	padri	padre	S	S	num=p|gen=m	0	ROOT
+2	autoritari	autoritario	A	A	num=p|gen=m	1	mod
+
+1	liberi	libero	A	A	num=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	permissivi	permissivo	A	A	num=p|gen=m	1	conj
+
+1	non	non	B	BN	_	2	neg
+2	rappresentiamo	rappresentare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	vecchie	vecchio	A	A	num=p|gen=f	4	mod
+4	istituzioni	istituzione	S	S	num=p|gen=f	2	obj
+
+1	spalanchiamo	spalancare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	porte	porta	S	S	num=p|gen=f	1	obj
+4	a	a	E	E	_	1	comp_ind
+5	tutto	tutto	D	DI	num=s|gen=m	4	prep
+
+1	per	per	E	E	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	risveglio	risveglio	S	S	num=s|gen=m	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+2	così	così	B	B	_	3	mod
+3	impegnati	impegnare	V	V	num=p|mod=p|gen=m	0	ROOT
+4	così	così	B	B	_	5	mod
+5	pieni	pieno	A	A	num=p|gen=m	3	pred
+6	di	di	E	E	_	5	comp
+7	rigore	rigore	S	S	num=s|gen=m	6	prep
+
+1	allegramente	allegro	B	B	_	3	mod
+2	noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+3	compriamo	comprare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+
+1	biciclette	bicicletta	S	S	num=p|gen=f	0	ROOT
+2	da	da	E	E	_	1	comp
+3	cross	cross	S	SW	num=n|gen=m	2	prep
+4	per	per	E	E	_	1	comp
+5	i	il	R	RD	num=p|gen=m	7	det
+6	nostri	nostro	A	AP	num=p|gen=m	7	mod
+7	figli	figlio	S	S	num=p|gen=m	4	prep
+
+1	spalanchiamo	spalancare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	porte	porta	S	S	num=p|gen=f	1	obj
+4	a	a	E	E	_	1	comp_ind
+5	tutto	tutto	D	DI	num=s|gen=m	4	prep
+
+1	per	per	E	E	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	esultanza	esultanza	S	S	num=s|gen=f	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+
+1	del	di	E	EA	num=s|gen=m	0	ROOT
+2	solito	solito	A	A	num=s|gen=m	3	mod
+3	mondo	mondo	S	S	num=s|gen=m	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	solito	solito	S	S	num=s|gen=m	4	prep
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	continuiamo	continuare	V	V	num=p|per=1|mod=i|ten=p	2	sub
+4	a	a	E	E	_	3	arg
+5	regalare	regalare	V	V	mod=f	4	prep
+
+1	centinaia	centinaio	S	S	num=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	palloni	pallone	S	S	num=p|gen=m	2	prep
+4	biliardini	biliardino	S	S	num=p|gen=m	3	mod
+5	e	e	C	CC	_	1	con
+6	macchinine	macchinine	S	S	num=p|gen=f	1	conj
+7	giapponesi	giapponese	A	A	num=p|gen=n	6	mod
+
+1	spalanchiamo	spalancare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	porte	porta	S	S	num=p|gen=f	1	obj
+4	a	a	E	E	_	1	comp_ind
+5	tutto	tutto	D	DI	num=s|gen=m	4	prep
+
+1	per	per	E	E	_	0	ROOT
+2	lo	il	R	RD	num=s|gen=m	3	det
+3	sviluppo	sviluppo	S	S	num=s|gen=m	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	non	non	B	BN	_	4	neg
+4	facciamo	fare	V	V	num=p|per=1|mod=i|ten=p	2	sub
+5	nessuna	nessuna	D	DI	num=s|gen=f	6	mod
+6	resistenza	resistenza	S	S	num=s|gen=f	4	obj
+
+1	e	e	C	CC	_	4	con
+2	che	che	C	CS	_	4	subj
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	clit
+4	stravacchiamo	stravaccarsi	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+5	nel	in	E	EA	num=s|gen=m	4	comp
+6	benessere	benessere	S	S	num=s|gen=m	5	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	nella	in	E	EA	num=s|gen=f	1	ROOT
+3	mascherata	mascherata	S	S	num=s|gen=f	2	prep
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	libertà	libertà	S	S	num=n|gen=f	4	prep
+
+1	spalanchiamo	spalancare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	porte	porta	S	S	num=p|gen=f	1	obj
+4	a	a	E	E	_	1	comp_ind
+5	tutto	tutto	D	DI	num=s|gen=m	4	prep
+
+1	per	per	E	E	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	trionfo	trionfo	S	S	num=s|gen=m	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+
+1	del	di	E	EA	num=s|gen=m	0	ROOT
+2	solito	solito	A	A	num=s|gen=m	3	mod
+3	mondo	mondo	S	S	num=s|gen=m	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	solito	solito	A	A	num=s|gen=m	6	mod
+6	mondo	mondo	S	S	num=s|gen=m	4	prep
+
+1	del	di	E	EA	num=s|gen=m	0	ROOT
+2	solito	solito	A	A	num=s|gen=m	3	mod
+3	mondo	mondo	S	S	num=s|gen=m	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	solito	solito	S	S	num=s|gen=m	4	prep
+
+1	In	in	E	E	_	7	comp
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	immagine	immagine	S	S	num=s|gen=f	1	prep
+4	sfocata	sfocato	A	A	num=s|gen=f	3	mod
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	allungata	allungare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fuori	fuori	B	B	_	1	mod
+3	senza	senza	E	E	_	1	comp
+4	alone	alone	S	S	num=s|gen=m	3	prep
+5	di	di	E	E	_	4	comp
+6	errori	errore	S	S	num=p|gen=m	5	prep
+
+1	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fuori	fuori	B	B	_	1	mod
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	figura	figura	S	S	num=s|gen=f	1	subj
+5	pulita	pulito	A	A	num=s|gen=f	4	mod
+6	quasi	quasi	B	B	_	7	mod
+7	bianca	bianco	A	A	num=s|gen=f	4	mod
+8	dissanguata	dissanguare	V	V	num=s|mod=p|gen=f	4	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	presenza	presenza	S	S	num=s|gen=f	0	ROOT
+3	con	con	E	E	_	2	comp
+4	pochissimo	pochissimo	A	A	num=s|gen=m	5	mod
+5	spessore	spessore	S	S	num=s|gen=m	3	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	lascia	lasciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	6	det
+5	sua	suo	A	AP	num=s|gen=f	6	mod
+6	traccia	traccia	S	S	num=s|gen=f	3	obj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	presenza	presenza	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	nessuna	nessuna	D	DI	num=s|gen=f	5	mod
+5	consistenza	consistenza	S	S	num=s|gen=f	3	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	squaglia	squagliare	V	V	num=s|per=3|mod=i|ten=p	5	arg
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	sfilaccia	sfilacciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Viene	venire	V	V	num=s|per=3|mod=i|ten=p	3	modal
+2	fuori	fuori	B	B	_	3	mod
+3	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	fuori	fuori	B	B	_	3	mod
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	figura	figura	S	S	num=s|gen=f	3	subj
+7	disossata	disossare	V	V	num=s|mod=p|gen=f	6	mod
+
+1	che	che	C	CS	_	0	ROOT
+2	a	a	E	E	_	9	subj
+3	pensar-	pensare	V	V	mod=f	2	prep
+4	ci	ci	P	PC	num=p|per=1|gen=n	3	clit
+5	proprio	proprio	B	B	_	6	mod
+6	bene	bene	B	B	_	7	mod
+7	nell'	in	E	EA	num=s|gen=n	3	comp
+8	insieme	insieme	S	S	num=s|gen=m	7	prep
+9	dà	dare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+10	l'	il	R	RD	num=s|gen=n	11	det
+11	idea	idea	S	S	num=s|gen=f	9	obj
+12	di	di	E	E	_	11	comp
+13	libertà	libertà	S	S	num=n|gen=f	12	prep
+
+1	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	3	modal
+2	fuori	fuori	B	B	_	3	mod
+3	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	5	modal
+4	fuori	fuori	B	B	_	5	mod
+5	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	fuori	fuori	B	B	_	0	ROOT
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	padri	padre	S	S	num=p|gen=m	2	conj
+6	tuoi	tuoi	A	A	num=p|gen=m	5	mod
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	padri	padre	S	S	num=p|gen=m	2	conj
+6	tuoi	tuoi	A	A	num=p|gen=m	5	mod
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	padri	padre	S	S	num=p|gen=m	0	ROOT
+3	tuoi	tuoi	A	A	num=p|gen=m	2	mod
+

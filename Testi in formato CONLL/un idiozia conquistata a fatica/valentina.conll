@@ -1,0 +1,384 @@
+1	Lei	lei	P	PE	num=s|per=3|gen=n	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	muovendo	muovere	V	V	mod=g	3	mod
+5	nel	in	E	EA	num=s|gen=m	4	comp
+6	suo	suo	A	AP	num=s|gen=m	7	mod
+7	letto	letto	S	S	num=s|gen=m	5	prep
+
+1	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	giocando	giocare	V	V	mod=g	1	pred
+3	col	con	E	EA	num=s|gen=m	2	comp
+4	suo	suo	A	AP	num=s|gen=m	5	mod
+5	piede	piede	S	S	num=s|gen=m	3	prep
+
+1	poi	poi	B	B	_	2	mod
+2	all'	al	E	EA	num=s|gen=n	0	ROOT
+3	improvviso	improvviso	S	S	num=s|gen=m	2	prep
+
+1	sorride	sorridere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	Quasi	quasi	B	B	_	2	mod
+2	indifferente	indifferente	A	A	num=s|gen=n	4	mod
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	avvicino	avvicinare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	per	per	E	E	_	0	ROOT
+2	spiare	spiare	V	V	mod=f	1	prep
+3	il	il	R	RD	num=s|gen=m	5	det
+4	suo	suo	A	AP	num=s|gen=m	5	mod
+5	stupore	stupore	S	S	num=s|gen=m	2	obj
+
+1	senza	senza	E	E	_	5	comp
+2	neanche	neanche	B	B	_	1	prep
+3	far-	fare	V	VM	mod=f	5	modal
+4	me	me	P	PC	num=s|per=1|gen=n	3	clit
+5	vedere	vedere	V	V	mod=f	0	ROOT
+
+1	da	da	E	E	_	0	ROOT
+2	lei	lei	P	PE	num=s|per=3|gen=n	1	prep
+3	.	.	F	FS	_	1	punc
+
+1	Ora	ora	B	B	_	4	mod_temp
+2	lei	lei	P	PE	num=s|per=3|gen=n	4	subj
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	espressione	espressione	S	S	num=s|gen=f	1	obj
+4	spaventata	spaventare	V	V	num=s|mod=p|gen=f	1	mod
+
+1	e	e	C	CC	_	2	con
+2	in	in	E	E	_	0	_
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	momento	momento	S	S	num=s|gen=m	2	prep
+
+1	scoppia	scoppiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	in	in	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	eccesso	eccesso	S	S	num=s|gen=m	2	prep
+5	di	di	E	E	_	4	comp
+6	pianto	pianto	S	S	num=s|gen=m	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	la	la	P	PC	num=s|per=3|gen=f	3	obj
+3	prendo	prendere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	in	in	E	E	_	3	comp
+5	braccio	braccio	S	S	num=s|gen=m	4	prep
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	accarezzo	accarezzare	V	V	num=s|per=1|mod=i|ten=p	3	conj
+
+1	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	qualche	qualche	D	DI	num=s|gen=n	3	mod
+3	frase	frase	S	S	num=s|gen=f	1	obj
+4	a	a	E	E	_	1	comp
+5	caso	caso	S	S	num=s|gen=m	4	prep
+
+1	torna	tornare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	già	già	B	B	_	1	mod
+3	il	il	R	RD	num=s|gen=m	4	det
+4	sorriso	sorriso	S	S	num=s|gen=m	1	subj
+5	sul	su	E	EA	num=s|gen=m	4	comp
+6	viso	viso	S	S	num=s|gen=m	5	prep
+
+1	di	di	E	E	_	0	ROOT
+2	lei	lei	P	PE	num=s|per=3|gen=n	1	prep
+3	.	.	F	FS	_	1	punc
+
+1	Nel	in	E	EA	num=s|gen=m	4	comp_temp
+2	2019	2019	N	N	_	1	prep
+3	Valentina	Valentina	S	SP	_	4	subj
+4	avrà	avere	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+5	vent'	venti	N	N	_	6	mod
+6	anni	anno	S	S	num=p|gen=m	4	obj
+7	.	.	F	FS	_	4	punc
+
+1	Se	se	C	CS	_	0	ROOT
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	1	sub
+3	al	a	E	EA	num=s|gen=m	2	comp
+4	futuro	futuro	S	S	num=s|gen=m	3	prep
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	prende	prendere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	paura	paura	S	S	num=s|gen=f	2	obj
+5	di	di	E	E	_	4	comp
+
+1	di	di	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	vita	vita	S	S	num=s|gen=f	1	prep
+4	sconosciuta	sconosciuto	A	A	num=s|gen=f	3	mod
+
+1	impensabile	impensabile	A	A	num=s|gen=n	0	ROOT
+2	inimmaginabile	inimmaginabile	A	A	num=s|gen=n	1	mod
+3	.	.	F	FS	_	1	punc
+
+1	Bio	Bio	S	SP	_	0	ROOT
+2	bio	bio	S	SW	num=n|gen=n	1	concat
+3	bio	bio	S	SW	num=n|gen=n	1	concat
+
+1	Oh	oh	I	I	_	2	mod
+2	Dio	Dio	S	SP	_	0	ROOT
+3	mio	mio	A	AP	num=s|gen=m	2	mod
+4	.	.	F	FS	_	2	punc
+
+1	Se	se	C	CS	_	0	ROOT
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	1	sub
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	scienza	scienza	S	S	num=s|gen=f	3	prep
+
+1	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	addosso	addosso	B	B	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	visione	visione	S	S	num=s|gen=f	1	obj
+5	di	di	E	E	_	4	comp
+
+1	di	di	E	E	_	5	comp
+2	uno	uno	R	RI	num=s|gen=m	3	det
+3	spazio	spazio	S	S	num=s|gen=m	1	prep
+4	mai	mai	B	B	_	5	mod_temp
+5	vissuto	vivere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	invivibile	invivibile	A	A	num=s|gen=n	0	ROOT
+2	irriconoscibile	irriconoscibile	A	A	num=s|gen=n	1	mod
+3	.	.	F	FS	_	1	punc
+
+1	Bio	Bio	S	SP	_	5	mod
+2	bio	bio	S	SW	num=n|gen=n	1	concat
+3	bio	bio	S	SW	num=n|gen=n	1	concat
+4	oh	oh	I	I	_	5	mod
+5	Dio	Dio	S	SP	_	0	ROOT
+6	mio	mio	A	AP	num=s|gen=m	5	mod
+
+1	Valentina	Valentina	S	SP	_	2	mod
+2	Valentina	Valentina	S	SP	_	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	Se	se	C	CS	_	5	mod
+2	chiudo	chiudere	V	V	num=s|per=1|mod=i|ten=p	1	sub
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	occhi	occhio	S	S	num=p|gen=m	2	obj
+5	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	obj
+
+1	senza	senza	E	E	_	0	ROOT
+2	padri	padre	S	S	num=p|gen=m	1	prep
+3	senza	senza	E	E	_	2	comp
+4	madri	madre	S	S	num=p|gen=f	3	prep
+5	senza	senza	E	E	_	1	comp
+6	storia	storia	S	S	num=s|gen=f	5	prep
+
+1	forse	forse	B	B	_	2	mod
+2	senza	senza	E	E	_	0	ROOT
+3	memoria	memoria	S	S	num=s|gen=f	2	prep
+4	.	.	F	FS	_	2	punc
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+3	bello	bello	A	A	num=s|gen=m	2	mod
+4	o	o	C	CC	_	2	dis
+5	brutto	brutto	A	A	num=s|gen=m	2	mod
+
+1	non	non	B	BN	_	2	neg
+2	importa	importare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	non	non	B	BN	_	4	neg
+4	capisco	capire	V	V	num=s|per=1|mod=i|ten=p	2	conj
+
+1	può	potere	V	VM	num=s|per=3|mod=i|ten=p	2	modal
+2	succedere	succedere	V	V	mod=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	tutto	tutto	D	DI	num=s|gen=m	3	prep
+
+1	o	o	C	CC	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	contrario	contrario	S	S	num=s|gen=m	1	obj
+4	di	di	E	E	_	3	comp
+5	tutto	tutto	P	PI	num=s|gen=m	4	prep
+6	.	.	F	FS	_	1	punc
+
+1	Un	uno	R	RI	num=s|gen=m	0	ROOT
+2	essere	essere	V	VA	mod=f	3	aux
+3	smarrito	smarrito	A	A	num=s|gen=m	1	ROOT
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	verso	verso	E	E	_	2	comp
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	infinito	infinito	S	S	num=s|gen=m	3	prep
+
+1	in	in	E	E	_	5	comp
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	tempo	tempo	S	S	num=s|gen=m	1	prep
+4	così	così	B	B	_	3	mod
+5	strano	strano	A	A	num=s|gen=m	0	ROOT
+
+1	dove	dove	P	PR	num=n|gen=n	0	ROOT
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	1	mod_rel
+3	dove	dove	C	CS	_	2	pred
+4	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	3	sub
+5	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	9	con
+2	in	in	E	E	_	9	comp
+3	questo	questo	D	DD	num=s|gen=m	4	mod
+4	mondo	mondo	S	S	num=s|gen=m	2	prep
+5	strano	strano	A	A	num=s|gen=m	4	mod
+6	,	,	F	FF	_	9	punc
+7	inedito	inedito	A	A	num=s|gen=m	9	mod
+8	mai	mai	B	B	_	9	mod_temp
+9	frequentato	frequentare	V	V	num=s|mod=p|gen=m	0	ROOT
+10	.	.	F	FS	_	9	punc
+
+1	Come	come	B	B	_	2	mod
+2	viviamo	vivere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	?	?	F	FS	_	2	punc
+
+1	Di	di	E	E	_	0	ROOT
+2	cosa	cosa	P	PQ	num=s|gen=n	4	subj_pass
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	fatto	fare	V	V	num=s|mod=p|gen=m	1	prep
+5	il	il	R	RD	num=s|gen=m	7	det
+6	nostro	nostro	A	AP	num=s|gen=m	7	mod
+7	cibo	cibo	S	S	num=s|gen=m	1	conj
+8	,	,	F	FF	_	9	punc
+9	manipolato	manipolare	V	V	num=s|mod=p|gen=m	10	mod
+10	trasformato	trasformare	V	V	num=s|mod=p|gen=m	7	mod
+11	reinventato	reinventato	A	A	num=s|gen=m	10	mod
+12	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	lavoro	lavoro	S	S	num=s|gen=m	0	ROOT
+4	,	,	F	FF	_	3	con
+5	le	il	R	RD	num=p|gen=f	6	det
+6	risorse	risorsa	S	S	num=p|gen=f	3	conj
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	energia	energia	S	S	num=s|gen=f	3	conj
+9	?	?	F	FS	_	1	punc
+
+1	Cosa	cosa	P	PQ	num=s|gen=n	2	subj
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	ora	ora	B	B	_	2	pred
+4	?	?	F	FS	_	2	punc
+
+1	Hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	ancora	ancora	B	B	_	3	mod
+3	senso	senso	S	S	num=s|gen=m	1	obj
+4	i	il	R	RD	num=p|gen=m	5	det
+5	rapporti	rapporto	S	S	num=p|gen=m	1	subj
+6	d'	di	E	E	_	5	comp
+7	amore	amore	S	S	num=s|gen=m	6	prep
+8	di	di	E	E	_	7	comp
+9	sesso	sesso	S	S	num=s|gen=m	8	prep
+10	,	,	F	FF	_	11	punc
+11	esistono	esistere	V	V	num=p|per=3|mod=i|ten=p	5	mod
+12	ancora	ancora	B	B	_	11	mod
+13	?	?	F	FS	_	11	punc
+
+1	E	e	C	CC	_	7	con
+2	per	per	E	E	_	7	mod
+3	fare	fare	V	V	mod=f	2	prep
+4	i	il	R	RD	num=p|gen=m	5	det
+5	figli	figlio	S	S	num=p|gen=m	3	obj
+6	,	,	F	FF	_	1	punc
+7	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+8	ancora	ancora	B	B	_	9	mod
+9	necessari	necessario	A	A	num=p|gen=m	7	pred
+10	,	,	F	FF	_	7	con
+11	o	o	C	CC	_	7	dis
+12	è	essere	V	V	num=s|per=3|mod=i|ten=p	7	disj
+13	sufficiente	sufficiente	A	A	num=s|gen=n	12	pred
+14	una	uno	R	RI	num=s|gen=f	15	det
+15	cellula	cellula	S	S	num=s|gen=f	12	subj
+16	,	,	F	FF	_	18	punc
+17	un	uno	R	RI	num=s|gen=m	18	det
+18	embrione	embrione	S	S	num=s|gen=m	12	subj
+19	,	,	F	FF	_	18	con
+20	un	uno	R	RI	num=s|gen=m	21	det
+21	DNA	DNA	S	SP	_	18	conj
+22	qualsiasi	qualsiasi	D	DI	num=s|gen=n	21	mod
+23	?	?	F	FS	_	7	punc
+
+1	Chi	chi	P	PR	num=n|gen=n	3	subj
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	stravolto	stravolgere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	le	il	R	RD	num=p|gen=f	5	det
+5	emozioni	emozione	S	S	num=p|gen=f	3	obj
+6	di	di	E	E	_	5	comp
+7	una	uno	R	RI	num=s|gen=f	8	det
+8	vita	vita	S	S	num=s|gen=f	6	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	uguale	uguale	A	A	num=s|gen=n	2	pred
+4	da	da	E	E	_	2	comp
+5	millenni	millennio	S	S	num=p|gen=m	4	prep
+
+1	chi	chi	P	PR	num=n|gen=n	0	_
+2	ci	ci	P	PC	num=p|per=1|gen=n	4	obj
+3	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	spinto	spingere	V	V	num=s|mod=p|gen=m	1	mod_rel
+5	verso	verso	E	E	_	4	arg
+6	un'	uno	R	RI	num=s|gen=f	8	subj_pass
+7	era	essere	V	VA	num=s|per=3|mod=i|ten=i	8	aux
+8	sconosciuta	sconoscere	V	V	num=s|mod=p|gen=f	5	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	turbato	turbare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	i	il	R	RD	num=p|gen=m	6	det
+5	nostri	nostro	A	AP	num=p|gen=m	6	mod
+6	sonni	sonno	S	S	num=p|gen=m	3	obj
+7	.	.	F	FS	_	3	punc
+
+1	Non	non	B	BN	_	2	neg
+2	pensiamo	pensare	V	V	num=p|per=1|mod=i|ten=p	3	mod
+3	rimandiamo	rimandare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+
+1	nel	in	E	EA	num=s|gen=m	4	comp_temp
+2	2019	2019	N	N	_	1	prep
+3	Valentina	Valentina	S	SP	_	4	subj
+4	avrà	avere	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+5	vent'	venti	N	N	_	6	mod
+6	anni	anno	S	S	num=p|gen=m	4	obj
+7	.	.	F	FS	_	4	punc
+
+1	Se	se	C	CS	_	4	mod
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	1	sub
+3	al	a	E	EA	num=s|gen=m	2	comp
+4	domani	domani	B	B	_	0	_
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	appare	apparire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	tanta	tanto	D	DI	num=s|gen=f	4	mod
+4	gente	gente	S	S	num=s|gen=f	2	obj
+5	che	che	P	PR	num=n|gen=n	4	comp
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	muove	muovere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	tutta	tutto	P	PI	num=s|gen=f	3	subj
+5	uguale	uguale	A	A	num=s|gen=n	4	mod
+6	.	.	F	FS	_	3	punc
+
+1	Biologia	biologia	S	S	num=s|gen=f	0	ROOT
+2	biotecnologia	biotecnologia	S	S	num=s|gen=f	1	mod
+3	.	.	F	FS	_	1	punc
+
+1	Bio	Bio	S	SP	_	5	mod
+2	bio	bio	S	SW	num=n|gen=n	1	concat
+3	bio	bio	S	SW	num=n|gen=n	1	concat
+4	oh	oh	I	I	_	5	mod
+5	Dio	Dio	S	SP	_	0	ROOT
+6	mio	mio	A	AP	num=s|gen=m	5	mod
+
+1	Valentina	Valentina	S	SP	_	2	mod
+2	Valentina	Valentina	S	SP	_	0	ROOT
+3	.	.	F	FS	_	2	punc
+

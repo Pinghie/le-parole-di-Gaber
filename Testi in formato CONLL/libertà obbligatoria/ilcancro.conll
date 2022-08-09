@@ -1,0 +1,647 @@
+1	Nell'	in	E	EA	num=s|gen=n	0	ROOT
+2	aria	aria	S	S	num=s|gen=f	1	prep
+
+1	come	come	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	scadenza	scadenza	S	S	num=s|gen=f	1	prep
+
+1	incombe	incombere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	incredibilmente	incredibilmente	B	B	_	1	mod
+
+1	una	uno	R	RI	num=s|gen=f	3	det
+2	dolce	dolce	A	A	num=s|gen=n	3	mod
+3	uguaglianza	uguaglianza	S	S	num=s|gen=f	0	ROOT
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	aria	aria	S	S	num=s|gen=f	2	subj
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	rassicura	rassicurare	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+
+1	e	e	C	CC	_	0	ROOT
+2	piano	piano	S	S	num=s|gen=m	1	ROOT
+3	piano	piano	S	S	num=s|gen=m	2	mod
+
+1	progressivamente	progressivo	B	B	_	0	_
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	vita	vita	S	S	num=s|gen=f	3	subj
+3	migliora	migliorare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Ma	ma	C	CC	_	16	con
+2	quello	quello	P	PD	num=s|gen=m	16	subj
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	succede	succedere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	in	in	E	E	_	4	comp
+6	fondo	fondo	S	S	num=s|gen=m	5	prep
+7	ai	al	E	EA	num=p|gen=m	4	comp
+8	tuoi	tuo	A	AP	num=p|gen=m	9	mod
+9	polmoni	polmone	S	S	num=p|gen=m	7	prep
+10	,	,	F	FF	_	11	punc
+11	o	o	C	CC	_	4	dis
+12	al	a	E	EA	num=s|gen=m	4	comp
+13	tuo	tuo	A	AP	num=s|gen=m	14	mod
+14	intestino	intestino	S	S	num=s|gen=m	12	prep
+15	,	,	F	FF	_	1	punc
+16	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+17	quello	quello	P	PD	num=s|gen=m	16	pred
+18	che	che	P	PR	num=n|gen=n	19	subj
+19	conta	contare	V	V	num=s|per=3|mod=i|ten=p	17	mod_rel
+20	,	,	F	FF	_	16	con
+21	è	essere	V	V	num=s|per=3|mod=i|ten=p	16	conj
+22	qualcosa	qualcosa	P	PI	num=s|gen=n	21	pred
+23	che	che	P	PR	num=n|gen=n	26	subj
+24	ti	ti	P	PC	num=s|per=2|gen=n	26	obj
+25	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	26	aux
+26	messo	mettere	V	V	num=s|mod=p|gen=m	22	mod_rel
+27	dentro	dentro	B	B	_	26	mod
+28	,	,	F	FF	_	16	con
+29	e	e	C	CC	_	16	con
+30	ti	ti	P	PC	num=s|per=2|gen=n	31	comp_ind
+31	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	16	conj
+32	piano	piano	S	S	num=s|gen=m	31	obj
+33	piano	piano	S	S	num=s|gen=m	32	mod
+34	,	,	F	FF	_	35	punc
+35	come	come	E	E	_	32	comp
+36	un	uno	R	RI	num=s|gen=m	37	det
+37	cancro	cancro	S	S	num=s|gen=m	35	prep
+38	.	.	F	FS	_	16	punc
+
+1	Hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	inventato	inventare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	nemico	nemico	S	S	num=s|gen=m	2	obj
+5	molto	molto	B	B	_	6	mod
+6	più	più	B	B	_	7	mod
+7	geniale	geniale	A	A	num=s|gen=n	21	mod
+8	,	,	F	FF	_	7	con
+9	che	che	P	PR	num=n|gen=n	12	subj
+10	non	non	B	BN	_	12	neg
+11	si	si	P	PC	num=n|per=3|gen=n	12	clit
+12	vede	vedere	V	V	num=s|per=3|mod=i|ten=p	7	conj
+13	,	,	F	FF	_	7	con
+14	un	uno	R	RI	num=s|gen=m	15	det
+15	nemico	nemico	S	S	num=s|gen=m	7	conj
+16	segreto	segreto	A	A	num=s|gen=m	15	mod
+17	e	e	C	CC	_	16	con
+18	consapevole	consapevole	A	A	num=s|gen=n	16	conj
+19	che	che	P	PR	num=n|gen=n	21	subj
+20	ti	ti	P	PC	num=s|per=2|gen=n	21	comp_ind
+21	viene	venire	V	V	num=s|per=3|mod=i|ten=p	2	conj
+22	incontro	incontro	B	B	_	21	mod
+23	,	,	F	FF	_	2	con
+24	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	25	aux
+25	inventato	inventare	V	V	num=s|mod=p|gen=m	2	conj
+26	il	il	R	RD	num=s|gen=m	27	det
+27	cancro	cancro	S	S	num=s|gen=m	25	obj
+28	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	3	con
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	lasciano	lasciare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	libero	libero	A	A	num=s|gen=m	3	mod
+
+1	con	con	E	E	_	4	comp
+2	questa	questo	D	DD	num=s|gen=f	3	mod
+3	cosa	cosa	S	S	num=s|gen=f	1	prep
+4	dentro	dentro	E	E	_	0	_
+
+1	con	con	E	E	_	0	ROOT
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	milione	milione	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	molecole	molecola	S	S	num=p|gen=f	4	prep
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	comp_ind
+4	ubbidiscono	ubbidire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	lavorano	lavorare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	conto	conto	S	S	num=s|gen=m	3	prep
+5	loro	loro	P	PE	num=p|per=3|gen=n	2	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	proliferano	proliferare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	silenziose	silenzioso	A	A	num=p|gen=f	2	mod
+
+1	e	e	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	le	le	P	PC	num=n|per=3|gen=f	4	comp_ind
+4	vedremo	vedere	V	V	num=p|per=1|mod=i|ten=f	0	_
+5	mai	mai	B	B	_	4	mod_temp
+
+1	quelle	quello	D	DD	num=p|gen=f	2	mod
+2	molecole	molecola	S	S	num=p|gen=f	0	ROOT
+3	pazze	pazzo	A	A	num=p|gen=f	2	mod
+
+1	cancerose	canceroso	A	A	num=p|gen=f	0	ROOT
+
+1	Non	non	B	BN	_	2	neg
+2	sapremo	sapere	V	V	num=p|per=1|mod=i|ten=f	6	mod
+3	nemmeno	nemmeno	B	B	_	6	mod
+4	se	se	P	PC	num=n|per=3|gen=n	6	clit
+5	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	6	aux
+6	esistite	esistere	V	V	num=p|mod=p|gen=f	0	ROOT
+
+1	quelle	quello	D	DD	num=p|gen=f	2	mod
+2	cellule	cellula	S	S	num=p|gen=f	0	ROOT
+3	ingorde	ingordo	A	A	num=p|gen=f	2	mod
+4	insaziabili	insaziabile	A	A	num=p|gen=n	3	mod
+5	enormi	enorme	A	A	num=p|gen=n	2	mod
+
+1	voraci	vorace	A	A	num=p|gen=n	2	mod
+2	affamate	affamare	V	V	num=p|mod=p|gen=f	6	subj
+3	di	di	E	E	_	2	comp
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	prep
+5	ci	ci	P	PC	num=p|per=1|gen=n	2	comp
+6	mangeranno	mangiare	V	V	num=p|per=3|mod=i|ten=f	0	ROOT
+
+1	come	come	E	E	_	0	ROOT
+2	vermi	verme	S	S	num=p|gen=m	1	prep
+
+1	E	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	6	clit
+5	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	voglia	voglia	S	S	num=s|gen=f	3	obj
+7	di	di	E	E	_	6	arg
+8	vivere	vivere	V	V	mod=f	7	prep
+
+1	esitando	esitare	V	V	mod=g	0	_
+2	sotto	sotto	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	tiepido	tiepido	A	A	num=s|gen=m	5	mod
+5	cielo	cielo	S	S	num=s|gen=m	2	prep
+
+1	coi	con	E	EA	num=p|gen=m	0	ROOT
+2	valori	valore	S	S	num=p|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	3	mod
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	uomo	uomo	S	S	num=s|gen=m	3	pred
+
+1	ma	ma	C	CC	_	4	con
+2	il	il	R	RD	num=s|gen=m	4	det
+3	suo	suo	A	AP	num=s|gen=m	4	mod
+4	sfacelo	sfacelo	S	S	num=s|gen=m	0	ROOT
+
+1	Non	non	B	BN	_	5	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	può	potere	V	VM	num=s|per=3|mod=i|ten=p	5	modal
+4	ancora	ancora	B	B	_	5	mod
+5	morire	morire	V	V	mod=f	0	_
+
+1	con	con	E	E	_	0	ROOT
+2	questa	questo	D	DD	num=s|gen=f	3	mod
+3	smorfia	smorfia	S	S	num=s|gen=f	1	prep
+4	sul	su	E	EA	num=s|gen=m	3	comp
+5	viso	viso	S	S	num=s|gen=m	4	prep
+
+1	con	con	E	E	_	5	comp
+2	dentro	dentro	B	B	_	1	prep
+3	un'	uno	R	RI	num=s|gen=f	5	det
+4	inutile	inutile	A	A	num=s|gen=n	5	mod
+5	rabbia	rabbia	S	S	num=s|gen=f	0	ROOT
+
+1	con	con	E	E	_	0	ROOT
+2	questo	questo	D	DD	num=s|gen=m	3	mod
+3	terrore	terrore	S	S	num=s|gen=m	1	prep
+
+1	e	e	C	CC	_	5	con
+2	senza	senza	E	E	_	5	comp
+3	uno	uno	R	RI	num=s|gen=m	4	det
+4	scopo	scopo	S	S	num=s|gen=m	2	prep
+5	preciso	preciso	A	A	num=s|gen=m	0	ROOT
+
+1	Non	non	B	BN	_	5	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	può	potere	V	VM	num=s|per=3|mod=i|ten=p	5	modal
+4	ancora	ancora	B	B	_	5	mod
+5	morire	morire	V	V	mod=f	0	_
+
+1	mentre	mentre	C	CS	_	0	ROOT
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	agiti	agire	V	V	num=p|mod=p|gen=m	1	sub
+4	inerte	inerte	A	A	num=s|gen=n	3	mod
+
+1	aggrappati	aggrappare	V	V	num=p|mod=p|gen=m	0	ROOT
+2	all'	al	E	EA	num=s|gen=n	1	comp
+3	ultima	ultimo	A	A	num=s|gen=f	4	mod
+4	azione	azione	S	S	num=s|gen=f	2	prep
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	ancora	ancora	B	B	_	4	mod
+3	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	4	modal
+4	fare	fare	V	V	mod=f	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	devi	dovere	V	VM	num=s|per=2|mod=i|ten=p	3	modal
+3	fallire	fallire	V	V	mod=f	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	morte	morte	S	S	num=s|gen=f	3	obj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	difficile	difficile	A	A	num=s|gen=n	1	pred
+3	vivere	vivere	V	V	mod=f	1	subj
+4	con	con	E	E	_	3	comp
+5	gli	il	R	RD	num=p|gen=m	6	det
+6	assassini	assassino	S	S	num=p|gen=m	4	prep
+7	dentro	dentro	B	B	_	6	mod
+8	,	,	F	FF	_	7	punc
+9	forse	forse	B	B	_	10	mod
+10	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	conj
+11	più	più	B	B	_	12	mod
+12	facile	facile	A	A	num=s|gen=n	10	pred
+13	vivere	vivere	V	V	mod=f	10	subj
+14	con	con	E	E	_	13	comp
+15	gli	il	R	RD	num=p|gen=m	16	det
+16	assassini	assassino	S	S	num=p|gen=m	14	prep
+17	fuori	fuori	B	B	_	19	mod
+18	,	,	F	FF	_	17	con
+19	visibili	visibile	A	A	num=p|gen=n	16	mod
+20	riconoscibili	riconoscibile	A	A	num=p|gen=n	16	mod
+21	,	,	F	FF	_	10	con
+22	che	che	P	PR	num=n|gen=n	24	subj
+23	ti	ti	P	PC	num=s|per=2|gen=n	24	comp_ind
+24	sparano	sparare	V	V	num=p|per=3|mod=i|ten=p	10	conj
+25	addosso	addosso	B	B	_	24	mod
+26	dalle	da	E	EA	num=p|gen=f	24	comp
+27	strade	strada	S	S	num=p|gen=f	26	prep
+28	,	,	F	FF	_	26	con
+29	dalle	da	E	EA	num=p|gen=f	26	conj
+30	cattedrali	cattedrale	S	S	num=p|gen=f	29	prep
+31	,	,	F	FF	_	26	con
+32	dalle	da	E	EA	num=p|gen=f	26	conj
+33	finestre	finestra	S	S	num=p|gen=f	32	prep
+34	delle	di	E	EA	num=p|gen=f	33	comp
+35	caserme	caserma	S	S	num=p|gen=f	34	prep
+36	,	,	F	FF	_	26	con
+37	dai	da	E	EA	num=p|gen=m	26	conj
+38	palazzi	palazzo	S	S	num=p|gen=m	37	prep
+39	reali	reale	A	A	num=p|gen=n	38	mod
+40	dai	da	E	EA	num=p|gen=m	24	comp
+41	balconi	balcone	S	S	num=p|gen=m	40	prep
+42	col	con	E	EA	num=s|gen=m	24	comp
+43	tricolore	tricolore	S	S	num=s|gen=m	42	prep
+44	.	.	F	FS	_	1	punc
+
+1	Assassini	assassino	S	S	num=p|gen=m	0	ROOT
+2	che	che	P	PR	num=n|gen=n	7	subj
+3	in	in	E	E	_	7	comp
+4	qualche	qualche	D	DI	num=s|gen=n	5	mod
+5	modo	modo	S	S	num=s|gen=m	3	prep
+6	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	7	modal
+7	combattere	combattere	V	V	mod=f	1	mod_rel
+8	,	,	F	FF	_	7	con
+9	li	li	P	PC	num=p|per=3|gen=m	10	obj
+10	vedi	vedere	V	V	num=s|per=2|mod=m|ten=p	7	conj
+11	,	,	F	FF	_	7	con
+12	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	14	mod
+13	cosa	cosa	S	S	num=s|gen=f	14	obj
+14	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	7	conj
+15	,	,	F	FF	_	7	con
+16	e	e	C	CC	_	7	con
+17	qualche	qualche	D	DI	num=s|gen=n	18	mod
+18	volta	volta	S	S	num=s|gen=f	22	mod_temp
+19	si	si	P	PC	num=n|per=3|gen=n	20	clit
+20	possono	potere	V	VM	num=p|per=3|mod=i|ten=p	22	modal
+21	anche	anche	B	B	_	22	mod
+22	ammazzare	ammazzare	V	V	mod=f	7	conj
+23	,	,	F	FF	_	7	con
+24	assassini	assassino	S	S	num=p|gen=m	7	conj
+25	vecchi	vecchio	A	A	num=p|gen=m	27	mod
+26	superati	superato	A	A	num=p|gen=m	27	mod
+27	cialtroni	cialtrone	S	S	num=p|gen=m	24	mod
+28	,	,	F	FF	_	33	punc
+29	che	che	P	PR	num=n|gen=n	33	subj
+30	non	non	B	BN	_	33	neg
+31	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	33	aux
+32	mai	mai	B	B	_	33	mod_temp
+33	riusciti	riuscire	V	V	num=p|mod=p|gen=m	27	mod
+34	a	a	E	E	_	33	arg
+35	cambiare	cambiare	V	V	mod=f	34	prep
+36	nessuno	nessuno	P	PI	num=s|gen=m	35	obj
+37	,	,	F	FF	_	33	punc
+38	a	a	E	E	_	27	conj
+39	cambiar-	cambiare	V	V	mod=f	38	prep
+40	lo	lo	P	PC	num=s|per=3|gen=m	39	obj
+41	dal	da	E	EA	num=s|gen=m	39	comp
+42	di	di	E	E	_	41	comp
+43	dentro	dentro	B	B	_	42	prep
+44	.	.	F	FS	_	1	punc
+
+1	Prevedibili	prevedibile	A	A	num=p|gen=n	21	mod
+2	e	e	C	CC	_	1	con
+3	schematici	schematico	A	A	num=p|gen=m	1	conj
+4	anche	anche	B	B	_	5	mod
+5	nella	in	E	EA	num=s|gen=f	1	comp
+6	cattiveria	cattiveria	S	S	num=s|gen=f	5	prep
+7	,	,	F	FF	_	5	punc
+8	come	come	E	E	_	1	comp
+9	le	il	R	RD	num=p|gen=f	10	det
+10	bestie	bestia	S	S	num=p|gen=f	8	prep
+11	bionde	biondo	A	A	num=p|gen=f	10	mod
+12	,	,	F	FF	_	8	punc
+13	come	come	E	E	_	1	comp
+14	le	il	R	RD	num=p|gen=f	15	det
+15	bestie	bestia	S	S	num=p|gen=f	13	prep
+16	nere	nero	A	A	num=p|gen=f	15	mod
+17	,	,	F	FF	_	1	punc
+18	che	che	P	PR	num=n|gen=n	21	subj
+19	ti	ti	P	PC	num=s|per=2|gen=n	21	comp_ind
+20	possono	potere	V	VM	num=p|per=3|mod=i|ten=p	21	modal
+21	togliere	togliere	V	V	mod=f	0	ROOT
+22	la	il	R	RD	num=s|gen=f	23	det
+23	libertà	libertà	S	S	num=n|gen=f	21	obj
+24	,	,	F	FF	_	25	punc
+25	mai	mai	B	B	_	21	comp
+26	le	il	R	RD	num=p|gen=f	28	det
+27	tue	tuo	A	AP	num=p|gen=f	28	mod
+28	idee	idea	S	S	num=p|gen=f	25	prep
+29	.	.	F	FS	_	21	punc
+
+1	Come	come	B	B	_	16	mod
+2	quegli	quello	D	DD	num=p|gen=m	6	mod
+3	ingenui	ingenuo	A	A	num=p|gen=m	6	mod
+4	e	e	C	CC	_	3	con
+5	patetici	patetico	A	A	num=p|gen=m	3	conj
+6	esemplari	esemplare	S	S	num=p|gen=m	14	subj
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	esistono	esistere	V	V	num=p|per=3|mod=i|ten=p	6	mod_rel
+9	ancora	ancora	B	B	_	8	mod
+10	oggi	oggi	B	B	_	8	mod_loc
+11	,	,	F	FF	_	6	con
+12	ma	ma	C	CC	_	6	con
+13	non	non	B	BN	_	14	neg
+14	contano	contare	V	V	num=p|per=3|mod=i|ten=p	1	sub
+15	,	,	F	FF	_	1	punc
+16	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+17	un	uno	R	RI	num=s|gen=m	18	det
+18	diversivo	diversivo	S	S	num=s|gen=m	16	pred
+19	,	,	F	FF	_	21	punc
+20	un	uno	R	RI	num=s|gen=m	21	det
+21	fatto	fatto	S	S	num=s|gen=m	18	mod
+22	di	di	E	E	_	21	comp
+23	folklore	folklore	S	S	num=s|gen=m	22	prep
+24	,	,	F	FF	_	21	punc
+25	una	uno	R	RI	num=s|gen=f	26	det
+26	mazurca	mazurca	S	S	num=s|gen=f	16	conj
+27	.	.	F	FS	_	16	punc
+
+1	Ma	ma	C	CC	_	6	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	assassino	assassino	S	S	num=s|gen=m	6	subj
+4	dentro	dentro	B	B	_	3	mod
+5	,	,	F	FF	_	4	punc
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	come	come	E	E	_	6	pred
+8	un'	uno	R	RI	num=s|gen=f	9	det
+9	iniezione	iniezione	S	S	num=s|gen=f	7	prep
+10	,	,	F	FF	_	6	con
+11	non	non	B	BN	_	14	neg
+12	la	il	R	RD	num=s|gen=f	14	det
+13	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	14	modal
+14	fermare	fermare	V	V	mod=f	6	conj
+15	non	non	B	BN	_	16	neg
+16	risparmia	risparmiare	V	V	num=s|per=3|mod=i|ten=p	14	conj
+17	nessuno	nessuno	P	PI	num=s|gen=m	16	obj
+18	,	,	F	FF	_	6	con
+19	nessuno	nessuno	P	PI	num=s|gen=m	20	subj
+20	sfugge	sfuggire	V	V	num=s|per=3|mod=i|ten=p	6	conj
+21	alla	al	E	EA	num=s|gen=f	20	comp
+22	scadenza	scadenza	S	S	num=s|gen=f	21	prep
+23	.	.	F	FS	_	6	punc
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	difficile	difficile	A	A	num=s|gen=n	1	pred
+3	vivere	vivere	V	V	mod=f	1	subj
+4	con	con	E	E	_	3	comp
+5	gli	il	R	RD	num=p|gen=m	6	det
+6	assassini	assassino	S	S	num=p|gen=m	4	prep
+7	dentro	dentro	B	B	_	6	mod
+8	,	,	F	FF	_	13	punc
+9	appena	appena	B	B	_	13	mod
+10	ce	ce	P	PC	num=p|per=1|gen=n	13	comp_ind
+11	li	li	P	PC	num=p|per=3|gen=m	13	obj
+12	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	13	aux
+13	iniettati	iniettare	V	V	num=p|mod=p|gen=m	3	arg
+14	,	,	F	FF	_	13	con
+15	ti	ti	P	PC	num=s|per=2|gen=n	17	obj
+16	si	si	P	PC	num=n|per=3|gen=n	17	clit
+17	rivoltano	rivoltare	V	V	num=p|per=3|mod=i|ten=p	13	conj
+18	contro	contro	E	E	_	17	comp
+19	.	.	F	FS	_	1	punc
+
+1	Martiri	martirio	S	S	num=p|gen=m	0	ROOT
+2	martiri	martire	S	S	num=p|gen=n	1	mod
+3	senza	senza	E	E	_	1	comp
+4	croce	croce	S	S	num=s|gen=f	3	prep
+
+1	invalidi	invalido	S	S	num=p|gen=m	2	mod
+2	invalidi	invalido	S	S	num=p|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	pace	pace	S	S	num=s|gen=f	3	prep
+
+1	martiri	martirio	S	S	num=p|gen=m	0	ROOT
+2	fuori	fuori	B	B	_	1	mod
+3	e	e	C	CC	_	2	con
+4	dentro	dentro	E	E	_	2	conj
+5	le	il	R	RD	num=p|gen=f	6	det
+6	case	casa	S	S	num=p|gen=f	1	conj
+
+1	martiri	martirio	S	S	num=p|gen=m	0	ROOT
+2	ribelli	ribelle	A	A	num=p|gen=n	1	mod
+3	o	o	C	CC	_	1	dis
+
+1	a	a	E	E	_	0	ROOT
+2	centoottantamila	centoottantamila	N	N	_	3	mod
+3	lire	lira	S	S	num=p|gen=f	1	prep
+4	al	a	E	EA	num=s|gen=m	3	comp
+5	mese	mese	S	S	num=s|gen=m	4	prep
+
+1	Disperati	disperare	V	V	num=p|mod=p|gen=m	3	mod
+2	ammalati	ammalare	V	V	num=p|mod=p|gen=m	3	mod
+3	incazzati	incazzarsi	V	V	num=p|mod=p|gen=m	0	ROOT
+4	lo	il	R	RD	num=s|gen=m	5	det
+5	stesso	stesso	A	A	num=s|gen=m	3	mod
+
+1	incazzati	incazzarsi	V	V	num=p|mod=p|gen=m	0	ROOT
+2	fino	fino	E	E	_	1	comp
+3	all'	al	E	EA	num=s|gen=n	2	comp
+4	ultimo	ultimo	A	A	num=s|gen=m	5	mod
+5	globulo	globulo	S	S	num=s|gen=m	3	prep
+6	rosso	rosso	A	A	num=s|gen=m	5	mod
+
+1	controllato	controllare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	spiato	spiare	V	V	num=s|mod=p|gen=m	1	conj
+4	a	a	E	E	_	3	comp
+5	dovere	dovere	V	VM	mod=f	4	prep
+
+1	dall'	da	E	EA	num=s|gen=n	0	ROOT
+2	assalto	assalto	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	tumore	tumore	S	S	num=s|gen=m	3	prep
+
+1	Martiri	martirio	S	S	num=p|gen=m	0	ROOT
+2	liberi	libero	A	A	num=p|gen=m	1	mod
+3	con	con	E	E	_	1	comp
+4	questa	questo	D	DD	num=s|gen=f	5	mod
+5	cosa	cosa	S	S	num=s|gen=f	3	prep
+6	dentro	dentro	E	E	_	1	comp
+
+1	con	con	E	E	_	0	ROOT
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	milione	milione	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	molecole	molecola	S	S	num=p|gen=f	4	prep
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	comp_ind
+4	ubbidiscono	ubbidire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	lavorano	lavorare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	conto	conto	S	S	num=s|gen=m	3	prep
+5	loro	loro	P	PE	num=p|per=3|gen=n	2	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	proliferano	proliferare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	silenziose	silenzioso	A	A	num=p|gen=f	2	mod
+
+1	e	e	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	le	le	P	PC	num=n|per=3|gen=f	4	comp_ind
+4	vedremo	vedere	V	V	num=p|per=1|mod=i|ten=f	0	_
+5	mai	mai	B	B	_	4	mod_temp
+
+1	quelle	quello	D	DD	num=p|gen=f	2	mod
+2	molecole	molecola	S	S	num=p|gen=f	0	ROOT
+3	pazze	pazzo	A	A	num=p|gen=f	2	mod
+
+1	cancerose	canceroso	A	A	num=p|gen=f	0	ROOT
+
+1	Non	non	B	BN	_	2	neg
+2	sapremo	sapere	V	V	num=p|per=1|mod=i|ten=f	6	mod
+3	nemmeno	nemmeno	B	B	_	6	mod
+4	se	se	P	PC	num=n|per=3|gen=n	6	clit
+5	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	6	aux
+6	esistite	esistere	V	V	num=p|mod=p|gen=f	0	ROOT
+
+1	quelle	quello	D	DD	num=p|gen=f	2	mod
+2	cellule	cellula	S	S	num=p|gen=f	0	ROOT
+3	ingorde	ingordo	A	A	num=p|gen=f	2	mod
+4	insaziabili	insaziabile	A	A	num=p|gen=n	3	mod
+5	enormi	enorme	A	A	num=p|gen=n	2	mod
+
+1	voraci	vorace	A	A	num=p|gen=n	7	mod
+2	e	e	C	CC	_	1	con
+3	affamate	affamato	A	A	num=p|gen=f	1	conj
+4	di	di	E	E	_	3	comp
+5	noi	noi	P	PE	num=p|per=1|gen=n	4	prep
+6	ci	ci	P	PC	num=p|per=1|gen=n	1	comp
+7	mangeranno	mangiare	V	V	num=p|per=3|mod=i|ten=f	0	ROOT
+
+1	come	come	E	E	_	0	ROOT
+2	vermi	verme	S	S	num=p|gen=m	1	prep
+
+1	E	e	C	CC	_	4	con
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	amori	amore	S	S	num=p|gen=m	4	subj
+4	continua	continuare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	no	no	B	BN	_	2	neg
+2	a	a	E	E	_	0	ROOT
+3	nascere	nascere	V	V	mod=f	2	prep
+
+1	dolcemente	dolcemente	B	B	_	2	mod
+2	come	come	E	E	_	0	ROOT
+3	consolazione	consolazione	S	S	num=s|gen=f	2	prep
+
+1	fra	fra	E	E	_	7	comp
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	donna	donna	S	S	num=s|gen=f	1	prep
+4	e	e	C	CC	_	3	con
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	uomo	uomo	S	S	num=s|gen=m	3	conj
+7	che	che	P	PR	num=n|gen=n	0	_
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	2	pred
+6	ma	ma	C	CC	_	2	con
+7	un'	uno	R	RI	num=s|gen=f	8	det
+8	infezione	infezione	S	S	num=s|gen=f	2	pred
+
+1	Non	non	B	BN	_	5	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	può	potere	V	VM	num=s|per=3|mod=i|ten=p	5	modal
+4	ancora	ancora	B	B	_	5	mod
+5	morire	morire	V	V	mod=f	0	_
+
+1	con	con	E	E	_	0	ROOT
+2	questa	questo	D	DD	num=s|gen=f	3	mod
+3	smorfia	smorfia	S	S	num=s|gen=f	1	prep
+4	sul	su	E	EA	num=s|gen=m	3	comp
+5	viso	viso	S	S	num=s|gen=m	4	prep
+
+1	con	con	E	E	_	5	comp
+2	dentro	dentro	B	B	_	1	prep
+3	un'	uno	R	RI	num=s|gen=f	5	det
+4	inutile	inutile	A	A	num=s|gen=n	5	mod
+5	rabbia	rabbia	S	S	num=s|gen=f	0	ROOT
+
+1	con	con	E	E	_	0	ROOT
+2	questo	questo	D	DD	num=s|gen=m	3	mod
+3	terrore	terrore	S	S	num=s|gen=m	1	prep
+
+1	e	e	C	CC	_	5	con
+2	senza	senza	E	E	_	5	comp
+3	uno	uno	R	RI	num=s|gen=m	4	det
+4	scopo	scopo	S	S	num=s|gen=m	2	prep
+5	preciso	preciso	A	A	num=s|gen=m	0	ROOT
+
+1	Non	non	B	BN	_	5	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	può	potere	V	VM	num=s|per=3|mod=i|ten=p	5	modal
+4	ancora	ancora	B	B	_	5	mod
+5	morire	morire	V	V	mod=f	0	_
+
+1	mentre	mentre	C	CS	_	0	ROOT
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	agiti	agire	V	V	num=p|mod=p|gen=m	1	sub
+4	inerte	inerte	A	A	num=s|gen=n	3	mod
+
+1	aggrappati	aggrappare	V	V	num=p|mod=p|gen=m	0	ROOT
+2	all'	al	E	EA	num=s|gen=n	1	comp
+3	ultima	ultimo	A	A	num=s|gen=f	4	mod
+4	azione	azione	S	S	num=s|gen=f	2	prep
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	ancora	ancora	B	B	_	4	mod
+3	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	4	modal
+4	fare	fare	V	V	mod=f	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	devi	dovere	V	VM	num=s|per=2|mod=i|ten=p	3	modal
+3	fallire	fallire	V	V	mod=f	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	morte	morte	S	S	num=s|gen=f	3	obj
+

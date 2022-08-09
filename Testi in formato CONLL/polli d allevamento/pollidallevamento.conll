@@ -1,0 +1,355 @@
+1	Cari	caro	S	S	num=p|gen=m	0	ROOT
+2	cari	caro	A	A	num=p|gen=m	3	mod
+3	polli	pollo	S	S	num=p|gen=m	1	mod
+4	di	di	E	E	_	3	comp
+5	allevamento	allevamento	S	S	num=s|gen=m	4	prep
+
+1	coi	con	E	EA	num=p|gen=m	8	comp
+2	vostri	vostro	A	AP	num=p|gen=m	3	mod
+3	stivaletti	stivaletto	S	S	num=p|gen=m	1	prep
+4	gialli	giallo	A	A	num=p|gen=m	3	mod
+5	e	e	C	CC	_	1	con
+6	le	il	R	RD	num=p|gen=f	8	det
+7	vostre	vostro	A	AP	num=p|gen=f	8	mod
+8	canzoni	canzone	S	S	num=p|gen=f	0	ROOT
+
+1	cari	caro	S	S	num=p|gen=m	0	ROOT
+2	cari	caro	A	A	num=p|gen=m	3	mod
+3	polli	pollo	S	S	num=p|gen=m	1	mod
+4	di	di	E	E	_	3	comp
+5	allevamento	allevamento	S	S	num=s|gen=m	4	prep
+
+1	nutriti	nutrire	V	V	num=p|mod=p|gen=m	0	ROOT
+2	a	a	E	E	_	1	comp
+3	colpi	colpo	S	S	num=p|gen=m	2	prep
+4	di	di	E	E	_	3	comp
+5	musica	musica	S	S	num=s|gen=f	4	prep
+6	e	e	C	CC	_	4	con
+7	di	di	E	E	_	4	conj
+8	rivoluzioni	rivoluzione	S	S	num=p|gen=f	7	prep
+
+1	Innamorati	innamorare	V	V	num=p|mod=p|gen=m	0	ROOT
+2	dei	di	E	EA	num=p|gen=m	1	comp
+3	colori	colore	S	S	num=p|gen=m	2	prep
+4	accesi	acceso	A	A	num=p|gen=m	3	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	delle	di	E	EA	num=p|gen=f	1	conj
+3	grandi	grande	A	A	num=p|gen=n	4	mod
+4	autostrade	autostrada	S	S	num=p|gen=f	2	prep
+5	solitarie	solitario	A	A	num=p|gen=f	4	mod
+
+1	dove	dove	P	PR	num=n|gen=n	4	subj
+2	si	si	P	PC	num=n|per=3|gen=n	4	clit
+3	possono	potere	V	VM	num=p|per=3|mod=i|ten=p	4	modal
+4	inventare	inventare	V	V	mod=f	0	ROOT
+5	le	il	R	RD	num=p|gen=f	6	det
+6	americhe	americhe	S	S	num=p|gen=f	4	obj
+
+1	più	più	B	B	_	2	mod
+2	straordinarie	straordinario	A	A	num=p|gen=f	0	ROOT
+
+1	Con	con	E	E	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	mani	mano	S	S	num=p|gen=f	1	prep
+4	sui	su	E	EA	num=p|gen=m	3	comp
+5	grandissimi	grande	A	A	num=p|gen=m	4	prep
+6	volanti	volante	A	A	num=p|gen=n	5	mod
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	odore	odore	S	S	num=s|gen=m	0	ROOT
+3	dell'	di	E	EA	num=s|gen=n	2	comp
+4	incenso	incenso	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	2	con
+6	tanta	tanto	D	DI	num=s|gen=f	7	mod
+7	atmosfera	atmosfera	S	S	num=s|gen=f	2	mod
+
+1	spingendo	spingere	V	V	mod=g	0	_
+2	sull'	su	E	EA	num=s|gen=n	1	comp_loc
+3	acceleratore	acceleratore	S	S	num=s|gen=m	2	prep
+4	col	con	E	EA	num=s|gen=m	1	comp
+5	vento	vento	S	S	num=s|gen=m	4	prep
+6	tutto	tutto	D	DI	num=s|gen=m	7	mod
+7	addosso	addosso	B	B	_	1	mod_temp
+
+1	finché	finché	C	CS	_	11	mod
+2	non	non	B	BN	_	3	neg
+3	scoppia	scoppiare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	il	il	R	RD	num=s|gen=m	5	det
+5	cuore	cuore	S	S	num=s|gen=m	3	subj
+6	il	il	R	RD	num=s|gen=m	7	det
+7	cuore	cuore	S	S	num=s|gen=m	5	mod
+8	il	il	R	RD	num=s|gen=m	9	det
+9	cuore	cuore	S	S	num=s|gen=m	7	mod
+10	il	il	R	RD	num=s|gen=m	11	det
+11	cuore	cuore	S	S	num=s|gen=m	0	ROOT
+
+1	Tra	tra	E	E	_	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	allegria	allegria	S	S	num=s|gen=f	1	prep
+4	così	così	B	B	_	5	mod
+5	forte	forte	A	A	num=s|gen=n	3	mod
+
+1	e	e	C	CC	_	4	con
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	bel	bello	A	A	num=s|gen=m	4	mod
+4	senso	senso	S	S	num=s|gen=m	0	ROOT
+5	di	di	E	E	_	4	comp
+6	morte	morte	S	S	num=s|gen=f	5	prep
+7	uno	uno	R	RI	num=s|gen=m	9	det
+8	strano	strano	A	A	num=s|gen=m	9	mod
+9	dlin	dlin	S	S	num=s|gen=m	4	conj
+10	dlan	dlan	S	SW	num=n|gen=n	9	mod
+
+1	dlin	dlin	S	SW	num=n|gen=n	0	concat
+2	dlan	dlan	S	SW	num=n|gen=n	1	concat
+3	dlin	dlin	S	SW	num=n|gen=n	1	concat
+4	dlin	dlin	S	SW	num=n|gen=n	1	concat
+5	dlan	dlan	S	SW	num=n|gen=n	1	concat
+
+1	Cari	caro	S	S	num=p|gen=m	0	ROOT
+2	cari	caro	A	A	num=p|gen=m	3	mod
+3	polli	pollo	S	S	num=p|gen=m	1	mod
+4	di	di	E	E	_	3	comp
+5	allevamento	allevamento	S	S	num=s|gen=m	4	prep
+
+1	scattanti	scattante	A	A	num=p|gen=n	0	ROOT
+2	come	come	E	E	_	1	comp
+3	le	il	R	RD	num=p|gen=f	4	det
+4	palline	pallina	S	S	num=p|gen=f	2	prep
+5	dei	di	E	EA	num=p|gen=m	4	comp
+6	vostri	vostro	A	AP	num=p|gen=m	7	mod
+7	giochini	giochini	S	S	num=p|gen=m	5	prep
+
+1	cari	caro	S	S	num=p|gen=m	0	ROOT
+2	cari	caro	A	A	num=p|gen=m	3	mod
+3	polli	pollo	S	S	num=p|gen=m	1	mod
+4	di	di	E	E	_	3	comp
+5	allevamento	allevamento	S	S	num=s|gen=m	4	prep
+
+1	che	che	P	PR	num=n|gen=n	0	_
+2	inventate	inventato	A	A	num=p|gen=f	1	mod
+3	come	come	C	CS	_	2	comp
+4	le	il	R	RD	num=p|gen=f	5	det
+5	palline	pallina	S	S	num=p|gen=f	3	prep
+6	i	il	R	RD	num=p|gen=m	7	det
+7	percorsi	percorso	S	S	num=p|gen=m	5	mod
+8	più	più	B	B	_	9	mod
+9	strani	strano	A	A	num=p|gen=m	7	mod
+
+1	Che	che	P	PR	num=n|gen=n	4	subj
+2	se	se	C	CS	_	4	mod
+3	qualcuno	qualcuno	P	PI	num=s|gen=m	4	subj
+4	vedesse	vedere	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+5	dall'	da	E	EA	num=s|gen=n	4	comp
+6	alto	alto	A	A	num=s|gen=m	5	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	sponde	sponda	S	S	num=p|gen=f	0	ROOT
+3	dove	dove	P	PR	num=n|gen=n	5	subj
+4	state	stare	V	V	num=p|per=2|mod=m|ten=p	3	mod_rel
+5	rimbalzando	rimbalzare	V	V	mod=g	2	mod_rel
+
+1	penserebbe	pensare	V	V	num=s|per=3|mod=d|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	serve	servire	V	V	num=s|per=3|mod=i|ten=p	2	sub
+4	solo	solo	B	B	_	3	mod
+5	a	a	E	E	_	3	arg
+6	questo	questo	D	DD	num=s|gen=m	5	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	superficie	superficie	S	S	num=s|gen=f	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	mondo	mondo	S	S	num=s|gen=m	3	prep
+5	dlin	dlin	A	A	num=s|gen=m	4	mod
+6	dlan	dlan	S	SW	num=n|gen=n	2	mod
+
+1	dlin	dlin	S	SW	num=n|gen=n	0	concat
+2	dlan	dlan	S	SW	num=n|gen=n	1	concat
+3	dlin	dlin	S	SW	num=n|gen=n	1	concat
+4	dlan	dlan	S	SW	num=n|gen=n	1	concat
+
+1	Siete	essere	V	VA	num=p|per=2|mod=i|ten=p	2	aux
+2	voi	voi	P	PE	num=p|per=2|gen=n	0	ROOT
+3	che	che	D	DE	num=n|gen=n	4	subj
+4	continuate	continuare	V	V	num=p|per=2|mod=i|ten=p	2	mod_rel
+5	a	a	E	E	_	4	arg
+6	rimbalzare	rimbalzare	V	V	mod=f	5	prep
+
+1	da	da	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	paese	paese	S	S	num=s|gen=m	1	prep
+4	all'	al	E	EA	num=s|gen=n	3	comp
+5	altro	altro	P	PI	num=s|gen=m	4	prep
+6	da	da	E	E	_	3	comp
+7	una	uno	R	RI	num=s|gen=f	8	det
+8	donna	donna	S	S	num=s|gen=f	6	prep
+9	all'	al	E	EA	num=s|gen=n	8	comp
+10	altra	altro	P	PI	num=s|gen=f	9	prep
+
+1	inseguendo	inseguire	V	V	mod=g	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	forza	forza	S	S	num=s|gen=f	1	obj
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	lo	il	R	RD	num=s|gen=m	7	det
+7	slancio	slancio	S	S	num=s|gen=m	5	obj
+8	di	di	E	E	_	7	arg
+9	impazzire	impazzire	V	V	mod=f	8	prep
+
+1	finché	finché	C	CS	_	11	mod
+2	non	non	B	BN	_	3	neg
+3	scoppia	scoppiare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	il	il	R	RD	num=s|gen=m	5	det
+5	cuore	cuore	S	S	num=s|gen=m	3	subj
+6	il	il	R	RD	num=s|gen=m	7	det
+7	cuore	cuore	S	S	num=s|gen=m	5	mod
+8	il	il	R	RD	num=s|gen=m	9	det
+9	cuore	cuore	S	S	num=s|gen=m	7	mod
+10	il	il	R	RD	num=s|gen=m	11	det
+11	cuore	cuore	S	S	num=s|gen=m	0	ROOT
+
+1	Cari	caro	S	S	num=p|gen=m	0	ROOT
+2	cari	caro	A	A	num=p|gen=m	3	mod
+3	polli	pollo	S	S	num=p|gen=m	1	mod
+4	di	di	E	E	_	3	comp
+5	allevamento	allevamento	S	S	num=s|gen=m	4	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	odiate	odiare	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+3	ormai	ormai	B	B	_	4	mod
+4	per	per	E	E	_	2	comp
+5	frustrazione	frustrazione	S	S	num=s|gen=f	4	prep
+6	e	e	C	CC	_	2	con
+7	non	non	B	BN	_	8	neg
+8	per	per	E	E	_	2	comp
+9	scelta	scelta	S	S	num=s|gen=f	8	prep
+
+1	cari	caro	S	S	num=p|gen=m	0	ROOT
+2	cari	caro	A	A	num=p|gen=m	3	mod
+3	polli	pollo	S	S	num=p|gen=m	1	mod
+4	di	di	E	E	_	3	comp
+5	allevamento	allevamento	S	S	num=s|gen=m	4	prep
+
+1	con	con	E	E	_	0	ROOT
+2	quell'	quello	D	DD	num=s|gen=n	3	mod
+3	espressione	espressione	S	S	num=s|gen=f	1	prep
+4	equivoca	equivoco	A	A	num=s|gen=f	3	mod
+5	e	e	C	CC	_	3	con
+6	sempre	sempre	B	B	_	8	mod
+7	più	più	B	B	_	8	mod
+8	stravolta	stravolgere	V	V	num=s|mod=p|gen=f	3	mod
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	immaginando	immaginare	V	V	mod=g	0	ROOT
+3	di	di	E	E	_	2	arg
+4	passar-	passare	V	V	mod=f	3	prep
+5	vi	vi	P	PC	num=p|per=2|gen=n	4	obj
+6	accanto	accanto	B	B	_	4	mod
+
+1	in	in	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	strada	strada	S	S	num=s|gen=f	1	prep
+4	poco	poco	B	B	_	5	mod
+5	illuminata	illuminato	A	A	num=s|gen=f	3	mod
+
+1	non	non	B	BN	_	3	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	se	se	C	CS	_	3	mod
+5	aspettar-	aspettare	V	V	mod=f	4	sub
+6	si	si	P	PC	num=n|per=3|gen=n	5	clit
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	sorriso	sorriso	S	S	num=s|gen=m	5	obj
+9	o	o	C	CC	_	8	dis
+10	una	uno	R	RI	num=s|gen=f	11	det
+11	coltellata	coltellata	S	S	num=s|gen=f	8	disj
+12	dlin	dlin	S	S	num=s|gen=m	8	disj
+13	dlan	dlan	S	SW	num=n|gen=n	5	obj
+
+1	dlin	dlin	S	SW	num=n|gen=n	0	concat
+2	dlan	dlan	S	SW	num=n|gen=n	1	concat
+
+1	In	in	E	E	_	5	comp
+2	questa	questo	D	DD	num=s|gen=f	4	mod
+3	vostra	vostro	A	AP	num=s|gen=f	4	mod
+4	vita	vita	S	S	num=s|gen=f	1	prep
+5	sbatacchiata	sbatacchiare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	coda	coda	S	S	num=s|gen=f	2	obj
+5	di	di	E	E	_	4	comp
+6	lucertola	lucertola	S	S	num=s|gen=f	5	prep
+7	tagliata	tagliato	A	A	num=s|gen=f	4	mod
+
+1	per	per	E	E	_	5	comp
+2	riflesso	riflesso	S	S	num=s|gen=m	1	prep
+3	involontario	involontario	A	A	num=s|gen=m	2	mod
+4	vi	vi	P	PC	num=n|gen=n	5	comp
+5	agitate	agitare	V	V	num=p|mod=p|gen=f	0	ROOT
+6	continuate	continuare	V	V	num=p|per=2|mod=i|ten=p	5	mod
+7	ad	ad	E	E	_	6	arg
+8	urlare	urlare	V	V	mod=f	7	prep
+
+1	finché	finché	C	CS	_	11	mod
+2	non	non	B	BN	_	3	neg
+3	scoppia	scoppiare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	il	il	R	RD	num=s|gen=m	5	det
+5	cuore	cuore	S	S	num=s|gen=m	3	subj
+6	il	il	R	RD	num=s|gen=m	7	det
+7	cuore	cuore	S	S	num=s|gen=m	5	mod
+8	il	il	R	RD	num=s|gen=m	9	det
+9	cuore	cuore	S	S	num=s|gen=m	7	mod
+10	il	il	R	RD	num=s|gen=m	11	det
+11	cuore	cuore	S	S	num=s|gen=m	0	ROOT
+
+1	Tra	tra	E	E	_	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	allegria	allegria	S	S	num=s|gen=f	1	prep
+4	così	così	B	B	_	5	mod
+5	forte	forte	A	A	num=s|gen=n	3	mod
+
+1	e	e	C	CC	_	4	con
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	bel	bello	A	A	num=s|gen=m	4	mod
+4	senso	senso	S	S	num=s|gen=m	0	ROOT
+5	di	di	E	E	_	4	comp
+6	morte	morte	S	S	num=s|gen=f	5	prep
+7	uno	uno	R	RI	num=s|gen=m	9	det
+8	strano	strano	A	A	num=s|gen=m	9	mod
+9	dlin	dlin	S	S	num=s|gen=m	4	conj
+10	dlan	dlan	S	SW	num=n|gen=n	9	mod
+
+1	dlin	dlin	S	SW	num=n|gen=n	0	concat
+2	dlan	dlan	S	SW	num=n|gen=n	1	concat
+3	dlin	dlin	S	SW	num=n|gen=n	1	concat
+4	dlin	dlin	S	SW	num=n|gen=n	1	concat
+5	dlan	dlan	S	SW	num=n|gen=n	1	concat
+
+1	Cari	caro	S	S	num=p|gen=m	0	ROOT
+2	cari	caro	A	A	num=p|gen=m	3	mod
+3	polli	pollo	S	S	num=p|gen=m	1	mod
+4	di	di	E	E	_	3	comp
+5	allevamento	allevamento	S	S	num=s|gen=m	4	prep
+
+1	coi	con	E	EA	num=p|gen=m	8	comp
+2	vostri	vostro	A	AP	num=p|gen=m	3	mod
+3	stivaletti	stivaletto	S	S	num=p|gen=m	1	prep
+4	gialli	giallo	A	A	num=p|gen=m	3	mod
+5	e	e	C	CC	_	1	con
+6	le	il	R	RD	num=p|gen=f	8	det
+7	vostre	vostro	A	AP	num=p|gen=f	8	mod
+8	canzoni	canzone	S	S	num=p|gen=f	0	ROOT
+
+1	dlin	dlin	S	SW	num=n|gen=n	0	concat
+2	dlan	dlan	S	SW	num=n|gen=n	1	concat
+3	dlin	dlin	S	SW	num=n|gen=n	1	concat
+4	dlan	dlan	S	SW	num=n|gen=n	1	concat
+5	dlin	dlin	S	SW	num=n|gen=n	1	concat
+6	dlin	dlin	S	SW	num=n|gen=n	1	concat
+7	dlan	dlan	S	SW	num=n|gen=n	1	concat
+8	dlin	dlin	S	SW	num=n|gen=n	1	concat
+9	dlan	dlan	S	SW	num=n|gen=n	1	concat
+

@@ -1,0 +1,708 @@
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	4	subj
+3	italiana	italiano	A	A	num=s|gen=f	2	mod
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	assai	assai	B	B	_	6	mod
+6	educativa	educativo	A	A	num=s|gen=f	4	pred
+7	,	,	F	FF	_	4	con
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+9	dolce	dolce	A	A	num=s|gen=n	8	pred
+10	e	e	C	CC	_	9	con
+11	paterna	paterno	A	A	num=s|gen=f	9	conj
+12	e	e	C	CC	_	4	con
+13	un	uno	R	RI	num=s|gen=m	14	det
+14	pò	pò	B	B	_	15	mod
+15	permissiva	permissivo	A	A	num=s|gen=f	4	pred
+16	,	,	F	FF	_	15	con
+17	ma	ma	C	CC	_	15	con
+18	quando	quando	C	CS	_	27	mod
+19	abbandona	abbandonare	V	V	num=s|per=3|mod=i|ten=p	18	sub
+20	le	il	R	RD	num=p|gen=f	22	det
+21	buone	buono	A	A	num=p|gen=f	22	mod
+22	maniere	maniera	S	S	num=p|gen=f	19	obj
+23	,	,	F	FF	_	27	punc
+24	a	a	E	E	_	27	comp
+25	volte	volta	S	S	num=p|gen=f	24	prep
+26	fa	fare	V	VM	num=s|per=3|mod=i|ten=p	27	modal
+27	piangere	piangere	V	V	mod=f	15	conj
+28	a	a	E	E	_	27	comp
+29	volte	volta	S	S	num=p|gen=f	28	prep
+30	.	.	F	FS	_	4	punc
+
+1	Godere	godere	V	V	mod=f	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	10	subj
+3	italiana	italiano	A	A	num=s|gen=f	2	mod
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+6	ricca	ricco	A	A	num=s|gen=f	5	pred
+7	e	e	C	CC	_	6	con
+8	abbondante	abbondante	A	A	num=s|gen=n	6	conj
+9	,	,	F	FF	_	5	con
+10	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+11	molto	molto	B	B	_	12	mod
+12	distratta	distrarre	V	V	num=s|mod=p|gen=f	10	pred
+13	assai	assai	B	B	_	14	mod
+14	tollerante	tollerante	A	A	num=s|gen=n	12	mod
+15	,	,	F	FF	_	10	con
+16	ma	ma	C	CC	_	10	con
+17	quando	quando	C	CS	_	10	conj
+18	si	si	P	PC	num=n|per=3|gen=n	19	clit
+19	sveglia	svegliare	V	V	num=s|per=3|mod=i|ten=p	17	sub
+20	colpisce	colpire	V	V	num=s|per=3|mod=i|ten=p	19	arg
+21	a	a	E	E	_	20	comp
+22	piacere	piacere	S	S	num=s|gen=m	21	prep
+23	,	,	F	FF	_	25	punc
+24	si	si	P	PC	num=n|per=3|gen=n	25	clit
+25	da	da	E	E	_	20	comp
+26	un	uno	R	RI	num=s|gen=m	27	det
+27	gran	gran	A	A	num=n|gen=n	25	prep
+28	da	da	E	E	_	27	arg
+29	fare	fare	V	V	mod=f	28	prep
+30	e	e	C	CC	_	25	con
+31	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	25	conj
+32	.	.	F	FS	_	10	punc
+
+1	Potere	potere	S	S	num=s|gen=m	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	paese	paese	S	S	num=s|gen=m	3	prep
+6	antico	antico	A	A	num=s|gen=m	5	mod
+
+1	in	in	E	E	_	3	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	allo	al	E	EA	num=s|gen=m	7	comp
+4	stato	stato	S	S	num=s|gen=m	3	prep
+5	ci	ci	P	PC	num=n|gen=n	7	comp
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	poco	poco	B	B	_	7	mod
+
+1	dove	dove	P	PR	num=n|gen=n	2	subj
+2	esplodono	esplodere	V	V	num=p|per=3|mod=i|ten=p	0	_
+3	i	il	R	RD	num=p|gen=m	4	det
+4	valori	valore	S	S	num=p|gen=m	2	obj
+5	nazionali	nazionale	A	A	num=p|gen=n	4	mod
+
+1	soltanto	soltanto	B	B	_	2	mod
+2	in	in	E	E	_	0	ROOT
+3	occasione	occasione	S	S	num=s|gen=f	2	prep
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	mondiali	mondiale	A	A	num=p|gen=n	4	prep
+
+1	Dove	dove	B	B	_	3	mod_loc
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	avverte	avvertire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	coscienza	coscienza	S	S	num=s|gen=f	3	obj
+6	vaga	vago	A	A	num=s|gen=f	5	mod
+
+1	del	di	E	EA	num=s|gen=m	0	ROOT
+2	vivi	vivo	S	S	num=p|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	arg
+4	godi	godere	V	V	num=s|per=2|mod=m|ten=p	3	prep
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	chi	chi	P	PR	num=n|gen=n	5	prep
+7	se	se	P	PC	num=n|per=3|gen=n	9	clit
+8	ne	ne	P	PC	num=n|gen=n	9	comp
+9	frega	fregare	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	5	det
+4	unico	unico	A	A	num=s|gen=m	5	mod
+5	orgoglio	orgoglio	S	S	num=s|gen=m	2	pred
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	vero	vero	A	A	num=s|gen=m	6	prep
+8	italiano	italiano	A	A	num=s|gen=m	7	mod
+
+1	ma	ma	C	CC	_	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	porta	portare	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	volta	volta	S	S	num=s|gen=f	3	obj
+6	a	a	E	E	_	3	arg
+7	votare	votare	V	V	mod=f	6	prep
+8	di	di	E	E	_	7	comp
+9	meno	meno	B	B	_	8	prep
+
+1	Ne	ne	P	PC	num=n|gen=n	3	comp
+2	han	han	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	parlato	parlare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	alla	al	E	EA	num=s|gen=f	3	comp
+5	Camera	Camera	S	SP	_	4	prep
+
+1	e	e	C	CC	_	0	con
+2	anche	anche	B	B	_	3	mod
+3	al	a	E	EA	num=s|gen=m	1	comp_loc
+4	Senato	Senato	S	SP	_	3	prep
+5	.	.	F	FS	_	0	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	paese	paese	S	S	num=s|gen=m	3	prep
+6	amato	amare	V	V	num=s|mod=p|gen=m	5	mod
+
+1	da	da	E	E	_	0	ROOT
+2	per	per	E	E	_	1	comp
+3	scontato	scontato	A	A	num=s|gen=m	2	prep
+4	il	il	R	RD	num=s|gen=m	5	det
+5	furto	furto	S	S	num=s|gen=m	1	prep
+6	al	a	E	EA	num=s|gen=m	5	comp
+7	supermercato	supermercato	S	S	num=s|gen=m	6	prep
+
+1	e	e	C	CC	_	2	con
+2	cerca	cercare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	4	mod
+4	di	di	E	E	_	2	arg
+5	non	non	B	BN	_	6	neg
+6	disturbare	disturbare	V	V	mod=f	4	prep
+
+1	l'	il	R	RD	num=s|gen=n	3	det
+2	onesto	onesto	A	A	num=s|gen=m	3	mod
+3	lavoro	lavoro	S	S	num=s|gen=m	0	ROOT
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	contrabbandiere	contrabbandiere	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	metter	mettere	V	V	mod=f	0	ROOT
+4	le	il	R	RD	num=p|gen=f	5	det
+5	cinture	cintura	S	S	num=p|gen=f	3	obj
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	conj
+7	un	uno	R	RI	num=s|gen=m	9	det
+8	grave	grave	A	A	num=s|gen=n	9	mod
+9	errore	errore	S	S	num=s|gen=m	6	pred
+
+1	soltanto	soltanto	B	B	_	2	mod
+2	se	se	C	CS	_	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	vigile	vigile	S	S	num=s|gen=m	6	subj
+5	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	voglia	voglia	S	S	num=s|gen=f	2	sub
+7	di	di	E	E	_	6	arg
+8	scherzare	scherzare	V	V	mod=f	7	prep
+9	.	.	F	FS	_	2	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	legge	legge	S	S	num=s|gen=f	4	subj
+7	non	non	B	BN	_	9	neg
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	.	.	F	FS	_	4	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	legge	legge	S	S	num=s|gen=f	4	subj
+7	non	non	B	BN	_	9	neg
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	.	.	F	FS	_	4	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	paese	paese	S	S	num=s|gen=m	3	prep
+6	da	da	E	E	_	5	arg
+7	capire	capire	V	V	mod=f	6	prep
+
+1	con	con	E	E	_	0	ROOT
+2	tante	tanto	D	DI	num=p|gen=f	3	mod
+3	coste	costa	S	S	num=p|gen=f	1	prep
+4	e	e	C	CC	_	3	con
+5	con	con	E	E	_	3	comp
+6	tanto	tanto	D	DI	num=s|gen=m	7	mod
+7	mare	mare	S	S	num=s|gen=m	5	prep
+
+1	dove	dove	P	PR	num=n|gen=n	2	subj
+2	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	_
+3	persino	persino	B	B	_	4	mod
+4	coi	con	E	EA	num=p|gen=m	2	comp
+5	patini	patini	S	S	num=p|gen=m	4	prep
+
+1	milioni	milione	S	S	num=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	milioni	milione	S	S	num=p|gen=m	1	conj
+4	di	di	E	E	_	1	comp
+5	clandestini	clandestino	S	S	num=p|gen=m	4	prep
+
+1	Dove	dove	B	B	_	7	mod_loc
+2	i	il	R	RD	num=p|gen=m	4	det
+3	nostri	nostro	A	AP	num=p|gen=m	4	mod
+4	operai	operaio	S	S	num=p|gen=m	7	subj
+5	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	7	aux
+6	poco	poco	B	B	_	7	mod
+7	pagati	pagare	V	V	num=p|mod=p|gen=m	0	_
+
+1	grazie	grazie	S	S	num=n|gen=n	0	ROOT
+2	al	a	E	EA	num=s|gen=m	1	comp
+3	buon	buon	A	A	num=s|gen=m	4	mod
+4	lavoro	lavoro	S	S	num=s|gen=m	2	prep
+5	dei	di	E	EA	num=p|gen=m	4	comp
+6	sindacati	sindacato	S	S	num=p|gen=m	5	prep
+
+1	dove	dove	P	PR	num=n|gen=n	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	geniale	geniale	A	A	num=s|gen=n	4	mod
+4	impegno	impegno	S	S	num=s|gen=m	1	ROOT
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	governo	governo	S	S	num=s|gen=m	5	prep
+
+1	é	é	V	VM	num=s|per=3|mod=i|ten=p	2	modal
+2	sviluppare	sviluppare	V	V	mod=f	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	non-lavoro	non-lavoro	S	S	num=s|gen=m	2	obj
+5	nel	in	E	EA	num=s|gen=m	4	comp
+6	mezzogiorno	mezzogiorno	S	S	num=s|gen=m	5	prep
+7	.	.	F	FS	_	2	punc
+
+1	Ne	ne	P	PC	num=n|gen=n	3	comp
+2	han	han	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	parlato	parlare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	alla	al	E	EA	num=s|gen=f	3	comp
+5	Camera	Camera	S	SP	_	4	prep
+
+1	e	e	C	CC	_	0	con
+2	anche	anche	B	B	_	3	mod
+3	al	a	E	EA	num=s|gen=m	1	comp_loc
+4	Senato	Senato	S	SP	_	3	prep
+5	.	.	F	FS	_	0	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	paese	paese	S	S	num=s|gen=m	3	prep
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pò	pò	B	B	_	8	mod
+8	in	in	E	E	_	2	comp
+9	ribasso	ribasso	S	S	num=s|gen=m	8	prep
+
+1	dove	dove	P	PR	num=n|gen=n	4	comp
+2	le	il	R	RD	num=p|gen=f	3	det
+3	tasse	tassa	S	S	num=p|gen=f	4	subj
+4	siano	essere	V	V	num=p|per=3|mod=c|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	paradosso	paradosso	S	S	num=s|gen=m	4	pred
+
+1	dove	dove	P	PR	num=n|gen=n	0	_
+2	chi	chi	P	PR	num=n|gen=n	1	mod_rel
+3	paga	pagare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+4	tutto	tutto	D	DI	num=s|gen=m	5	mod
+5	proprio	proprio	B	B	_	6	mod
+6	tutto	tutto	P	PI	num=s|gen=m	3	obj
+
+1	é	é	B	BN	_	2	neg
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	con	con	E	E	_	2	comp
+4	stupore	stupore	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	4	con
+6	con	con	E	E	_	4	conj
+7	sospetto	sospetto	S	S	num=s|gen=m	6	prep
+
+1	dove	dove	P	PR	num=n|gen=n	0	_
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+3	implicita	implicito	A	A	num=s|gen=f	2	pred
+4	l'	il	R	RD	num=s|gen=n	6	det
+5	antica	antico	A	A	num=s|gen=f	6	mod
+6	usanza	usanza	S	S	num=s|gen=f	2	subj
+
+1	di	di	E	E	_	0	ROOT
+2	fare	fare	V	V	mod=f	1	prep
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	buon	buon	A	A	num=s|gen=m	5	mod
+5	accordo	accordo	S	S	num=s|gen=m	2	obj
+6	con	con	E	E	_	5	comp
+7	la	il	R	RD	num=s|gen=f	8	det
+8	finanza	finanza	S	S	num=s|gen=f	6	prep
+9	.	.	F	FS	_	1	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	legge	legge	S	S	num=s|gen=f	4	subj
+7	non	non	B	BN	_	9	neg
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	.	.	F	FS	_	4	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	legge	legge	S	S	num=s|gen=f	4	subj
+7	non	non	B	BN	_	9	neg
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	.	.	F	FS	_	4	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	paese	paese	S	S	num=s|gen=m	3	prep
+6	poco	poco	B	B	_	7	mod
+7	serio	serio	A	A	num=s|gen=m	5	mod
+
+1	dove	dove	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	manca	mancare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	niente	niente	B	B	_	3	mod
+5	tranne	tranne	E	E	_	3	comp
+6	il	il	R	RD	num=s|gen=m	7	det
+7	necessario	necessario	S	S	num=s|gen=m	5	prep
+
+1	e	e	C	CC	_	6	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	misura	misura	S	S	num=s|gen=f	6	subj
+4	non	non	B	BN	_	6	neg
+5	ci	ci	P	PC	num=p|per=1|gen=n	6	comp_ind
+6	sfiora	sfiorare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	affatto	affatto	B	B	_	6	mod
+
+1	e	e	C	CC	_	6	con
+2	sui	su	E	EA	num=p|gen=m	6	comp
+3	giornali	giornale	S	S	num=p|gen=m	2	prep
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	può	potere	V	VM	num=s|per=3|mod=i|ten=p	6	modal
+6	scrivere	scrivere	V	V	mod=f	0	ROOT
+7	di	di	E	E	_	6	comp
+8	tutto	tutto	P	PI	num=s|gen=m	7	prep
+9	.	.	F	FS	_	6	punc
+
+1	Dove	dove	B	B	_	0	_
+2	in	in	E	E	_	1	comp
+3	occasione	occasione	S	S	num=s|gen=f	2	prep
+4	di	di	E	E	_	3	comp
+5	drammi	dramma	S	S	num=p|gen=m	4	prep
+6	mondiali	mondiale	A	A	num=p|gen=n	5	mod
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+2	modestia	modestia	S	S	num=s|gen=f	1	ROOT
+3	a	a	E	E	_	2	comp
+4	parte	parte	S	S	num=s|gen=f	3	prep
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+6	i	il	R	RD	num=p|gen=m	7	det
+7	più	più	B	B	_	8	mod
+8	solidali	solidale	A	A	num=p|gen=n	5	pred
+9	.	.	F	FS	_	5	punc
+
+1	Ne	ne	P	PC	num=n|gen=n	3	comp
+2	han	han	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	parlato	parlare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	alla	al	E	EA	num=s|gen=f	3	comp
+5	Camera	Camera	S	SP	_	4	prep
+
+1	e	e	C	CC	_	0	con
+2	anche	anche	B	B	_	3	mod
+3	al	a	E	EA	num=s|gen=m	1	comp_loc
+4	Senato	Senato	S	SP	_	3	prep
+5	.	.	F	FS	_	0	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	paese	paese	S	S	num=s|gen=m	3	prep
+6	birichino	birichino	A	A	num=s|gen=m	5	mod
+
+1	in	in	E	E	_	5	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	ultimamente	ultimo	B	B	_	5	mod
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	ride	ridere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	di	di	E	E	_	5	comp
+7	meno	meno	B	B	_	6	prep
+
+1	dove	dove	P	PR	num=n|gen=n	3	subj
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	i	il	R	RD	num=p|gen=m	5	det
+5	giochi	gioco	S	S	num=p|gen=m	3	subj
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	gran	gran	A	A	num=n|gen=n	8	mod
+8	capitale	capitale	S	S	num=s|gen=n	6	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	specie	specie	S	S	num=n|gen=f	2	pred
+5	di	di	E	E	_	4	comp
+6	mafia	mafia	S	S	num=s|gen=f	5	prep
+7	però	però	B	B	_	9	mod
+8	più	più	B	B	_	9	mod
+9	legale	legale	A	A	num=s|gen=n	6	mod
+10	.	.	F	FS	_	2	punc
+
+1	Che	che	C	CS	_	0	ROOT
+2	noi	noi	P	PE	num=p|per=1|gen=n	1	sub
+3	senza	senza	C	CS	_	2	mod
+4	perdere	perdere	V	V	mod=f	3	sub
+5	neanche	neanche	B	B	_	4	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	guerra	guerra	S	S	num=s|gen=f	4	obj
+
+1	potremmo	potere	V	VM	num=p|per=1|mod=d|ten=p	4	modal
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	giorno	giorno	S	S	num=s|gen=m	4	mod_temp
+4	trovar-	trovare	V	V	mod=f	0	ROOT
+5	ci	ci	P	PC	num=p|per=1|gen=n	4	obj
+6	col	con	E	EA	num=s|gen=m	4	comp
+7	culo	culo	S	S	num=s|gen=m	6	prep
+8	per	per	E	E	_	7	comp
+9	terra	terra	S	S	num=s|gen=f	8	prep
+10	.	.	F	FS	_	4	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	legge	legge	S	S	num=s|gen=f	4	subj
+7	non	non	B	BN	_	9	neg
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	.	.	F	FS	_	4	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	legge	legge	S	S	num=s|gen=f	4	subj
+7	non	non	B	BN	_	9	neg
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	.	.	F	FS	_	4	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	paese	paese	S	S	num=s|gen=m	3	prep
+6	irrazionale	irrazionale	A	A	num=s|gen=n	5	mod
+
+1	dove	dove	P	PR	num=n|gen=n	4	subj
+2	si	si	P	PC	num=n|per=3|gen=n	4	clit
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	ingorgato	ingorgare	V	V	num=s|mod=p|gen=m	0	ROOT
+5	lo	il	R	RD	num=s|gen=m	6	det
+6	stato	stato	S	S	num=s|gen=m	4	subj_pass
+7	sociale	sociale	A	A	num=s|gen=n	6	mod
+
+1	dove	dove	P	PR	num=n|gen=n	0	ROOT
+2	i	il	R	RD	num=p|gen=m	3	det
+3	diritti	diritto	S	S	num=p|gen=m	1	ROOT
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	pensionato	pensionato	S	S	num=s|gen=m	4	prep
+6	e	e	C	CC	_	4	con
+7	del	di	E	EA	num=s|gen=m	4	conj
+8	malato	malato	S	S	num=s|gen=m	7	prep
+
+1	non	non	B	BN	_	3	neg
+2	li	li	P	PC	num=p|per=3|gen=m	3	obj
+3	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	né	né	C	CC	_	3	con
+5	il	il	R	RD	num=s|gen=m	6	det
+6	funzionario	funzionario	S	S	num=s|gen=m	3	subj
+7	né	né	C	CC	_	6	con
+8	l'	il	R	RD	num=s|gen=n	9	det
+9	impiegato	impiegato	S	S	num=s|gen=m	6	conj
+
+1	figuriamo-	figurare	V	V	num=p|per=1|mod=m|ten=p	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	1	clit
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	interessato	interessato	S	S	num=s|gen=m	1	obj
+5	.	.	F	FS	_	1	punc
+
+1	Dove	dove	B	B	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	carceri	carcere	S	S	num=p|gen=f	1	ROOT
+4	son	son	C	CS	_	3	mod
+5	così	così	B	B	_	6	mod
+6	accoglienti	accogliente	A	A	num=p|gen=n	4	sub
+
+1	che	che	C	CS	_	4	subj
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	6	mod
+6	posto	porre	V	V	num=s|mod=p|gen=m	4	mod
+7	per	per	E	E	_	6	comp
+8	altri	altro	D	DI	num=p|gen=m	9	mod
+9	delinquenti	delinquente	S	S	num=p|gen=n	7	prep
+
+1	dove	dove	P	PR	num=n|gen=n	0	_
+2	senza	senza	E	E	_	1	comp
+3	isterie	isteria	S	S	num=p|gen=f	2	prep
+4	e	e	C	CC	_	2	con
+5	con	con	E	E	_	2	conj
+6	grande	grande	A	A	num=s|gen=n	7	mod
+7	fermezza	fermezza	S	S	num=s|gen=f	5	prep
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	pone	porre	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	problema	problema	S	S	num=s|gen=m	3	obj
+6	della	di	E	EA	num=s|gen=f	5	comp
+7	sicurezza	sicurezza	S	S	num=s|gen=f	6	prep
+8	.	.	F	FS	_	3	punc
+
+1	Ne	ne	P	PC	num=n|gen=n	3	comp
+2	han	han	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	parlato	parlare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	alla	al	E	EA	num=s|gen=f	3	comp
+5	Camera	Camera	S	SP	_	4	prep
+
+1	e	e	C	CC	_	0	con
+2	anche	anche	B	B	_	3	mod
+3	al	a	E	EA	num=s|gen=m	1	comp_loc
+4	Senato	Senato	S	SP	_	3	prep
+5	.	.	F	FS	_	0	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	paese	paese	S	S	num=s|gen=m	3	prep
+6	alla	al	E	EA	num=s|gen=f	5	comp
+7	deriva	deriva	S	S	num=s|gen=f	6	prep
+
+1	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	1	clit
+3	che	che	C	CS	_	1	comp
+4	la	il	R	RD	num=s|gen=f	5	det
+5	giustizia	giustizia	S	S	num=s|gen=f	3	prep
+6	sia	sia	C	CC	_	5	con
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	pò	pò	B	B	_	9	mod
+9	riflessiva	riflessivo	A	A	num=s|gen=f	5	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	per	per	E	E	_	1	conj
+3	fare	fare	V	V	mod=f	2	prep
+4	valere	valere	V	V	mod=f	3	arg
+5	le	il	R	RD	num=p|gen=f	7	det
+6	tue	tuo	A	AP	num=p|gen=f	7	mod
+7	ragioni	ragione	S	S	num=p|gen=f	4	obj
+
+1	dovrai	dovere	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+2	aspettare	aspettare	V	V	mod=f	1	arg
+3	due	due	N	N	_	6	mod
+4	o	o	C	CC	_	3	dis
+5	tre	tre	N	N	_	6	mod
+6	generazioni	generazione	S	S	num=p|gen=f	2	obj
+7	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	6	con
+2	nei	in	E	EA	num=p|gen=m	6	comp
+3	tribunali	tribunale	S	S	num=p|gen=m	2	prep
+4	in	in	E	E	_	3	comp
+5	archivi	archivio	S	S	num=p|gen=m	4	prep
+6	segreti	segreto	A	A	num=p|gen=m	0	_
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	storia	storia	S	S	num=s|gen=f	2	subj
+5	d'	di	E	E	_	4	comp
+6	Italia	Italia	S	SP	_	5	prep
+7	di	di	E	E	_	4	comp
+8	tutti	tutto	T	T	num=p|gen=m	10	mod
+9	i	il	R	RD	num=p|gen=m	10	det
+10	partiti	partito	S	S	num=p|gen=m	7	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	siccome	siccome	C	CS	_	1	conj
+3	nessuno	nessuno	P	PI	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+5	senza	senza	E	E	_	4	comp
+6	peccato	peccato	S	S	num=s|gen=m	5	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	ricattare	ricattare	V	V	mod=f	0	ROOT
+4	tutto	tutto	T	T	num=s|gen=m	6	mod
+5	lo	il	R	RD	num=s|gen=m	6	det
+6	Stato	Stato	S	SP	_	3	subj
+7	.	.	F	FS	_	3	punc
+
+1	Di	di	E	E	_	7	comp
+2	questo	questo	P	PD	num=s|gen=m	1	prep
+3	alla	al	E	EA	num=s|gen=f	7	comp
+4	Camera	Camera	S	SP	_	3	prep
+5	non	non	B	BN	_	7	neg
+6	han	han	V	VA	num=s|per=1|mod=i|ten=p	7	aux
+7	parlato	parlare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	e	e	C	CC	_	0	con
+2	neanche	neanche	B	B	_	3	mod
+3	al	a	E	EA	num=s|gen=m	1	comp_loc
+4	Senato	Senato	S	SP	_	3	prep
+5	.	.	F	FS	_	0	punc
+
+1	Lo	il	R	RD	num=s|gen=m	2	det
+2	Stato	Stato	S	SP	_	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	lo	il	R	RD	num=s|gen=m	6	det
+6	Stato	Stato	S	SP	_	4	subj
+7	non	non	B	BN	_	9	neg
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	.	.	F	FS	_	4	punc
+
+1	Lo	il	R	RD	num=s|gen=m	2	det
+2	Stato	Stato	S	SP	_	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	lo	il	R	RD	num=s|gen=m	6	det
+6	Stato	Stato	S	SP	_	4	subj
+7	non	non	B	BN	_	9	neg
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	.	.	F	FS	_	4	punc
+
+1	Lo	il	R	RD	num=s|gen=m	2	det
+2	Stato	Stato	S	SP	_	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	lo	il	R	RD	num=s|gen=m	6	det
+6	Stato	Stato	S	SP	_	4	subj
+7	non	non	B	BN	_	9	neg
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	.	.	F	FS	_	4	punc
+
+1	Lo	il	R	RD	num=s|gen=m	2	det
+2	Stato	Stato	S	SP	_	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	lo	il	R	RD	num=s|gen=m	6	det
+6	Stato	Stato	S	SP	_	4	subj
+7	non	non	B	BN	_	9	neg
+8	c'	ci	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	.	.	F	FS	_	4	punc
+

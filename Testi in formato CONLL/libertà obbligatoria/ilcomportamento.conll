@@ -1,0 +1,328 @@
+1	Mio	mio	A	AP	num=s|gen=m	2	mod
+2	nonno	nonno	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	3	mod
+5	mio	mio	A	AP	num=s|gen=m	3	pred
+6	nonno	nonno	S	S	num=s|gen=m	3	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	sempre	sempre	B	B	_	1	mod
+3	Ambrogio	Ambrogio	S	SP	_	1	pred
+4	in	in	E	E	_	1	pred
+5	ogni	ogni	D	DI	num=s|gen=n	6	mod
+6	momento	momento	S	S	num=s|gen=m	4	prep
+
+1	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	dire	dire	V	V	mod=f	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	non	non	B	BN	_	6	neg
+5	c'	ci	P	PC	num=n|gen=n	6	comp
+6	ha	avere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+7	problemi	problema	S	S	num=p|gen=m	6	obj
+8	di	di	E	E	_	7	comp
+9	comportamento	comportamento	S	S	num=s|gen=m	8	prep
+10	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	assomiglio	assomigliare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	ad	ad	E	E	_	3	comp
+5	Ambrogio	Ambrogio	S	SP	_	4	prep
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	interezza	interezza	S	S	num=s|gen=f	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	mio	mio	A	AP	num=s|gen=m	7	mod
+7	forte	forte	A	A	num=s|gen=n	4	pred
+
+1	per	per	E	E	_	0	ROOT
+2	essere	essere	V	V	mod=f	1	prep
+3	a	a	E	E	_	2	comp
+4	mio	mio	A	AP	num=s|gen=m	3	prep
+5	agio	agio	S	S	num=s|gen=m	2	pred
+
+1	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	bisogno	bisogno	S	S	num=s|gen=m	1	obj
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	parte	parte	S	S	num=s|gen=f	3	prep
+6	.	.	F	FS	_	1	punc
+
+1	Per	per	E	E	_	3	comp
+2	esempio	esempio	S	S	num=s|gen=m	1	prep
+3	quando	quando	C	CS	_	0	ROOT
+4	sto	stare	V	V	num=s|per=1|mod=i|ten=p	3	sub
+5	in	in	E	E	_	4	comp
+6	campagna	campagna	S	S	num=s|gen=f	5	prep
+
+1	ed	e	C	CC	_	2	con
+2	accendo	accendere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	fuoco	fuoco	S	S	num=s|gen=m	2	obj
+5	nel	in	E	EA	num=s|gen=m	2	comp
+6	camino	camino	S	S	num=s|gen=m	5	prep
+
+1	lentamente	lento	B	B	_	2	mod
+2	raccolgo	raccogliere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	legna	legna	S	S	num=s|gen=f	2	obj
+
+1	e	e	C	CC	_	3	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	clit
+3	muovo	muovere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	come	come	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	contadino	contadino	S	S	num=s|gen=m	4	prep
+7	.	.	F	FS	_	3	punc
+
+1	Quando	quando	C	CS	_	6	mod
+2	in	in	E	E	_	6	comp
+3	treno	treno	S	S	num=s|gen=m	2	prep
+4	incontro	incontro	B	B	_	6	mod
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	donna	donna	S	S	num=s|gen=f	0	ROOT
+
+1	io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	clit
+3	invento	inventare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	serio	serio	A	A	num=s|gen=m	3	pred
+5	e	e	C	CC	_	3	con
+6	riservato	riservare	V	V	num=s|mod=p|gen=m	3	conj
+
+1	faccio	fare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	quello	quello	P	PD	num=s|gen=m	1	obj
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	parla	parlare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	poco	poco	B	B	_	4	mod
+
+1	ma	ma	C	CC	_	3	con
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	obj
+3	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	dietro	dietro	B	B	_	7	mod
+5	tutto	tutto	T	T	num=s|gen=m	7	mod
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	passato	passato	S	S	num=s|gen=m	3	subj
+8	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	4	con
+2	se	se	P	PC	num=n|per=3|gen=n	4	clit
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	0	_
+5	bene	bene	B	B	_	4	mod
+
+1	se	se	C	CS	_	5	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	parte	parte	S	S	num=s|gen=f	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	funziona	funzionare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	allora	allora	B	B	_	3	mod
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	arg
+5	essere	essere	V	V	mod=f	4	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	persona	persona	S	S	num=s|gen=f	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	Qualche	qualche	D	DI	num=s|gen=n	2	mod
+2	volta	volta	S	S	num=s|gen=f	3	mod_temp
+3	metto	mettere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	6	det
+5	mio	mio	A	AP	num=s|gen=m	6	mod
+6	giaccone	giaccone	S	S	num=s|gen=m	3	obj
+
+1	grigioverde	grigioverde	A	A	num=s|gen=n	2	mod
+2	tipo	tipo	S	S	num=s|gen=m	0	ROOT
+3	guerrigliero	guerrigliero	S	S	num=s|gen=m	2	mod
+
+1	e	e	C	CC	_	3	con
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	obj
+3	metto	mettere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dentro	dentro	E	E	_	3	comp
+5	il	il	R	RD	num=s|gen=m	7	det
+6	mio	mio	A	AP	num=s|gen=m	7	mod
+7	corpo	corpo	S	S	num=s|gen=m	4	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	già	già	B	B	_	1	concat
+3	che	che	C	CS	_	2	concat
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	comp
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	3	sub
+6	anche	anche	B	B	_	9	mod
+7	il	il	R	RD	num=s|gen=m	9	det
+8	mio	mio	A	AP	num=s|gen=m	9	mod
+9	pensiero	pensiero	S	S	num=s|gen=m	5	subj
+10	.	.	F	FS	_	1	punc
+
+1	Quando	quando	C	CS	_	4	mod
+2	invece	invece	B	B	_	3	mod
+3	sto	stare	V	V	num=s|per=1|mod=i|ten=p	4	modal
+4	leggendo	leggere	V	V	mod=g	0	ROOT
+5	Hegel	Hegel	S	SP	_	4	obj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	concentro	concentrare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+4	tutto	tutto	D	DI	num=s|gen=m	2	arg
+5	preso	prendere	V	V	num=s|mod=p|gen=m	4	mod
+
+1	non	non	B	BN	_	2	neg
+2	da	da	E	E	_	0	_
+3	Hegel	Hegel	S	SP	_	2	prep
+4	naturalmente	naturalmente	B	B	_	2	mod
+
+1	ma	ma	C	CC	_	0	ROOT
+2	dal	da	E	EA	num=s|gen=m	1	ROOT
+3	mio	mio	A	AP	num=s|gen=m	4	mod
+4	fascino	fascino	S	S	num=s|gen=m	2	prep
+5	di	di	E	E	_	4	comp
+6	studioso	studioso	S	S	num=s|gen=m	5	prep
+7	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	4	con
+2	se	se	P	PC	num=n|per=3|gen=n	4	clit
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	0	_
+5	bene	bene	B	B	_	4	mod
+
+1	se	se	C	CS	_	5	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	parte	parte	S	S	num=s|gen=f	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	funziona	funzionare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	allora	allora	B	B	_	3	mod
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	arg
+5	essere	essere	V	V	mod=f	4	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	persona	persona	S	S	num=s|gen=f	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	Mio	mio	A	AP	num=s|gen=m	2	mod
+2	nonno	nonno	S	S	num=s|gen=m	5	subj
+3	si	si	P	PC	num=n|per=3|gen=n	5	clit
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	scelto	scegliere	V	V	num=s|mod=p|gen=m	0	ROOT
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	parte	parte	S	S	num=s|gen=f	5	obj
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	cambia	cambiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	in	in	E	E	_	3	comp
+5	ogni	ogni	D	DI	num=s|gen=n	6	mod
+6	momento	momento	S	S	num=s|gen=m	4	prep
+
+1	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	dire	dire	V	V	mod=f	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	ha	avere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	solo	solo	S	S	num=s|gen=m	5	obj
+
+1	comportamento	comportamento	S	S	num=s|gen=m	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	invece	invece	B	B	_	3	mod
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	3	mod
+5	bisogno	bisogno	S	S	num=s|gen=m	3	obj
+
+1	di	di	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	nuova	nuovo	A	A	num=s|gen=f	4	mod
+4	definizione	definizione	S	S	num=s|gen=f	1	prep
+
+1	e	e	C	CC	_	4	con
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	altri	altro	P	PI	num=p|gen=m	4	subj
+4	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	lo	il	R	RD	num=s|gen=m	6	det
+6	stesso	stesso	A	A	num=s|gen=m	4	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	tacita	tacito	A	A	num=s|gen=f	4	mod
+4	convenzione	convenzione	S	S	num=s|gen=f	1	pred
+5	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	4	con
+2	da	da	E	E	_	4	comp
+3	oggi	oggi	B	B	_	2	prep
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	voglia	voglia	S	S	num=s|gen=f	4	obj
+6	di	di	E	E	_	5	arg
+7	gridare	gridare	V	V	mod=f	6	prep
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+4	stato	essere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	mai	mai	B	B	_	4	pred
+6	me	me	P	PE	num=s|per=1|gen=n	4	subj
+7	stesso	stesso	A	A	num=s|gen=m	6	mod
+
+1	e	e	C	CC	_	2	con
+2	dichiaro	dichiarare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	senza	senza	E	E	_	2	comp
+4	pudore	pudore	S	S	num=s|gen=m	3	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	recito	recitare	V	V	num=s|per=1|mod=i|ten=p	1	sub
+4	come	come	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	fesso	fesso	S	S	num=s|gen=m	4	prep
+7	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	4	con
+2	se	se	P	PC	num=n|per=3|gen=n	4	clit
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	0	_
+5	bene	bene	B	B	_	4	mod
+
+1	se	se	C	CS	_	5	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	parte	parte	S	S	num=s|gen=f	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	funziona	funzionare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	allora	allora	B	B	_	3	mod
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	arg
+5	essere	essere	V	V	mod=f	4	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	persona	persona	S	S	num=s|gen=f	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	Se	se	C	CS	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	giorno	giorno	S	S	num=s|gen=m	5	mod_temp
+4	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+5	cercassimo	cercare	V	V	num=p|per=1|mod=c|ten=i	1	sub
+
+1	chi	chi	P	PR	num=n|gen=n	3	subj_pass
+2	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	3	aux
+3	veramente	vero	B	B	_	0	_
+
+1	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	sospetto	sospetto	S	S	num=s|gen=m	1	obj
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	troveremmo	trovare	V	V	num=p|per=1|mod=d|ten=p	0	ROOT
+4	niente	niente	B	B	_	3	mod
+5	.	.	F	FS	_	3	punc
+

@@ -1,0 +1,329 @@
+1	Eppure	eppure	C	CC	_	2	mod
+2	continuando	continuare	V	V	mod=g	0	_
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	nostra	nostro	A	AP	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	0	ROOT
+4	normale	normale	A	A	num=s|gen=n	3	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	potrebbe	potere	V	VM	num=s|per=3|mod=d|ten=p	3	modal
+3	capire	capire	V	V	mod=f	0	ROOT
+
+1	quello	quello	P	PD	num=s|gen=m	0	ROOT
+2	che	che	P	PR	num=n|gen=n	4	subj
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+4	serve	servire	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	che	che	C	CS	_	3	subj
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	davvero	davvero	B	B	_	3	mod
+5	essenziale	essenziale	A	A	num=s|gen=n	3	mod
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	potrebbe	potere	V	VM	num=s|per=3|mod=d|ten=p	3	modal
+3	guardare	guardare	V	V	mod=f	0	ROOT
+
+1	con	con	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	certo	certo	A	A	num=s|gen=m	4	mod
+4	distacco	distacco	S	S	num=s|gen=m	1	prep
+
+1	quasi	quasi	B	B	_	2	mod
+2	sorridendo	sorridere	V	V	mod=g	0	ROOT
+
+1	tutto	tutto	D	DI	num=s|gen=m	2	mod
+2	quello	quello	P	PD	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	accade	accadere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	delirio	delirio	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	mondo	mondo	S	S	num=s|gen=m	3	prep
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	potrebbe	potere	V	VM	num=s|per=3|mod=d|ten=p	3	modal
+3	sognare	sognare	V	V	mod=f	0	ROOT
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	luogo	luogo	S	S	num=s|gen=m	0	ROOT
+3	immaginario	immaginario	A	A	num=s|gen=m	2	mod
+
+1	e	e	C	CC	_	4	con
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	4	mod
+4	inconsueto	inconsueto	A	A	num=s|gen=m	0	ROOT
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	angolo	angolo	S	S	num=s|gen=m	0	ROOT
+3	inventato	inventato	A	A	num=s|gen=m	2	mod
+4	o	o	C	CC	_	2	dis
+5	forse	forse	B	B	_	6	mod
+6	vero	vero	A	A	num=s|gen=m	2	mod
+7	.	.	F	FS	_	2	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	luogo	luogo	S	S	num=s|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	pensiero	pensiero	S	S	num=s|gen=m	3	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	rifugio	rifugio	S	S	num=s|gen=m	0	ROOT
+3	dove	dove	P	PR	num=n|gen=n	2	arg
+4	metter-	mettere	V	V	mod=f	3	mod_rel
+5	si	si	P	PC	num=n|per=3|gen=n	4	clit
+6	al	a	E	EA	num=s|gen=m	4	comp
+7	riparo	riparo	S	S	num=s|gen=m	6	prep
+
+1	dall'	da	E	EA	num=s|gen=n	0	ROOT
+2	affanno	affanno	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	presente	presente	S	S	num=s|gen=n	3	prep
+5	e	e	C	CC	_	3	con
+6	del	di	E	EA	num=s|gen=m	3	conj
+7	futuro	futuro	S	S	num=s|gen=m	6	prep
+
+1	uno	uno	R	RI	num=s|gen=m	2	det
+2	spazio	spazio	S	S	num=s|gen=m	0	ROOT
+3	abitato	abitare	V	V	num=s|mod=p|gen=m	2	mod
+4	dalle	da	E	EA	num=p|gen=f	3	comp
+5	cose	cosa	S	S	num=p|gen=f	4	prep
+6	più	più	B	B	_	7	mod
+7	vere	vero	A	A	num=p|gen=f	5	mod
+
+1	come	come	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	piccolo	piccolo	A	A	num=s|gen=m	4	mod
+4	mondo	mondo	S	S	num=s|gen=m	1	prep
+5	che	che	C	CS	_	4	arg
+6	io	io	P	PE	num=s|per=1|gen=n	8	subj
+7	possa	potere	V	VM	num=s|per=3|mod=c|ten=p	8	modal
+8	contenere	contenere	V	V	mod=f	5	sub
+9	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	3	con
+2	allora	allora	B	B	_	3	mod
+3	superando	superare	V	V	mod=g	0	_
+
+1	le	il	R	RD	num=p|gen=f	3	det
+2	nostre	nostro	A	AP	num=p|gen=f	3	mod
+3	ansie	ansia	S	S	num=p|gen=f	0	ROOT
+4	quotidiane	quotidiano	A	A	num=p|gen=f	3	mod
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+2	potremmo	potere	V	VM	num=p|per=1|mod=d|ten=p	3	modal
+3	ascoltare	ascoltare	V	V	mod=f	0	ROOT
+4	soltanto	soltanto	B	B	_	3	mod
+
+1	chi	chi	P	PR	num=n|gen=n	3	subj
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	star	star	S	S	num=n|gen=f	3	obj
+5	bene	bene	B	B	_	3	mod
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	potremmo	potere	V	VM	num=p|per=1|mod=d|ten=p	4	modal
+3	più	più	B	B	_	4	mod
+4	che	che	C	CS	_	1	ROOT
+5	altro	altro	P	PI	num=s|gen=m	4	sub
+
+1	occupar-	occupare	V	V	mod=f	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	1	clit
+3	di	di	E	E	_	1	comp
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	prep
+
+1	cominciando	cominciare	V	V	mod=g	0	ROOT
+2	da	da	E	E	_	1	comp
+3	adesso	adesso	B	B	_	2	prep
+
+1	prima	prima	B	B	_	2	mod
+2	che	che	C	CS	_	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	uomo	uomo	S	S	num=s|gen=m	5	subj
+5	muoia	morire	V	V	num=s|per=3|mod=c|ten=p	2	sub
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	grande	grande	A	A	num=s|gen=n	3	mod
+3	vuoto	vuoto	S	S	num=s|gen=m	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	suo	suo	A	AP	num=s|gen=m	6	mod
+6	successo	successo	S	S	num=s|gen=m	4	prep
+
+1	E	e	C	CC	_	3	con
+2	potremmo	potere	V	VM	num=p|per=1|mod=d|ten=p	3	modal
+3	costruire	costruire	V	V	mod=f	0	ROOT
+
+1	su	su	E	E	_	6	comp
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	terreno	terreno	S	S	num=s|gen=m	1	prep
+4	precario	precario	A	A	num=s|gen=m	3	mod
+5	e	e	C	CC	_	1	con
+6	disastrato	disastrato	A	A	num=s|gen=m	0	ROOT
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	individuo	individuo	S	S	num=s|gen=m	0	ROOT
+3	compiuto	compiere	V	V	num=s|mod=p|gen=m	2	mod
+
+1	cosciente	cosciente	A	A	num=s|gen=n	0	ROOT
+2	e	e	C	CC	_	1	con
+3	intero	intero	A	A	num=s|gen=m	1	conj
+4	.	.	F	FS	_	1	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	luogo	luogo	S	S	num=s|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	pensiero	pensiero	S	S	num=s|gen=m	3	prep
+
+1	per	per	E	E	_	0	ROOT
+2	cercare	cercare	V	V	mod=f	1	prep
+3	al	a	E	EA	num=s|gen=m	2	comp_ind
+4	di	di	E	E	_	3	comp
+5	là	là	B	B	_	4	prep
+6	delle	di	E	EA	num=p|gen=f	2	comp
+7	parole	parola	S	S	num=p|gen=f	6	prep
+
+1	qualche	qualche	D	DI	num=s|gen=n	2	mod
+2	cosa	cosa	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	assomigli	assomigliare	V	V	num=s|per=3|mod=c|ten=p	2	mod_rel
+5	a	a	E	E	_	4	comp
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	morale	morale	S	S	num=s|gen=f	5	prep
+
+1	dove	dove	P	PR	num=n|gen=n	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	bimbo	bimbo	S	S	num=s|gen=m	1	ROOT
+4	cresciuto	crescere	V	V	num=s|mod=p|gen=m	3	mod
+
+1	senza	senza	C	CS	_	2	mod
+2	neanche	neanche	B	B	_	4	mod
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	modello	modello	S	S	num=s|gen=m	0	ROOT
+
+1	possa	potere	V	VM	num=s|per=3|mod=c|ten=p	3	modal
+2	già	già	B	B	_	3	mod
+3	frequentare	frequentare	V	V	mod=f	0	ROOT
+
+1	con	con	E	E	_	4	comp
+2	rigore	rigore	S	S	num=s|gen=m	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	giusto	giusto	A	A	num=s|gen=m	0	ROOT
+5	e	e	C	CC	_	4	con
+6	il	il	R	RD	num=s|gen=m	7	det
+7	bello	bello	A	A	num=s|gen=m	4	conj
+8	.	.	F	FS	_	4	punc
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	luogo	luogo	S	S	num=s|gen=m	0	ROOT
+3	per	per	E	E	_	2	arg
+4	trovare	trovare	V	V	mod=f	3	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	barlume	barlume	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	coscienza	coscienza	S	S	num=s|gen=f	3	prep
+
+1	dai	da	E	EA	num=p|gen=m	0	ROOT
+2	problemi	problema	S	S	num=p|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	sociale	sociale	A	A	num=s|gen=n	3	prep
+
+1	alla	al	E	EA	num=s|gen=f	0	ROOT
+2	sopravvivenza	sopravvivenza	S	S	num=s|gen=f	1	prep
+
+1	Dove	dove	B	B	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	gusto	gusto	S	S	num=s|gen=m	1	ROOT
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	vita	vita	S	S	num=s|gen=f	4	prep
+
+1	pur	pur	B	B	_	2	mod
+2	concreto	concreto	A	A	num=s|gen=m	4	mod
+3	che	che	C	CS	_	4	subj
+4	sia	essere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	mai	mai	B	B	_	2	mod
+4	volgare	volgare	A	A	num=s|gen=n	2	pred
+
+1	perché	perché	C	CS	_	0	ROOT
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	dentro	dentro	E	E	_	2	comp
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	utopia	utopia	S	S	num=s|gen=f	3	prep
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	5	det
+4	vero	vero	A	A	num=s|gen=m	5	mod
+5	luogo	luogo	S	S	num=s|gen=m	2	obj
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	pensiero	pensiero	S	S	num=s|gen=m	6	prep
+
+1	dove	dove	P	PR	num=n|gen=n	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	6	subj
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	futuro	futuro	S	S	num=s|gen=m	4	prep
+6	sta	stare	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+7	crescendo	crescere	V	V	mod=g	6	mod
+
+1	con	con	E	E	_	0	comp
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	idea	idea	S	S	num=s|gen=f	1	prep
+4	di	di	E	E	_	3	comp
+5	sé	sé	P	PE	num=n|per=3|gen=n	4	prep
+6	ma	ma	C	CC	_	1	con
+7	con	con	E	E	_	1	conj
+8	l'	il	R	RD	num=s|gen=n	9	det
+9	idea	idea	S	S	num=s|gen=f	7	prep
+10	del	di	E	EA	num=s|gen=m	9	comp
+11	mondo	mondo	S	S	num=s|gen=m	10	prep
+
+1	Dove	dove	B	B	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	prep
+4	più	più	B	B	_	3	mod
+5	solo	solo	B	B	_	3	mod
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	mai	mai	B	B	_	2	pred
+4	in	in	E	E	_	2	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	deserto	deserto	S	S	num=s|gen=m	4	prep
+
+1	se	se	C	CS	_	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	chiude	chiudere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	il	il	R	RD	num=s|gen=m	6	det
+5	proprio	proprio	A	AP	num=s|gen=m	6	mod
+6	cuore	cuore	S	S	num=s|gen=m	3	obj
+
+1	ma	ma	C	CC	_	4	con
+2	ogni	ogni	D	DI	num=s|gen=n	3	mod
+3	giorno	giorno	S	S	num=s|gen=m	4	subj
+4	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	tenere	tenere	V	V	mod=f	4	arg
+6	il	il	R	RD	num=s|gen=m	7	det
+7	cuore	cuore	S	S	num=s|gen=m	5	obj
+8	aperto	aperto	A	A	num=s|gen=m	7	mod
+9	.	.	F	FS	_	4	punc
+
+1	Coltivando	coltivare	V	V	mod=g	0	_
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	tesoro	tesoro	S	S	num=s|gen=m	1	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	racchiuso	racchiudere	V	V	num=s|mod=p|gen=m	2	pred
+4	dentro	dentro	B	B	_	3	mod
+5	al	a	E	EA	num=s|gen=m	3	comp
+6	luogo	luogo	S	S	num=s|gen=m	5	prep
+7	del	di	E	EA	num=s|gen=m	6	comp
+8	pensiero	pensiero	S	S	num=s|gen=m	7	prep
+9	.	.	F	FS	_	2	punc
+

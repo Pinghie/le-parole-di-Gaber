@@ -1,0 +1,283 @@
+1	Che	che	D	DE	num=n|gen=n	2	comp
+2	strano	strano	A	A	num=s|gen=m	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	4	mod
+4	cuocere	cuocere	V	V	mod=f	2	arg
+5	due	due	N	N	_	6	mod
+6	uova	uovo	S	S	num=p|gen=f	4	obj
+
+1	e	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	la	la	P	PC	num=s|per=3|gen=f	4	obj
+4	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	quando	quando	C	CS	_	4	mod
+6	studia	studiare	V	V	num=s|per=3|mod=i|ten=p	5	sub
+
+1	coi	con	E	EA	num=p|gen=m	7	comp
+2	capelli	capello	S	S	num=p|gen=m	1	prep
+3	corti	corto	A	A	num=p|gen=m	2	mod
+4	e	e	C	CC	_	1	con
+5	le	il	R	RD	num=p|gen=f	7	det
+6	sue	suo	A	AP	num=p|gen=f	7	mod
+7	passioni	passione	S	S	num=p|gen=f	0	ROOT
+
+1	e	e	C	CC	_	2	con
+2	avverto	avvertire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	senso	senso	S	S	num=s|gen=m	2	obj
+5	di	di	E	E	_	4	comp
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	donna	donna	S	S	num=s|gen=f	5	prep
+8	nuova	nuovo	A	A	num=s|gen=f	7	mod
+9	.	.	F	FS	_	2	punc
+
+1	Però	però	B	B	_	7	mod
+2	se	se	C	CS	_	7	mod
+3	guardo	guardare	V	V	num=s|per=1|mod=i|ten=p	2	sub
+4	in	in	E	E	_	3	comp
+5	certe	certo	D	DI	num=p|gen=f	6	mod
+6	strane	strano	A	A	num=p|gen=f	4	prep
+7	discrepanze	discrepanza	S	S	num=p|gen=f	0	ROOT
+
+1	allora	allora	B	B	_	3	mod
+2	non	non	B	BN	_	3	neg
+3	capisco	capire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	e	e	C	CC	_	3	con
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	clit
+6	spavento	spaventare	V	V	num=s|per=1|mod=i|ten=p	3	conj
+
+1	com'	come	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	insensata	insensato	A	A	num=s|gen=f	4	mod
+4	misteriosa	misterioso	A	A	num=s|gen=f	2	pred
+5	e	e	C	CC	_	2	con
+6	buffa	buffo	A	A	num=s|gen=f	2	conj
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	sua	suo	A	AP	num=s|gen=f	3	mod
+3	scelta	scelta	S	S	num=s|gen=f	0	_
+
+1	di	di	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	paio	paio	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	sandali	sandalo	S	S	num=p|gen=m	4	prep
+6	d'	di	E	E	_	5	comp
+7	argento	argento	S	S	num=s|gen=m	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	Come	come	B	B	_	2	mod
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	giusti	giusto	A	A	num=p|gen=m	2	pred
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	uomini	uomo	S	S	num=p|gen=m	2	subj
+
+1	coi	con	E	EA	num=p|gen=m	4	comp
+2	loro	loro	A	AP	num=n|gen=n	3	mod
+3	indumenti	indumento	S	S	num=p|gen=m	1	prep
+4	maschili	maschile	A	A	num=p|gen=n	0	_
+
+1	con	con	E	E	_	8	comp
+2	le	il	R	RD	num=p|gen=f	4	det
+3	loro	loro	A	AP	num=n|gen=n	4	mod
+4	camicie	camicia	S	S	num=p|gen=f	1	prep
+5	e	e	C	CC	_	1	con
+6	le	il	R	RD	num=p|gen=f	8	det
+7	loro	loro	A	AP	num=n|gen=n	8	mod
+8	scarpe	scarpa	S	S	num=p|gen=f	0	ROOT
+9	.	.	F	FS	_	8	punc
+
+1	Come	come	B	B	_	2	mod
+2	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	giusti	giusto	A	A	num=p|gen=m	2	mod
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	uomini	uomo	S	S	num=p|gen=m	2	subj
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	impegno	impegno	S	S	num=s|gen=m	0	ROOT
+3	civile	civile	A	A	num=s|gen=n	2	mod
+4	e	e	C	CC	_	2	con
+5	le	il	R	RD	num=p|gen=f	6	det
+6	idee	idea	S	S	num=p|gen=f	2	conj
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	odore	odore	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	tabacco	tabacco	S	S	num=s|gen=m	3	prep
+5	inglese	inglese	A	A	num=s|gen=n	4	mod
+6	e	e	C	CC	_	2	con
+7	la	il	R	RD	num=s|gen=f	8	det
+8	barba	barba	S	S	num=s|gen=f	2	conj
+9	rasata	rasato	A	A	num=s|gen=f	8	mod
+
+1	e	e	C	CC	_	6	con
+2	Eva	Eva	S	SP	_	6	subj
+3	non	non	B	BN	_	6	neg
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+5	ancora	ancora	B	B	_	6	mod
+6	nata	nascere	V	V	num=s|mod=p|gen=f	0	ROOT
+7	.	.	F	FS	_	6	punc
+
+1	Come	come	B	B	_	2	mod
+2	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	giusti	giusto	A	A	num=p|gen=m	2	mod
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	uomini	uomo	S	S	num=p|gen=m	2	subj
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	sanno	sapere	V	VM	num=p|per=3|mod=i|ten=p	3	modal
+3	giocare	giocare	V	V	mod=f	0	ROOT
+4	a	a	E	E	_	3	comp
+5	biliardo	biliardo	S	S	num=s|gen=m	4	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	i	il	R	RD	num=p|gen=m	4	det
+4	commenti	commento	S	S	num=p|gen=m	2	obj
+5	sull'	su	E	EA	num=s|gen=n	4	comp
+6	ultima	ultimo	A	A	num=s|gen=f	7	mod
+7	partita	partita	S	S	num=s|gen=f	5	prep
+
+1	Sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	affezionatissimi	affezionato	A	A	num=p|gen=m	1	pred
+
+1	alle	al	E	EA	num=p|gen=f	0	ROOT
+2	loro	loro	A	AP	num=n|gen=n	4	mod
+3	innocenti	innocente	A	A	num=p|gen=n	4	mod
+4	manie	mania	S	S	num=p|gen=f	1	prep
+
+1	e	e	C	CC	_	2	con
+2	parlano	parlare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	propria	proprio	A	AP	num=s|gen=f	5	mod
+5	donna	donna	S	S	num=s|gen=f	3	prep
+
+1	con	con	E	E	_	3	comp
+2	aria	aria	S	S	num=s|gen=f	1	prep
+3	annoiata	annoiare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	e	e	C	CC	_	6	con
+2	Eva	Eva	S	SP	_	6	subj
+3	non	non	B	BN	_	6	neg
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+5	ancora	ancora	B	B	_	6	mod
+6	nata	nascere	V	V	num=s|mod=p|gen=f	0	_
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+2	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	3	aux
+3	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	nostro	nostro	A	AP	num=s|gen=m	4	prep
+6	meglio	meglio	B	B	_	3	mod
+
+1	per	per	E	E	_	0	ROOT
+2	peggiorare	peggiorare	V	V	mod=f	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	mondo	mondo	S	S	num=s|gen=m	2	obj
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	5	subj
+2	così	così	B	B	_	3	mod
+3	cortesi	cortese	A	A	num=p|gen=n	1	mod
+4	così	così	B	B	_	5	mod
+5	lontani	lontano	A	A	num=p|gen=m	0	_
+
+1	due	due	N	N	_	2	mod
+2	secoli	secolo	S	S	num=p|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	baciamani	baciamano	S	S	num=p|gen=m	3	prep
+
+1	Come	come	B	B	_	2	mod
+2	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	giusti	giusto	A	A	num=p|gen=m	2	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	giovani	giovane	S	S	num=p|gen=n	2	subj
+
+1	insieme	insieme	B	B	_	2	mod
+2	alle	al	E	EA	num=p|gen=f	0	ROOT
+3	loro	loro	A	AP	num=n|gen=n	4	mod
+4	ragazze	ragazzo	S	S	num=p|gen=f	2	prep
+
+1	coscienti	cosciente	A	A	num=p|gen=n	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	questa	questo	D	DD	num=s|gen=f	4	mod
+4	polemica	polemica	S	S	num=s|gen=f	6	subj_pass
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	superata	superare	V	V	num=s|mod=p|gen=f	2	sub
+7	.	.	F	FS	_	1	punc
+
+1	Come	come	B	B	_	2	mod
+2	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	sensibili	sensibile	A	A	num=p|gen=n	2	mod
+
+1	di	di	E	E	_	0	ROOT
+2	fronte	fronte	S	S	num=s|gen=n	1	prep
+3	a	a	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	6	det
+5	nuova	nuovo	A	A	num=s|gen=f	6	mod
+6	realtà	realtà	S	S	num=n|gen=f	3	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	idee	idea	S	S	num=p|gen=f	3	subj
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	buone	buono	A	A	num=p|gen=f	3	pred
+5	ma	ma	C	CC	_	3	con
+6	la	il	R	RD	num=s|gen=f	7	det
+7	costola	costola	S	S	num=s|gen=f	9	subj_pass
+8	è	essere	V	VA	num=s|per=3|mod=i|ten=p	9	aux
+9	malandata	malandato	A	A	num=s|gen=f	3	conj
+
+1	e	e	C	CC	_	6	con
+2	Eva	Eva	S	SP	_	6	subj
+3	non	non	B	BN	_	6	neg
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+5	ancora	ancora	B	B	_	6	mod
+6	nata	nascere	V	V	num=s|mod=p|gen=f	0	ROOT
+7	.	.	F	FS	_	6	punc
+
+1	Che	che	D	DE	num=n|gen=n	2	comp
+2	strano	strano	A	A	num=s|gen=m	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	capisco	capire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	sandalo	sandalo	S	S	num=s|gen=m	2	obj
+5	d'	di	E	E	_	4	comp
+6	argento	argento	S	S	num=s|gen=m	5	prep
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	capisco	capire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	certe	certo	D	DI	num=p|gen=f	5	mod
+5	irrequietezze	irrequietezza	S	S	num=p|gen=f	3	obj
+
+1	che	che	C	CS	_	0	ROOT
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	appartengono	appartenere	V	V	num=p|per=3|mod=i|ten=p	1	sub
+5	e	e	C	CC	_	4	con
+6	che	che	C	CS	_	4	conj
+7	non	non	B	BN	_	8	neg
+8	amo	amare	V	V	num=s|per=1|mod=i|ten=p	6	sub
+
+1	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+2	anche	anche	B	B	_	3	mod
+3	dar-	dare	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	che	che	C	CS	_	3	arg
+6	ci	ci	P	PC	num=n|gen=n	7	comp
+7	sia	essere	V	V	num=s|per=3|mod=c|ten=p	5	sub
+8	qualcosa	qualcosa	P	PI	num=s|gen=n	7	subj
+
+1	forse	forse	B	B	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	sintomo	sintomo	S	S	num=s|gen=m	0	ROOT
+4	di	di	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	mutamento	mutamento	S	S	num=s|gen=m	4	prep
+
+1	aspettiamo	aspettare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	.	.	F	FS	_	1	punc
+

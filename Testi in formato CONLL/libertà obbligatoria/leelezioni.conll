@@ -1,0 +1,245 @@
+1	Generalmente	generalmente	B	B	_	3	mod
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	clit
+3	ricordo	ricordare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	domenica	domenica	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	sole	sole	S	S	num=s|gen=m	3	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	mattina	mattina	S	S	num=s|gen=f	0	ROOT
+3	molto	molto	B	B	_	4	mod
+4	bella	bello	A	A	num=s|gen=f	2	mod
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	aria	aria	S	S	num=s|gen=f	0	ROOT
+3	già	già	B	B	_	4	mod
+4	primaverile	primaverile	A	A	num=s|gen=n	2	mod
+
+1	in	in	E	E	_	4	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	clit
+4	senti	sentire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	6	mod
+6	pulito	pulito	A	A	num=s|gen=m	4	pred
+
+1	Anche	anche	B	B	_	4	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	strada	strada	S	S	num=s|gen=f	4	subj
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	6	mod
+6	pulita	pulito	A	A	num=s|gen=f	4	pred
+
+1	senza	senza	E	E	_	0	comp
+2	schiamazzi	schiamazzo	S	S	num=p|gen=m	1	prep
+3	e	e	C	CC	_	1	con
+4	senza	senza	E	E	_	1	conj
+5	suoni	suono	S	S	num=p|gen=m	4	prep
+
+1	chissà	chissà	B	B	_	4	mod
+2	perché	perché	C	CS	_	4	mod
+3	non	non	B	BN	_	4	neg
+4	piove	piovere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	mai	mai	B	B	_	4	mod
+
+1	quando	quando	C	CS	_	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	sub
+4	le	il	R	RD	num=p|gen=f	5	det
+5	elezioni	elezione	S	S	num=p|gen=f	3	subj
+
+1	Una	uno	R	RI	num=s|gen=f	3	det
+2	curiosa	curioso	A	A	num=s|gen=f	3	mod
+3	sensazione	sensazione	S	S	num=s|gen=f	0	_
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	rassomiglia	rassomigliare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	a	a	E	E	_	2	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	esame	esame	S	S	num=s|gen=m	5	prep
+
+1	di	di	E	E	_	4	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	non	non	B	BN	_	4	neg
+4	senti	sentire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	paura	paura	S	S	num=s|gen=f	4	obj
+
+1	ma	ma	C	CC	_	4	con
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	dolcissima	dolce	A	A	num=s|gen=f	4	mod
+4	emozione	emozione	S	S	num=s|gen=f	0	ROOT
+
+1	E	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	gente	gente	S	S	num=s|gen=f	0	ROOT
+5	per	per	E	E	_	4	comp
+6	la	il	R	RD	num=s|gen=f	7	det
+7	strada	strada	S	S	num=s|gen=f	5	prep
+
+1	li	li	P	PC	num=p|per=3|gen=m	2	obj
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	_
+3	tutti	tutto	P	PI	num=p|gen=m	2	obj
+4	più	più	B	B	_	5	mod
+5	educati	educare	V	V	num=p|mod=p|gen=m	3	mod
+
+1	sembrano	sembrare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	anche	anche	B	B	_	4	mod
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	1	mod
+5	più	più	B	B	_	1	mod
+6	buoni	buono	A	A	num=p|gen=m	1	pred
+
+1	ed	e	C	CC	_	2	con
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	4	mod
+4	bella	bello	A	A	num=s|gen=f	7	mod
+5	anche	anche	B	B	_	7	mod
+6	la	il	R	RD	num=s|gen=f	7	det
+7	scuola	scuola	S	S	num=s|gen=f	2	pred
+
+1	quando	quando	C	CS	_	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	sub
+4	le	il	R	RD	num=p|gen=f	5	det
+5	elezioni	elezione	S	S	num=p|gen=f	3	subj
+
+1	Persino	persino	B	B	_	2	mod
+2	nei	in	E	EA	num=p|gen=m	0	ROOT
+3	carabinieri	carabiniere	S	S	num=p|gen=m	2	prep
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	aria	aria	S	S	num=s|gen=f	2	subj
+5	più	più	B	B	_	6	mod
+6	rassicurante	rassicurare	V	V	num=s|mod=p	4	mod
+
+1	ma	ma	C	CC	_	4	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+4	vuole	volere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	7	det
+6	certo	certo	A	A	num=s|gen=m	7	mod
+7	sforzo	sforzo	S	S	num=s|gen=m	4	obj
+
+1	per	per	E	E	_	0	ROOT
+2	presentar-	presentare	V	V	mod=f	1	prep
+3	me	me	P	PC	num=s|per=1|gen=n	2	obj
+4	con	con	E	E	_	2	comp
+5	coraggio	coraggio	S	S	num=s|gen=m	4	prep
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	gran	gran	A	A	num=n|gen=n	5	mod
+5	silenzio	silenzio	S	S	num=s|gen=m	2	subj
+6	nel	in	E	EA	num=s|gen=m	5	comp
+7	mio	mio	A	AP	num=s|gen=m	8	mod
+8	seggio	seggio	S	S	num=s|gen=m	6	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	senso	senso	S	S	num=s|gen=m	0	ROOT
+3	d'	di	E	E	_	2	comp
+4	ordine	ordine	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	3	con
+6	di	di	E	E	_	3	conj
+7	pulizia	pulizia	S	S	num=s|gen=f	6	prep
+
+1	democrazia	democrazia	S	S	num=s|gen=f	0	ROOT
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	danno	dare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	comp
+4	mano	mano	S	S	num=s|gen=f	3	prep
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	paio	paio	S	S	num=s|gen=m	2	obj
+7	di	di	E	E	_	6	comp
+8	schede	scheda	S	S	num=p|gen=f	7	prep
+
+1	e	e	C	CC	_	4	con
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	bellissima	bello	A	A	num=s|gen=f	4	mod
+4	matita	matita	S	S	num=s|gen=f	0	ROOT
+
+1	lunga	lungo	A	A	num=s|gen=f	3	mod
+2	sottile	sottile	A	A	num=s|gen=n	1	mod
+3	marroncina	marroncina	S	S	num=s|gen=f	0	ROOT
+
+1	perfettamente	perfetto	B	B	_	2	mod
+2	temperata	temperato	A	A	num=s|gen=f	0	ROOT
+
+1	E	e	C	CC	_	2	con
+2	vado	andare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	verso	verso	E	E	_	2	comp
+4	la	il	R	RD	num=s|gen=f	5	det
+5	cabina	cabina	S	S	num=s|gen=f	3	prep
+
+1	volutamente	voluto	B	B	_	2	mod
+2	disinvolto	disinvolto	A	A	num=s|gen=m	0	ROOT
+
+1	per	per	E	E	_	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	tradire	tradire	V	V	mod=f	1	prep
+4	le	il	R	RD	num=p|gen=f	5	det
+5	emozioni	emozione	S	S	num=p|gen=f	3	obj
+
+1	E	e	C	CC	_	2	con
+2	faccio	fare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	segno	segno	S	S	num=s|gen=m	2	obj
+
+1	sul	su	E	EA	num=s|gen=m	0	ROOT
+2	mio	mio	A	AP	num=s|gen=m	3	mod
+3	segno	segno	S	S	num=s|gen=m	1	prep
+
+1	come	come	B	B	_	2	mod
+2	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	giuste	giusto	A	A	num=p|gen=f	2	pred
+4	le	il	R	RD	num=p|gen=f	5	det
+5	elezioni	elezione	S	S	num=p|gen=f	2	subj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	3	mod
+3	vero	vero	A	A	num=s|gen=m	1	pred
+4	che	che	C	CS	_	5	subj
+5	fa	fare	V	V	num=s|per=3|mod=i|ten=p	1	conj
+6	bene	bene	B	B	_	5	mod
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	pò	pò	B	B	_	3	mod
+3	di	di	E	E	_	0	ROOT
+4	partecipazione	partecipazione	S	S	num=s|gen=f	3	prep
+
+1	con	con	E	E	_	3	comp
+2	cura	cura	S	S	num=s|gen=f	1	prep
+3	piego	piegare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	le	il	R	RD	num=p|gen=f	5	det
+5	due	due	N	N	_	6	mod
+6	schede	scheda	S	S	num=p|gen=f	3	obj
+
+1	e	e	C	CC	_	2	con
+2	guardo	guardare	V	V	num=s|per=1|mod=i|ten=p	0	_
+3	ancora	ancora	B	B	_	2	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	matita	matita	S	S	num=s|gen=f	2	obj
+
+1	così	così	B	B	_	2	mod
+2	perfetta	perfetto	A	A	num=s|gen=f	0	ROOT
+3	e	e	C	CC	_	2	con
+4	temperata	temperare	V	V	num=s|mod=p|gen=f	2	conj
+
+1	io	io	P	PE	num=s|per=1|gen=n	6	mod
+2	quasi	quasi	B	B	_	4	mod
+3	quasi	quasi	B	B	_	4	mod
+4	me	me	P	PE	num=s|per=1|gen=n	6	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	porto	porto	S	S	num=s|gen=m	0	ROOT
+7	via	via	B	B	_	6	mod
+
+1	democrazia	democrazia	S	S	num=s|gen=f	0	ROOT
+

@@ -1,0 +1,619 @@
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mah	mah	I	I	_	4	mod
+4	chissà	chissà	B	B	_	0	ROOT
+5	?	?	F	FS	_	4	punc
+
+1	Mah	mah	I	I	_	2	mod
+2	chissà	chissà	B	B	_	0	ROOT
+3	?	?	F	FS	_	2	punc
+
+1	Mah	mah	I	I	_	2	mod
+2	chissà	chissà	B	B	_	0	ROOT
+3	?	?	F	FS	_	2	punc
+
+1	Mah	mah	I	I	_	2	mod
+2	chissà	chissà	B	B	_	0	ROOT
+3	?	?	F	FS	_	2	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	chissà	chissà	B	B	_	0	ROOT
+3	?	?	F	FS	_	2	punc
+
+1	Cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	sempre	sempre	B	B	_	1	mod
+3	più	più	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	voglia	voglia	S	S	num=s|gen=f	1	obj
+6	di	di	E	E	_	5	arg
+7	sapere	sapere	V	V	mod=f	6	prep
+
+1	come	come	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	legittima	legittimo	A	A	num=s|gen=f	4	mod
+4	curiosità	curiosità	S	S	num=n|gen=f	1	prep
+
+1	ma	ma	C	CC	_	8	con
+2	purtroppo	purtroppo	B	B	_	4	mod
+3	il	il	R	RD	num=s|gen=m	4	det
+4	mondo	mondo	S	S	num=s|gen=m	8	subj
+5	non	non	B	BN	_	8	neg
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	fa	fare	V	VM	num=s|per=3|mod=i|ten=p	8	modal
+8	capire	capire	V	V	mod=f	0	ROOT
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	tutti	tutto	P	PI	num=p|gen=m	3	mod
+3	pieni	pieno	A	A	num=p|gen=m	4	mod
+4	di	di	E	E	_	1	pred
+5	mah	mah	I	I	_	1	mod
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+4	?	?	F	FS	_	3	punc
+
+1	Mah	mah	I	I	_	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	Chissà	chissà	B	B	_	4	mod
+2	perché	perché	C	CS	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	stampa	stampa	S	S	num=s|gen=f	0	ROOT
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	ricca	ricco	A	A	num=s|gen=f	2	pred
+4	di	di	E	E	_	3	comp
+5	argomenti	argomento	S	S	num=p|gen=m	4	prep
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	dice	dire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	quel	quello	P	PD	num=s|gen=m	2	obj
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	accade	accadere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	o	o	C	CC	_	5	dis
+7	bluffa	bluffare	V	V	num=s|per=3|mod=i|ten=p	5	disj
+8	in	in	E	E	_	5	comp
+9	malafede	malafede	S	S	num=s|gen=f	8	prep
+
+1	o	o	C	CC	_	2	con
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	pred
+4	mano	mano	S	S	num=s|gen=f	3	prep
+5	ai	al	E	EA	num=p|gen=m	4	comp
+6	deficienti	deficiente	S	S	num=p|gen=n	5	prep
+7	.	.	F	FS	_	2	punc
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mah	mah	I	I	_	0	ROOT
+
+1	Chissà	chissà	B	B	_	2	mod
+2	se	se	C	CS	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	giustizia	giustizia	S	S	num=s|gen=f	0	ROOT
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	5	mod
+3	il	il	R	RD	num=s|gen=m	5	det
+4	suo	suo	A	AP	num=s|gen=m	5	mod
+5	dovere	dovere	S	S	num=s|gen=m	1	obj
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	se	se	C	CS	_	0	ROOT
+2	tifa	tifare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	a	a	E	E	_	8	comp
+6	sinistra	sinistra	S	S	num=s|gen=f	5	prep
+7	o	o	C	CC	_	5	dis
+8	tifa	tifare	V	V	num=s|per=3|mod=i|ten=p	2	disj
+9	per	per	E	E	_	8	comp
+10	la	il	R	RD	num=s|gen=f	11	det
+11	destra	destra	S	S	num=s|gen=f	9	prep
+
+1	o	o	C	CC	_	0	ROOT
+2	per	per	E	E	_	1	comp_temp
+3	il	il	R	RD	num=s|gen=m	5	det
+4	suo	suo	A	AP	num=s|gen=m	5	mod
+5	potere	potere	S	S	num=s|gen=m	2	prep
+6	.	.	F	FS	_	1	punc
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mah	mah	I	I	_	0	ROOT
+
+1	Chissà	chissà	B	B	_	4	mod
+2	perché	perché	C	CS	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	borsa	borsa	S	S	num=s|gen=f	0	ROOT
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	obj
+2	premia	premiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	e	e	C	CC	_	2	con
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	comp_ind
+5	castiga	castigare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	alza	alzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	e	e	C	CC	_	2	con
+4	poi	poi	B	B	_	2	conj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	abbassa	abbassare	V	V	num=s|per=3|mod=i|ten=p	4	sub
+7	si	si	P	PC	num=n|per=3|gen=n	6	clit
+8	scuote	scuotere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+9	e	e	C	CC	_	2	con
+10	resta	restare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+11	fissa	figgere	V	V	num=s|mod=p|gen=f	2	conj
+
+1	ma	ma	C	CC	_	7	con
+2	a	a	E	E	_	7	comp_ind
+3	me	me	P	PE	num=s|per=1|gen=n	2	prep
+4	che	che	D	DE	num=n|gen=n	7	obj
+5	me	me	P	PE	num=s|per=1|gen=n	7	subj
+6	ne	ne	P	PC	num=n|gen=n	7	comp
+7	frega	fregare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	.	.	F	FS	_	7	punc
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mah	mah	I	I	_	0	ROOT
+
+1	Chissà	chissà	B	B	_	0	ROOT
+2	se	se	C	CS	_	1	arg
+3	chi	chi	P	PR	num=n|gen=n	4	subj
+4	lavora	lavorare	V	V	num=s|per=3|mod=i|ten=p	2	sub
+
+1	lavorerà	lavorare	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+2	in	in	E	E	_	1	comp
+3	eterno	eterno	S	S	num=s|gen=m	2	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	se	se	C	CS	_	1	conj
+3	i	il	R	RD	num=p|gen=m	4	det
+4	disoccupati	disoccupato	S	S	num=p|gen=m	2	prep
+5	son	son	C	CS	_	7	mod
+6	molto	molto	B	B	_	7	mod
+7	confortati	confortare	V	V	num=p|mod=p|gen=m	4	mod
+
+1	dai	da	E	EA	num=p|gen=m	0	ROOT
+2	piani	piano	S	S	num=p|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	governo	governo	S	S	num=s|gen=m	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	Mah	mah	I	I	_	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	Chissà	chissà	B	B	_	2	mod
+2	se	se	C	CS	_	4	mod
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	ospedali	ospedale	S	S	num=p|gen=m	0	ROOT
+
+1	son	son	B	BN	_	3	neg
+2	bene	bene	B	B	_	3	mod
+3	organizzati	organizzare	V	V	num=p|mod=p|gen=m	0	_
+
+1	se	se	C	CS	_	0	ROOT
+2	alleviano	alleviare	V	V	num=p|per=3|mod=i|ten=p	1	sub
+3	il	il	R	RD	num=s|gen=m	4	det
+4	dolore	dolore	S	S	num=s|gen=m	2	obj
+
+1	chissà	chissà	B	B	_	2	mod
+2	se	se	C	CS	_	7	mod
+3	con	con	E	E	_	5	comp
+4	amore	amore	S	S	num=s|gen=m	3	prep
+5	ammazzano	ammazzare	V	V	num=p|per=3|mod=i|ten=p	2	sub
+6	i	il	R	RD	num=p|gen=m	7	det
+7	malati.Mah	malati.Mah	S	SW	num=n|gen=n	0	ROOT
+
+1	Chissà	chissà	B	B	_	2	mod
+2	se	se	C	CS	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	cultura	cultura	S	S	num=s|gen=f	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gioco	gioco	S	S	num=s|gen=m	1	pred
+4	di	di	E	E	_	3	comp
+5	opinioni	opinione	S	S	num=p|gen=f	4	prep
+
+1	se	se	C	CS	_	0	ROOT
+2	i	il	R	RD	num=p|gen=m	4	det
+3	nostri	nostro	A	AP	num=p|gen=m	4	mod
+4	professori	professore	S	S	num=p|gen=m	5	subj
+5	son	son	V	V	num=p|per=3|mod=i|ten=p	1	sub
+6	veri	vero	A	A	num=p|gen=m	7	mod
+7	pensatori	pensatore	S	S	num=p|gen=m	5	obj
+
+1	o	o	C	CC	_	3	con
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	mare	mare	S	S	num=s|gen=m	0	ROOT
+4	di	di	E	E	_	3	comp
+5	coglioni	coglione	S	S	num=p|gen=m	4	prep
+6	.	.	F	FS	_	3	punc
+
+1	Mah	mah	I	I	_	0	_
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	parliamo	parlare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	delle	di	E	EA	num=p|gen=f	2	comp
+4	cose	cosa	S	S	num=p|gen=f	3	prep
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	mondo	mondo	S	S	num=s|gen=m	5	prep
+
+1	discutiamo	discutere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	sui	su	E	EA	num=p|gen=m	1	comp
+3	problemi	problema	S	S	num=p|gen=m	2	prep
+4	di	di	E	E	_	3	comp
+5	fondo	fondo	S	S	num=s|gen=m	4	prep
+
+1	concludiamo	concludere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	nel	in	E	EA	num=s|gen=m	1	comp
+3	buio	buio	S	S	num=s|gen=m	2	prep
+4	più	più	B	B	_	5	mod
+5	tremendo	tremendo	A	A	num=s|gen=m	3	mod
+6	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	passa	passare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	mai	mai	B	B	_	3	mod_temp
+5	la	il	R	RD	num=s|gen=f	6	det
+6	voglia	voglia	S	S	num=s|gen=f	3	obj
+7	di	di	E	E	_	6	arg
+8	sapere	sapere	V	V	mod=f	7	prep
+
+1	ma	ma	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	il	il	R	RD	num=s|gen=m	7	det
+7	gusto	gusto	S	S	num=s|gen=m	4	subj
+8	della	di	E	EA	num=s|gen=f	7	comp
+9	verità	verità	S	S	num=n|gen=f	8	prep
+
+1	forse	forse	B	B	_	3	mod
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	sarà	essere	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+4	chi	chi	P	PR	num=n|gen=n	3	subj
+5	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	voglia	voglia	S	S	num=s|gen=f	4	mod_rel
+7	di	di	E	E	_	6	arg
+8	capire	capire	V	V	mod=f	7	prep
+
+1	ma	ma	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	ferma	fermare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	ai	al	E	EA	num=p|gen=m	3	comp
+5	soliti	solito	A	A	num=p|gen=m	4	prep
+6	mah	mah	I	I	_	3	mod
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	4	mod
+4	mah	mah	I	I	_	0	_
+
+1	Chissà	chissà	B	B	_	0	ROOT
+2	se	se	C	CS	_	1	mod
+3	chi	chi	P	PR	num=n|gen=n	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+5	al	a	E	EA	num=s|gen=m	4	pred
+6	potere	potere	S	S	num=s|gen=m	5	prep
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	occupa	occupare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	comp
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	prep
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	se	se	C	CS	_	6	mod
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	in	in	E	E	_	2	comp
+4	mente	mente	S	S	num=s|gen=f	3	prep
+5	nuove	nuovo	A	A	num=p|gen=f	4	mod
+6	cose	cosa	S	S	num=p|gen=f	0	ROOT
+
+1	se	se	C	CS	_	0	ROOT
+2	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	2	mod
+5	al	a	E	EA	num=s|gen=m	2	comp
+6	paese	paese	S	S	num=s|gen=m	5	prep
+
+1	o	o	C	CC	_	2	con
+2	fa	fa	B	B	_	4	mod
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	affari	affare	S	S	num=p|gen=m	0	ROOT
+5	suoi	suoi	A	A	num=p|gen=m	4	mod
+6	.	.	F	FS	_	4	punc
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mah	mah	I	I	_	0	ROOT
+
+1	Chissà	chissà	B	B	_	2	mod
+2	se	se	C	CS	_	0	_
+3	coi	con	E	EA	num=p|gen=m	2	comp
+4	partiti	partito	S	S	num=p|gen=m	3	prep
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	di	di	E	E	_	5	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	Italia	Italia	S	SP	_	5	subj
+5	abbonda	abbondare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	nostro	nostro	A	AP	num=s|gen=m	3	mod
+3	parlamento	parlamento	S	S	num=s|gen=m	1	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	arrivare	arrivare	V	V	mod=f	0	ROOT
+4	a	a	E	E	_	3	comp
+5	cento	cento	N	N	_	4	prep
+
+1	per	per	E	E	_	0	ROOT
+2	fare	fare	V	V	mod=f	1	prep
+3	cifra	cifra	S	S	num=s|gen=f	2	obj
+4	tonda	tondo	A	A	num=s|gen=f	3	mod
+5	.	.	F	FS	_	1	punc
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mah	mah	I	I	_	0	ROOT
+
+1	Chissà	chissà	B	B	_	2	mod
+2	se	se	C	CS	_	4	mod
+3	il	il	R	RD	num=s|gen=m	4	det
+4	Vaticano	Vaticano	S	SP	_	0	ROOT
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	che	che	C	CS	_	0	ROOT
+2	alla	al	E	EA	num=s|gen=f	5	comp
+3	bontà	bontà	S	S	num=s|gen=f	2	prep
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	ispira	ispirare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	chissà	chissà	B	B	_	0	ROOT
+
+1	abbraccia	abbracciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	i	il	R	RD	num=p|gen=m	3	det
+3	poveretti	poveretto	S	S	num=p|gen=m	1	obj
+
+1	li	li	P	PC	num=p|per=3|gen=m	2	obj
+2	benedice	benedire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	tutti	tutto	P	PI	num=p|gen=m	2	subj
+
+1	ma	ma	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	gli	gli	P	PC	num=s|per=3|gen=m	4	comp_ind
+4	dà	dare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	lira	lira	S	S	num=s|gen=f	4	obj
+7	.	.	F	FS	_	4	punc
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	mah	mah	I	I	_	0	ROOT
+
+1	Chissà	chissà	B	B	_	5	mod
+2	se	se	C	CS	_	5	mod
+3	anche	anche	B	B	_	5	mod
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	Europa	Europa	S	SP	_	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	così	così	B	B	_	2	mod
+4	seria	serio	A	A	num=s|gen=f	2	pred
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	fatta	fare	V	V	num=s|mod=p|gen=f	0	ROOT
+3	per	per	E	E	_	2	arg
+4	contare	contare	V	V	mod=f	3	prep
+5	per	per	E	E	_	4	arg
+6	far-	fare	V	VM	mod=f	8	modal
+7	ci	ci	P	PC	num=p|per=1|gen=n	6	clit
+8	comandare	comandare	V	V	mod=f	5	prep
+
+1	o	o	C	CC	_	0	ROOT
+2	per	per	E	E	_	1	disj
+3	metter-	mettere	V	V	mod=f	2	prep
+4	ci	ci	P	PC	num=p|per=1|gen=n	3	obj
+5	in	in	E	E	_	3	comp
+6	miseria	miseria	S	S	num=s|gen=f	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Mah	mah	I	I	_	0	_
+
+1	Chissà	chissà	B	B	_	5	mod
+2	se	se	C	CS	_	5	mod
+3	anche	anche	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	guerra	guerra	S	S	num=s|gen=f	0	ROOT
+
+1	in	in	E	E	_	5	comp
+2	terra	terra	S	S	num=s|gen=f	1	prep
+3	in	in	E	E	_	2	comp
+4	cielo	cielo	S	S	num=s|gen=m	3	prep
+5	in	in	E	E	_	0	ROOT
+6	mare	mare	S	S	num=s|gen=m	5	prep
+
+1	a	a	E	E	_	3	comp
+2	volte	volta	S	S	num=p|gen=f	1	prep
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	necessaria	necessario	A	A	num=s|gen=f	3	pred
+5	a	a	E	E	_	4	comp
+6	volte	volta	S	S	num=p|gen=f	5	prep
+7	umanitaria	umanitario	A	A	num=s|gen=f	6	mod
+
+1	a	a	E	E	_	3	comp
+2	volte	volta	S	S	num=p|gen=f	1	prep
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	grosso	grosso	A	A	num=s|gen=m	6	mod
+6	affare	affare	S	S	num=s|gen=m	3	pred
+7	.	.	F	FS	_	3	punc
+
+1	Mah	mah	I	I	_	0	_
+
+1	Chissà	chissà	B	B	_	2	mod
+2	se	se	C	CS	_	5	mod
+3	il	il	R	RD	num=s|gen=m	5	det
+4	nostro	nostro	A	AP	num=s|gen=m	5	mod
+5	Stato	Stato	S	SP	_	0	ROOT
+
+1	dà	dare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	qualche	qualche	D	DI	num=s|gen=n	3	mod
+3	garanzia	garanzia	S	S	num=s|gen=f	1	obj
+
+1	chissà	chissà	B	B	_	4	mod
+2	se	se	C	CS	_	4	mod
+3	giustamente	giusto	B	B	_	4	mod
+4	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	schifo	schifo	S	S	num=s|gen=m	4	obj
+6	a	a	E	E	_	4	comp
+7	tanta	tanto	D	DI	num=s|gen=f	8	mod
+8	gente	gente	S	S	num=s|gen=f	6	prep
+
+1	questa	questo	D	DD	num=s|gen=f	2	mod
+2	democrazia	democrazia	S	S	num=s|gen=f	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	Mah	mah	I	I	_	0	_
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	parliamo	parlare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	dell'	di	E	EA	num=s|gen=n	2	comp
+4	impegno	impegno	S	S	num=s|gen=m	3	prep
+5	sociale	sociale	A	A	num=s|gen=n	4	mod
+
+1	non	non	B	BN	_	2	neg
+2	perdiamo	perdere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	2	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	telegiornale	telegiornale	S	S	num=s|gen=m	2	obj
+
+1	sprofondiamo	sprofondare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	nel	in	E	EA	num=s|gen=m	1	comp
+3	caos	caos	S	S	num=s|gen=m	2	prep
+4	più	più	B	B	_	5	mod
+5	totale	totale	A	A	num=s|gen=n	3	mod
+6	.	.	F	FS	_	1	punc
+
+1	Cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	mio	mio	A	AP	num=s|gen=m	4	mod
+4	disagio	disagio	S	S	num=s|gen=m	1	obj
+5	ma	ma	C	CC	_	1	con
+6	non	non	B	BN	_	7	neg
+7	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	conj
+8	il	il	R	RD	num=s|gen=m	9	det
+9	solo	solo	S	S	num=s|gen=m	7	pred
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	sicuro	sicuro	B	B	_	2	mod
+4	che	che	C	CS	_	2	arg
+5	qualcuno	qualcuno	P	PI	num=s|gen=m	6	subj
+6	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	4	sub
+7	.	.	F	FS	_	2	punc
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+2	sentiamo	sentire	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	tutti	tutto	P	PI	num=p|gen=m	2	subj
+4	presi	prendere	V	V	num=p|mod=p|gen=m	3	mod
+5	per	per	E	E	_	4	comp
+6	il	il	R	RD	num=s|gen=m	7	det
+7	culo	culo	S	S	num=s|gen=m	5	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	ora	ora	B	B	_	1	pred
+3	di	di	E	E	_	2	arg
+4	finir-	finire	V	V	mod=f	3	prep
+5	la	la	P	PC	num=s|per=3|gen=f	4	obj
+6	coi	con	E	EA	num=p|gen=m	4	comp
+7	mah	mah	I	I	_	8	mod
+8	coro	coro	S	S	num=s|gen=m	6	prep
+9	:	:	F	FC	_	1	punc
+10	chissà	chissà	B	B	_	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	ora	ora	B	B	_	1	pred
+3	di	di	E	E	_	2	arg
+4	finir-	finire	V	V	mod=f	3	prep
+5	la	la	P	PC	num=s|per=3|gen=f	4	obj
+6	coi	con	E	EA	num=p|gen=m	4	comp
+7	mah	mah	I	I	_	8	mod
+8	coro	coro	S	S	num=s|gen=m	6	prep
+9	:	:	F	FC	_	1	punc
+10	chissà	chissà	B	B	_	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	ora	ora	B	B	_	1	pred
+3	di	di	E	E	_	2	arg
+4	finir-	finire	V	V	mod=f	3	prep
+5	la	la	P	PC	num=s|per=3|gen=f	4	obj
+6	coi	con	E	EA	num=p|gen=m	4	comp
+7	mah	mah	I	I	_	8	mod
+8	coro	coro	S	S	num=s|gen=m	6	prep
+9	:	:	F	FC	_	1	punc
+10	chissà	chissà	B	B	_	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	ora	ora	B	B	_	1	pred
+3	di	di	E	E	_	2	arg
+4	finir-	finire	V	V	mod=f	3	prep
+5	la	la	P	PC	num=s|per=3|gen=f	4	obj
+6	coi	con	E	EA	num=p|gen=m	4	comp
+7	mah	mah	I	I	_	8	mod
+8	coro	coro	S	S	num=s|gen=m	6	prep
+9	:	:	F	FC	_	1	punc
+10	chissà	chissà	B	B	_	0	ROOT
+

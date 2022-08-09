@@ -1,0 +1,785 @@
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	ricordo	ricordare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	5	det
+4	mia	mio	A	AP	num=s|gen=f	5	mod
+5	meraviglia	meraviglia	S	S	num=s|gen=f	2	obj
+6	e	e	C	CC	_	2	con
+7	forse	forse	B	B	_	9	mod
+8	l'	il	R	RD	num=s|gen=n	9	det
+9	allegria	allegria	S	S	num=s|gen=f	2	subj
+
+1	di	di	E	E	_	0	ROOT
+2	guardare	guardare	V	V	mod=f	1	prep
+3	a	a	E	E	_	2	comp
+4	quei	quello	D	DD	num=p|gen=m	5	mod
+5	pochi	poco	P	PI	num=p|gen=m	3	prep
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	rifiutavano	rifiutare	V	V	num=p|per=3|mod=i|ten=i	5	mod_rel
+8	tutto	tutto	P	PI	num=s|gen=m	2	obj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	ricordo	ricordare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	certi	certo	D	DI	num=p|gen=m	4	mod
+4	atteggiamenti	atteggiamento	S	S	num=p|gen=m	2	obj
+5	e	e	C	CC	_	2	con
+6	certe	certo	D	DI	num=p|gen=f	7	mod
+7	facce	faccia	S	S	num=p|gen=f	2	subj
+8	giuste	giusto	A	A	num=p|gen=f	7	mod
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	univano	unire	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+4	come	come	E	E	_	3	comp
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	ondata	ondata	S	S	num=s|gen=f	4	prep
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	rifiuta	rifiutare	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+9	e	e	C	CC	_	8	con
+10	che	che	C	CS	_	11	subj
+11	resiste	resistere	V	V	num=s|per=3|mod=i|ten=p	8	conj
+
+1	Ora	ora	B	B	_	4	mod_temp
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	pieno	pieno	A	A	num=s|gen=m	4	pred
+6	di	di	E	E	_	5	comp
+7	queste	questo	D	DD	num=p|gen=f	8	mod
+8	facce	faccia	S	S	num=p|gen=f	6	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	veramente	vero	B	B	_	1	mod
+3	troppo	troppo	B	B	_	4	mod
+4	pieno	pieno	A	A	num=s|gen=m	1	pred
+
+1	e	e	C	CC	_	0	ROOT
+2	questo	questo	D	DD	num=s|gen=m	3	mod
+3	scambio	scambio	S	S	num=s|gen=m	1	ROOT
+4	di	di	E	E	_	3	comp
+5	emozioni	emozione	S	S	num=p|gen=f	4	prep
+
+1	di	di	E	E	_	0	ROOT
+2	barbe	barba	S	S	num=p|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	baffi	baffo	S	S	num=p|gen=m	3	prep
+5	e	e	C	CC	_	3	con
+6	di	di	E	E	_	3	conj
+7	chimoni	chimono	S	S	num=p|gen=m	6	prep
+
+1	non	non	B	BN	_	2	neg
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	male	male	B	B	_	2	mod
+5	a	a	E	E	_	2	comp_ind
+6	nessuno	nessuno	P	PI	num=s|gen=m	5	prep
+7	.	.	F	FS	_	2	punc
+
+1	Quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	Non	non	B	BN	_	2	neg
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	_
+3	cos'	cosa	P	PQ	num=s|gen=n	5	subj
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	successo	successo	S	S	num=s|gen=m	2	obj
+
+1	a	a	E	E	_	0	ROOT
+2	queste	questo	D	DD	num=p|gen=f	3	mod
+3	facce	faccia	S	S	num=p|gen=f	1	prep
+4	a	a	E	E	_	1	conj
+5	questa	questo	D	DD	num=s|gen=f	6	mod
+6	gente	gente	S	S	num=s|gen=f	4	prep
+
+1	se	se	C	CS	_	0	ROOT
+2	sia	essere	V	V	num=s|per=3|mod=c|ten=p	1	sub
+3	solo	solo	B	B	_	5	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	fatto	fatto	S	S	num=s|gen=m	2	pred
+6	estetico	estetico	A	A	num=s|gen=m	5	mod
+
+1	o	o	C	CC	_	3	con
+2	qualche	qualche	D	DI	num=s|gen=n	3	mod
+3	cosa	cosa	S	S	num=s|gen=f	0	ROOT
+4	di	di	E	E	_	3	comp
+5	più	più	B	B	_	6	mod
+6	importante	importante	A	A	num=s|gen=n	4	prep
+
+1	Se	se	C	CS	_	0	ROOT
+2	sia	essere	V	V	num=s|per=3|mod=c|ten=p	1	sub
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	mio	mio	A	AP	num=s|gen=m	5	mod
+5	ripensamento	ripensamento	S	S	num=s|gen=m	2	pred
+
+1	o	o	C	CC	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	4	det
+3	mia	mio	A	AP	num=s|gen=f	4	mod
+4	mancanza	mancanza	S	S	num=s|gen=f	1	ROOT
+5	di	di	E	E	_	4	comp
+6	entusiasmo	entusiasmo	S	S	num=s|gen=m	5	prep
+
+1	ma	ma	C	CC	_	3	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	sembrano	sembrare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	già	già	B	B	_	3	mod
+5	facce	faccia	S	S	num=p|gen=f	3	subj
+
+1	da	da	E	E	_	0	ROOT
+2	rotocalchi	rotocalco	S	S	num=p|gen=m	1	prep
+3	o	o	C	CC	_	1	dis
+4	da	da	E	E	_	1	disj
+5	ente	ente	S	S	num=s|gen=m	4	prep
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	Turismo	turismo	S	S	num=s|gen=m	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	Quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	E	e	C	CC	_	2	con
+2	visti	vedere	V	V	num=p|mod=p|gen=m	0	_
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	distanza	distanza	S	S	num=s|gen=f	3	prep
+
+1	non	non	B	BN	_	2	neg
+2	siete	essere	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+3	poi	poi	B	B	_	2	mod
+4	tanto	tanto	B	B	_	2	mod
+5	diversi	diverso	A	A	num=p|gen=m	2	pred
+
+1	dai	da	E	EA	num=p|gen=m	0	ROOT
+2	piccolo	piccolo	S	S	num=s|gen=m	1	prep
+3	borghesi	borghese	A	A	num=p|gen=n	2	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	offrono	offrire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	champagne	champagne	S	SW	num=n|gen=m	2	obj
+4	e	e	C	CC	_	2	con
+5	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	2	conj
+6	i	il	R	RD	num=p|gen=m	7	det
+7	generosi	generoso	S	S	num=p|gen=m	5	obj
+
+1	Che	che	P	PR	num=n|gen=n	3	subj
+2	sanno	sapere	V	VM	num=p|per=3|mod=i|ten=p	3	modal
+3	divertir-	divertire	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+
+1	e	e	C	CC	_	2	con
+2	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	fortuna	fortuna	S	S	num=s|gen=f	2	obj
+5	e	e	C	CC	_	4	con
+6	la	il	R	RD	num=s|gen=f	7	det
+7	vergogna	vergogna	S	S	num=s|gen=f	4	conj
+
+1	dei	di	E	EA	num=p|gen=m	0	ROOT
+2	litorali	litorale	S	S	num=p|gen=m	1	prep
+3	più	più	B	B	_	4	mod
+4	sperduti	sperduto	A	A	num=p|gen=m	2	mod
+5	e	e	C	CC	_	4	con
+6	delle	di	E	EA	num=p|gen=f	4	conj
+7	grandi	grande	A	A	num=p|gen=n	8	mod
+8	spiagge	spiaggia	S	S	num=p|gen=f	6	prep
+
+1	della	di	E	EA	num=s|gen=f	0	ROOT
+2	Sardegna	Sardegna	S	SP	_	1	prep
+3	.	.	F	FS	_	1	punc
+
+1	Quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	E	e	C	CC	_	4	con
+2	anche	anche	B	B	_	3	mod
+3	se	se	C	CS	_	4	mod
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	diverso	diverso	A	A	num=s|gen=m	4	pred
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	vostro	vostro	A	AP	num=s|gen=m	3	mod
+3	grado	grado	S	S	num=s|gen=m	0	ROOT
+4	di	di	E	E	_	3	comp
+5	coscienza	coscienza	S	S	num=s|gen=f	4	prep
+
+1	quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	nessuna	nessuna	D	DI	num=s|gen=f	5	mod
+5	differenza	differenza	S	S	num=s|gen=f	3	subj
+
+1	Tra	tra	E	E	_	0	comp
+2	quella	quello	P	PD	num=s|gen=f	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	playboy	playboy	S	SW	num=n|gen=m	3	prep
+
+1	più	più	B	B	_	2	mod
+2	sorpassato	sorpassato	A	A	num=s|gen=m	0	ROOT
+3	e	e	C	CC	_	2	con
+4	più	più	B	B	_	5	mod
+5	reazionario	reazionario	A	A	num=s|gen=m	2	conj
+
+1	a	a	E	E	_	0	ROOT
+2	quella	quello	D	DD	num=s|gen=f	3	mod
+3	sublimata	sublimare	V	V	num=s|mod=p|gen=f	1	prep
+
+1	di	di	E	E	_	0	ROOT
+2	fare	fare	V	V	mod=f	1	prep
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	comune	comune	S	S	num=s|gen=n	2	obj
+5	o	o	C	CC	_	4	dis
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	consultorio	consultorio	S	S	num=s|gen=m	4	disj
+8	.	.	F	FS	_	1	punc
+
+1	Quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+2	per	per	E	E	_	1	comp
+3	me	me	P	PE	num=s|per=1|gen=n	2	prep
+4	se	se	C	CS	_	1	mod
+5	ci	ci	P	PC	num=n|gen=n	6	comp
+6	avessi	avere	V	VA	num=s|per=1|mod=c|ten=i	4	sub
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	forza	forza	S	S	num=s|gen=f	0	ROOT
+3	e	e	C	CC	_	2	con
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	arroganza	arroganza	S	S	num=s|gen=f	2	conj
+
+1	direi	dire	V	V	num=s|per=1|mod=d|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	sub
+4	diverso	diverso	A	A	num=s|gen=m	3	pred
+
+1	e	e	C	CC	_	3	con
+2	quasi	quasi	B	B	_	3	mod
+3	certamente	certo	B	B	_	4	mod
+4	solo	solo	B	B	_	0	_
+
+1	Direi	dire	V	V	num=s|per=1|mod=d|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	non	non	B	BN	_	4	neg
+4	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	2	sub
+5	a	a	E	E	_	4	arg
+6	sopportare	sopportare	V	V	mod=f	5	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	vecchie	vecchio	A	A	num=p|gen=f	4	mod
+3	assurde	assurdo	A	A	num=p|gen=f	2	mod
+4	istituzioni	istituzione	S	S	num=p|gen=f	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	le	il	R	RD	num=p|gen=f	4	det
+3	vostre	vostro	A	AP	num=p|gen=f	4	mod
+4	manie	mania	S	S	num=p|gen=f	0	ROOT
+5	creative	creativo	A	A	num=p|gen=f	4	mod
+
+1	le	il	R	RD	num=p|gen=f	3	det
+2	vostre	vostro	A	AP	num=p|gen=f	3	mod
+3	innovazioni	innovazione	S	S	num=p|gen=f	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	diverso	diverso	A	A	num=s|gen=m	2	pred
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	cambio	cambiare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	poco	poco	B	B	_	2	mod
+
+1	cambio	cambio	S	S	num=s|gen=m	0	ROOT
+2	molto	molto	B	B	_	1	mod
+3	lentamente	lento	B	B	_	1	mod
+
+1	non	non	B	BN	_	2	neg
+2	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	arg
+4	digerire	digerire	V	V	mod=f	3	prep
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	corsi	corso	S	S	num=p|gen=m	0	ROOT
+3	accelerati	accelerare	V	V	num=p|mod=p|gen=m	2	mod
+4	da	da	E	E	_	3	comp
+5	Lenin	Lenin	S	SP	_	4	prep
+6	all'	al	E	EA	num=s|gen=n	2	comp
+7	Oriente	Oriente	S	SP	_	6	prep
+
+1	E	e	C	CC	_	3	con
+2	anche	anche	B	B	_	3	mod
+3	nell'	in	E	EA	num=s|gen=n	0	ROOT
+4	amore	amore	S	S	num=s|gen=m	3	prep
+
+1	non	non	B	BN	_	2	neg
+2	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	arg
+4	conquistare	conquistare	V	V	mod=f	3	prep
+5	la	il	R	RD	num=s|gen=f	7	det
+6	vostra	vostro	A	AP	num=s|gen=f	7	mod
+7	leggerezza	leggerezza	S	S	num=s|gen=f	4	obj
+
+1	non	non	B	BN	_	2	neg
+2	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	2	mod
+4	a	a	E	E	_	2	arg
+5	improvvisare	improvvisare	V	V	mod=f	4	prep
+
+1	o	o	C	CC	_	0	ROOT
+2	a	a	E	E	_	1	disj
+3	fare	fare	V	V	mod=f	2	prep
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	3	mod
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	omosessuale	omosessuale	A	A	num=s|gen=n	3	pred
+
+1	tanto	tanto	B	B	_	2	mod
+2	per	per	E	E	_	0	ROOT
+3	cambiare	cambiare	V	V	mod=f	2	prep
+4	.	.	F	FS	_	2	punc
+
+1	Quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	9	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+10	moda	moda	S	S	num=s|gen=f	9	pred
+11	.	.	F	FS	_	4	punc
+
+1	E	e	C	CC	_	2	con
+2	siete	essere	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	4	mod
+4	originali	originale	A	A	num=p|gen=n	2	pred
+
+1	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	ascoltare	ascoltare	V	V	mod=f	1	arg
+3	qualche	qualche	D	DI	num=s|gen=n	5	mod
+4	vostra	vostro	A	AP	num=s|gen=f	5	mod
+5	frase	frase	S	S	num=s|gen=f	2	obj
+
+1	piena	pieno	A	A	num=s|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	nuove	nuovo	A	A	num=p|gen=f	4	mod
+4	parole	parola	S	S	num=p|gen=f	2	prep
+
+1	sempre	sempre	B	B	_	3	mod
+2	più	più	B	B	_	3	mod
+3	acculturate	acculturate	A	A	num=p|gen=f	0	ROOT
+4	sempre	sempre	B	B	_	5	mod
+5	più	più	B	B	_	6	mod
+6	disgustose	disgustoso	A	A	num=p|gen=f	3	mod
+
+1	Che	che	C	CS	_	0	ROOT
+2	per	per	E	E	_	1	comp
+3	uno	uno	R	RI	num=s|gen=m	2	prep
+4	normale	normale	A	A	num=s|gen=n	3	mod
+
+1	per	per	E	E	_	0	ROOT
+2	uno	uno	P	PI	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	onesti	onesto	A	A	num=p|gen=m	5	mod
+5	sentimenti	sentimento	S	S	num=p|gen=m	3	prep
+
+1	quando	quando	C	CS	_	0	ROOT
+2	ve	ve	P	PC	num=n|gen=n	4	comp
+3	le	le	P	PC	num=n|per=3|gen=f	4	comp_ind
+4	sente	sentire	V	V	num=s|per=3|mod=i|ten=p	1	sub
+5	in	in	E	E	_	4	comp
+6	bocca	bocca	S	S	num=s|gen=f	5	prep
+
+1	avrebbe	avere	V	V	num=s|per=3|mod=d|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	voglia	voglia	S	S	num=s|gen=f	1	obj
+
+1	che	che	C	CS	_	3	subj
+2	vi	vi	P	PC	num=p|per=2|gen=n	3	comp_ind
+3	saltassero	saltare	V	V	num=p|per=3|mod=c|ten=i	0	ROOT
+4	i	il	R	RD	num=p|gen=m	5	det
+5	denti	dente	S	S	num=p|gen=m	3	subj
+6	.	.	F	FS	_	3	punc
+
+1	Quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+2	per	per	E	E	_	1	comp
+3	me	me	P	PE	num=s|per=1|gen=n	2	prep
+4	se	se	C	CS	_	1	mod
+5	ci	ci	P	PC	num=n|gen=n	6	comp
+6	avessi	avere	V	VA	num=s|per=1|mod=c|ten=i	4	sub
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	forza	forza	S	S	num=s|gen=f	0	ROOT
+3	e	e	C	CC	_	2	con
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	arroganza	arroganza	S	S	num=s|gen=f	2	conj
+
+1	direi	dire	V	V	num=s|per=1|mod=d|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+5	più	più	B	B	_	4	pred
+6	tempo	tempo	S	S	num=s|gen=m	4	subj
+
+1	di	di	E	E	_	0	ROOT
+2	fare	fare	V	V	mod=f	1	prep
+3	mischiamenti	mischiamenti	S	S	num=p|gen=m	2	obj
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	momento	momento	S	S	num=s|gen=m	2	pred
+5	di	di	E	E	_	4	arg
+6	prender	prendere	V	V	mod=f	5	prep
+7	le	il	R	RD	num=p|gen=f	8	det
+8	distanze	distanza	S	S	num=p|gen=f	6	obj
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	4	modal
+4	inventar-	inventare	V	V	mod=f	0	ROOT
+5	me	me	P	PC	num=s|per=1|gen=n	4	clit
+6	più	più	B	B	_	7	mod
+7	amori	amore	S	S	num=p|gen=m	4	obj
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	non	non	B	BN	_	5	neg
+3	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	5	modal
+4	più	più	B	B	_	5	mod
+5	aver-	avere	V	V	mod=f	0	ROOT
+6	vi	vi	P	PC	num=p|per=2|gen=n	5	obj
+7	come	come	E	E	_	5	comp
+8	amici	amico	S	S	num=p|gen=m	7	prep
+
+1	come	come	E	E	_	0	ROOT
+2	interlocutori	interlocutore	S	S	num=p|gen=m	1	prep
+
+1	Sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	diverso	diverso	A	A	num=s|gen=m	1	pred
+3	e	e	C	CC	_	1	con
+4	certamente	certo	B	B	_	5	mod
+5	solo	solo	B	B	_	1	mod
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	diverso	diverso	A	A	num=s|gen=m	1	pred
+3	perché	perché	C	CS	_	1	mod
+4	non	non	B	BN	_	5	neg
+5	sopporto	sopportare	V	V	num=s|per=1|mod=i|ten=p	3	sub
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	buon	buon	A	A	num=s|gen=m	3	mod
+3	senso	senso	S	S	num=s|gen=m	0	ROOT
+4	comune	comune	A	A	num=s|gen=n	3	mod
+
+1	ma	ma	C	CC	_	0	ROOT
+2	neanche	neanche	B	B	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	retorica	retorica	S	S	num=s|gen=f	1	ROOT
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	pazzo	pazzo	S	S	num=s|gen=m	5	prep
+
+1	Non	non	B	BN	_	2	neg
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	nessuna	nessuna	D	DI	num=s|gen=f	4	mod
+4	voglia	voglia	S	S	num=s|gen=f	2	obj
+
+1	di	di	E	E	_	0	ROOT
+2	assurde	assurdo	A	A	num=p|gen=f	3	mod
+3	compressioni	compressione	S	S	num=p|gen=f	1	prep
+
+1	ma	ma	C	CC	_	0	ROOT
+2	nemmeno	nemmeno	B	B	_	1	mod
+3	di	di	E	E	_	2	arg
+4	liberar-	liberare	V	V	mod=f	3	prep
+5	me	me	P	PC	num=s|per=1|gen=n	4	obj
+6	a	a	E	E	_	4	comp
+7	cazzo	cazzo	S	S	num=s|gen=m	6	prep
+
+1	Non	non	B	BN	_	4	neg
+2	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	4	modal
+3	velleitarie	velleitario	A	A	num=p|gen=f	4	mod
+4	mescolanze	mescolanza	S	S	num=p|gen=f	0	ROOT
+5	con	con	E	E	_	4	comp
+6	nessuno	nessuno	P	PI	num=s|gen=m	5	prep
+
+1	nemmeno	nemmeno	B	B	_	0	_
+2	più	più	B	B	_	3	mod
+3	con	con	E	E	_	1	comp
+4	voi	voi	P	PE	num=p|per=2|gen=n	3	prep
+
+1	ma	ma	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	sopporto	sopportare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	neanche	neanche	B	B	_	3	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	legge	legge	S	S	num=s|gen=f	0	ROOT
+3	dilagante	dilagante	A	A	num=s|gen=n	2	mod
+4	del	di	E	EA	num=s|gen=m	2	comp
+5	fatti	fatto	S	S	num=p|gen=m	4	prep
+6	i	il	R	RD	num=p|gen=m	7	det
+7	cazzi	cazzo	S	S	num=p|gen=m	5	mod
+8	tuoi	tuoi	A	A	num=p|gen=m	7	mod
+
+1	Sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	diverso	diverso	A	A	num=s|gen=m	3	pred
+3	sono	essere	V	V	num=s|per=1|mod=i|ten=p	1	pred
+4	polemico	polemico	A	A	num=s|gen=m	3	pred
+5	e	e	C	CC	_	4	con
+6	violento	violento	A	A	num=s|gen=m	4	conj
+
+1	non	non	B	BN	_	2	neg
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	nessun	nessun	D	DI	num=s|gen=m	4	mod
+4	rispetto	rispetto	S	S	num=s|gen=m	2	obj
+5	per	per	E	E	_	4	comp
+6	la	il	R	RD	num=s|gen=f	7	det
+7	democrazia	democrazia	S	S	num=s|gen=f	5	prep
+
+1	e	e	C	CC	_	2	con
+2	parlo	parlare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	molto	molto	B	B	_	4	mod
+4	male	male	B	B	_	2	mod
+5	di	di	E	E	_	4	comp
+6	prostitute	prostituta	S	S	num=p|gen=f	5	prep
+7	e	e	C	CC	_	5	con
+8	detenuti	detenuto	S	S	num=p|gen=m	5	conj
+
+1	da	da	E	E	_	4	comp
+2	quanto	quanto	P	PR	num=s|gen=m	1	prep
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	schifo	schifo	A	A	num=s|gen=m	4	pred
+6	chi	chi	P	PR	num=n|gen=n	8	subj
+7	ne	ne	P	PC	num=n|gen=n	8	comp
+8	fa	fare	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+9	dei	di	E	EA	num=p|gen=m	8	comp
+10	miti	mito	S	S	num=p|gen=m	9	prep
+
+1	Di	di	E	E	_	0	ROOT
+2	quelli	quello	P	PD	num=p|gen=m	1	prep
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	diranno	dire	V	V	num=p|per=3|mod=i|ten=f	2	mod_rel
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	qualunquista	qualunquista	A	A	num=s|gen=n	2	pred
+
+1	non	non	B	BN	_	4	neg
+2	me	me	P	PE	num=s|per=1|gen=n	4	subj
+3	ne	ne	P	PC	num=n|gen=n	4	comp
+4	frega	fregare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	niente	niente	B	B	_	4	mod
+
+1	non	non	B	BN	_	2	neg
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	compagno	compagno	S	S	num=s|gen=m	2	pred
+
+1	né	né	C	CC	_	2	con
+2	femministaiolo	femministaiolo	S	S	num=s|gen=m	0	ROOT
+3	militante	militante	A	A	num=s|gen=n	2	mod
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	schifo	schifo	S	S	num=s|gen=m	2	pred
+4	le	il	R	RD	num=p|gen=f	6	det
+5	vostre	vostro	A	AP	num=p|gen=f	6	mod
+6	animazioni	animazione	S	S	num=p|gen=f	2	subj
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	ricerche	ricerca	S	S	num=p|gen=f	0	ROOT
+3	popolari	popolare	A	A	num=p|gen=n	2	mod
+4	e	e	C	CC	_	2	con
+5	le	il	R	RD	num=p|gen=f	7	det
+6	altre	altro	A	A	num=p|gen=f	7	mod
+7	cazzate	cazzate	S	S	num=p|gen=f	2	mod
+
+1	e	e	C	CC	_	4	con
+2	finalmente	finalmente	B	B	_	4	mod
+3	non	non	B	BN	_	4	neg
+4	sopporto	sopportare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	le	il	R	RD	num=p|gen=f	7	det
+6	vostre	vostro	A	AP	num=p|gen=f	7	mod
+7	donne	donna	S	S	num=p|gen=f	4	obj
+8	liberate	liberate	A	A	num=p|gen=f	7	mod
+
+1	con	con	E	E	_	3	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	voi	voi	P	PE	num=p|per=2|gen=n	4	subj
+4	discutete	discutere	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+5	democraticamente	democratico	B	B	_	4	mod
+
+1	Sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	diverso	diverso	A	A	num=s|gen=m	1	pred
+3	perché	perché	C	CS	_	1	mod
+4	quando	quando	C	CS	_	7	mod
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	sub
+6	merda	merda	S	S	num=s|gen=f	5	pred
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+8	merda	merda	S	S	num=s|gen=f	7	pred
+
+1	non	non	B	BN	_	2	neg
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	importanza	importanza	S	S	num=s|gen=f	2	obj
+4	la	il	R	RD	num=s|gen=f	5	det
+5	specificazione	specificazione	S	S	num=s|gen=f	2	obj
+
+1	autisti	autista	S	S	num=p|gen=m	0	ROOT
+2	di	di	E	E	_	1	comp
+3	piazza	piazza	S	S	num=s|gen=f	2	prep
+4	studenti	studente	S	S	num=p|gen=m	1	mod
+5	barbieri	barbiere	S	S	num=p|gen=m	4	mod
+6	santoni	santone	S	S	num=p|gen=m	5	mod
+7	artisti	artista	S	S	num=p|gen=m	6	mod
+8	operai	operaio	A	A	num=p|gen=m	1	mod
+
+1	gramsciani	gramsciani	V	V	num=p|mod=p|gen=m	2	mod
+2	cattolici	cattolico	S	S	num=p|gen=m	0	ROOT
+3	nani	nano	A	A	num=p|gen=m	2	mod
+4	datori	datore	S	S	num=p|gen=m	2	mod
+5	di	di	E	E	_	4	comp
+6	luci	luce	S	S	num=p|gen=f	5	prep
+7	baristi	barista	S	S	num=p|gen=m	0	ROOT
+
+1	troie	troia	S	S	num=p|gen=f	2	mod
+2	ruffiani	ruffiano	S	S	num=p|gen=m	0	ROOT
+3	paracadutisti	paracadutista	S	S	num=p|gen=m	2	mod
+4	ufologi	ufologo	S	S	num=p|gen=m	2	mod
+
+1	Quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	Quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	Quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+
+1	Quando	quando	C	CS	_	4	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	moda	moda	S	S	num=s|gen=f	2	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	moda	moda	S	S	num=s|gen=f	4	pred
+6	quando	quando	C	CS	_	4	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+8	moda	moda	S	S	num=s|gen=f	7	pred
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	moda	moda	S	S	num=s|gen=f	9	pred
+

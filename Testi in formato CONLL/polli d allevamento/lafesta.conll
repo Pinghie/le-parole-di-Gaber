@@ -1,0 +1,418 @@
+1	E	e	C	CC	_	5	con
+2	poi	poi	B	B	_	5	mod
+3	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	alzato	alzare	V	V	num=s|mod=p|gen=m	0	ROOT
+6	quasi	quasi	B	B	_	7	mod
+7	bene	bene	B	B	_	5	mod
+
+1	con	con	E	E	_	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	allegria	allegria	S	S	num=s|gen=f	1	prep
+4	molto	molto	B	B	_	5	mod
+5	cittadina	cittadino	A	A	num=s|gen=f	3	mod
+
+1	con	con	E	E	_	0	ROOT
+2	quegli	quello	D	DD	num=p|gen=m	4	mod
+3	strani	strano	A	A	num=p|gen=m	4	mod
+4	struggimenti	struggimento	S	S	num=p|gen=m	1	prep
+
+1	da	da	E	E	_	3	comp
+2	domenica	domenica	S	S	num=s|gen=f	1	prep
+3	mattina	mattina	S	S	num=s|gen=f	0	ROOT
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	odore	odore	S	S	num=s|gen=m	5	subj
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	giornale	giornale	S	S	num=s|gen=m	3	prep
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	sempre	sempre	B	B	_	5	mod
+7	un'	uno	R	RI	num=s|gen=f	8	det
+8	emozione	emozione	S	S	num=s|gen=f	5	pred
+
+1	non	non	B	BN	_	2	neg
+2	leggo	leggere	V	V	num=s|per=1|mod=i|ten=p	7	ROOT
+3	le	il	R	RD	num=p|gen=f	4	det
+4	notizie	notizia	S	S	num=p|gen=f	7	ROOT
+5	non	non	B	BN	_	6	neg
+6	ci	ci	P	PC	num=n|gen=n	7	comp
+7	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	0	ROOT
+8	testa	testa	B	B	_	7	mod
+
+1	aspetto	aspetto	S	S	num=s|gen=m	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	pomeriggio	pomeriggio	S	S	num=s|gen=m	1	mod
+4	con	con	E	E	_	1	comp
+5	furore	furore	S	S	num=s|gen=m	4	prep
+
+1	del	di	E	EA	num=s|gen=m	4	comp
+2	resto	resto	S	S	num=s|gen=m	1	prep
+3	anche	anche	B	B	_	4	mod
+4	aspettare	aspettare	V	V	mod=f	0	ROOT
+5	fa	fare	V	V	num=s|per=3|mod=i|ten=p	4	arg
+6	parte	parte	S	S	num=s|gen=f	5	obj
+7	della	di	E	EA	num=s|gen=f	6	comp
+8	festa	festa	S	S	num=s|gen=f	7	prep
+
+1	E	e	C	CC	_	3	con
+2	questa	questo	D	DD	num=s|gen=f	3	mod
+3	allegria	allegria	S	S	num=s|gen=f	0	ROOT
+4	solitaria	solitario	A	A	num=s|gen=f	3	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	espande	espandere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	gente	gente	S	S	num=s|gen=f	3	prep
+5	alle	al	E	EA	num=p|gen=f	4	comp
+6	cose	cosa	S	S	num=p|gen=f	5	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	mescola	mescolare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	all'	al	E	EA	num=s|gen=n	2	comp
+4	aria	aria	S	S	num=s|gen=f	3	prep
+
+1	Son	Son	R	RI	num=s|gen=m	2	det
+2	proprio	proprio	B	B	_	3	mod
+3	dei	di	E	EA	num=p|gen=m	6	comp
+4	poeti	poeta	S	S	num=p|gen=m	3	prep
+5	gli	il	R	RD	num=p|gen=m	6	det
+6	uomini	uomo	S	S	num=p|gen=m	0	ROOT
+
+1	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	3	mod
+3	teneri	tenero	A	A	num=p|gen=m	1	pred
+4	e	e	C	CC	_	3	con
+5	incantati	incantato	A	A	num=p|gen=m	3	conj
+
+1	non	non	B	BN	_	2	neg
+2	riesci	riuscire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	a	a	E	E	_	2	arg
+5	strappar-	strappare	V	V	mod=f	4	prep
+6	li	li	P	PC	num=p|per=3|gen=m	5	obj
+7	alle	al	E	EA	num=p|gen=f	5	comp
+8	loro	loro	A	AP	num=n|gen=n	9	mod
+9	speranze	speranza	S	S	num=p|gen=f	7	prep
+
+1	ci	ci	P	PC	num=n|gen=n	3	comp
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	incollati	incollare	V	V	num=p|mod=p|gen=m	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	Seduti	sedere	V	V	num=p|mod=p|gen=m	0	ROOT
+2	in	in	E	E	_	1	comp
+3	assolati	assolato	A	A	num=p|gen=m	4	mod
+4	ristoranti	ristorante	S	S	num=p|gen=m	2	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	le	il	R	RD	num=p|gen=f	4	det
+4	terrazze	terrazza	S	S	num=p|gen=f	2	obj
+5	proprio	proprio	B	B	_	6	mod
+6	sopra	sopra	E	E	_	4	comp_loc
+7	il	il	R	RD	num=s|gen=m	8	det
+8	mare	mare	S	S	num=s|gen=m	6	prep
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	come	come	E	E	_	2	comp
+4	un'	uno	R	RI	num=s|gen=f	5	det
+5	atmosfera	atmosfera	S	S	num=s|gen=f	3	prep
+6	più	più	B	B	_	7	mod
+7	leggera	leggero	A	A	num=s|gen=f	5	mod
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	unisce	unire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	al	a	E	EA	num=s|gen=m	3	comp
+5	gusto	gusto	S	S	num=s|gen=m	4	prep
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	mangiare	mangiare	S	S	num=s|gen=m	6	prep
+
+1	Oppure	oppure	C	CC	_	0	ROOT
+2	in	in	E	E	_	1	comp
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	fiera	fiera	S	S	num=s|gen=f	2	prep
+
+1	felici	felice	A	A	num=p|gen=n	0	ROOT
+2	come	come	C	CS	_	1	arg
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	ringiovanisse	ringiovanire	V	V	num=s|per=3|mod=c|ten=i	2	sub
+
+1	coi	con	E	EA	num=p|gen=m	0	ROOT
+2	pesciolini	pesciolino	S	S	num=p|gen=m	1	prep
+3	rossi	rosso	A	A	num=p|gen=m	2	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	con	con	E	E	_	1	conj
+3	le	il	R	RD	num=p|gen=f	5	det
+4	solite	solito	A	A	num=p|gen=f	5	mod
+5	montagne	montagna	S	S	num=p|gen=f	2	prep
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	non	non	B	BN	_	3	neg
+3	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+4	russe	russo	A	A	num=p|gen=f	0	ROOT
+
+1	Con	con	E	E	_	7	comp
+2	i	il	R	RD	num=p|gen=m	3	det
+3	fuochi	fuoco	S	S	num=p|gen=m	1	prep
+4	artificiali	artificiale	A	A	num=p|gen=n	3	mod
+5	e	e	C	CC	_	1	con
+6	le	il	R	RD	num=p|gen=f	7	det
+7	paste	pasta	S	S	num=p|gen=f	0	ROOT
+
+1	tutto	tutto	P	PI	num=s|gen=m	2	subj
+2	ritorna	ritornare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	fuori	fuori	B	B	_	0	ROOT
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	rutti	rutto	S	S	num=p|gen=m	1	pred
+3	di	di	E	E	_	2	comp
+4	gioia	gioia	S	S	num=s|gen=f	3	prep
+5	le	il	R	RD	num=p|gen=f	6	det
+6	feste	festa	S	S	num=p|gen=f	1	subj
+7	.	.	F	FS	_	1	punc
+
+1	Sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	pieni	pieno	A	A	num=p|gen=m	1	pred
+3	di	di	E	E	_	2	comp
+4	energia	energia	S	S	num=s|gen=f	3	prep
+5	gli	il	R	RD	num=p|gen=m	6	det
+6	uomini	uomo	S	S	num=p|gen=m	1	subj
+
+1	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	3	mod
+3	sani	sano	S	S	num=p|gen=m	1	obj
+4	e	e	C	CC	_	3	con
+5	scatenati	scatenato	A	A	num=p|gen=m	3	conj
+
+1	non	non	B	BN	_	2	neg
+2	riesci	riuscire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	a	a	E	E	_	2	arg
+5	strappar-	strappare	V	V	mod=f	4	prep
+6	li	li	P	PC	num=p|per=3|gen=m	5	obj
+7	alla	al	E	EA	num=s|gen=f	5	comp
+8	loro	loro	A	AP	num=n|gen=n	9	mod
+9	allegria	allegria	S	S	num=s|gen=f	7	prep
+
+1	ci	ci	P	PC	num=n|gen=n	3	comp
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	incollati	incollare	V	V	num=p|mod=p|gen=m	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	orgia	orgia	S	S	num=s|gen=f	4	subj
+7	delle	di	E	EA	num=p|gen=f	6	comp
+8	discoteche	discoteca	S	S	num=p|gen=f	7	prep
+
+1	dove	dove	P	PR	num=n|gen=n	0	_
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	obj
+3	butti	buttare	V	V	num=s|per=2|mod=i|ten=p	1	mod_rel
+4	e	e	C	CC	_	3	con
+5	balli	ballo	S	S	num=p|gen=m	3	conj
+6	come	come	E	E	_	5	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	matto	matto	S	S	num=s|gen=m	6	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	irresistibile	irresistibile	A	A	num=s|gen=n	1	pred
+3	e	e	C	CC	_	1	con
+4	persino	persino	B	B	_	5	mod
+5	chi	chi	P	PR	num=n|gen=n	1	subj
+6	non	non	B	BN	_	7	neg
+7	vuole	volere	V	VM	num=s|per=3|mod=i|ten=p	5	mod_rel
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	dimena	dimenare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	dondola	dondolare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+5	tutto	tutto	P	PI	num=s|gen=m	4	subj
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	musica	musica	S	S	num=s|gen=f	0	ROOT
+3	da	da	E	E	_	2	comp
+4	ballo	ballo	S	S	num=s|gen=m	3	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	4	det
+3	unico	unico	A	A	num=s|gen=m	4	mod
+4	linguaggio	linguaggio	S	S	num=s|gen=m	1	pred
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	riunisce	riunire	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+7	il	il	R	RD	num=s|gen=m	8	det
+8	mondo	mondo	S	S	num=s|gen=m	6	obj
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	chi	chi	P	PR	num=n|gen=n	2	subj
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	obj
+5	gode	godere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	smisuratamente	smisurato	B	B	_	2	mod
+
+1	e	e	C	CC	_	3	con
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	chi	chi	P	PR	num=n|gen=n	6	subj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	lamenta	lamentare	V	V	num=s|per=3|mod=i|ten=p	3	subj
+7	della	di	E	EA	num=s|gen=f	6	comp
+8	vita	vita	S	S	num=s|gen=f	7	prep
+
+1	sgambettando	sgambettare	V	V	mod=g	0	_
+
+1	E	e	C	CC	_	6	con
+2	oltre	oltre	E	E	_	6	comp
+3	le	il	R	RD	num=p|gen=f	4	det
+4	note	nota	S	S	num=p|gen=f	2	prep
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	avverte	avvertire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	senso	senso	S	S	num=s|gen=m	0	ROOT
+3	dell'	di	E	EA	num=s|gen=n	2	comp
+4	aria	aria	S	S	num=s|gen=f	3	prep
+5	senza	senza	E	E	_	2	comp
+6	note	nota	S	S	num=p|gen=f	5	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	aria	aria	S	S	num=s|gen=f	2	pred
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	morte	morte	S	S	num=s|gen=f	5	prep
+7	.	.	F	FS	_	2	punc
+
+1	Son	Son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	pieni	pieno	A	A	num=p|gen=m	1	pred
+3	di	di	E	E	_	2	comp
+4	risorse	risorsa	S	S	num=p|gen=f	3	prep
+5	gli	il	R	RD	num=p|gen=m	6	det
+6	uomini	uomo	S	S	num=p|gen=m	1	subj
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	3	aux
+2	animali	animale	S	S	num=p|gen=m	1	pred
+3	liberati	liberare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	riesci	riuscire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	a	a	E	E	_	2	arg
+5	strappar-	strappare	V	V	mod=f	4	prep
+6	li	li	P	PC	num=p|per=3|gen=m	5	obj
+7	alle	al	E	EA	num=p|gen=f	5	comp
+8	loro	loro	A	AP	num=n|gen=n	9	mod
+9	emozioni	emozione	S	S	num=p|gen=f	7	prep
+
+1	ci	ci	P	PC	num=n|gen=n	3	comp
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	incollati	incollare	V	V	num=p|mod=p|gen=m	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	salariato	salariato	S	S	num=s|gen=m	4	subj
+7	del	di	E	EA	num=s|gen=m	6	comp
+8	piacere	piacere	S	S	num=s|gen=m	7	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	propina	propinare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	storie	storia	S	S	num=p|gen=f	2	obj
+4	colorate	colorato	A	A	num=p|gen=f	3	mod
+5	e	e	C	CC	_	2	con
+6	grasse	grasso	A	A	num=p|gen=f	2	conj
+
+1	un	uno	R	RI	num=s|gen=m	3	det
+2	bel	bello	A	A	num=s|gen=m	3	mod
+3	film	film	S	S	num=n|gen=m	0	ROOT
+4	con	con	E	E	_	3	comp
+5	dentro	dentro	B	B	_	8	mod
+6	tutti	tutto	T	T	num=p|gen=m	8	mod
+7	gli	il	R	RD	num=p|gen=m	8	det
+8	ingredienti	ingrediente	S	S	num=p|gen=m	4	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	piacciono	piacere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	alle	al	E	EA	num=p|gen=f	2	comp
+4	masse	massa	S	S	num=p|gen=f	3	prep
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	stanno	stare	V	V	num=p|per=3|mod=i|ten=p	0	_
+3	li	li	P	PC	num=p|per=3|gen=m	2	obj
+4	inchiodate	inchiodare	V	V	num=p|per=2|mod=i|ten=p	2	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	divoran	divoran	A	A	num=s|gen=m	1	ROOT
+4	tutto	tutto	P	PI	num=s|gen=m	5	mod
+5	senza	senza	C	CS	_	3	comp
+6	protestare	protestare	V	V	mod=f	0	ROOT
+
+1	gli	gli	P	PC	num=s|per=3|gen=m	4	comp_ind
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	potrebbe	potere	V	VM	num=s|per=3|mod=d|ten=p	4	modal
+4	dare	dare	V	V	mod=f	0	ROOT
+5	in	in	E	E	_	4	comp
+6	premio	premio	S	S	num=s|gen=m	5	prep
+
+1	un	uno	R	RI	num=s|gen=m	3	det
+2	bel	bello	A	A	num=s|gen=m	3	mod
+3	barattolo	barattolo	S	S	num=s|gen=m	0	ROOT
+4	di	di	E	E	_	3	comp
+5	merda	merda	S	S	num=s|gen=f	4	prep
+
+1	per	per	E	E	_	3	comp
+2	duemila	duemila	N	N	_	1	prep
+3	lire	lira	S	S	num=p|gen=f	0	ROOT
+
+1	E	e	C	CC	_	0	ROOT
+2	senza	senza	C	CS	_	1	conj
+3	esitare	esitare	V	V	mod=f	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	momento	momento	S	S	num=s|gen=m	3	obj
+
+1	sarebbero	essere	V	VA	num=p|per=3|mod=d|ten=p	5	aux
+2	pronti	pronto	A	A	num=p|gen=m	1	pred
+3	a	a	E	E	_	2	arg
+4	scannar-	scannare	V	V	mod=f	3	prep
+5	si	si	P	PC	num=n|per=3|gen=n	0	_
+
+1	per	per	E	E	_	0	ROOT
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	divertimento	divertimento	S	S	num=s|gen=m	1	prep
+4	.	.	F	FS	_	1	punc
+
+1	Son	Son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	3	mod
+3	deficienti	deficiente	S	S	num=p|gen=n	1	pred
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	uomini	uomo	S	S	num=p|gen=m	1	subj
+
+1	ormai	ormai	B	B	_	4	mod
+2	son	son	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+3	proprio	proprio	B	B	_	4	mod
+4	devastati	devastare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	riesci	riuscire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	a	a	E	E	_	2	arg
+5	strappar-	strappare	V	V	mod=f	4	prep
+6	li	li	P	PC	num=p|per=3|gen=m	5	obj
+7	alla	al	E	EA	num=s|gen=f	5	comp
+8	loro	loro	A	AP	num=n|gen=n	9	mod
+9	idiozia	idiozia	S	S	num=s|gen=f	7	prep
+
+1	ci	ci	P	PC	num=n|gen=n	3	comp
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	incollati	incollare	V	V	num=p|mod=p|gen=m	0	ROOT
+4	.	.	F	FS	_	3	punc
+

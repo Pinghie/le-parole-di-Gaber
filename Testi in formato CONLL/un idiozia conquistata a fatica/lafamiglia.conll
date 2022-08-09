@@ -1,0 +1,375 @@
+1	E	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	nasce	nascere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	in	in	E	E	_	3	comp
+5	famiglia	famiglia	S	S	num=s|gen=f	4	prep
+
+1	voluti	volere	V	V	num=p|mod=p|gen=m	0	ROOT
+2	o	o	C	CC	_	1	dis
+3	non	non	B	BN	_	4	neg
+4	voluti	volere	V	V	num=p|mod=p|gen=m	1	disj
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	migliore	migliore	A	A	num=s|gen=n	1	prep
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	casi	caso	S	S	num=p|gen=m	3	prep
+
+1	da	da	E	E	_	0	ROOT
+2	genitori	genitore	S	S	num=p|gen=m	1	prep
+3	innamorati	innamorato	A	A	num=p|gen=m	2	mod
+
+1	E	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	forma	formare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	gruppo	gruppo	S	S	num=s|gen=m	3	subj
+6	chiuso	chiuso	A	A	num=s|gen=m	5	mod
+
+1	dove	dove	P	PR	num=n|gen=n	4	subj_pass
+2	siamo	essere	V	VA	num=p|per=1|mod=i|ten=p	4	aux
+3	più	più	B	B	_	4	mod
+4	protetti	proteggere	V	V	num=p|mod=p|gen=m	0	_
+
+1	col	con	E	EA	num=s|gen=m	5	comp
+2	possesso	possesso	S	S	num=s|gen=m	1	prep
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	geloso	geloso	A	A	num=s|gen=m	0	ROOT
+
+1	degli	di	E	EA	num=p|gen=m	0	ROOT
+2	amori	amore	S	S	num=p|gen=m	1	prep
+3	e	e	C	CC	_	1	con
+4	degli	di	E	EA	num=p|gen=m	1	conj
+5	affetti	affetto	S	S	num=p|gen=m	4	prep
+
+1	All'	al	E	EA	num=s|gen=n	3	comp
+2	inizio	inizio	S	S	num=s|gen=m	1	prep
+3	tutti	tutto	P	PI	num=p|gen=m	4	subj
+4	emozionati	emozionare	V	V	num=p|mod=p|gen=m	0	_
+
+1	sopraffatti	sopraffare	V	V	num=p|mod=p|gen=m	0	ROOT
+2	dalla	da	E	EA	num=s|gen=f	1	comp
+3	meraviglia	meraviglia	S	S	num=s|gen=f	2	prep
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	3	obj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	abitua	abituare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	poco	poco	B	B	_	3	mod
+5	a	a	E	E	_	3	comp
+6	poco	poco	B	B	_	5	prep
+
+1	a	a	E	E	_	0	ROOT
+2	vivere	vivere	V	V	mod=f	1	prep
+3	in	in	E	E	_	2	comp
+4	famiglia	famiglia	S	S	num=s|gen=f	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	in	in	E	E	_	3	comp
+5	famiglia	famiglia	S	S	num=s|gen=f	4	prep
+
+1	tra	tra	E	E	_	6	comp
+2	i	il	R	RD	num=p|gen=m	3	det
+3	baci	bacio	S	S	num=p|gen=m	1	prep
+4	e	e	C	CC	_	3	con
+5	le	il	R	RD	num=p|gen=f	6	det
+6	carezze	carezza	S	S	num=p|gen=f	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	cullano	cullare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	sonno	sonno	S	S	num=s|gen=m	3	obj
+
+1	e	e	C	CC	_	5	con
+2	le	il	R	RD	num=p|gen=f	5	det
+3	prime	primo	N	NO	num=p|gen=f	5	mod
+4	tue	tuo	A	AP	num=p|gen=f	5	mod
+5	certezze	certezza	S	S	num=p|gen=f	0	ROOT
+6	.	.	F	FS	_	5	punc
+
+1	Nella	in	E	EA	num=s|gen=f	0	ROOT
+2	quiete	quiete	S	S	num=s|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	vita	vita	S	S	num=s|gen=f	3	prep
+
+1	racchiusa	racchiudere	V	V	num=s|mod=p|gen=f	0	ROOT
+2	in	in	E	E	_	1	comp
+3	poche	poco	D	DI	num=p|gen=f	4	mod
+4	stanze	stanza	S	S	num=p|gen=f	2	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	definiscono	definire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	pian	pian	B	B	_	4	mod
+4	piano	piano	S	S	num=s|gen=m	2	mod
+
+1	le	il	R	RD	num=p|gen=f	4	det
+2	prime	primo	N	NO	num=p|gen=f	4	mod
+3	fragili	fragile	A	A	num=p|gen=n	4	mod
+4	alleanze	alleanza	S	S	num=p|gen=f	0	ROOT
+5	.	.	F	FS	_	4	punc
+
+1	E	e	C	CC	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	timore	timore	S	S	num=s|gen=m	1	ROOT
+4	di	di	E	E	_	3	comp
+5	equilibri	equilibrio	S	S	num=p|gen=m	4	prep
+6	incerti	incerto	A	A	num=p|gen=m	5	mod
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	comp_ind
+2	consiglia	consigliare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	come	come	C	CS	_	2	mod
+4	comportar-	comportare	V	V	mod=f	3	sub
+5	ti	ti	P	PC	num=s|per=2|gen=n	4	obj
+
+1	e	e	C	CC	_	3	con
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	già	già	B	B	_	3	mod
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	ambiguità	ambiguità	S	S	num=n|gen=f	3	subj
+
+1	del	di	E	EA	num=s|gen=m	0	ROOT
+2	gioco	gioco	S	S	num=s|gen=m	1	prep
+3	delle	di	E	EA	num=p|gen=f	2	comp
+4	parti	parte	S	S	num=p|gen=f	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	famiglia	famiglia	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	espediente	espediente	S	S	num=s|gen=m	3	pred
+
+1	per	per	E	E	_	0	ROOT
+2	amare	amare	V	V	mod=f	1	prep
+3	e	e	C	CC	_	2	con
+4	far-	fare	V	VM	mod=f	6	modal
+5	si	si	P	PC	num=n|per=3|gen=n	4	clit
+6	amare	amare	V	V	mod=f	2	conj
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	comp_ind
+2	lascia	lasciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	certe	certo	D	DI	num=p|gen=f	4	mod
+4	impronte	impronta	S	S	num=p|gen=f	2	obj
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	non	non	B	BN	_	5	neg
+3	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	5	modal
+4	più	più	B	B	_	5	mod
+5	cancellare	cancellare	V	V	mod=f	0	ROOT
+
+1	E	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	in	in	E	E	_	3	comp
+5	famiglia	famiglia	S	S	num=s|gen=f	4	prep
+
+1	in	in	E	E	_	0	ROOT
+2	cerca	cerca	S	S	num=s|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	un'	uno	R	RI	num=s|gen=f	5	det
+5	intesa	intesa	S	S	num=s|gen=f	3	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	con	con	E	E	_	1	ROOT
+3	l'	il	R	RD	num=s|gen=n	5	det
+4	intima	intimo	A	A	num=s|gen=f	5	mod
+5	certezza	certezza	S	S	num=s|gen=f	2	prep
+
+1	di	di	E	E	_	0	ROOT
+2	essere	essere	V	V	mod=f	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	centro	centro	S	S	num=s|gen=m	2	pred
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	casa	casa	S	S	num=s|gen=f	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	arriva	arrivare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	quasi	quasi	B	B	_	4	mod
+4	all'	al	E	EA	num=s|gen=n	2	comp
+5	improvviso	improvviso	S	S	num=s|gen=m	4	prep
+
+1	come	come	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	miracolo	miracolo	S	S	num=s|gen=m	1	prep
+4	inatteso	inatteso	A	A	num=s|gen=m	3	mod
+
+1	quando	quando	C	CS	_	0	ROOT
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	clit
+3	senti	sentire	V	V	num=s|per=2|mod=i|ten=p	1	sub
+4	più	più	B	B	_	5	mod
+5	tranquillo	tranquillo	A	A	num=s|gen=m	3	pred
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	lieto	lieto	A	A	num=s|gen=m	3	mod
+3	evento	evento	S	S	num=s|gen=m	0	ROOT
+4	di	di	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	fratello	fratello	S	S	num=s|gen=m	4	prep
+
+1	Per	per	E	E	_	0	ROOT
+2	nascondere	nascondere	V	V	mod=f	1	prep
+3	lo	il	R	RD	num=s|gen=m	4	det
+4	smarrimento	smarrimento	S	S	num=s|gen=m	2	obj
+
+1	per	per	E	E	_	0	ROOT
+2	reprimere	reprimere	V	V	mod=f	1	prep
+3	le	il	R	RD	num=p|gen=f	4	det
+4	gelosie	gelosia	S	S	num=p|gen=f	2	obj
+
+1	sei	essere	V	VA	num=s|per=2|mod=i|ten=p	2	aux
+2	costretto	costringere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	ad	ad	E	E	_	2	arg
+4	inventar	inventare	V	V	mod=f	3	prep
+
+1	le	il	R	RD	num=p|gen=f	3	det
+2	prime	primo	N	NO	num=p|gen=f	3	mod
+3	ipocrisie	ipocrisia	S	S	num=p|gen=f	0	ROOT
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	famiglia	famiglia	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	6	det
+5	grande	grande	A	A	num=s|gen=n	6	mod
+6	sogno	sogno	S	S	num=s|gen=m	3	pred
+
+1	di	di	E	E	_	4	comp
+2	ogni	ogni	D	DI	num=s|gen=n	3	mod
+3	coppia	coppia	S	S	num=s|gen=f	1	prep
+4	innamorata	innamorare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	e	e	C	CC	_	3	con
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	obj
+3	lascia	lasciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	dentro	dentro	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	segno	segno	S	S	num=s|gen=m	4	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	resta	restare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	comp
+5	la	il	R	RD	num=s|gen=f	6	det
+6	vita	vita	S	S	num=s|gen=f	4	prep
+
+1	E	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	in	in	E	E	_	3	comp
+5	famiglia	famiglia	S	S	num=s|gen=f	4	prep
+
+1	col	con	E	EA	num=s|gen=m	3	comp
+2	tempo	tempo	S	S	num=s|gen=m	1	prep
+3	aumentano	aumentare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	i	il	R	RD	num=p|gen=m	5	det
+5	veleni	veleno	S	S	num=p|gen=m	3	obj
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	normali	normale	A	A	num=p|gen=n	3	mod
+3	frustrazioni	frustrazione	S	S	num=p|gen=f	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	anche	anche	B	B	_	4	mod
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	inganni	inganno	S	S	num=p|gen=m	0	ROOT
+5	più	più	B	B	_	6	mod
+6	meschini	meschino	A	A	num=p|gen=m	4	mod
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	impazzisce	impazzire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	comp
+4	famiglia	famiglia	S	S	num=s|gen=f	3	prep
+
+1	fingendo	fingere	V	V	mod=g	0	ROOT
+2	di	di	E	E	_	1	arg
+3	essere	essere	V	V	mod=f	2	prep
+4	felici	felice	A	A	num=p|gen=n	3	pred
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	sprofonda	sprofondare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	e	e	C	CC	_	2	con
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	affoga	affogare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+
+1	tra	tra	E	E	_	0	ROOT
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	egoismi	egoismo	S	S	num=p|gen=m	1	prep
+4	più	più	B	B	_	5	mod
+5	feroci	feroce	A	A	num=p|gen=n	3	mod
+
+1	Per	per	E	E	_	0	ROOT
+2	sfuggire	sfuggire	V	V	mod=f	1	prep
+3	a	a	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	realtà	realtà	S	S	num=n|gen=f	3	prep
+6	grottesca	grottesco	A	A	num=s|gen=f	5	mod
+
+1	metti	mettere	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+2	in	in	E	E	_	1	comp
+3	tasca	tasca	S	S	num=s|gen=f	2	prep
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	fotografia	fotografia	S	S	num=s|gen=f	1	obj
+
+1	e	e	C	CC	_	0	ROOT
+2	sei	sei	N	N	_	3	mod
+3	pronto	pronto	A	A	num=s|gen=m	1	mod
+4	a	a	E	E	_	3	arg
+5	abbandonare	abbandonare	V	V	mod=f	4	prep
+6	tutto	tutto	P	PI	num=s|gen=m	5	obj
+
+1	e	e	C	CC	_	2	con
+2	andare	andare	V	V	mod=f	0	ROOT
+3	via	via	B	B	_	2	mod
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	famiglia	famiglia	S	S	num=s|gen=f	0	ROOT
+3	tanto	tanto	B	B	_	2	mod
+4	amata	amare	V	V	num=s|mod=p|gen=f	2	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	morbida	morbido	A	A	num=s|gen=f	4	mod
+4	coperta	coperta	S	S	num=s|gen=f	1	pred
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	lascia	lasciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	ferita	ferita	S	S	num=s|gen=f	3	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	rimane	rimanere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	aperta	aperto	A	A	num=s|gen=f	2	mod
+
+1	Ma	ma	C	CC	_	5	con
+2	all'	al	E	EA	num=s|gen=n	5	comp_loc
+3	improvviso	improvviso	S	S	num=s|gen=m	2	prep
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	occhi	occhio	S	S	num=p|gen=m	0	ROOT
+6	di	di	E	E	_	5	comp
+7	una	uno	R	RI	num=s|gen=f	8	det
+8	donna	donna	S	S	num=s|gen=f	6	prep
+
+1	e	e	C	CC	_	2	con
+2	ritrovi	ritrovare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	quella	quello	D	DD	num=s|gen=f	4	mod
+4	meraviglia	meraviglia	S	S	num=s|gen=f	2	obj
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	invoglia	invogliare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	giustamente	giusto	B	B	_	3	mod
+
+1	a	a	E	E	_	0	ROOT
+2	far-	fare	V	V	mod=f	1	prep
+3	ti	ti	P	PC	num=s|per=2|gen=n	2	clit
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	famiglia	famiglia	S	S	num=s|gen=f	2	obj
+6	.	.	F	FS	_	1	punc
+
