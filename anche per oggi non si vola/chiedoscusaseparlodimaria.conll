@@ -1,0 +1,254 @@
+1	Chiedo	chiedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	scusa	scusare	V	V	num=s|per=3|mod=i|ten=p	1	arg
+3	se	se	C	CS	_	2	mod
+4	parlo	parlare	V	V	num=s|per=1|mod=i|ten=p	3	sub
+5	di	di	E	E	_	4	comp
+6	Maria	Maria	S	SP	_	5	prep
+
+1	non	non	B	BN	_	2	neg
+2	nel	in	E	EA	num=s|gen=m	6	ROOT
+3	senso	senso	S	S	num=s|gen=m	6	ROOT
+4	di	di	E	E	_	6	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	discorso	discorso	S	S	num=s|gen=m	0	ROOT
+7	quello	quello	P	PD	num=s|gen=m	6	mod
+8	che	che	P	PR	num=n|gen=n	10	subj
+9	mi	mi	P	PC	num=s|per=1|gen=n	10	comp_ind
+10	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	6	ROOT
+
+1	Non	non	B	BN	_	2	neg
+2	vorrei	volere	V	VM	num=s|per=1|mod=d|ten=p	0	_
+3	che	che	C	CS	_	2	arg
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	trattasse	trattare	V	V	num=s|per=3|mod=c|ten=i	3	sub
+6	di	di	E	E	_	5	comp
+7	una	uno	R	RI	num=s|gen=f	8	det
+8	cosa	cosa	S	S	num=s|gen=f	6	prep
+9	mia	mio	A	AP	num=s|gen=f	8	mod
+
+1	e	e	C	CC	_	7	con
+2	nemmeno	nemmeno	B	B	_	7	mod
+3	di	di	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	amore	amore	S	S	num=s|gen=m	3	prep
+6	non	non	B	BN	_	7	neg
+7	conviene	convenire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Quando	quando	C	CS	_	0	ROOT
+2	dico	dire	V	V	num=s|per=1|mod=i|ten=p	1	sub
+3	parlare	parlare	V	V	mod=f	2	arg
+4	di	di	E	E	_	2	comp
+5	Maria	Maria	S	SP	_	4	prep
+
+1	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	dire	dire	V	V	mod=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	cosa	cosa	S	S	num=s|gen=f	3	prep
+6	che	che	P	PR	num=n|gen=n	7	obj
+7	conosco	conoscere	V	V	num=s|per=1|mod=i|ten=p	5	mod_rel
+8	bene	bene	B	B	_	7	mod
+
+1	certamente	certo	B	B	_	6	mod
+2	non	non	B	BN	_	3	neg
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	tema	tema	S	S	num=s|gen=m	3	pred
+6	appassionante	appassionare	V	V	num=s|mod=p	0	ROOT
+
+1	in	in	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	1	prep
+4	così	così	B	B	_	5	mod
+5	pieno	pieno	A	A	num=s|gen=m	3	mod
+6	di	di	E	E	_	5	comp
+7	tensione	tensione	S	S	num=s|gen=f	6	prep
+
+1	certamente	certo	B	B	_	2	mod
+2	siam	siam	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	vicini	vicino	S	S	num=p|gen=m	2	obj
+4	alla	al	E	EA	num=s|gen=f	2	comp
+5	pazzia	pazzia	S	S	num=s|gen=f	4	prep
+
+1	ma	ma	C	CC	_	2	con
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	4	mod
+4	giusto	giusto	A	A	num=s|gen=m	2	pred
+5	che	che	C	CS	_	2	subj
+6	io	io	P	PE	num=s|per=1|gen=n	7	subj
+7	parli	parlare	V	V	num=s|per=3|mod=c|ten=p	5	sub
+8	di	di	E	E	_	7	comp
+9	Maria	Maria	S	SP	_	8	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	0	ROOT
+3	Maria	Maria	S	SP	_	2	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	rivoluzione	rivoluzione	S	S	num=s|gen=f	2	conj
+
+1	Maria	Maria	S	SP	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	Vietnam	Vietnam	S	SP	_	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	Cambogia	Cambogia	S	SP	_	3	mod
+
+1	Maria	Maria	S	SP	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	realtà	realtà	S	S	num=n|gen=f	1	mod
+4	.	.	F	FS	_	1	punc
+
+1	Non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	facile	facile	A	A	num=s|gen=n	2	pred
+4	parlare	parlare	V	V	mod=f	2	subj
+5	di	di	E	E	_	4	comp
+6	Maria	Maria	S	SP	_	5	prep
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	comp
+2	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	troppe	troppo	D	DI	num=p|gen=f	4	mod
+4	cose	cosa	S	S	num=p|gen=f	2	subj
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	sembrano	sembrare	V	V	num=p|per=3|mod=i|ten=p	4	mod_rel
+7	più	più	B	B	_	6	mod
+8	importanti	importante	A	A	num=p|gen=n	6	pred
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	interesso	interessare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	comp
+4	politica	politica	S	S	num=s|gen=f	3	prep
+5	e	e	C	CC	_	2	con
+6	sociologia	sociologia	S	S	num=s|gen=f	2	conj
+
+1	per	per	E	E	_	0	ROOT
+2	trovare	trovare	V	V	mod=f	1	prep
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	strumenti	strumento	S	S	num=p|gen=m	2	obj
+5	e	e	C	CC	_	2	con
+6	andare	andare	V	V	mod=f	2	conj
+7	avanti	avanti	B	B	_	6	mod
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	interesso	interessare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	comp
+4	qualsiasi	qualsiasi	D	DI	num=s|gen=n	5	mod
+5	ideologia	ideologia	S	S	num=s|gen=f	3	prep
+
+1	ma	ma	C	CC	_	3	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	difficile	difficile	A	A	num=s|gen=n	3	pred
+5	parlare	parlare	V	V	mod=f	3	subj
+6	di	di	E	E	_	5	comp
+7	Maria	Maria	S	SP	_	6	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	0	ROOT
+3	Maria	Maria	S	SP	_	2	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	rivoluzione	rivoluzione	S	S	num=s|gen=f	2	conj
+
+1	Maria	Maria	S	SP	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	Vietnam	Vietnam	S	SP	_	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	Cambogia	Cambogia	S	SP	_	3	mod
+
+1	Maria	Maria	S	SP	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	realtà	realtà	S	S	num=n|gen=f	1	mod
+4	.	.	F	FS	_	1	punc
+
+1	Se	se	C	CS	_	2	mod
+2	sapessi	sapere	V	V	num=s|per=1|mod=c|ten=i	0	ROOT
+3	parlar	parlare	V	V	mod=f	2	arg
+
+1	e	e	C	CC	_	0	ROOT
+2	di	di	E	E	_	1	conj
+3	Maria	Maria	S	SP	_	2	prep
+
+1	se	se	C	CS	_	0	ROOT
+2	sapessi	sapere	V	V	num=s|per=1|mod=c|ten=i	1	sub
+3	davvero	davvero	B	B	_	2	mod
+4	capire	capire	V	V	mod=f	2	arg
+5	la	il	R	RD	num=s|gen=f	7	det
+6	sua	suo	A	AP	num=s|gen=f	7	mod
+7	esistenza	esistenza	S	S	num=s|gen=f	4	obj
+
+1	avrei	avere	V	VA	num=s|per=1|mod=d|ten=p	2	aux
+2	capito	capire	V	V	num=s|mod=p|gen=m	0	ROOT
+3	esattamente	esatto	B	B	_	2	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	realtà	realtà	S	S	num=n|gen=f	2	obj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	paura	paura	S	S	num=s|gen=f	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	tensione	tensione	S	S	num=s|gen=f	2	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	violenza	violenza	S	S	num=s|gen=f	4	mod
+7	.	.	F	FS	_	2	punc
+
+1	Avrei	avere	V	VA	num=s|per=1|mod=d|ten=p	2	aux
+2	capito	capire	V	V	num=s|mod=p|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	capitale	capitale	S	S	num=s|gen=n	2	obj
+5	e	e	C	CC	_	4	con
+6	la	il	R	RD	num=s|gen=f	7	det
+7	borghesia	borghesia	S	S	num=s|gen=f	4	conj
+
+1	ma	ma	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	4	det
+3	mia	mio	A	AP	num=s|gen=f	4	mod
+4	rabbia	rabbia	S	S	num=s|gen=f	5	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	che	che	C	CS	_	5	arg
+7	non	non	B	BN	_	9	neg
+8	so	sapere	V	VM	num=s|per=1|mod=i|ten=p	9	modal
+9	parlare	parlare	V	V	mod=f	6	sub
+10	di	di	E	E	_	9	comp
+11	Maria	Maria	S	SP	_	10	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	libertà	libertà	S	S	num=n|gen=f	0	ROOT
+3	Maria	Maria	S	SP	_	2	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	rivoluzione	rivoluzione	S	S	num=s|gen=f	2	conj
+
+1	Maria	Maria	S	SP	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	Vietnam	Vietnam	S	SP	_	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	Cambogia	Cambogia	S	SP	_	3	mod
+
+1	Maria	Maria	S	SP	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	realtà	realtà	S	S	num=n|gen=f	1	mod
+4	.	.	F	FS	_	1	punc
+
+1	Maria	Maria	S	SP	_	6	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	libertà	libertà	S	S	num=n|gen=f	1	mod
+4	Maria	Maria	S	SP	_	3	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	rivoluzione	rivoluzione	S	S	num=s|gen=f	0	ROOT
+
+1	Maria	Maria	S	SP	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	Vietnam	Vietnam	S	SP	_	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	Cambogia	Cambogia	S	SP	_	3	mod
+
+1	Maria	Maria	S	SP	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	realtà	realtà	S	S	num=n|gen=f	1	mod
+4	.	.	F	FS	_	1	punc
+
+1	Maria	Maria	S	SP	_	3	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	realtà	realtà	S	S	num=n|gen=f	0	ROOT
+
+1	Maria	Maria	S	SP	_	3	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	realtà	realtà	S	S	num=n|gen=f	0	ROOT
+

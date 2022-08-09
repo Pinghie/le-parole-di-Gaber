@@ -1,0 +1,327 @@
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	incontro	incontro	S	S	num=s|gen=m	0	ROOT
+3	civile	civile	A	A	num=s|gen=n	2	mod
+4	fra	fra	E	E	_	2	comp
+5	gente	gente	S	S	num=s|gen=f	4	prep
+6	educata	educare	V	V	num=s|mod=p|gen=f	2	mod
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	alza	alzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	in	in	E	E	_	3	comp
+5	piedi	piede	S	S	num=p|gen=m	4	prep
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	saluta	salutare	V	V	num=s|per=3|mod=i|ten=p	3	conj
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	incontro	incontro	S	S	num=s|gen=m	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	pò	pò	B	B	_	5	mod
+5	anonimo	anonimo	A	A	num=s|gen=m	2	mod
+6	reso	rendere	V	V	num=s|mod=p|gen=m	2	mod
+7	più	più	B	B	_	8	mod
+8	umano	umano	A	A	num=s|gen=m	6	pred
+
+1	da	da	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	cordiale	cordiale	A	A	num=s|gen=n	4	mod
+4	stretta	stretto	A	A	num=s|gen=f	1	prep
+5	di	di	E	E	_	4	comp
+6	mano	mano	S	S	num=s|gen=f	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	5	subj
+3	appuntita	appuntire	V	V	num=s|mod=p|gen=f	2	mod
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	mano	mano	S	S	num=s|gen=f	0	ROOT
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pò	pò	B	B	_	8	mod
+8	tozza	tozzo	A	A	num=s|gen=f	5	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	0	ROOT
+3	indifesa	indifeso	A	A	num=s|gen=f	2	mod
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+6	tenerezza	tenerezza	S	S	num=s|gen=f	5	obj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	stretta	stretta	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	mano	mano	S	S	num=s|gen=f	3	prep
+5	virile	virile	A	A	num=s|gen=n	4	mod
+6	e	e	C	CC	_	2	con
+7	fascista	fascista	A	A	num=s|gen=n	2	conj
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	vuol	volere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	dire	dire	V	V	mod=f	5	subj
+4	non	non	B	BN	_	5	neg
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pederasta	pederasta	S	S	num=s|gen=m	5	pred
+8	.	.	F	FS	_	5	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	pò	pò	B	B	_	5	mod
+5	timida	timido	A	A	num=s|gen=f	2	mod
+6	poco	poco	B	B	_	7	mod
+7	convinta	convincere	V	V	num=s|mod=p|gen=f	2	mod
+
+1	tu	tu	P	PE	num=s|per=2|gen=n	7	subj
+2	parti	parto	S	S	num=p|gen=m	1	mod
+3	deciso	decidere	V	V	num=s|mod=p|gen=m	2	mod
+4	e	e	C	CC	_	1	con
+5	lei	lei	P	PE	num=s|per=3|gen=n	7	subj
+6	ti	ti	P	PC	num=s|per=2|gen=n	7	comp_ind
+7	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	la	il	R	RD	num=s|gen=f	9	det
+9	finta	finta	S	S	num=s|gen=f	7	obj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	0	ROOT
+3	furbetta	furbetta	A	A	num=s|gen=f	2	mod
+4	da	da	E	E	_	2	comp
+5	pubblicitario	pubblicitario	S	S	num=s|gen=m	4	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	0	ROOT
+3	pulita	pulito	A	A	num=s|gen=f	2	mod
+4	da	da	E	E	_	2	comp
+5	commissario	commissario	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	2	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	0	ROOT
+3	a	a	E	E	_	2	comp
+4	spatola	spatola	S	S	num=s|gen=f	3	prep
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	scatta	scattare	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+7	nervosa	nervoso	A	A	num=s|gen=f	2	mod
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	altra	altro	P	PI	num=s|gen=f	0	ROOT
+3	suadente	suadente	A	A	num=s|gen=n	2	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	troppo	troppo	B	B	_	7	mod
+7	affettuosa	affettuoso	A	A	num=s|gen=f	2	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	6	mod_temp
+3	imprecisa	impreciso	A	A	num=s|gen=f	2	mod
+4	una	uno	R	RI	num=s|gen=f	6	det
+5	squallida	squallido	A	A	num=s|gen=f	6	mod
+6	mano	mano	S	S	num=s|gen=f	0	ROOT
+
+1	da	da	E	E	_	0	ROOT
+2	socialdemocratico	socialdemocratico	S	S	num=s|gen=m	1	prep
+3	da	da	E	E	_	2	comp
+4	repubblicano	repubblicano	A	A	num=s|gen=m	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	0	ROOT
+3	da	da	E	E	_	2	comp
+4	artista	artista	S	S	num=s|gen=m	3	prep
+5	tortuosa	tortuoso	A	A	num=s|gen=f	4	mod
+6	e	e	C	CC	_	5	con
+7	impotente	impotente	A	A	num=s|gen=n	5	conj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	0	ROOT
+3	da	da	E	E	_	2	comp
+4	orso	orso	S	S	num=s|gen=m	3	prep
+5	pelosa	peloso	A	A	num=s|gen=f	4	mod
+6	e	e	C	CC	_	2	con
+7	ignorante	ignorante	A	A	num=s|gen=n	2	conj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	0	ROOT
+3	commossa	commosso	A	A	num=s|gen=f	2	mod
+4	di	di	E	E	_	2	comp
+5	chi	chi	P	PR	num=n|gen=n	4	prep
+6	ha	avere	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+7	tanti	tanto	D	DI	num=p|gen=m	8	mod
+8	guai	guaio	S	S	num=p|gen=m	6	obj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	0	ROOT
+3	da	da	E	E	_	2	comp
+4	piovra	piovra	S	S	num=s|gen=f	3	prep
+5	che	che	P	PR	num=n|gen=n	8	subj
+6	non	non	B	BN	_	8	neg
+7	ti	ti	P	PC	num=s|per=2|gen=n	8	comp_ind
+8	lascia	lasciare	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+9	mai	mai	B	B	_	8	mod
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	carosello	carosello	S	S	num=s|gen=m	0	ROOT
+3	inutile	inutile	A	A	num=s|gen=n	2	mod
+4	grottesco	grottesco	A	A	num=s|gen=m	2	mod
+5	e	e	C	CC	_	4	con
+6	giocondo	giocondo	A	A	num=s|gen=m	4	conj
+
+1	in	in	E	E	_	0	ROOT
+2	questa	questo	D	DD	num=s|gen=f	3	mod
+3	palla	palla	S	S	num=s|gen=f	1	prep
+4	gigante	gigante	A	A	num=s|gen=n	3	mod
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	poi	poi	B	B	_	7	mod_temp
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+8	il	il	R	RD	num=s|gen=m	9	det
+9	mondo	mondo	S	S	num=s|gen=m	7	pred
+10	.	.	F	FS	_	1	punc
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	mondo	mondo	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	assurdi	assurdo	A	A	num=p|gen=m	5	mod
+5	esseri	essere	S	S	num=p|gen=m	3	prep
+6	umani	umano	A	A	num=p|gen=m	5	mod
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	gioco	gioco	S	S	num=s|gen=m	0	ROOT
+3	abilissimo	abile	A	A	num=s|gen=m	2	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	intreccio	intreccio	S	S	num=s|gen=m	2	conj
+6	di	di	E	E	_	5	comp
+7	mani	mano	S	S	num=p|gen=f	6	prep
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+2	comunichiamo	comunicare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	cosi	coso	S	S	num=p|gen=m	2	obj
+4	spudorati	spudorato	A	A	num=p|gen=m	3	mod
+
+1	quando	quando	C	CS	_	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	clit
+3	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	1	sub
+4	affezionati	affezionato	A	A	num=p|gen=m	3	pred
+5	.	.	F	FS	_	1	punc
+
+1	Mani	mano	S	S	num=p|gen=f	0	ROOT
+2	educate	educare	V	V	num=p|mod=p|gen=f	1	mod
+3	di	di	E	E	_	1	comp
+4	anziani	anziano	S	S	num=p|gen=m	3	prep
+5	signori	signore	S	S	num=p|gen=m	4	mod
+
+1	mani	mano	S	S	num=p|gen=f	0	ROOT
+2	abilissime	abile	A	A	num=p|gen=f	1	mod
+3	di	di	E	E	_	1	comp
+4	gente	gente	S	S	num=s|gen=f	3	prep
+5	d'	di	E	E	_	4	comp
+6	affari	affare	S	S	num=p|gen=m	5	prep
+
+1	mani	mano	S	S	num=p|gen=f	0	ROOT
+2	che	che	P	PR	num=n|gen=n	4	subj
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	comp_ind
+4	lisciano	lisciare	V	V	num=p|per=3|mod=i|ten=p	1	mod_rel
+5	con	con	E	E	_	4	comp
+6	troppa	troppo	D	DI	num=s|gen=f	7	mod
+7	simpatia	simpatia	S	S	num=s|gen=f	5	prep
+
+1	con	con	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	tocco	tocco	S	S	num=s|gen=m	1	prep
+4	morboso	morboso	A	A	num=s|gen=m	3	mod
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+7	di	di	E	E	_	6	comp
+8	sagrestia	sagrestia	S	S	num=s|gen=f	7	prep
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	festival	festival	S	S	num=n|gen=m	0	ROOT
+3	viscido	viscido	A	A	num=s|gen=m	2	mod
+4	e	e	C	CC	_	2	con
+5	nauseabondo	nauseabondo	A	A	num=s|gen=m	2	mod
+
+1	in	in	E	E	_	0	ROOT
+2	questa	questo	D	DD	num=s|gen=f	4	mod
+3	grande	grande	A	A	num=s|gen=n	4	mod
+4	famiglia	famiglia	S	S	num=s|gen=f	1	prep
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	poi	poi	B	B	_	7	mod
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+8	il	il	R	RD	num=s|gen=m	9	det
+9	mondo	mondo	S	S	num=s|gen=m	7	pred
+10	.	.	F	FS	_	1	punc
+
+1	Mani	mano	S	S	num=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	amici	amico	S	S	num=p|gen=m	2	prep
+4	di	di	E	E	_	3	comp
+5	dottori	dottore	S	S	num=p|gen=m	4	prep
+6	di	di	E	E	_	5	comp
+7	insegnanti	insegnante	S	S	num=p|gen=n	6	prep
+
+1	mani	mano	S	S	num=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	attori	attore	S	S	num=p|gen=m	2	prep
+4	di	di	E	E	_	3	comp
+5	divi	divo	S	S	num=p|gen=m	4	prep
+6	di	di	E	E	_	5	comp
+7	cantanti	cantante	S	S	num=p|gen=n	6	prep
+
+1	mani	mano	S	S	num=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	ministri	ministro	S	S	num=p|gen=m	2	prep
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	chiedono	chiedere	V	V	num=p|per=3|mod=i|ten=p	1	mod_rel
+6	la	il	R	RD	num=s|gen=f	7	det
+7	fiducia	fiducia	S	S	num=s|gen=f	5	obj
+
+1	mani	mano	S	S	num=p|gen=f	0	ROOT
+2	sottili	sottile	A	A	num=p|gen=n	1	mod
+3	manovrate	manovrare	V	V	num=p|mod=p|gen=f	1	mod
+4	con	con	E	E	_	3	comp
+5	ferocia	ferocia	S	S	num=s|gen=f	4	prep
+6	.	.	F	FS	_	1	punc
+
+1	Mani	mano	S	S	num=p|gen=f	3	mod
+2	bianchissime	bianchissime	A	A	num=p|gen=f	3	mod
+3	schifose	schifoso	S	S	num=p|gen=f	0	ROOT
+4	da	da	E	E	_	3	arg
+5	toccare	toccare	V	V	mod=f	4	prep
+
+1	mani	mano	S	S	num=p|gen=f	0	ROOT
+2	inanellate	inanellare	V	V	num=p|mod=p|gen=f	1	mod
+3	di	di	E	E	_	1	comp
+4	papi	papa	S	S	num=p|gen=m	3	prep
+5	da	da	E	E	_	1	arg
+6	baciare	baciare	V	V	mod=f	5	prep
+
+1	mani	mano	S	S	num=p|gen=f	0	ROOT
+2	scivolose	scivoloso	A	A	num=p|gen=f	1	mod
+3	di	di	E	E	_	1	comp
+4	esseri	essere	S	S	num=p|gen=m	3	prep
+5	umani	umano	A	A	num=p|gen=m	4	mod
+
+1	mani	mano	S	S	num=p|gen=f	0	ROOT
+2	dappertutto	dappertutto	B	B	_	3	mod
+3	tantissime	tanto	A	A	num=p|gen=f	1	mod
+4	mani	mano	S	S	num=p|gen=f	1	mod
+
+1	Le	il	R	RD	num=p|gen=f	2	det
+2	guardo	guardare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	sommergo	sommergere	V	V	num=s|per=1|mod=i|ten=p	2	arg
+5	annego	annegare	V	V	num=s|per=1|mod=i|ten=p	2	conj
+6	e	e	C	CC	_	2	con
+7	sprofondo	sprofondare	V	V	num=s|per=1|mod=i|ten=p	2	conj
+
+1	in	in	E	E	_	0	ROOT
+2	questo	questo	D	DD	num=s|gen=m	3	mod
+3	lago	lago	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	merda	merda	S	S	num=s|gen=f	4	prep
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	poi	poi	B	B	_	8	mod
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+9	il	il	R	RD	num=s|gen=m	10	det
+10	mondo	mondo	S	S	num=s|gen=m	8	pred
+11	.	.	F	FS	_	1	punc
+

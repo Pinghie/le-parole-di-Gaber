@@ -1,0 +1,266 @@
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	parlava	parlare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	di	di	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	certo	certo	A	A	num=s|gen=m	6	mod
+6	discorso	discorso	S	S	num=s|gen=m	3	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	lei	lei	P	PE	num=s|per=3|gen=n	3	subj
+3	porta	portare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	avanti	avanti	B	B	_	3	mod
+
+1	era	essere	V	VA	num=s|per=3|mod=i|ten=i	2	aux
+2	colta	cogliere	V	V	num=s|mod=p|gen=f	0	ROOT
+3	e	e	C	CC	_	2	con
+4	piuttosto	piuttosto	B	B	_	5	mod
+5	impegnata	impegnare	V	V	num=s|mod=p|gen=f	2	conj
+
+1	su	su	E	E	_	0	ROOT
+2	certi	certo	D	DI	num=p|gen=m	3	mod
+3	argomenti	argomento	S	S	num=p|gen=m	1	prep
+
+1	Era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	sempre	sempre	B	B	_	3	mod
+3	precisa	preciso	A	A	num=s|gen=f	1	pred
+4	e	e	C	CC	_	1	con
+5	diretta	dirigere	V	V	num=s|mod=p|gen=f	1	conj
+
+1	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	passato	passare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	notte	notte	S	S	num=s|gen=f	2	obj
+5	a	a	E	E	_	2	arg
+6	ascoltar-	ascoltare	V	V	mod=f	5	prep
+7	la	la	P	PC	num=s|per=3|gen=f	2	obj
+
+1	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	perfetta	perfetto	A	A	num=s|gen=f	0	ROOT
+
+1	ma	ma	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+4	avuto	avere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	voglia	voglia	S	S	num=s|gen=f	4	obj
+6	di	di	E	E	_	5	arg
+7	toccar-	toccare	V	V	mod=f	6	prep
+8	la	la	P	PC	num=s|per=3|gen=f	7	obj
+9	.	.	F	FS	_	4	punc
+
+1	Com'	come	B	B	_	3	mod
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	corretta	correggere	V	V	num=s|mod=p|gen=f	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	ideologia	ideologia	S	S	num=s|gen=f	3	subj
+
+1	com'	come	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	ignorante	ignorante	A	A	num=s|gen=n	2	pred
+4	la	il	R	RD	num=s|gen=f	5	det
+5	simpatia	simpatia	S	S	num=s|gen=f	2	subj
+6	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	purtroppo	purtroppo	B	B	_	4	mod
+3	non	non	B	BN	_	4	neg
+4	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	a	a	E	E	_	4	arg
+6	istruire	istruire	V	V	mod=f	5	prep
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	mio	mio	A	AP	num=s|gen=m	3	mod
+3	tatto	tatto	S	S	num=s|gen=m	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	arg
+4	politicizzare	politicizzare	V	V	mod=f	3	prep
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	olfatto	olfatto	A	A	num=s|gen=m	0	ROOT
+
+1	Se	se	C	CS	_	0	ROOT
+2	insegno	insegnare	V	V	num=s|per=1|mod=i|ten=p	1	sub
+3	qualcosa	qualcosa	P	PI	num=s|gen=n	2	obj
+4	al	a	E	EA	num=s|gen=m	2	comp
+5	mio	mio	A	AP	num=s|gen=m	6	mod
+6	sesso	sesso	S	S	num=s|gen=m	4	prep
+
+1	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	tiepido	tiepido	A	A	num=s|gen=m	1	pred
+
+1	ci	ci	P	PC	num=n|gen=n	2	comp
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	corpo	corpo	S	S	num=s|gen=m	2	obj
+5	stupido	stupido	A	A	num=s|gen=m	4	mod
+6	.	.	F	FS	_	2	punc
+
+1	Dopo	dopo	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	6	mod
+4	si	si	P	PC	num=n|per=3|gen=n	6	clit
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	sdraiata	sdraiare	V	V	num=s|mod=p|gen=f	1	prep
+7	sul	su	E	EA	num=s|gen=m	6	comp_loc
+8	letto	letto	S	S	num=s|gen=m	7	prep
+
+1	e	e	C	CC	_	2	con
+2	parlava	parlare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	di	di	E	E	_	2	comp
+4	orgasmo	orgasmo	S	S	num=s|gen=m	3	prep
+
+1	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	rivisto	rivedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	la	il	R	RD	num=s|gen=f	5	det
+4	nostra	nostro	A	AP	num=s|gen=f	5	mod
+5	serata	serata	S	S	num=s|gen=f	2	obj
+
+1	con	con	E	E	_	0	ROOT
+2	molto	molto	B	B	_	3	mod
+3	entusiasmo	entusiasmo	S	S	num=s|gen=m	1	prep
+
+1	Ma	ma	C	CC	_	8	con
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	libro	libro	S	S	num=s|gen=m	8	subj
+4	che	che	P	PR	num=n|gen=n	8	obj
+5	lei	lei	P	PE	num=s|per=3|gen=n	8	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	8	comp_ind
+7	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	8	aux
+8	citato	citare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	indica	indicare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	dove	dove	B	B	_	5	mod_loc
+5	toccar-	toccare	V	V	mod=f	3	arg
+6	la	la	P	PC	num=s|per=3|gen=f	5	obj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	5	aux
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	bloccato	bloccare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	non	non	B	BN	_	4	neg
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+3	più	più	B	B	_	4	mod
+4	avuto	avere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	voglia	voglia	S	S	num=s|gen=f	4	obj
+6	di	di	E	E	_	5	arg
+7	spogliar-	spogliare	V	V	mod=f	6	prep
+8	la	la	P	PC	num=s|per=3|gen=f	7	obj
+9	.	.	F	FS	_	4	punc
+
+1	Com'	come	B	B	_	3	mod
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	corretto	correggere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	il	il	R	RD	num=s|gen=m	6	det
+5	suo	suo	A	AP	num=s|gen=m	6	mod
+6	intervento	intervento	S	S	num=s|gen=m	3	obj
+
+1	com'	come	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	ignorante	ignorante	A	A	num=s|gen=n	2	pred
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	arrapamento	arrapamento	S	S	num=s|gen=m	2	subj
+6	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	magari	magari	B	B	_	4	mod
+3	non	non	B	BN	_	4	neg
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	attrazione	attrazione	S	S	num=s|gen=f	4	obj
+
+1	spontanea	spontaneo	A	A	num=s|gen=f	0	ROOT
+2	ma	ma	C	CC	_	1	con
+3	insisto	insistere	V	V	num=s|per=1|mod=i|ten=p	1	conj
+
+1	perché	perché	C	CS	_	0	ROOT
+2	condivido	condividere	V	V	num=s|per=1|mod=i|ten=p	1	sub
+3	la	il	R	RD	num=s|gen=f	4	det
+4	linea	linea	S	S	num=s|gen=f	2	obj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	assurdo	assurdo	A	A	num=s|gen=m	1	pred
+3	che	che	C	CS	_	1	subj
+4	io	io	P	PE	num=s|per=1|gen=n	7	subj
+5	non	non	B	BN	_	7	neg
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	clit
+7	senta	sentire	V	V	num=s|per=3|mod=c|ten=p	3	sub
+
+1	voglioso	voglioso	A	A	num=s|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	cupido	cupido	A	A	num=s|gen=m	1	conj
+
+1	ci	ci	P	PC	num=n|gen=n	2	comp
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	corpo	corpo	S	S	num=s|gen=m	2	obj
+5	stupido	stupido	A	A	num=s|gen=m	4	mod
+6	.	.	F	FS	_	2	punc
+
+1	Lei	lei	P	PE	num=s|per=3|gen=n	2	subj
+2	voleva	volere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	cosa	cosa	S	S	num=s|gen=f	2	obj
+5	diversa	diverso	A	A	num=s|gen=f	4	mod
+
+1	dal	da	E	EA	num=s|gen=m	0	ROOT
+2	solito	solito	A	A	num=s|gen=m	3	mod
+3	incontro	incontro	S	S	num=s|gen=m	1	prep
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	importante	importante	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	conoscer-	conoscere	V	V	mod=f	3	pred
+5	si	si	P	PC	num=n|per=3|gen=n	4	clit
+6	bene	bene	B	B	_	4	mod
+
+1	guardar-	guardare	V	V	mod=f	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	1	clit
+3	di	di	E	E	_	1	comp
+4	dentro	dentro	B	B	_	1	mod
+
+1	Eravamo	essere	V	V	num=p|per=1|mod=i|ten=i	0	ROOT
+2	d'	di	E	E	_	1	pred
+3	accordo	accordo	S	S	num=s|gen=m	2	prep
+4	su	su	E	E	_	1	comp
+5	tutto	tutto	P	PI	num=s|gen=m	4	prep
+
+1	sul	su	E	EA	num=s|gen=m	0	ROOT
+2	politico	politico	S	S	num=s|gen=m	1	prep
+3	e	e	C	CC	_	1	con
+4	sul	su	E	EA	num=s|gen=m	1	conj
+5	personale	personale	S	S	num=s|gen=m	4	prep
+
+1	ma	ma	C	CC	_	3	con
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	blocco	blocco	S	S	num=s|gen=m	3	subj
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	senso	senso	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	rapporto	rapporto	S	S	num=s|gen=m	3	prep
+5	genitale	genitale	A	A	num=s|gen=n	4	mod
+
+1	Com'	come	B	B	_	3	mod
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	corretta	correggere	V	V	num=s|mod=p|gen=f	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	introspezione	introspezione	S	S	num=s|gen=f	3	subj_pass
+
+1	com'	come	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	ignorante	ignorante	A	A	num=s|gen=n	2	pred
+4	la	il	R	RD	num=s|gen=f	6	det
+5	mia	mio	A	AP	num=s|gen=f	6	mod
+6	erezione	erezione	S	S	num=s|gen=f	2	subj
+
+1	Uuuuuuh	Uuuuuuh	S	SW	num=n|gen=n	0	ROOT
+2	uuuuuuh	uuuuuuh	S	SW	num=n|gen=n	1	concat
+3	....	....	B	BN	_	1	concat
+

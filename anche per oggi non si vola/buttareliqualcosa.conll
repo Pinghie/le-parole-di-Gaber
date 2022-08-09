@@ -1,0 +1,255 @@
+1	Ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	aiutare	aiutare	V	V	mod=f	2	arg
+4	chi	chi	P	PR	num=n|gen=n	3	obj
+5	sta	stare	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+6	male	male	B	B	_	5	mod
+
+1	sperare	sperare	V	V	mod=f	0	ROOT
+2	in	in	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	mondo	mondo	S	S	num=s|gen=m	2	prep
+5	più	più	B	B	_	6	mod
+6	civile	civile	A	A	num=s|gen=n	4	mod
+
+1	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	chi	chi	P	PR	num=n|gen=n	2	obj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	sa	sapere	V	VM	num=s|per=3|mod=i|ten=p	6	modal
+6	sacrificare	sacrificare	V	V	mod=f	3	mod_rel
+
+1	chi	chi	P	PR	num=n|gen=n	0	_
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+3	sensibile	sensibile	A	A	num=s|gen=n	2	pred
+4	al	a	E	EA	num=s|gen=m	3	comp
+5	dolore	dolore	S	S	num=s|gen=m	4	prep
+
+1	ed	e	C	CC	_	3	con
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	avuto	avere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	simpatia	simpatia	S	S	num=s|gen=f	3	obj
+5	.	.	F	FS	_	3	punc
+
+1	Ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	tanti	tanto	D	DI	num=p|gen=m	4	mod
+4	figli	figlio	S	S	num=p|gen=m	2	obj
+5	da	da	E	E	_	2	arg
+6	educare	educare	V	V	mod=f	5	prep
+
+1	e	e	C	CC	_	2	con
+2	gente	gente	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	li	li	P	PC	num=p|per=3|gen=m	5	obj
+5	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+6	con	con	E	E	_	5	comp
+7	amore	amore	S	S	num=s|gen=m	6	prep
+
+1	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	genitori	genitore	S	S	num=p|gen=m	2	obj
+4	comprensivi	comprensivo	A	A	num=p|gen=m	3	mod
+
+1	e	e	C	CC	_	2	con
+2	insegnanti	insegnante	A	A	num=p|gen=n	4	mod
+3	molto	molto	B	B	_	4	mod
+4	bravi	bravo	A	A	num=p|gen=m	0	_
+
+1	pieni	pieno	A	A	num=p|gen=m	0	ROOT
+2	di	di	E	E	_	1	comp
+3	psicologia	psicologia	S	S	num=s|gen=f	2	prep
+
+1	Ma	ma	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+4	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	mai	mai	B	B	_	4	mod_temp
+6	nessuno	nessuno	P	PI	num=s|gen=m	4	obj
+
+1	buttare	buttare	V	V	mod=f	0	_
+2	lì	lì	B	B	_	1	obj
+3	qualcosa	qualcosa	P	PI	num=s|gen=n	2	mod
+4	e	e	C	CC	_	3	con
+5	andare	andare	V	V	mod=f	3	conj
+6	via	via	B	B	_	5	mod
+
+1	Ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	5	arg
+3	tanti	tanto	D	DI	num=p|gen=m	4	mod
+4	giovani	giovane	S	S	num=p|gen=n	2	obj
+5	lottare	lottare	V	V	mod=f	0	ROOT
+
+1	di	di	E	E	_	0	ROOT
+2	fronte	fronte	S	S	num=s|gen=n	1	prep
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	violenza	violenza	S	S	num=s|gen=f	3	prep
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	potere	potere	S	S	num=s|gen=m	5	prep
+
+1	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	tanti	tanto	D	DI	num=p|gen=m	4	mod
+4	giovani	giovane	S	S	num=p|gen=n	2	obj
+5	impegnati	impegnato	A	A	num=p|gen=m	4	mod
+
+1	militare	militare	A	A	num=s|gen=n	0	ROOT
+2	nei	in	E	EA	num=p|gen=m	1	comp
+3	partiti	partito	S	S	num=p|gen=m	2	prep
+4	con	con	E	E	_	3	comp
+5	la	il	R	RD	num=s|gen=f	7	det
+6	loro	loro	A	AP	num=n|gen=n	7	mod
+7	ideologia	ideologia	S	S	num=s|gen=f	4	prep
+
+1	Ma	ma	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+4	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	mai	mai	B	B	_	4	mod_temp
+6	nessuno	nessuno	P	PI	num=s|gen=m	4	obj
+
+1	buttare	buttare	V	V	mod=f	0	ROOT
+2	lì	lì	B	B	_	1	obj
+3	qualcosa	qualcosa	P	PI	num=s|gen=n	2	mod
+4	e	e	C	CC	_	3	con
+5	andare	andare	V	V	mod=f	3	conj
+6	via	via	B	B	_	5	mod
+7	.	.	F	FS	_	1	punc
+
+1	Ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	far-	fare	V	V	mod=f	2	arg
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	strada	strada	S	S	num=s|gen=f	3	pred
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	tendenza	tendenza	S	S	num=s|gen=f	5	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	parla	parlare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	comp
+4	politica	politica	S	S	num=s|gen=f	3	prep
+5	e	e	C	CC	_	2	con
+6	coscienza	coscienza	S	S	num=s|gen=f	2	conj
+
+1	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	dar	dare	V	V	mod=f	2	arg
+4	valori	valore	S	S	num=p|gen=m	3	obj
+5	ai	al	E	EA	num=p|gen=m	3	comp
+6	nostri	nostro	A	AP	num=p|gen=m	7	mod
+7	mali	male	S	S	num=p|gen=m	5	prep
+
+1	anche	anche	B	B	_	2	mod
+2	ai	al	E	EA	num=p|gen=m	0	ROOT
+3	fatti	fatto	S	S	num=p|gen=m	2	prep
+4	personali	personale	A	A	num=p|gen=n	3	mod
+
+1	teorizzare	teorizzare	V	V	mod=f	0	ROOT
+2	anche	anche	B	B	_	1	mod
+3	Maria	Maria	S	SP	_	1	obj
+
+1	Ma	ma	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+4	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	mai	mai	B	B	_	4	mod_temp
+6	nessuno	nessuno	P	PI	num=s|gen=m	4	obj
+
+1	buttare	buttare	V	V	mod=f	0	ROOT
+2	lì	lì	B	B	_	1	obj
+3	qualcosa	qualcosa	P	PI	num=s|gen=n	2	mod
+4	e	e	C	CC	_	3	con
+5	andare	andare	V	V	mod=f	3	conj
+6	via	via	B	B	_	5	mod
+7	.	.	F	FS	_	1	punc
+
+1	Diffondere	diffondere	V	V	mod=f	0	ROOT
+2	e	e	C	CC	_	1	con
+3	insegnare	insegnare	V	V	mod=f	1	conj
+4	la	il	R	RD	num=s|gen=f	5	det
+5	conoscenza	conoscenza	S	S	num=s|gen=f	3	obj
+
+1	imporre	imporre	V	V	mod=f	0	ROOT
+2	a	a	E	E	_	1	comp
+3	tutti	tutto	T	T	num=p|gen=m	5	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	costi	costo	S	S	num=p|gen=m	2	prep
+6	la	il	R	RD	num=s|gen=f	8	det
+7	propria	proprio	A	AP	num=s|gen=f	8	mod
+8	esperienza	esperienza	S	S	num=s|gen=f	1	obj
+
+1	guidare	guidare	V	V	mod=f	0	ROOT
+2	guidare	guidare	V	V	mod=f	1	arg
+3	per	per	E	E	_	2	arg
+4	far-	fare	V	VM	mod=f	6	modal
+5	si	si	P	PC	num=n|per=3|gen=n	4	clit
+6	seguire	seguire	V	V	mod=f	3	prep
+
+1	oppor-	opporre	V	V	mod=f	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	1	clit
+3	al	a	E	EA	num=s|gen=m	1	comp
+4	potere	potere	S	S	num=s|gen=m	3	prep
+
+1	e	e	C	CC	_	3	con
+2	infine	infine	B	B	_	3	mod
+3	riuscire	riuscire	V	V	mod=f	0	ROOT
+4	a	a	E	E	_	3	arg
+5	cambiare	cambiare	V	V	mod=f	4	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	potere	potere	S	S	num=s|gen=m	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	Decidere	decidere	V	V	mod=f	0	ROOT
+2	per	per	E	E	_	1	comp
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	altri	altro	P	PI	num=p|gen=m	2	prep
+5	dentro	dentro	B	B	_	4	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	stanza	stanza	S	S	num=s|gen=f	1	obj
+
+1	saper-	sapere	V	VM	mod=f	3	modal
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	organizzare	organizzare	V	V	mod=f	0	ROOT
+4	con	con	E	E	_	3	comp
+5	molta	molto	D	DI	num=s|gen=f	6	mod
+6	efficienza	efficienza	S	S	num=s|gen=f	4	prep
+
+1	guidare	guidare	V	V	mod=f	0	ROOT
+2	guidare	guidare	V	V	mod=f	1	arg
+3	per	per	E	E	_	2	arg
+4	far-	fare	V	VM	mod=f	6	modal
+5	si	si	P	PC	num=n|per=3|gen=n	4	clit
+6	seguire	seguire	V	V	mod=f	3	prep
+
+1	oppor-	opporre	V	V	mod=f	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	1	clit
+3	al	a	E	EA	num=s|gen=m	1	comp
+4	potere	potere	S	S	num=s|gen=m	3	prep
+
+1	cambiare	cambiare	V	V	mod=f	0	ROOT
+2	per	per	E	E	_	1	comp
+3	poi	poi	B	B	_	2	prep
+4	reinventare	reinventare	V	V	mod=f	1	arg
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	potere	potere	S	S	num=s|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	potere	potere	S	S	num=s|gen=m	2	mod
+5	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+4	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	mai	mai	B	B	_	4	mod_temp
+6	nessuno	nessuno	P	PI	num=s|gen=m	4	obj
+
+1	buttare	buttare	V	V	mod=f	0	ROOT
+2	lì	lì	B	B	_	1	obj
+3	qualcosa	qualcosa	P	PI	num=s|gen=n	2	mod
+4	e	e	C	CC	_	3	con
+5	andare	andare	V	V	mod=f	3	conj
+6	via	via	B	B	_	5	mod
+7	.	.	F	FS	_	1	punc
+
