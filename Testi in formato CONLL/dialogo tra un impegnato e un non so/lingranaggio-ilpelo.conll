@@ -1,0 +1,817 @@
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	ingranaggio	ingranaggio	S	S	num=s|gen=m	0	ROOT
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	ingranaggio	ingranaggio	S	S	num=s|gen=m	0	ROOT
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	ingranaggio	ingranaggio	S	S	num=s|gen=m	0	ROOT
+3	così	così	B	B	_	4	mod
+4	assurdo	assurdo	A	A	num=s|gen=m	2	mod
+5	e	e	C	CC	_	2	con
+6	complicato	complicato	A	A	num=s|gen=m	2	mod
+
+1	così	così	B	B	_	2	mod
+2	perfetto	perfetto	A	A	num=s|gen=m	0	ROOT
+3	e	e	C	CC	_	2	con
+4	travolgente	travolgente	A	A	num=s|gen=n	2	conj
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	ingranaggio	ingranaggio	S	S	num=s|gen=m	0	ROOT
+3	fatto	fare	V	V	num=s|mod=p|gen=m	2	mod
+4	di	di	E	E	_	2	comp
+5	ruote	ruota	S	S	num=p|gen=f	4	prep
+6	misteriose	misterioso	A	A	num=p|gen=f	5	mod
+
+1	così	così	B	B	_	2	mod
+2	spietato	spietato	A	A	num=s|gen=m	0	ROOT
+3	e	e	C	CC	_	2	con
+4	massacrante	massacrante	A	A	num=s|gen=n	2	conj
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	ingranaggio	ingranaggio	S	S	num=s|gen=m	0	ROOT
+3	come	come	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	mostro	mostro	S	S	num=s|gen=m	3	prep
+6	sempre	sempre	B	B	_	5	mod
+7	in	in	E	E	_	2	comp
+8	moto	moto	S	S	num=n|gen=n	7	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	macina	macinare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	le	il	R	RD	num=p|gen=f	4	det
+4	cose	cosa	S	S	num=p|gen=f	2	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	macina	macinare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	gente	gente	S	S	num=s|gen=f	2	obj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	anch'	anche	B	B	_	8	mod
+8	io	io	P	PE	num=s|per=1|gen=n	2	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	anch'	anche	B	B	_	3	mod
+3	io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+
+1	No	no	B	BN	_	6	neg
+2	,	,	F	FF	_	1	punc
+3	io	io	P	PE	num=s|per=1|gen=n	6	subj
+4	no	no	B	BN	_	6	neg
+5	,	,	F	FF	_	4	punc
+6	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	uomo	uomo	S	S	num=s|gen=m	6	pred
+9	felice	felice	A	A	num=s|gen=n	8	mod
+10	,	,	F	FF	_	14	punc
+11	beh	beh	I	I	_	14	mod
+12	forse	forse	B	B	_	14	mod
+13	la	il	R	RD	num=s|gen=f	14	det
+14	felicità	felicità	S	S	num=n|gen=f	16	subj
+15	non	non	B	BN	_	16	neg
+16	esiste	esistere	V	V	num=s|per=3|mod=i|ten=p	8	mod_rel
+17	.	.	F	FS	_	6	punc
+
+1	Diciamo	dire	V	V	num=p|per=1|mod=i|ten=p	3	mod
+2	,	,	F	FF	_	1	punc
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	pred
+6	sereno	sereno	A	A	num=s|gen=m	5	mod
+7	.	.	F	FS	_	3	punc
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	obj
+2	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	veramente	vero	B	B	_	2	mod
+4	così	così	B	B	_	5	mod
+5	poco	poco	B	B	_	2	mod
+6	,	,	F	FF	_	2	con
+7	pensate	pensare	V	V	num=p|per=2|mod=m|ten=p	2	conj
+8	io	io	P	PE	num=s|per=1|gen=n	10	subj
+9	non	non	B	BN	_	10	neg
+10	ho	avere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+11	niente	niente	B	B	_	10	obj
+12	.	.	F	FS	_	2	punc
+
+1	-	-	F	FC	_	4	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+3	non	non	B	BN	_	4	neg
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	niente	niente	B	B	_	4	mod
+
+1	-	-	F	FC	_	4	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+3	non	non	B	BN	_	4	neg
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	niente	niente	B	B	_	4	mod
+
+1	-	-	F	FC	_	3	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pelo	pelo	S	S	num=s|gen=m	3	obj
+
+1	Eh	eh	I	I	_	5	mod
+2	già	già	B	B	_	5	mod
+3	,	,	F	FF	_	2	punc
+4	lui	lui	P	PE	num=s|per=3|gen=m	5	subj
+5	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pelo	pelo	S	S	num=s|gen=m	5	obj
+8	,	,	F	FF	_	14	punc
+9	chissà	chissà	B	B	_	14	mod
+10	poi	poi	B	B	_	14	mod
+11	cosa	cosa	P	PQ	num=s|gen=n	14	subj
+12	se	se	P	PC	num=n|per=3|gen=n	14	clit
+13	ne	ne	P	PC	num=n|gen=n	14	comp
+14	fa	fare	V	V	num=s|per=3|mod=i|ten=p	7	mod_rel
+15	di	di	E	E	_	14	comp
+16	un	uno	R	RI	num=s|gen=m	17	det
+17	pelo	pelo	S	S	num=s|gen=m	15	prep
+18	.	.	F	FS	_	5	punc
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pelo	pelo	S	S	num=s|gen=m	2	obj
+5	,	,	F	FF	_	2	con
+6	e	e	C	CC	_	2	con
+7	io	io	P	PE	num=s|per=1|gen=n	9	subj
+8	non	non	B	BN	_	9	neg
+9	ho	avere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+10	niente	niente	B	B	_	9	obj
+11	.	.	F	FS	_	2	punc
+
+1	Però	però	B	B	_	3	mod
+2	,	,	F	FF	_	1	punc
+3	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	ammettere	ammettere	V	V	mod=f	3	arg
+5	che	che	C	CS	_	4	arg
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pelo	pelo	S	S	num=s|gen=m	9	subj
+8	,	,	F	FF	_	7	punc
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	5	sub
+10	un	uno	R	RI	num=s|gen=m	11	det
+11	pelo	pelo	S	S	num=s|gen=m	9	pred
+12	eh	eh	I	I	_	11	mod
+13	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	3	con
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	chi	chi	P	PR	num=n|gen=n	3	subj
+5	c'	ci	P	PC	num=n|gen=n	6	comp
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+7	l'	lo	P	PC	num=s|per=3|gen=n	8	obj
+8	ha	avere	V	V	num=s|per=3|mod=i|ten=p	6	subj
+9	,	,	F	FF	_	8	con
+10	e	e	C	CC	_	8	con
+11	c'	ci	P	PC	num=n|gen=n	12	comp
+12	è	essere	V	V	num=s|per=3|mod=i|ten=p	8	conj
+13	chi	chi	P	PR	num=n|gen=n	12	subj
+14	non	non	B	BN	_	17	neg
+15	ce	ce	P	PC	num=p|per=1|gen=n	17	comp_ind
+16	l'	lo	P	PC	num=s|per=3|gen=n	17	obj
+17	ha	avere	V	V	num=s|per=3|mod=i|ten=p	13	mod_rel
+18	.	.	F	FS	_	3	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	7	subj
+2	per	per	E	E	_	7	comp
+3	esempio	esempio	S	S	num=s|gen=m	2	prep
+4	non	non	B	BN	_	7	neg
+5	ce	ce	P	PC	num=p|per=1|gen=n	7	clit
+6	l'	lo	P	PC	num=s|per=3|gen=n	7	obj
+7	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+8	.	.	F	FS	_	7	punc
+
+1	Che	che	C	CS	_	0	ROOT
+2	a	a	E	E	_	26	arg
+3	pensar-	pensare	V	V	mod=f	2	prep
+4	ci	ci	P	PC	num=p|per=1|gen=n	3	clit
+5	bene	bene	B	B	_	3	mod
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pelo	pelo	S	S	num=s|gen=m	9	subj
+8	mi	mi	P	PC	num=s|per=1|gen=n	9	comp_ind
+9	sarebbe	essere	V	V	num=s|per=3|mod=d|ten=p	3	conj
+10	anche	anche	B	B	_	11	mod
+11	utile	utile	A	A	num=s|gen=n	9	pred
+12	,	,	F	FF	_	2	con
+13	e	e	C	CC	_	2	con
+14	si	si	P	PC	num=n|per=3|gen=n	15	clit
+15	,	,	F	FF	_	17	punc
+16	oggi	oggi	B	B	_	17	mod_temp
+17	come	come	E	E	_	26	comp
+18	oggi	oggi	B	B	_	17	prep
+19	uno	uno	P	PI	num=s|gen=m	18	mod
+20	che	che	P	PR	num=n|gen=n	22	subj
+21	non	non	B	BN	_	22	neg
+22	ha	avere	V	V	num=s|per=3|mod=i|ten=p	19	mod_rel
+23	un	uno	R	RI	num=s|gen=m	24	det
+24	pelo	pelo	S	S	num=s|gen=m	22	obj
+25	,	,	F	FF	_	17	punc
+26	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+27	che	che	C	CS	_	26	arg
+28	me	me	P	PE	num=s|per=1|gen=n	30	subj
+29	lo	lo	P	PC	num=s|per=3|gen=m	30	obj
+30	procuri	procurare	V	V	num=s|per=3|mod=c|ten=p	27	sub
+31	.	.	F	FS	_	26	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	,	,	F	FF	_	5	punc
+3	io	io	P	PE	num=s|per=1|gen=n	5	subj
+4	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	5	modal
+5	avere	avere	V	V	mod=f	0	ROOT
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pelo	pelo	S	S	num=s|gen=m	5	obj
+
+1	Uaaaaah	Uaaaaah	S	SP	_	4	subj
+2	ce	ce	P	PC	num=p|per=1|gen=n	4	obj
+3	l'	lo	P	PC	num=s|per=3|gen=n	4	obj
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	.	.	F	FS	_	4	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pelo	pelo	S	S	num=s|gen=m	2	obj
+
+1	-	-	F	FC	_	3	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pelo	pelo	S	S	num=s|gen=m	3	obj
+
+1	-	-	F	FC	_	3	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pelo	pelo	S	S	num=s|gen=m	3	obj
+
+1	-	-	F	FC	_	3	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dieci	dieci	N	N	_	3	obj
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+
+1	Beato	beato	S	S	num=s|gen=m	0	ROOT
+2	lui	lui	P	PE	num=s|per=3|gen=m	1	mod
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	ha	avere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	dieci	dieci	N	N	_	6	mod
+6	peli	pelo	S	S	num=p|gen=m	4	obj
+7	,	,	F	FF	_	1	punc
+8	no	no	B	BN	_	14	neg
+9	per	per	E	E	_	8	comp
+10	carità	carità	S	S	num=n|gen=f	9	prep
+11	io	io	P	PE	num=s|per=1|gen=n	14	obj
+12	non	non	B	BN	_	14	neg
+13	mi	mi	P	PC	num=s|per=1|gen=n	14	clit
+14	lamento	lamentare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+15	,	,	F	FF	_	14	con
+16	io	io	P	PE	num=s|per=1|gen=n	22	subj
+17	il	il	R	RD	num=s|gen=m	19	det
+18	mio	mio	A	AP	num=s|gen=m	19	mod
+19	pelo	pelo	S	S	num=s|gen=m	22	obj
+20	ce	ce	P	PC	num=p|per=1|gen=n	22	comp_ind
+21	l'	lo	P	PC	num=s|per=3|gen=n	22	obj
+22	ho	avere	V	V	num=s|per=1|mod=i|ten=p	14	conj
+23	.	.	F	FS	_	14	punc
+
+1	Certo	certo	B	B	_	0	ROOT
+2	che	che	C	CS	_	27	subj
+3	uno	uno	P	PI	num=s|gen=m	8	subj
+4	che	che	C	CS	_	3	mod
+5	ha	avere	V	V	num=s|per=3|mod=i|ten=p	4	sub
+6	dieci	dieci	N	N	_	7	mod
+7	peli	pelo	S	S	num=p|gen=m	5	obj
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+9	già	già	B	B	_	10	mod
+10	in	in	E	E	_	8	pred
+11	un'	uno	R	RI	num=s|gen=f	13	det
+12	altra	altro	A	A	num=s|gen=f	13	mod
+13	posizione	posizione	S	S	num=s|gen=f	10	prep
+14	eh	eh	I	I	_	13	mod
+15	,	,	F	FF	_	16	punc
+16	uno	uno	P	PI	num=s|gen=m	22	subj_pass
+17	con	con	E	E	_	16	comp
+18	dieci	dieci	N	N	_	19	mod
+19	peli	pelo	S	S	num=p|gen=m	17	prep
+20	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	22	aux
+21	praticamente	pratico	B	B	_	22	mod
+22	risolto	risolvere	V	V	num=s|mod=p|gen=m	14	mod
+23	,	,	F	FF	_	25	punc
+24	dieci	dieci	N	N	_	25	mod
+25	peli	pelo	S	S	num=p|gen=m	22	mod
+26	,	,	F	FF	_	25	punc
+27	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	ROOT
+28	già	già	B	B	_	27	mod
+29	una	uno	R	RI	num=s|gen=f	30	det
+30	peluria	peluria	S	S	num=s|gen=f	27	pred
+31	eh	eh	I	I	_	30	mod
+32	.	.	F	FS	_	27	punc
+
+1	Bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	me	me	P	PE	num=s|per=1|gen=n	5	subj
+4	li	li	P	PC	num=p|per=3|gen=m	5	obj
+5	procuri	procurare	V	V	num=s|per=3|mod=c|ten=p	2	sub
+6	,	,	F	FF	_	8	punc
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	,	,	F	FF	_	11	punc
+9	io	io	P	PE	num=s|per=1|gen=n	11	subj
+10	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	11	modal
+11	avere	avere	V	V	mod=f	5	arg
+12	dieci	dieci	N	N	_	13	mod
+13	peli	pelo	S	S	num=p|gen=m	11	obj
+14	.	.	F	FS	_	1	punc
+
+1	Uaaaaah	Uaaaaah	S	SP	_	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	Dieci	dieci	N	N	_	2	mod
+2	peli	pelo	S	S	num=p|gen=m	0	ROOT
+3	,	,	F	FF	_	5	punc
+4	io	io	P	PE	num=s|per=1|gen=n	5	subj
+5	ho	avere	V	V	num=s|per=1|mod=i|ten=p	2	mod_rel
+6	dieci	dieci	N	N	_	5	obj
+7	peli	pelo	S	S	num=p|gen=m	5	obj
+
+1	-	-	F	FC	_	3	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dieci	dieci	N	N	_	3	obj
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+
+1	-	-	F	FC	_	3	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dieci	dieci	N	N	_	3	obj
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+
+1	-	-	F	FC	_	3	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	cento	cento	N	N	_	3	obj
+5	peli	pelo	S	S	num=p|gen=m	3	obj
+
+1	Maledizione	maledizione	S	S	num=s|gen=f	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	cento	cento	N	N	_	4	mod
+4	peli	pelo	S	S	num=p|gen=m	2	obj
+5	cento	cento	N	N	_	4	mod
+6	,	,	F	FF	_	2	con
+7	e	e	C	CC	_	2	con
+8	io	io	P	PE	num=s|per=1|gen=n	9	subj
+9	sono	essere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+10	stanco	stanco	A	A	num=s|gen=m	9	pred
+11	distrutto	distruggere	V	V	num=s|mod=p|gen=m	9	mod
+12	non	non	B	BN	_	15	neg
+13	ce	ce	P	PC	num=p|per=1|gen=n	15	comp_ind
+14	la	la	P	PC	num=s|per=3|gen=f	15	obj
+15	faccio	fare	V	V	num=s|per=1|mod=i|ten=p	11	conj
+16	più	più	B	B	_	15	mod
+17	,	,	F	FF	_	2	con
+18	ma	ma	C	CC	_	2	con
+19	resta	restare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+20	il	il	R	RD	num=s|gen=m	21	det
+21	fatto	fatto	S	S	num=s|gen=m	19	subj
+22	che	che	C	CS	_	19	mod
+23	lui	lui	P	PE	num=s|per=3|gen=m	24	subj
+24	ha	avere	V	V	num=s|per=3|mod=i|ten=p	22	sub
+25	cento	cento	N	N	_	26	mod
+26	peli	pelo	S	S	num=p|gen=m	24	obj
+27	e	e	C	CC	_	24	con
+28	io	io	P	PE	num=s|per=1|gen=n	30	subj
+29	ne	ne	P	PC	num=n|gen=n	30	comp
+30	ho	avere	V	V	num=s|per=1|mod=i|ten=p	24	conj
+31	dieci	dieci	N	N	_	30	obj
+32	,	,	F	FF	_	30	con
+33	e	e	C	CC	_	30	con
+34	dieci	dieci	N	N	_	35	mod
+35	peli	pelo	S	S	num=p|gen=m	30	conj
+36	oggi	oggi	B	B	_	38	mod_temp
+37	cosa	cosa	P	PQ	num=s|gen=n	38	subj
+38	sono	essere	V	V	num=p|per=3|mod=i|ten=p	35	mod_rel
+39	,	,	F	FF	_	41	punc
+40	non	non	B	BN	_	41	neg
+41	sono	essere	V	V	num=p|per=3|mod=i|ten=p	38	mod
+42	più	più	B	B	_	41	mod
+43	niente	niente	B	B	_	41	pred
+44	,	,	F	FF	_	41	punc
+45	sono	essere	V	V	num=p|per=3|mod=i|ten=p	38	conj
+46	una	uno	R	RI	num=s|gen=f	47	det
+47	miseria	miseria	S	S	num=s|gen=f	45	pred
+48	,	,	F	FF	_	38	con
+49	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	50	modal
+50	far-	fare	V	V	mod=f	38	conj
+51	ce-	ce	P	PC	num=p|per=1|gen=n	55	comp_ind
+52	la	la	P	PC	num=s|per=3|gen=f	55	obj
+53	,	,	F	FF	_	52	punc
+54	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	55	modal
+55	reagire	reagire	V	V	mod=f	50	arg
+56	,	,	F	FF	_	58	punc
+57	anch'	anche	B	B	_	58	mod
+58	io	io	P	PE	num=s|per=1|gen=n	60	subj
+59	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	60	modal
+60	avere	avere	V	V	mod=f	55	conj
+61	tanti	tanto	D	DI	num=p|gen=m	62	mod
+62	peli	pelo	S	S	num=p|gen=m	60	obj
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	noi	noi	P	PE	num=p|per=1|gen=n	4	subj
+4	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+5	cento	cento	N	N	_	6	mod
+6	peli	pelo	S	S	num=p|gen=m	4	obj
+7	noi	noi	P	PE	num=p|per=1|gen=n	8	subj
+8	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	6	mod_rel
+9	mille	mille	N	N	_	10	mod
+10	peli	pelo	S	S	num=p|gen=m	11	mod
+11	peli	pelo	S	S	num=p|gen=m	8	obj
+12	noi	noi	P	PE	num=p|per=1|gen=n	13	subj
+13	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	11	mod_rel
+14	centomila	centomila	N	N	_	15	mod
+15	peli	pelo	S	S	num=p|gen=m	13	obj
+16	noi	noi	P	PE	num=p|per=1|gen=n	17	subj
+17	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	15	mod_rel
+18	un	uno	R	RI	num=s|gen=m	19	det
+19	milione	milione	S	S	num=s|gen=m	17	obj
+20	di	di	E	E	_	19	comp
+21	peli	pelo	S	S	num=p|gen=m	20	prep
+22	.	.	F	FS	_	4	punc
+
+1	Per	per	E	E	_	11	comp
+2	me	me	P	PE	num=s|per=1|gen=n	1	prep
+3	,	,	F	FF	_	4	punc
+4	per	per	E	E	_	11	comp
+5	i	il	R	RD	num=p|gen=m	7	det
+6	miei	mio	A	AP	num=p|gen=m	7	mod
+7	figli	figlio	S	S	num=p|gen=m	4	prep
+8	,	,	F	FF	_	4	punc
+9	anch'	anche	B	B	_	10	mod
+10	io	io	P	PE	num=s|per=1|gen=n	11	subj
+11	avrò	avere	V	V	num=s|per=1|mod=i|ten=f	0	ROOT
+12	tanti	tanto	D	DI	num=p|gen=m	13	mod
+13	peli	pelo	S	S	num=p|gen=m	11	ROOT
+14	,	,	F	FF	_	15	punc
+15	anch'	anche	B	B	_	11	ROOT
+16	iooooo	iooooo	C	CC	_	15	con
+
+1	Anch'	anche	B	B	_	2	mod
+2	io	io	P	PE	num=s|per=1|gen=n	5	subj
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	anch'	anche	B	B	_	5	mod
+5	io	io	P	PE	num=s|per=1|gen=n	0	_
+
+1	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	andare	andare	V	V	mod=f	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	avanti	avanti	B	B	_	2	mod
+
+1	senza	senza	C	CS	_	0	ROOT
+2	smettere	smettere	V	V	mod=f	1	sub
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	momento	momento	S	S	num=s|gen=m	2	obj
+
+1	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	andare	andare	V	V	mod=f	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	avanti	avanti	B	B	_	2	mod
+
+1	E	e	C	CC	_	2	con
+2	lavorare	lavorare	V	V	mod=f	4	arg
+3	lavorare	lavorare	V	V	mod=f	2	arg
+4	lavorare	lavorare	V	V	mod=f	0	ROOT
+
+1	e	e	C	CC	_	2	con
+2	continuare	continuare	V	V	mod=f	6	modal
+3	a	a	E	E	_	2	arg
+4	lavorare	lavorare	V	V	mod=f	3	prep
+5	lavorare	lavorare	V	V	mod=f	4	arg
+6	lavorare	lavorare	V	V	mod=f	0	ROOT
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	fermar-	fermare	V	V	mod=f	0	_
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	mai	mai	B	B	_	3	mod_temp
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	fermar-	fermare	V	V	mod=f	0	_
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	mai	mai	B	B	_	3	mod_temp
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	fermar-	fermare	V	V	mod=f	0	_
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	mai	mai	B	B	_	3	mod_temp
+
+1	e	e	C	CC	_	2	con
+2	avere	avere	V	V	mod=f	0	ROOT
+3	dentro	dentro	E	E	_	2	comp
+4	il	il	R	RD	num=s|gen=m	5	det
+5	senso	senso	S	S	num=s|gen=m	3	prep
+6	che	che	P	PR	num=n|gen=n	10	subj
+7	non	non	B	BN	_	10	neg
+8	sei	essere	V	VA	num=s|per=2|mod=i|ten=p	10	aux
+9	più	più	B	B	_	10	mod
+10	vivo	vivo	A	A	num=s|gen=m	5	mod
+
+1	E	e	C	CC	_	2	con
+2	faticare	faticare	V	V	mod=f	0	ROOT
+3	tanto	tanto	B	B	_	2	mod
+
+1	trovar-	trovare	V	V	mod=f	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	1	clit
+3	con	con	E	E	_	1	comp
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	vecchio	vecchio	A	A	num=s|gen=m	6	mod
+6	amico	amico	S	S	num=s|gen=m	3	prep
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	saper	sapere	V	VM	mod=f	0	_
+4	che	che	C	CS	_	3	arg
+5	dire	dire	V	V	mod=f	4	sub
+
+1	Capire	capire	V	V	mod=f	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	non	non	B	BN	_	4	neg
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	2	sub
+5	più	più	B	B	_	7	mod
+6	il	il	R	RD	num=s|gen=m	7	det
+7	tempo	tempo	S	S	num=s|gen=m	4	obj
+
+1	per	per	E	E	_	6	comp
+2	il	il	R	RD	num=s|gen=m	3	det
+3	riso	riso	S	S	num=s|gen=m	1	prep
+4	e	e	C	CC	_	3	con
+5	il	il	R	RD	num=s|gen=m	6	det
+6	pianto	pianto	S	S	num=s|gen=m	0	ROOT
+
+1	saper-	sapere	V	V	mod=f	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	1	obj
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	aver	avere	V	V	mod=f	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	forza	forza	S	S	num=s|gen=f	3	obj
+6	di	di	E	E	_	5	arg
+7	ricominciare	ricominciare	V	V	mod=f	6	prep
+
+1	Non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	manchi	mancare	V	V	num=s|per=3|mod=c|ten=p	3	sub
+6	la	il	R	RD	num=s|gen=f	7	det
+7	voglia	voglia	S	S	num=s|gen=f	5	subj
+
+1	o	o	C	CC	_	3	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	manchi	mancare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	coraggio	coraggio	S	S	num=s|gen=m	3	subj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	ormai	ormai	B	B	_	4	mod
+4	son	son	V	V	num=p|per=3|mod=i|ten=p	2	sub
+5	dentro	dentro	B	B	_	4	mod
+
+1	nell'	in	E	EA	num=s|gen=n	0	ROOT
+2	ingranaggio	ingranaggio	S	S	num=s|gen=m	1	prep
+
+1	Ricordo	ricordare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	quelle	quello	D	DD	num=p|gen=f	3	mod
+3	discussioni	discussione	S	S	num=p|gen=f	1	obj
+
+1	piene	pieno	A	A	num=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	passione	passione	S	S	num=s|gen=f	2	prep
+
+1	di	di	E	E	_	3	ROOT
+2	quando	quando	C	CS	_	3	ROOT
+3	facevamo	fare	V	VM	num=p|per=1|mod=i|ten=i	0	ROOT
+4	tardi	tardi	B	B	_	3	mod
+
+1	dentro	dentro	B	B	_	0	ROOT
+2	a	a	E	E	_	1	comp
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	osteria	osteria	S	S	num=s|gen=f	2	prep
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	amore	amore	S	S	num=s|gen=m	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	arte	arte	S	S	num=s|gen=f	2	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	coscienza	coscienza	S	S	num=s|gen=f	2	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	rivoluzione	rivoluzione	S	S	num=s|gen=f	0	ROOT
+
+1	sicuri	sicuro	A	A	num=p|gen=m	0	ROOT
+2	di	di	E	E	_	1	arg
+3	trovar	trovare	V	V	mod=f	2	prep
+4	la	il	R	RD	num=s|gen=f	5	det
+5	forza	forza	S	S	num=s|gen=f	3	obj
+
+1	per	per	E	E	_	0	ROOT
+2	andare	andare	V	V	mod=f	1	prep
+3	via	via	B	B	_	2	mod
+
+1	Non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	manchi	mancare	V	V	num=s|per=3|mod=c|ten=p	3	sub
+6	la	il	R	RD	num=s|gen=f	7	det
+7	voglia	voglia	S	S	num=s|gen=f	5	subj
+
+1	o	o	C	CC	_	3	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	manchi	mancare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	coraggio	coraggio	S	S	num=s|gen=m	3	subj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	ormai	ormai	B	B	_	4	mod
+4	son	son	V	V	num=p|per=3|mod=i|ten=p	2	sub
+5	dentro	dentro	B	B	_	4	mod
+
+1	nell'	in	E	EA	num=s|gen=n	0	ROOT
+2	ingranaggio	ingranaggio	S	S	num=s|gen=m	1	prep
+3	nell'	in	E	EA	num=s|gen=n	1	conj
+4	ingranaggio	ingranaggio	S	S	num=s|gen=m	3	prep
+
+1	Questo	questo	D	DD	num=s|gen=m	2	mod
+2	ingranaggio	ingranaggio	S	S	num=s|gen=m	0	ROOT
+3	così	così	B	B	_	4	mod
+4	assurdo	assurdo	A	A	num=s|gen=m	2	mod
+5	e	e	C	CC	_	2	con
+6	complicato	complicato	A	A	num=s|gen=m	2	mod
+
+1	così	così	B	B	_	2	mod
+2	perfetto	perfetto	A	A	num=s|gen=m	0	ROOT
+3	e	e	C	CC	_	2	con
+4	travolgente	travolgente	A	A	num=s|gen=n	2	conj
+
+1	quest'	questo	D	DD	num=s|gen=n	2	mod
+2	ingranaggio	ingranaggio	S	S	num=s|gen=m	0	ROOT
+3	fatto	fare	V	V	num=s|mod=p|gen=m	2	mod
+4	di	di	E	E	_	3	comp
+5	ruote	ruota	S	S	num=p|gen=f	4	prep
+6	misteriose	misterioso	A	A	num=p|gen=f	5	mod
+
+1	così	così	B	B	_	2	mod
+2	spietato	spietato	A	A	num=s|gen=m	0	ROOT
+3	e	e	C	CC	_	2	con
+4	massacrante	massacrante	A	A	num=s|gen=n	2	conj
+
+1	quest'	questo	D	DD	num=s|gen=n	2	mod
+2	ingranaggio	ingranaggio	S	S	num=s|gen=m	0	ROOT
+3	come	come	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	mostro	mostro	S	S	num=s|gen=m	3	prep
+6	sempre	sempre	B	B	_	5	mod
+7	in	in	E	E	_	2	comp
+8	moto	moto	S	S	num=n|gen=n	7	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	macina	macinare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	le	il	R	RD	num=p|gen=f	4	det
+4	cose	cosa	S	S	num=p|gen=f	2	obj
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	macina	macinare	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+7	la	il	R	RD	num=s|gen=f	8	det
+8	gente	gente	S	S	num=s|gen=f	6	obj
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	anch'	anche	B	B	_	3	mod
+3	io	io	P	PE	num=s|per=1|gen=n	5	subj
+4	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	5	modal
+5	andare	andare	V	V	mod=f	0	ROOT
+6	sempre	sempre	B	B	_	5	mod
+7	avanti	avanti	B	B	_	5	mod
+
+1	anch'	anche	B	B	_	2	mod
+2	io	io	P	PE	num=s|per=1|gen=n	4	subj
+3	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	4	modal
+4	andare	andare	V	V	mod=f	0	ROOT
+5	sempre	sempre	B	B	_	4	mod
+6	avanti	avanti	B	B	_	4	mod
+
+1	senza	senza	C	CS	_	0	ROOT
+2	smettere	smettere	V	V	mod=f	1	sub
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	momento	momento	S	S	num=s|gen=m	2	obj
+
+1	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	andare	andare	V	V	mod=f	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	avanti	avanti	B	B	_	2	mod
+
+1	E	e	C	CC	_	2	con
+2	lavorare	lavorare	V	V	mod=f	4	arg
+3	lavorare	lavorare	V	V	mod=f	2	arg
+4	lavorare	lavorare	V	V	mod=f	0	ROOT
+
+1	e	e	C	CC	_	2	con
+2	continuare	continuare	V	V	mod=f	6	modal
+3	a	a	E	E	_	2	arg
+4	lavorare	lavorare	V	V	mod=f	3	prep
+5	lavorare	lavorare	V	V	mod=f	4	arg
+6	lavorare	lavorare	V	V	mod=f	0	ROOT
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	fermar-	fermare	V	V	mod=f	0	_
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	mai	mai	B	B	_	3	mod_temp
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	fermar-	fermare	V	V	mod=f	0	_
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	mai	mai	B	B	_	3	mod_temp
+
+1	E	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	fermar-	fermare	V	V	mod=f	0	_
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	mai	mai	B	B	_	3	mod_temp
+
+1	e	e	C	CC	_	2	con
+2	ritornare	ritornare	V	V	mod=f	0	ROOT
+3	a	a	E	E	_	2	comp_loc
+4	casa	casa	S	S	num=s|gen=f	3	prep
+5	silenzioso	silenzioso	A	A	num=s|gen=m	4	mod
+6	e	e	C	CC	_	2	con
+7	stanco	stanco	A	A	num=s|gen=m	2	conj
+
+1	senza	senza	E	E	_	3	comp
+2	niente	niente	B	B	_	1	prep
+3	dentro	dentro	B	B	_	0	ROOT
+
+1	appena	appena	B	B	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	cenno	cenno	S	S	num=s|gen=m	0	ROOT
+4	di	di	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	sorriso	sorriso	S	S	num=s|gen=m	4	prep
+
+1	senza	senza	E	E	_	0	ROOT
+2	convinzione	convinzione	S	S	num=s|gen=f	1	prep
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	solita	solito	A	A	num=s|gen=f	3	mod
+3	carezza	carezza	S	S	num=s|gen=f	0	ROOT
+4	al	a	E	EA	num=s|gen=m	3	comp
+5	figlio	figlio	S	S	num=s|gen=m	4	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	0	_
+4	incontro	incontro	B	B	_	3	mod
+
+1	mangiare	mangiare	V	V	mod=f	0	ROOT
+2	e	e	C	CC	_	1	con
+3	poi	poi	B	B	_	4	mod
+4	vedere	vedere	V	V	mod=f	1	conj
+5	il	il	R	RD	num=s|gen=m	6	det
+6	film	film	S	S	num=n|gen=m	4	obj
+
+1	alla	al	E	EA	num=s|gen=f	0	ROOT
+2	televisione	televisione	S	S	num=s|gen=f	1	prep
+
+1	Non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	manchi	mancare	V	V	num=s|per=3|mod=c|ten=p	3	sub
+6	la	il	R	RD	num=s|gen=f	7	det
+7	voglia	voglia	S	S	num=s|gen=f	5	subj
+
+1	o	o	C	CC	_	3	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	manchi	mancare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	coraggio	coraggio	S	S	num=s|gen=m	3	subj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	ormai	ormai	B	B	_	4	mod
+4	son	son	V	V	num=p|per=3|mod=i|ten=p	2	sub
+5	dentro	dentro	B	B	_	4	mod
+
+1	nell'	in	E	EA	num=s|gen=n	0	ROOT
+2	ingranaggio	ingranaggio	S	S	num=s|gen=m	1	prep
+

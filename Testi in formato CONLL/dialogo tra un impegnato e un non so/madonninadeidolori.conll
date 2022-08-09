@@ -1,0 +1,248 @@
+1	Oh	oh	I	I	_	2	mod
+2	madonnina	madonnina	S	S	num=s|gen=f	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	dolori	dolore	S	S	num=p|gen=m	3	prep
+
+1	quanti	quanto	D	DQ	num=p|gen=m	2	mod
+2	dolori	dolore	S	S	num=p|gen=m	4	subj
+3	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	4	aux
+4	voi	voi	P	PE	num=p|per=2|gen=n	0	ROOT
+
+1	oh	oh	I	I	_	2	mod
+2	madonnina	madonnina	S	S	num=s|gen=f	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	dolori	dolore	S	S	num=p|gen=m	3	prep
+
+1	adesso	adesso	B	B	_	3	mod_temp
+2	vi	vi	P	PC	num=p|per=2|gen=n	3	comp_ind
+3	racconto	raccontare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	i	il	R	RD	num=p|gen=m	5	det
+5	miei	mio	A	AP	num=p|gen=m	3	obj
+
+1	Voi	voi	P	PE	num=p|per=2|gen=n	2	subj
+2	siete	essere	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+3	piena	pieno	A	A	num=s|gen=f	2	pred
+4	di	di	E	E	_	3	comp
+5	dolori	dolore	S	S	num=p|gen=m	4	prep
+
+1	ma	ma	C	CC	_	7	ROOT
+2	anch'	anche	B	B	_	3	mod
+3	io	io	P	PE	num=s|per=1|gen=n	7	ROOT
+4	credete	credere	V	V	num=p|per=2|mod=i|ten=p	7	ROOT
+5	non	non	B	BN	_	7	neg
+6	ne	ne	P	PC	num=n|gen=n	7	comp
+7	posso	potere	V	VM	num=s|per=1|mod=i|ten=p	0	ROOT
+8	più	più	B	B	_	7	mod
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	5	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	sacco	sacco	S	S	num=s|gen=m	2	obj
+6	di	di	E	E	_	5	comp
+7	dolori	dolore	S	S	num=p|gen=m	6	prep
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	i	il	R	RD	num=p|gen=m	4	det
+4	reumatismi	reumatismo	S	S	num=p|gen=m	5	subj
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	conj
+6	molto	molto	B	B	_	5	mod
+7	giù	giù	B	B	_	5	pred
+
+1	Anche	anche	B	B	_	3	mod
+2	i	il	R	RD	num=p|gen=m	3	det
+3	rapporti	rapporto	S	S	num=p|gen=m	0	ROOT
+4	con	con	E	E	_	3	comp
+5	mia	mio	A	AP	num=s|gen=f	6	mod
+6	moglie	moglie	S	S	num=s|gen=f	4	prep
+
+1	da	da	E	E	_	9	comp_temp
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	1	prep
+4	di	di	E	E	_	3	comp
+5	tempo	tempo	S	S	num=s|gen=m	4	prep
+6	non	non	B	BN	_	9	neg
+7	ne	ne	P	PC	num=n|gen=n	9	comp
+8	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	9	aux
+9	mai	mai	B	B	_	0	ROOT
+
+1	ma	ma	C	CC	_	6	con
+2	d'	di	E	E	_	6	comp
+3	altra	altro	D	DI	num=s|gen=f	4	mod
+4	parte	parte	S	S	num=s|gen=f	2	prep
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	risaputo	risapere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	5	obj
+2	anche	anche	B	B	_	3	mod
+3	Giuseppe	Giuseppe	S	SP	_	5	subj
+4	vi	vi	P	PC	num=p|per=2|gen=n	5	comp_ind
+5	rispetta	rispettare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	assai	assai	B	B	_	5	mod
+
+1	Per	per	E	E	_	3	comp
+2	voi	voi	P	PE	num=p|per=2|gen=n	1	prep
+3	direi	dire	V	V	num=s|per=1|mod=d|ten=p	0	ROOT
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+5	anche	anche	B	B	_	6	mod
+6	giusto	giusto	B	B	_	3	mod
+
+1	tu	tu	P	PE	num=s|per=2|gen=n	0	ROOT
+2	sei	sei	N	N	_	5	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	vergine	vergine	A	A	num=s|gen=n	2	mod
+5	Maria	Maria	S	SP	_	1	mod
+
+1	per	per	E	E	_	5	comp
+2	noi	noi	P	PE	num=p|per=1|gen=n	1	prep
+3	la	il	R	RD	num=s|gen=f	4	det
+4	cosa	cosa	S	S	num=s|gen=f	5	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pò	pò	B	B	_	8	mod
+8	diversa	diverso	A	A	num=s|gen=f	5	pred
+
+1	a	a	E	E	_	4	comp
+2	noi	noi	P	PE	num=p|per=1|gen=n	1	prep
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+4	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	malinconia	malinconia	S	S	num=s|gen=f	4	subj
+
+1	Di	di	E	E	_	4	comp
+2	vostro	vostro	A	AP	num=s|gen=m	3	mod
+3	figlio	figlio	S	S	num=s|gen=m	1	prep
+4	sanno	sapere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	tutti	tutto	P	PI	num=p|gen=m	4	subj
+
+1	che	che	C	CS	_	0	ROOT
+2	non	non	B	BN	_	5	neg
+3	l'	lo	P	PC	num=s|per=3|gen=n	5	obj
+4	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	5	aux
+5	concepito	concepire	V	V	num=s|mod=p|gen=m	1	sub
+6	voi	voi	P	PE	num=p|per=2|gen=n	5	obj
+
+1	di	di	E	E	_	6	comp
+2	questi	questo	D	DD	num=p|gen=m	3	mod
+3	casi	caso	S	S	num=p|gen=m	1	prep
+4	ce	ce	P	PC	num=n|gen=n	6	comp
+5	ne	ne	P	PC	num=n|gen=n	6	comp
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+7	molti	molto	P	PI	num=p|gen=m	6	subj
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	stessa	stessa	A	A	num=s|gen=f	3	mod
+3	cosa	cosa	S	S	num=s|gen=f	5	subj_pass
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	capitata	capitare	V	V	num=s|mod=p|gen=f	0	ROOT
+6	a	a	E	E	_	5	comp
+7	noi	noi	P	PE	num=p|per=1|gen=n	6	prep
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	vostro	vostro	A	AP	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	figlio	figlio	S	S	num=s|gen=m	3	pred
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	Signore	Signore	S	SP	_	5	prep
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	famosissimo	famoso	A	A	num=s|gen=m	3	mod
+3	Gesù	Gesù	S	SP	_	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	nostro	nostro	A	AP	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	figlio	figlio	S	S	num=s|gen=m	3	pred
+5	di	di	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	signore	signore	S	S	num=s|gen=m	5	prep
+
+1	l'	lo	P	PC	num=s|per=3|gen=n	3	obj
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	messa	mettere	V	V	num=s|mod=p|gen=f	0	ROOT
+4	incinta	incinta	A	A	num=s|gen=f	3	mod
+5	e	e	C	CC	_	3	con
+6	non	non	B	BN	_	9	neg
+7	s'	si	P	PC	num=n|per=3|gen=n	9	clit
+8	è	essere	V	VA	num=s|per=3|mod=i|ten=p	9	aux
+9	visto	vedere	V	V	num=s|mod=p|gen=m	3	conj
+10	più	più	B	B	_	9	mod
+
+1	Gesù	Gesù	S	SP	_	2	subj
+2	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	buono	buono	A	A	num=s|gen=m	2	pred
+4	più	più	B	B	_	5	mod
+5	di	di	E	E	_	3	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	santo	santo	S	S	num=s|gen=m	5	prep
+
+1	ma	ma	C	CC	_	6	con
+2	il	il	R	RD	num=s|gen=m	3	det
+3	porco	porco	A	A	num=s|gen=m	4	mod
+4	Giuda	Giuda	S	SP	_	6	subj
+5	lo	lo	P	PC	num=s|per=3|gen=m	6	obj
+6	tradì	tradire	V	V	num=s|per=3|mod=i|ten=s	0	ROOT
+
+1	mio	mio	A	AP	num=s|gen=m	2	mod
+2	figlio	figlio	S	S	num=s|gen=m	5	subj
+3	no	no	B	BN	_	5	neg
+4	non	non	B	BN	_	5	neg
+5	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+6	proprio	proprio	B	B	_	5	mod
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	santo	santo	S	S	num=s|gen=m	5	pred
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	spiata	spiata	S	S	num=s|gen=f	5	subj
+3	ed	e	C	CC	_	2	con
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	finita	finire	V	V	num=s|mod=p|gen=f	0	ROOT
+6	lì	lì	B	B	_	5	mod
+
+1	Il	il	R	RD	num=s|gen=m	3	det
+2	tuo	tuo	A	AP	num=s|gen=m	3	mod
+3	figliolo	figliolo	S	S	num=s|gen=m	5	subj
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	morto	morire	V	V	num=s|mod=p|gen=m	0	ROOT
+6	in	in	E	E	_	5	comp
+7	croce	croce	S	S	num=s|gen=f	6	prep
+
+1	quanto	quanto	P	PR	num=s|gen=m	3	obj
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	sofferto	soffrire	V	V	num=s|mod=p|gen=m	0	ROOT
+4	lo	il	R	RD	num=s|gen=m	7	det
+5	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	7	modal
+6	solo	solo	B	B	_	7	mod
+7	tu	tu	P	PE	num=s|per=2|gen=n	3	obj
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	mio	mio	A	AP	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	in	in	E	E	_	3	pred
+5	galera	galera	S	S	num=s|gen=f	4	prep
+6	da	da	E	E	_	3	comp
+7	una	uno	R	RI	num=s|gen=f	8	det
+8	vita	vita	S	S	num=s|gen=f	6	prep
+
+1	povero	povero	A	A	num=s|gen=m	2	mod
+2	cristo	cristo	S	S	num=s|gen=m	0	ROOT
+3	non	non	B	BN	_	4	neg
+4	vien	vien	B	B	_	5	mod
+5	fuori	fuori	B	B	_	2	mod
+6	più	più	B	B	_	5	mod
+
+1	Madonnina	madonnina	S	S	num=s|gen=f	0	ROOT
+2	dei	di	E	EA	num=p|gen=m	1	comp
+3	dolori	dolore	S	S	num=p|gen=m	2	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	mia	mio	A	AP	num=s|gen=f	0	ROOT
+3	e	e	C	CC	_	2	con
+4	la	il	R	RD	num=s|gen=f	5	det
+5	tua	tuo	A	AP	num=s|gen=f	2	conj
+
+1	due	due	N	N	_	2	mod
+2	famiglie	famiglia	S	S	num=p|gen=f	0	ROOT
+3	rovinate	rovinare	V	V	num=p|mod=p|gen=f	2	mod
+

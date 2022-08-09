@@ -1,0 +1,334 @@
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	cambiar-	cambiare	V	V	mod=f	1	pred
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	davvero	davvero	B	B	_	2	mod
+5	,	,	F	FF	_	1	con
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+7	cambiar-	cambiare	V	V	mod=f	6	pred
+8	si	si	P	PC	num=n|per=3|gen=n	7	clit
+9	di	di	E	E	_	7	comp
+10	dentro	dentro	B	B	_	9	prep
+11	che	che	C	CS	_	7	arg
+12	è	essere	V	V	num=s|per=3|mod=i|ten=p	11	sub
+13	un'	uno	R	RI	num=s|gen=f	15	det
+14	altra	altro	A	A	num=s|gen=f	15	mod
+15	cosa	cosa	S	S	num=s|gen=f	12	pred
+
+1	Un'	uno	R	RI	num=s|gen=f	2	det
+2	idea	idea	S	S	num=s|gen=f	6	mod_temp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	concetto	concetto	S	S	num=s|gen=m	2	mod
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	idea	idea	S	S	num=s|gen=f	0	ROOT
+
+1	finché	finché	C	CS	_	5	mod
+2	resta	restare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	idea	idea	S	S	num=s|gen=f	2	pred
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	soltanto	soltanto	B	B	_	5	mod
+7	un'	uno	R	RI	num=s|gen=f	8	det
+8	astrazione	astrazione	S	S	num=s|gen=f	5	pred
+
+1	se	se	P	PC	num=n|per=3|gen=n	2	clit
+2	potessi	potere	V	V	num=s|per=1|mod=c|ten=i	0	ROOT
+3	mangiare	mangiare	V	V	mod=f	2	arg
+4	un'	uno	R	RI	num=s|gen=f	5	det
+5	idea	idea	S	S	num=s|gen=f	3	obj
+
+1	avrei	avere	V	VA	num=s|per=1|mod=d|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	la	il	R	RD	num=s|gen=f	5	det
+4	mia	mio	A	AP	num=s|gen=f	5	mod
+5	rivoluzione	rivoluzione	S	S	num=s|gen=f	2	obj
+
+1	In	in	E	E	_	4	comp_loc
+2	Virginia	Virginia	S	SP	_	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	signor	signor	S	S	num=s|gen=m	0	ROOT
+5	Brown	Brown	S	SP	_	4	mod
+
+1	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+4	più	più	B	B	_	5	mod
+5	antirazzista	antirazzista	A	A	num=s|gen=m	3	mod
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	giorno	giorno	S	S	num=s|gen=m	5	subj
+3	sua	suo	A	AP	num=s|gen=f	4	mod
+4	figlia	figlio	S	S	num=s|gen=f	2	mod
+5	sposò	sposare	V	V	num=s|per=3|mod=i|ten=s	0	_
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	colore	colore	S	S	num=s|gen=m	3	prep
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	disse	dire	V	V	num=s|per=3|mod=i|ten=s	0	_
+3	bene	bene	B	B	_	2	mod
+
+1	ma	ma	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	di	di	E	E	_	3	pred
+5	buon	buon	A	A	num=s|gen=m	6	mod
+6	umore	umore	S	S	num=s|gen=m	4	prep
+
+1	Ad	ad	E	E	_	0	_
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	conferenza	conferenza	S	S	num=s|gen=f	1	prep
+
+1	di	di	E	E	_	0	ROOT
+2	donne	donna	S	S	num=p|gen=f	1	prep
+3	femministe	femminista	A	A	num=p|gen=f	2	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	parlava	parlare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	di	di	E	E	_	2	arg
+4	prender	prendere	V	V	mod=f	3	prep
+5	coscienza	coscienza	S	S	num=s|gen=f	4	obj
+
+1	e	e	C	CC	_	0	ROOT
+2	di	di	E	E	_	1	conj
+3	liberazione	liberazione	S	S	num=s|gen=f	2	prep
+
+1	tutte	tutto	P	PI	num=p|gen=f	2	mod
+2	cose	cosa	S	S	num=p|gen=f	0	ROOT
+3	giuste	giusto	A	A	num=p|gen=f	2	mod
+
+1	per	per	E	E	_	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	4	det
+3	altra	altro	A	A	num=s|gen=f	4	mod
+4	generazione	generazione	S	S	num=s|gen=f	1	prep
+
+1	Un'	uno	R	RI	num=s|gen=f	2	det
+2	idea	idea	S	S	num=s|gen=f	6	mod_temp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	concetto	concetto	S	S	num=s|gen=m	2	mod
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	idea	idea	S	S	num=s|gen=f	0	ROOT
+
+1	finché	finché	C	CS	_	0	ROOT
+2	resta	restare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	idea	idea	S	S	num=s|gen=f	2	subj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	soltanto	soltanto	B	B	_	1	mod
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	astrazione	astrazione	S	S	num=s|gen=f	1	pred
+
+1	se	se	P	PC	num=n|per=3|gen=n	2	clit
+2	potessi	potere	V	V	num=s|per=1|mod=c|ten=i	0	ROOT
+3	mangiare	mangiare	V	V	mod=f	2	arg
+4	un'	uno	R	RI	num=s|gen=f	5	det
+5	idea	idea	S	S	num=s|gen=f	3	obj
+
+1	avrei	avere	V	VA	num=s|per=1|mod=d|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	la	il	R	RD	num=s|gen=f	5	det
+4	mia	mio	A	AP	num=s|gen=f	5	mod
+5	rivoluzione	rivoluzione	S	S	num=s|gen=f	2	obj
+
+1	Su	su	E	E	_	0	_
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	libro	libro	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	psicologia	psicologia	S	S	num=s|gen=f	4	prep
+
+1	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	imparato	imparare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	a	a	E	E	_	2	arg
+4	educare	educare	V	V	mod=f	3	prep
+5	mio	mio	A	AP	num=s|gen=m	6	mod
+6	figlio	figlio	S	S	num=s|gen=m	4	obj
+
+1	se	se	C	CS	_	2	mod
+2	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	libero	libero	A	A	num=s|gen=m	2	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	bimbo	bimbo	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	molto	molto	B	B	_	3	mod
+5	più	più	B	B	_	6	mod
+6	contento	contento	A	A	num=s|gen=m	3	pred
+
+1	l'	lo	P	PC	num=s|per=3|gen=n	3	obj
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	lasciato	lasciare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	fare	fare	V	V	mod=f	3	arg
+
+1	m'	m'	C	CC	_	3	con
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	venuto	venire	V	V	num=s|mod=p|gen=m	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	esaurimento	esaurimento	S	S	num=s|gen=m	3	subj
+
+1	Un	uno	R	RI	num=s|gen=m	3	det
+2	mio	mio	A	AP	num=s|gen=m	3	mod
+3	amico	amico	S	S	num=s|gen=m	5	subj
+4	voleva	volere	V	VM	num=s|per=3|mod=i|ten=i	5	modal
+5	impostare	impostare	V	V	mod=f	0	ROOT
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	famiglia	famiglia	S	S	num=s|gen=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	modo	modo	S	S	num=s|gen=m	3	prep
+6	nuovo	nuovo	A	A	num=s|gen=m	5	mod
+
+1	e	e	C	CC	_	2	con
+2	disse	dire	V	V	num=s|per=3|mod=i|ten=s	0	ROOT
+3	a	a	E	E	_	2	comp_ind
+4	sua	suo	A	AP	num=s|gen=f	5	mod
+5	moglie	moglie	S	S	num=s|gen=f	3	prep
+
+1	se	se	C	CS	_	6	mod
+2	vuoi	volere	V	VM	num=s|per=2|mod=i|ten=p	6	modal
+3	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+4	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	6	modal
+5	anche	anche	B	B	_	6	mod
+6	tradire	tradire	V	V	mod=f	0	ROOT
+
+1	lei	lei	P	PE	num=s|per=3|gen=n	3	subj
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	tradì	tradire	V	V	num=s|per=3|mod=i|ten=s	0	ROOT
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	3	subj
+2	non	non	B	BN	_	3	neg
+3	riusciva	riuscire	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	più	più	B	B	_	3	mod
+5	a	a	E	E	_	3	arg
+6	dormire	dormire	V	V	mod=f	5	prep
+
+1	Un'	uno	R	RI	num=s|gen=f	2	det
+2	idea	idea	S	S	num=s|gen=f	6	mod_temp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	concetto	concetto	S	S	num=s|gen=m	2	mod
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	idea	idea	S	S	num=s|gen=f	0	ROOT
+
+1	finché	finché	C	CS	_	0	ROOT
+2	resta	restare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	idea	idea	S	S	num=s|gen=f	2	subj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	soltanto	soltanto	B	B	_	1	mod
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	astrazione	astrazione	S	S	num=s|gen=f	1	pred
+
+1	se	se	P	PC	num=n|per=3|gen=n	2	clit
+2	potessi	potere	V	V	num=s|per=1|mod=c|ten=i	0	ROOT
+3	mangiare	mangiare	V	V	mod=f	2	arg
+4	un'	uno	R	RI	num=s|gen=f	5	det
+5	idea	idea	S	S	num=s|gen=f	3	obj
+
+1	avrei	avere	V	VA	num=s|per=1|mod=d|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	la	il	R	RD	num=s|gen=f	5	det
+4	mia	mio	A	AP	num=s|gen=f	5	mod
+5	rivoluzione	rivoluzione	S	S	num=s|gen=f	2	obj
+
+1	Aveva	avere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	tante	tanto	D	DI	num=p|gen=f	3	mod
+3	idee	idea	S	S	num=p|gen=f	1	obj
+
+1	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+4	d'	di	E	E	_	3	comp
+5	avanguardia	avanguardia	S	S	num=s|gen=f	4	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	vestiva	vestire	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	di	di	E	E	_	2	comp
+4	nuova	nuovo	A	A	num=s|gen=f	5	mod
+5	cultura	cultura	S	S	num=s|gen=f	3	prep
+
+1	e	e	C	CC	_	2	con
+2	cambiava	cambiare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	ogni	ogni	D	DI	num=s|gen=n	4	mod
+4	momento	momento	S	S	num=s|gen=m	2	obj
+
+1	ma	ma	C	CC	_	3	con
+2	quand'	quand'	P	PI	num=s|gen=m	3	subj
+3	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	nudo	nudo	A	A	num=s|gen=m	3	pred
+
+1	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+4	dell'	di	E	EA	num=s|gen=n	3	comp
+5	ottocento	ottocento	N	N	_	4	prep
+
+1	Ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	voluto	volere	V	VM	num=s|mod=p|gen=m	3	modal
+3	andare	andare	V	V	mod=f	0	ROOT
+
+1	ad	ad	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	manifestazione	manifestazione	S	S	num=s|gen=f	1	prep
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	compagni	compagno	S	S	num=p|gen=m	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	lotta	lotta	S	S	num=s|gen=f	2	mod
+5	di	di	E	E	_	4	comp
+6	classe	classe	S	S	num=s|gen=f	5	prep
+
+1	tante	tanto	D	DI	num=p|gen=f	2	mod
+2	cose	cosa	S	S	num=p|gen=f	0	ROOT
+3	belle	bello	A	A	num=p|gen=f	2	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	nella	in	E	EA	num=s|gen=f	2	comp
+4	testa	testa	S	S	num=s|gen=f	3	prep
+
+1	ma	ma	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	ancora	ancora	B	B	_	4	mod
+4	nella	in	E	EA	num=s|gen=f	0	ROOT
+5	pelle	pelle	S	S	num=s|gen=f	4	prep
+
+1	Un'	uno	R	RI	num=s|gen=f	2	det
+2	idea	idea	S	S	num=s|gen=f	6	mod_temp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	concetto	concetto	S	S	num=s|gen=m	2	mod
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	idea	idea	S	S	num=s|gen=f	0	ROOT
+
+1	finché	finché	C	CS	_	0	ROOT
+2	resta	restare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	idea	idea	S	S	num=s|gen=f	2	subj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	soltanto	soltanto	B	B	_	1	mod
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	astrazione	astrazione	S	S	num=s|gen=f	1	pred
+
+1	se	se	P	PC	num=n|per=3|gen=n	2	clit
+2	potessi	potere	V	V	num=s|per=1|mod=c|ten=i	0	ROOT
+3	mangiare	mangiare	V	V	mod=f	2	arg
+4	un'	uno	R	RI	num=s|gen=f	5	det
+5	idea	idea	S	S	num=s|gen=f	3	obj
+
+1	avrei	avere	V	VA	num=s|per=1|mod=d|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	la	il	R	RD	num=s|gen=f	5	det
+4	mia	mio	A	AP	num=s|gen=f	5	mod
+5	rivoluzione	rivoluzione	S	S	num=s|gen=f	2	obj
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	rivoluzione	rivoluzione	S	S	num=s|gen=f	0	ROOT
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	rivoluzione	rivoluzione	S	S	num=s|gen=f	0	ROOT
+

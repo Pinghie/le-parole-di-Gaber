@@ -1,0 +1,161 @@
+1	-	-	F	FC	_	2	punc
+2	Bravo	Bravo	S	SP	_	11	subj
+3	,	,	F	FF	_	4	punc
+4	bravo	bravo	A	A	num=s|gen=m	2	mod
+5	bene	bene	B	B	_	4	mod
+6	,	,	F	FF	_	4	punc
+7	e	e	C	CC	_	2	con
+8	adesso	adesso	B	B	_	11	mod_temp
+9	che	che	C	CS	_	8	concat
+10	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	11	aux
+11	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+12	questa	questo	D	DD	num=s|gen=f	13	mod
+13	vigliaccata	vigliaccata	S	S	num=s|gen=f	11	obj
+14	?	?	F	FS	_	11	punc
+
+1	-	-	F	FC	_	2	punc
+2	Riecccolo	Riecccolo	S	SP	_	0	ROOT
+
+1	-	-	F	FC	_	3	punc
+2	Si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	proprio	proprio	B	B	_	6	mod
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	vigliaccata	vigliaccata	S	S	num=s|gen=f	3	pred
+7	,	,	F	FF	_	8	punc
+8	speculare	speculare	A	A	num=s|gen=n	6	mod
+9	così	così	B	B	_	8	mod
+10	sui	su	E	EA	num=p|gen=m	6	comp
+11	sentimenti	sentimento	S	S	num=p|gen=m	10	prep
+
+1	-	-	F	FC	_	4	punc
+2	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+3	non	non	B	BN	_	4	neg
+4	speculo	speculare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	,	,	F	FF	_	4	con
+6	e	e	C	CC	_	4	con
+7	poi	poi	B	B	_	4	conj
+8	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	7	sub
+9	troppa	troppo	D	DI	num=s|gen=f	10	mod
+10	paura	paura	S	S	num=s|gen=f	8	obj
+11	voi	voi	P	PE	num=p|per=2|gen=n	10	mod
+12	dei	di	E	EA	num=p|gen=m	11	comp
+13	sentimenti	sentimento	S	S	num=p|gen=m	12	prep
+14	,	,	F	FF	_	15	punc
+15	se	se	C	CS	_	10	mod
+16	non	non	B	BN	_	18	neg
+17	c'	ci	P	PC	num=n|gen=n	18	comp
+18	è	essere	V	V	num=s|per=3|mod=i|ten=p	15	sub
+19	un	uno	R	RI	num=s|gen=m	20	det
+20	pò	pò	B	B	_	25	mod
+21	di	di	E	E	_	20	comp
+22	guerriglia	guerriglia	S	S	num=s|gen=f	21	prep
+23	non	non	B	BN	_	25	neg
+24	vi	vi	P	PC	num=p|per=2|gen=n	25	obj
+25	divertite	divertire	V	V	num=p|per=2|mod=i|ten=p	18	subj
+26	.	.	F	FS	_	4	punc
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	2	comp
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	4	mod
+4	dei	di	E	EA	num=p|gen=m	2	subj
+5	casi	caso	S	S	num=p|gen=m	4	prep
+6	umani	umano	A	A	num=p|gen=m	5	mod
+7	normali	normale	A	A	num=p|gen=n	5	mod
+8	no	no	B	BN	_	2	mod_loc
+9	.	.	F	FS	_	2	punc
+
+1	-	-	F	FC	_	0	ROOT
+2	Ma	ma	C	CC	_	1	ROOT
+3	quali	quale	D	DQ	num=p|gen=n	4	mod
+4	casi	caso	S	S	num=p|gen=m	2	mod
+5	umani	umano	A	A	num=p|gen=m	4	mod
+6	?	?	F	FS	_	4	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	tuo	tuo	A	AP	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	pietismo	pietismo	S	S	num=s|gen=m	3	pred
+5	,	,	F	FF	_	6	punc
+6	privo	privo	A	A	num=s|gen=m	4	mod
+7	di	di	E	E	_	6	comp
+8	giudizio	giudizio	S	S	num=s|gen=m	7	prep
+9	,	,	F	FF	_	6	punc
+10	la	il	R	RD	num=s|gen=f	11	det
+11	lacrimuccia	lacrimuccia	S	S	num=s|gen=f	3	subj
+12	facile	facile	A	A	num=s|gen=n	11	mod
+13	che	che	P	PR	num=n|gen=n	15	subj
+14	non	non	B	BN	_	15	neg
+15	costruisce	costruire	V	V	num=s|per=3|mod=i|ten=p	11	mod_rel
+16	niente	niente	B	B	_	15	mod
+17	.	.	F	FS	_	3	punc
+
+1	Sei	sei	N	N	_	3	mod
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	cattolico	cattolico	S	S	num=s|gen=m	0	ROOT
+4	,	,	F	FF	_	3	punc
+5	ecco	ecco	B	B	_	6	mod
+6	cosa	cosa	S	S	num=s|gen=f	0	ROOT
+7	sei	sei	N	N	_	14	mod
+8	,	,	F	FF	_	7	con
+9	un	uno	R	RI	num=s|gen=m	10	det
+10	cattolico	cattolico	S	S	num=s|gen=m	7	conj
+11	,	,	F	FF	_	7	con
+12	e	e	C	CC	_	7	con
+13	volevi	volevi	V	VM	num=s|per=3|mod=i|ten=i	14	modal
+14	parlare	parlare	V	V	mod=f	6	mod_rel
+15	con	con	E	E	_	14	comp
+16	noi	noi	P	PE	num=p|per=1|gen=n	15	prep
+17	?	?	F	FS	_	6	punc
+
+1	-	-	F	FC	_	2	punc
+2	No	no	B	BN	_	0	ROOT
+3	,	,	F	FF	_	2	punc
+4	coi	con	E	EA	num=p|gen=m	2	comp
+5	sordi	sordo	S	S	num=p|gen=m	4	prep
+6	meglio	meglio	B	B	_	7	mod
+7	di	di	E	E	_	5	comp
+8	no	no	B	BN	_	7	prep
+9	.	.	F	FS	_	2	punc
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	chiaro	chiaro	A	A	num=s|gen=m	1	pred
+3	,	,	F	FF	_	1	con
+4	se	se	C	CS	_	1	subj
+5	non	non	B	BN	_	6	neg
+6	parlo	parlare	V	V	num=s|per=1|mod=i|ten=p	4	sub
+7	con	con	E	E	_	6	comp
+8	voi	voi	P	PE	num=p|per=2|gen=n	7	prep
+9	con	con	E	E	_	6	comp
+10	chi	chi	P	PR	num=n|gen=n	9	prep
+11	parlo	parlare	V	V	num=s|per=1|mod=i|ten=p	10	mod_rel
+12	?	?	F	FS	_	1	punc
+
+1	-	-	F	FC	_	5	punc
+2	Ma	Ma	D	DE	num=n|gen=n	3	mod
+3	tu	tu	P	PE	num=s|per=2|gen=n	5	subj
+4	devi	dovere	V	VM	num=s|per=2|mod=i|ten=p	5	modal
+5	andare	andare	V	V	mod=f	0	_
+
+1	-	-	F	FC	_	2	punc
+2	Alt	Alt	S	SP	_	0	ROOT
+
+1	-	-	F	FC	_	2	punc
+2	A	a	E	E	_	4	arg
+3	pregare	pregare	V	V	mod=f	2	prep
+4	dico	dire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	-	-	F	FC	_	0	punc
+2	Aah	Aah	I	I	_	0	ROOT
+
+1	-	-	F	FC	_	3	punc
+2	Devi	Devi	S	SP	_	3	subj
+3	andare	andare	V	V	mod=f	0	ROOT
+4	a	a	E	E	_	3	arg
+5	pregare	pregare	V	V	mod=f	4	prep
+6	,	,	F	FF	_	3	con
+7	ecco	ecco	B	B	_	10	mod
+8	cosa	cosa	P	PQ	num=s|gen=n	10	obj
+9	devi	dovere	V	VM	num=s|per=2|mod=i|ten=p	10	modal
+10	fare	fare	V	V	mod=f	3	conj
+

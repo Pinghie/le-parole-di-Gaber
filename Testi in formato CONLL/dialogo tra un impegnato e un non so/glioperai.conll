@@ -1,0 +1,343 @@
+1	Si	si	P	PC	num=n|per=3|gen=n	6	clit
+2	,	,	F	FF	_	1	punc
+3	si	si	P	PC	num=n|per=3|gen=n	6	clit
+4	si	si	P	PC	num=n|per=3|gen=n	6	clit
+5	li	li	P	PC	num=p|per=3|gen=m	6	obj
+6	conosco	conoscere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+7	quei	quello	D	DD	num=p|gen=m	8	mod
+8	discorsi	discorso	S	S	num=p|gen=m	6	obj
+9	,	,	F	FF	_	8	con
+10	li	li	P	PC	num=p|per=3|gen=m	12	obj
+11	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	12	aux
+12	fatti	fare	V	V	num=p|mod=p|gen=m	8	mod_rel
+13	anch'	anche	B	B	_	12	mod
+14	io	io	P	PE	num=s|per=1|gen=n	16	subj
+15	,	,	F	FF	_	14	con
+16	è	essere	V	V	num=s|per=3|mod=i|ten=p	12	conj
+17	una	uno	R	RI	num=s|gen=f	18	det
+18	vita	vita	S	S	num=s|gen=f	16	pred
+19	che	che	P	PR	num=n|gen=n	18	comp
+20	parlate	parlato	A	A	num=p|gen=f	19	sub
+21	di	di	E	E	_	20	comp
+22	operai	operaio	S	S	num=p|gen=m	21	prep
+23	.	.	F	FS	_	6	punc
+
+1	Belli	Belli	S	SP	_	7	mod
+2	con	con	E	E	_	1	comp
+3	le	il	R	RD	num=p|gen=f	4	det
+4	mani	mano	S	S	num=p|gen=f	2	prep
+5	grosse	grosso	A	A	num=p|gen=f	4	mod
+6	i	il	R	RD	num=p|gen=m	7	det
+7	pugni	pugno	S	S	num=p|gen=m	0	ROOT
+8	chiusi	chiuso	A	A	num=p|gen=m	7	mod
+
+1	forti	forte	A	A	num=p|gen=n	0	ROOT
+2	con	con	E	E	_	1	comp
+3	le	il	R	RD	num=p|gen=f	4	det
+4	braccia	braccio	S	S	num=p|gen=m	2	prep
+5	sporche	sporco	A	A	num=p|gen=f	4	mod
+6	e	e	C	CC	_	4	con
+7	il	il	R	RD	num=s|gen=m	8	det
+8	petto	petto	S	S	num=s|gen=m	4	conj
+9	in	in	E	E	_	8	comp
+10	fuori	fuori	B	B	_	9	prep
+
+1	nudi	nudo	A	A	num=p|gen=m	6	mod
+2	sudati	sudato	A	A	num=p|gen=m	3	mod
+3	coraggiosi	coraggioso	A	A	num=p|gen=m	6	mod
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	muovono	muovere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+7	gloriosi	glorioso	A	A	num=p|gen=m	6	mod
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	vita	vita	S	S	num=s|gen=f	1	pred
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	fate	fare	V	V	num=p|per=2|mod=i|ten=p	3	mod_rel
+6	la	il	R	RD	num=s|gen=f	7	det
+7	retorica	retorica	S	S	num=s|gen=f	5	obj
+8	sugli	su	E	EA	num=p|gen=m	7	comp
+9	operai	operaio	S	S	num=p|gen=m	8	prep
+10	,	,	F	FF	_	1	punc
+11	gli	il	R	RD	num=p|gen=m	12	det
+12	operai	operaio	S	S	num=p|gen=m	0	ROOT
+13	.	.	F	FS	_	12	punc
+
+1	Belli	Belli	S	SP	_	0	ROOT
+2	con	con	E	E	_	1	comp
+3	le	il	R	RD	num=p|gen=f	4	det
+4	spalle	spalla	S	S	num=p|gen=f	2	prep
+5	grosse	grosso	A	A	num=p|gen=f	4	mod
+6	i	il	R	RD	num=p|gen=m	7	det
+7	visi	viso	S	S	num=p|gen=m	1	conj
+8	aperti	aperto	A	A	num=p|gen=m	7	mod
+
+1	forti	forte	A	A	num=p|gen=n	0	ROOT
+2	con	con	E	E	_	1	comp
+3	i	il	R	RD	num=p|gen=m	5	det
+4	loro	loro	A	AP	num=n|gen=n	5	mod
+5	sguardi	sguardo	S	S	num=p|gen=m	2	prep
+6	fieri	fiero	A	A	num=p|gen=m	5	mod
+7	e	e	C	CC	_	1	con
+8	sani	sano	A	A	num=p|gen=m	1	conj
+
+1	veri	vero	A	A	num=p|gen=m	2	mod
+2	autentici	autentico	A	A	num=p|gen=m	0	ROOT
+3	onesti	onesto	A	A	num=p|gen=m	2	mod
+
+1	come	come	C	CS	_	3	mod
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	vedono	vedere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	3	mod
+5	sui	su	E	EA	num=p|gen=m	3	comp
+6	vostri	vostro	A	AP	num=p|gen=m	7	mod
+7	manifesti	manifesto	S	S	num=p|gen=m	5	prep
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	0	ROOT
+
+1	Ma	ma	C	CC	_	2	con
+2	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	7	arg
+3	,	,	F	FF	_	4	punc
+4	con	con	E	E	_	2	comp
+5	questi	questo	D	DD	num=p|gen=m	6	mod
+6	discorsi	discorso	S	S	num=p|gen=m	4	prep
+7	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	.	.	F	FS	_	7	punc
+
+1	Gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	3	subj
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	gente	gente	S	S	num=s|gen=f	3	pred
+5	come	come	E	E	_	3	comp
+6	noi	noi	P	PE	num=p|per=1|gen=n	5	prep
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	vero	vero	A	A	num=s|gen=m	3	pred
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	esclusiva	esclusiva	S	S	num=s|gen=f	2	obj
+
+1	dello	di	E	EA	num=s|gen=m	0	ROOT
+2	sfruttamento	sfruttamento	S	S	num=s|gen=m	1	prep
+
+1	Gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	3	subj
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	anche	anche	B	B	_	5	mod
+5	peggio	peggio	B	B	_	6	mod
+6	di	di	E	E	_	3	comp
+7	noi	noi	P	PE	num=p|per=1|gen=n	6	prep
+
+1	perché	perché	C	CS	_	5	mod
+2	non	non	B	BN	_	5	neg
+3	ne	ne	P	PC	num=n|gen=n	5	comp
+4	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	coscienza	coscienza	S	S	num=s|gen=f	0	ROOT
+
+1	non	non	B	BN	_	4	neg
+2	se	se	P	PC	num=n|per=3|gen=n	4	clit
+3	ne	ne	P	PC	num=n|gen=n	4	comp
+4	rendono	rendere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	conto	conto	S	S	num=s|gen=m	4	obj
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	sanno	sapere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	mai	mai	B	B	_	3	mod
+5	niente	niente	B	B	_	3	mod
+
+1	e	e	C	CC	_	3	con
+2	fan	fan	S	S	num=n|gen=n	3	mod
+3	discorsi	discorso	S	S	num=p|gen=m	0	ROOT
+4	grossolani	grossolano	A	A	num=p|gen=m	3	mod
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	non	non	B	BN	_	5	neg
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	possono	potere	V	VM	num=p|per=3|mod=i|ten=p	5	modal
+5	sentire	sentire	V	V	mod=f	0	ROOT
+
+1	Gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	0	ROOT
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	immaturi	immaturo	A	A	num=p|gen=m	1	pred
+3	impreparati	impreparato	A	A	num=p|gen=m	1	pred
+
+1	leggono	leggere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	poco	poco	B	B	_	1	mod
+
+1	e	e	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	fidano	fidare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	cultura	cultura	S	S	num=s|gen=f	5	prep
+
+1	Gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	4	subj
+3	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+4	ancora	ancora	B	B	_	0	_
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	complesso	complesso	S	S	num=s|gen=m	0	ROOT
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	borghesia	borghesia	S	S	num=s|gen=f	3	prep
+
+1	dei	di	E	EA	num=p|gen=m	0	ROOT
+2	suoi	suo	A	AP	num=p|gen=m	3	mod
+3	valori	valore	S	S	num=p|gen=m	1	prep
+4	scontati	scontato	A	A	num=p|gen=m	3	mod
+
+1	che	che	C	CS	_	4	subj
+2	loro	loro	P	PE	num=p|per=3|gen=n	3	subj
+3	vogliono	volere	V	VM	num=p|per=3|mod=i|ten=p	4	modal
+4	imitare	imitare	V	V	mod=f	0	ROOT
+
+1	con	con	E	E	_	0	ROOT
+2	sforzi	sforzo	S	S	num=p|gen=m	1	prep
+3	meschini	meschino	A	A	num=p|gen=m	2	mod
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	posson	posson	V	V	num=p|per=3|mod=i|ten=f	0	ROOT
+5	più	più	B	B	_	4	mod
+6	vedere	vedere	V	V	mod=f	0	ROOT
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	0	ROOT
+
+1	Gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	0	ROOT
+3	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	6	aux
+4	solo	solo	B	B	_	5	mod
+5	più	più	B	B	_	6	mod
+6	oppressi	oppresso	A	A	num=p|gen=m	2	mod
+
+1	e	e	C	CC	_	3	con
+2	più	più	B	B	_	3	mod
+3	sfruttati	sfruttato	A	A	num=p|gen=m	0	ROOT
+4	di	di	E	E	_	3	comp
+5	noi	noi	P	PE	num=p|per=1|gen=n	4	prep
+
+1	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	altri	altro	D	DI	num=p|gen=m	3	mod
+3	problemi	problema	S	S	num=p|gen=m	1	obj
+
+1	e	e	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+4	invischiati	invischiare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	in	in	E	E	_	0	ROOT
+2	oggetti	oggetto	S	S	num=p|gen=m	1	prep
+3	che	che	P	PR	num=n|gen=n	4	obj
+4	noi	noi	P	PE	num=p|per=1|gen=n	2	mod_rel
+
+1	custodiamo	custodire	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	con	con	E	E	_	1	comp
+3	cura	cura	S	S	num=s|gen=f	2	prep
+
+1	Gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	3	subj
+3	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	addosso	addosso	B	B	_	3	mod
+5	soltanto	soltanto	B	B	_	3	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	rabbia	rabbia	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	rabbia	rabbia	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	estende	estendere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+
+1	da	da	E	E	_	0	ROOT
+2	sbattere	sbattere	V	V	mod=f	1	prep
+3	addosso	addosso	B	B	_	2	mod
+4	ai	al	E	EA	num=p|gen=m	2	comp
+5	padroni	padrone	S	S	num=p|gen=m	4	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	polizia	polizia	S	S	num=s|gen=f	4	subj
+4	difende	difendere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+
+1	Gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	3	subj
+3	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	_
+4	ancora	ancora	B	B	_	3	mod
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	forza	forza	S	S	num=s|gen=f	3	obj
+
+1	per	per	E	E	_	8	comp
+2	non	non	B	BN	_	5	neg
+3	far-	fare	V	VM	mod=f	5	modal
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	fregare	fregare	V	V	mod=f	1	prep
+6	dalla	da	E	EA	num=s|gen=f	5	comp
+7	gente	gente	S	S	num=s|gen=f	6	prep
+8	perbene	perbene	B	B	_	0	_
+
+1	che	che	C	CS	_	0	ROOT
+2	con	con	E	E	_	1	comp
+3	tante	tanto	D	DI	num=p|gen=f	4	mod
+4	parole	parola	S	S	num=p|gen=f	2	prep
+5	con	con	E	E	_	4	comp
+6	tante	tanto	D	DI	num=p|gen=f	7	mod
+7	promesse	promessa	S	S	num=p|gen=f	5	prep
+
+1	li	li	P	PC	num=p|per=3|gen=m	2	obj
+2	frena	frenare	V	V	num=s|per=2|mod=m|ten=p	4	subj
+3	li	li	P	PC	num=p|per=3|gen=m	2	obj
+4	tiene	tenere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	0	ROOT
+
+1	Gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	3	subj
+3	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	addosso	addosso	B	B	_	3	mod
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	forza	forza	S	S	num=s|gen=f	3	obj
+7	tremenda	tremendo	A	A	num=s|gen=f	6	mod
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	rovesciare	rovesciare	V	V	mod=f	0	ROOT
+4	questo	questo	D	DD	num=s|gen=m	5	mod
+5	mondo	mondo	S	S	num=s|gen=m	3	obj
+6	di	di	E	E	_	5	comp
+7	merda	merda	S	S	num=s|gen=f	6	prep
+
+1	che	che	P	PR	num=n|gen=n	3	obj
+2	noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+3	alimentiamo	alimentare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	e	e	C	CC	_	3	con
+5	non	non	B	BN	_	7	neg
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	ferma	fermare	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	mai	mai	B	B	_	7	mod_temp
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	operai	operaio	S	S	num=p|gen=m	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	operai	operaio	S	S	num=p|gen=m	2	mod
+5	gli	il	R	RD	num=p|gen=m	6	det
+6	operai	operaio	S	S	num=p|gen=m	2	conj
+

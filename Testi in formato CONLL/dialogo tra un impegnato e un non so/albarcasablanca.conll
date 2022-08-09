@@ -1,0 +1,206 @@
+1	Al	a	E	EA	num=s|gen=m	0	ROOT
+2	bar	bar	S	S	num=n|gen=m	1	prep
+3	Casablanca	Casablanca	S	SP	_	2	mod
+
+1	seduti	sedere	V	V	num=p|mod=p|gen=m	0	_
+2	all'	al	E	EA	num=s|gen=n	1	comp
+3	aperto	aperto	A	A	num=s|gen=m	2	prep
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	birra	birra	S	S	num=s|gen=f	1	obj
+6	gelata	gelato	A	A	num=s|gen=f	5	mod
+
+1	Guardiamo	guardare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	donne	donna	S	S	num=p|gen=f	1	obj
+
+1	guardiamo	guardare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	gente	gente	S	S	num=s|gen=f	1	obj
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	va	andare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	in	in	E	E	_	5	comp
+7	passeggiata	passeggiata	S	S	num=s|gen=f	6	prep
+
+1	Con	con	E	E	_	5	comp
+2	aria	aria	S	S	num=s|gen=f	1	prep
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	stanca	stanco	A	A	num=s|gen=f	0	ROOT
+
+1	camicia	camicia	S	S	num=s|gen=f	0	ROOT
+2	slacciata	slacciare	V	V	num=s|mod=p|gen=f	1	mod
+3	in	in	E	E	_	2	comp
+4	mano	mano	S	S	num=s|gen=f	3	prep
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	maglione	maglione	S	S	num=s|gen=m	0	ROOT
+
+1	Parliamo	parlare	V	V	num=p|per=1|mod=i|ten=p	2	mod
+2	parliamo	parlare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+
+1	di	di	E	E	_	0	ROOT
+2	proletariato	proletariato	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	rivoluzione	rivoluzione	S	S	num=s|gen=f	3	prep
+
+1	Al	a	E	EA	num=s|gen=m	0	ROOT
+2	bar	bar	S	S	num=n|gen=m	1	prep
+3	Casablanca	Casablanca	S	SP	_	2	mod
+
+1	con	con	E	E	_	7	comp
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	gauloise	gauloise	S	S	num=s|gen=m	1	prep
+4	la	il	R	RD	num=s|gen=f	5	det
+5	Nikon	Nikon	S	SP	_	3	mod
+6	gli	il	R	RD	num=p|gen=m	7	det
+7	occhiali	occhiale	S	S	num=p|gen=m	0	ROOT
+
+1	E	e	C	CC	_	2	con
+2	sopra	sopra	E	E	_	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	sedia	sedia	S	S	num=s|gen=f	2	prep
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	titoli	titolo	S	S	num=p|gen=m	0	ROOT
+3	rossi	rosso	A	A	num=p|gen=m	2	mod
+4	dei	di	E	EA	num=p|gen=m	2	comp
+5	nostri	nostro	A	AP	num=p|gen=m	6	mod
+6	giornali	giornale	S	S	num=p|gen=m	4	prep
+
+1	Blue	Blue	S	SP	_	0	ROOT
+2	jeans	jeans	S	SW	num=n|gen=m	1	concat
+3	scoloriti	scolorire	V	V	num=p|mod=p|gen=m	1	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	barba	barba	S	S	num=s|gen=f	0	ROOT
+3	sporcata	sporcare	V	V	num=s|mod=p|gen=f	2	mod
+4	da	da	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	di	di	E	E	_	4	comp
+8	gelato	gelato	S	S	num=s|gen=m	7	prep
+
+1	Parliamo	parlare	V	V	num=p|per=1|mod=i|ten=p	2	mod
+2	parliamo	parlare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+
+1	di	di	E	E	_	0	ROOT
+2	rivoluzione	rivoluzione	S	S	num=s|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	proletariato	proletariato	S	S	num=s|gen=m	3	prep
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	importante	importante	A	A	num=s|gen=n	4	mod
+3	,	,	F	FF	_	2	punc
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	45	arg
+5	che	che	C	CS	_	31	subj
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	operaio	operaio	S	S	num=s|gen=m	8	subj
+8	prenda	prendere	V	V	num=s|per=3|mod=c|ten=p	5	sub
+9	coscienza	coscienza	S	S	num=s|gen=f	8	obj
+10	,	,	F	FF	_	11	punc
+11	per	per	E	E	_	19	comp
+12	esempio	esempio	S	S	num=s|gen=m	11	prep
+13	i	il	R	RD	num=p|gen=m	14	det
+14	comitati	comitato	S	S	num=p|gen=m	19	subj
+15	unitari	unitario	A	A	num=p|gen=m	14	mod
+16	di	di	E	E	_	14	comp
+17	base	base	S	S	num=s|gen=f	16	prep
+18	,	,	F	FF	_	14	con
+19	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	8	conj
+20	gli	il	R	RD	num=p|gen=m	21	det
+21	operai	operaio	S	S	num=p|gen=m	19	obj
+22	di	di	E	E	_	21	comp
+23	Pavia	Pavia	S	SP	_	22	prep
+24	e	e	C	CC	_	22	con
+25	di	di	E	E	_	22	conj
+26	Vigevano	Vigevano	S	SP	_	25	prep
+27	,	,	F	FF	_	5	con
+28	non	non	B	BN	_	31	neg
+29	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	31	aux
+30	mica	mica	B	B	_	31	mod
+31	permesso	permettere	V	V	num=s|mod=p|gen=m	4	conj
+32	che	che	C	CS	_	31	arg
+33	la	il	R	RD	num=s|gen=f	34	det
+34	politica	politica	S	S	num=s|gen=f	36	subj
+35	sindacale	sindacale	A	A	num=s|gen=n	34	mod
+36	realizzasse	realizzare	V	V	num=s|per=3|mod=c|ten=i	32	sub
+37	i	il	R	RD	num=p|gen=m	39	det
+38	suoi	suo	A	AP	num=p|gen=m	39	mod
+39	obbiettivi	obbiettivo	S	S	num=p|gen=m	36	obj
+40	,	,	F	FF	_	31	punc
+41	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	42	aux
+42	reagito	reagire	V	V	num=s|mod=p|gen=m	4	conj
+43	,	,	F	FF	_	4	con
+44	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	45	aux
+45	preso	prendere	V	V	num=s|mod=p|gen=m	0	ROOT
+46	l'	il	R	RD	num=s|gen=n	47	det
+47	iniziativa	iniziativa	S	S	num=s|gen=f	45	obj
+48	.	.	F	FS	_	45	punc
+
+1	Non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	subj
+4	noi	noi	P	PE	num=p|per=1|gen=n	6	subj
+5	dobbiamo	dovere	V	VM	num=p|per=1|mod=i|ten=p	6	modal
+6	essere	essere	V	V	mod=f	3	sub
+7	la	il	R	RD	num=s|gen=f	8	det
+8	testa	testa	S	S	num=s|gen=f	6	pred
+9	degli	di	E	EA	num=p|gen=m	8	comp
+10	operai	operaio	S	S	num=p|gen=m	9	prep
+11	,	,	F	FF	_	2	punc
+12	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+13	loro	loro	P	PE	num=p|per=3|gen=n	12	pred
+14	che	che	P	PR	num=n|gen=n	16	obj
+15	devono	dovere	V	VM	num=p|per=3|mod=i|ten=p	16	modal
+16	fare	fare	V	V	mod=f	13	mod_rel
+17	,	,	F	FF	_	18	punc
+18	loro	loro	P	PE	num=p|per=3|gen=n	12	subj
+19	.	.	F	FS	_	12	punc
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	0	ROOT
+2	...	...	F	FF	_	1	punc
+
+1	Al	a	E	EA	num=s|gen=m	0	ROOT
+2	bar	bar	S	S	num=n|gen=m	1	prep
+3	Casablanca	Casablanca	S	SP	_	2	mod
+
+1	seduti	sedere	V	V	num=p|mod=p|gen=m	7	mod
+2	all'	al	E	EA	num=s|gen=n	1	comp
+3	aperto	aperto	A	A	num=s|gen=m	2	prep
+4	la	il	R	RD	num=s|gen=f	5	det
+5	Nikon	Nikon	S	SP	_	1	subj
+6	gli	il	R	RD	num=p|gen=m	7	det
+7	occhiali	occhiale	S	S	num=p|gen=m	0	ROOT
+
+1	E	e	C	CC	_	2	con
+2	sopra	sopra	E	E	_	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	sedia	sedia	S	S	num=s|gen=f	2	prep
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	titoli	titolo	S	S	num=p|gen=m	0	ROOT
+3	rossi	rosso	A	A	num=p|gen=m	2	mod
+4	dei	di	E	EA	num=p|gen=m	2	comp
+5	nostri	nostro	A	AP	num=p|gen=m	6	mod
+6	giornali	giornale	S	S	num=p|gen=m	4	prep
+
+1	Blue	Blue	S	SP	_	0	ROOT
+2	jeans	jeans	S	SW	num=n|gen=m	1	concat
+3	scoloriti	scolorire	V	V	num=p|mod=p|gen=m	1	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	barba	barba	S	S	num=s|gen=f	0	ROOT
+3	sporcata	sporcare	V	V	num=s|mod=p|gen=f	2	mod
+4	da	da	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	di	di	E	E	_	4	comp
+8	gelato	gelato	S	S	num=s|gen=m	7	prep
+
+1	Parliamo	parlare	V	V	num=p|per=1|mod=i|ten=p	2	mod
+2	parliamo	parlare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+
+1	di	di	E	E	_	0	ROOT
+2	rivoluzione	rivoluzione	S	S	num=s|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	proletariato	proletariato	S	S	num=s|gen=m	3	prep
+

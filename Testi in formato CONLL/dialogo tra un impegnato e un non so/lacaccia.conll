@@ -1,0 +1,385 @@
+1	Una	uno	R	RI	num=s|gen=f	3	det
+2	piccola	piccolo	A	A	num=s|gen=f	3	mod
+3	città	città	S	S	num=n|gen=f	0	_
+
+1	più	più	B	B	_	2	mod
+2	pulita	pulire	V	V	num=s|mod=p|gen=f	4	mod
+3	più	più	B	B	_	2	mod
+4	ordinata	ordinare	V	V	num=s|mod=p|gen=f	0	_
+
+1	di	di	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	verde	verde	A	A	num=s|gen=n	4	mod
+4	giardino	giardino	S	S	num=s|gen=m	1	prep
+
+1	dove	dove	P	PR	num=n|gen=n	3	subj
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	6	det
+5	gran	gran	A	A	num=n|gen=n	6	mod
+6	serenità	serenità	S	S	num=n|gen=f	3	subj
+
+1	In	in	E	E	_	0	ROOT
+2	quella	quello	D	DD	num=s|gen=f	4	mod
+3	piccola	piccolo	A	A	num=s|gen=f	4	mod
+4	città	città	S	S	num=n|gen=f	1	prep
+
+1	tra	tra	E	E	_	0	ROOT
+2	persone	persona	S	S	num=p|gen=f	1	prep
+3	rispettate	rispettare	V	V	num=p|mod=p|gen=f	2	mod
+
+1	persone	persona	S	S	num=p|gen=f	0	ROOT
+2	educate	educare	V	V	num=p|mod=p|gen=f	1	mod
+
+1	ognuno	ognuno	P	PI	num=s|gen=m	2	subj
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	comprensione	comprensione	S	S	num=s|gen=f	2	obj
+4	carità	carità	S	S	num=n|gen=f	3	mod
+
+1	-	-	F	FC	_	4	punc
+2	Stasera	Stasera	S	SP	_	4	subj
+3	,	,	F	FF	_	2	punc
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	per	per	E	E	_	4	pred
+6	stasera	stasera	B	B	_	5	prep
+7	,	,	F	FF	_	4	con
+8	mi	mi	P	PC	num=s|per=1|gen=n	9	comp_ind
+9	vengono	venire	V	V	num=p|per=3|mod=i|ten=p	4	conj
+10	a	a	E	E	_	9	arg
+11	prendere	prendere	V	V	mod=f	10	prep
+12	,	,	F	FF	_	4	con
+13	l'	lo	P	PC	num=s|per=3|gen=n	15	obj
+14	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	15	aux
+15	deciso	decidere	V	V	num=s|mod=p|gen=m	4	conj
+16	,	,	F	FF	_	4	con
+17	sono	essere	V	V	num=s|per=1|mod=i|ten=p	4	conj
+18	tutti	tutto	P	PI	num=p|gen=m	17	pred
+19	d'	di	E	E	_	18	comp
+20	accordo	accordo	S	S	num=s|gen=m	19	prep
+21	,	,	F	FF	_	4	con
+22	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	23	aux
+23	messo	mettere	V	V	num=s|mod=p|gen=m	4	conj
+24	a	a	E	E	_	23	comp
+25	letto	letto	S	S	num=s|gen=m	24	prep
+26	i	il	R	RD	num=p|gen=m	27	det
+27	bambini	bambino	S	S	num=p|gen=m	23	obj
+28	,	,	F	FF	_	29	punc
+29	in	in	E	E	_	23	comp
+30	orario	orario	S	S	num=s|gen=m	29	prep
+31	,	,	F	FF	_	29	punc
+32	con	con	E	E	_	23	comp
+33	cura	cura	S	S	num=s|gen=f	32	prep
+34	,	,	F	FF	_	33	con
+35	precisi	preciso	A	A	num=p|gen=m	33	mod
+36	,	,	F	FF	_	35	con
+37	decisi	deciso	A	A	num=p|gen=m	35	conj
+38	.	.	F	FS	_	4	punc
+
+1	Ecco-	ecco	B	B	_	8	mod
+2	li	li	P	PC	num=p|per=3|gen=m	8	comp
+3	,	,	F	FF	_	2	con
+4	ecco-	ecco	B	B	_	8	mod
+5	li	li	P	PC	num=p|per=3|gen=m	8	comp
+6	,	,	F	FF	_	5	punc
+7	mi	mi	P	PC	num=s|per=1|gen=n	8	comp_ind
+8	cercano	cercare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+9	mi	mi	P	PC	num=s|per=1|gen=n	10	obj
+10	vogliono	volere	V	V	num=p|per=3|mod=i|ten=p	8	conj
+11	,	,	F	FF	_	12	punc
+12	come	come	C	CS	_	8	mod
+13	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	14	aux
+14	fatto	fare	V	V	num=s|mod=p|gen=m	12	sub
+15	con	con	E	E	_	14	comp
+16	gli	il	R	RD	num=p|gen=m	17	det
+17	altri	altro	P	PI	num=p|gen=m	15	prep
+18	,	,	F	FF	_	12	punc
+19	sono	essere	V	V	num=p|per=3|mod=i|ten=p	10	conj
+20	molti	molto	D	DI	num=p|gen=m	21	mod
+21	moltissimi	molto	A	A	num=p|gen=m	19	pred
+22	,	,	F	FF	_	21	con
+23	tutti	tutto	P	PI	num=p|gen=m	24	mod
+24	uguali	uguale	A	A	num=p|gen=n	21	conj
+25	.	.	F	FS	_	8	punc
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+4	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+5	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+6	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+7	,	,	F	FF	_	10	punc
+8	non	non	B	BN	_	10	neg
+9	deve	dovere	V	VM	num=s|per=3|mod=i|ten=p	10	modal
+10	scappare	scappare	V	V	mod=f	5	arg
+11	circonda-	circondare	V	V	num=s|per=2|mod=m|ten=p	10	arg
+12	lo	lo	P	PC	num=s|per=3|gen=m	10	obj
+
+1	Ho	avere	V	V	num=s|per=1|mod=i|ten=p	4	arg
+2	paura	paura	S	S	num=s|gen=f	1	obj
+3	,	,	F	FF	_	1	con
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	paura	paura	S	S	num=s|gen=f	4	obj
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+4	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+5	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+6	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+7	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	5	conj
+8	lo	lo	P	PC	num=s|per=3|gen=m	7	obj
+9	,	,	F	FF	_	12	punc
+10	non	non	B	BN	_	12	neg
+11	deve	dovere	V	VM	num=s|per=3|mod=i|ten=p	12	modal
+12	scappare	scappare	V	V	mod=f	7	arg
+13	circonda-	circondare	V	V	num=s|per=2|mod=m|ten=p	12	arg
+14	lo	lo	P	PC	num=s|per=3|gen=m	13	obj
+15	,	,	F	FF	_	12	con
+16	agguanta-	agguantare	V	V	num=s|per=2|mod=m|ten=p	12	conj
+17	lo	lo	P	PC	num=s|per=3|gen=m	16	obj
+18	colpisci-	colpire	V	V	num=s|per=2|mod=m|ten=p	12	conj
+19	lo	lo	P	PC	num=s|per=3|gen=m	18	obj
+20	ammazza-	ammazzare	V	V	num=s|per=2|mod=m|ten=p	12	conj
+21	lo	lo	P	PC	num=s|per=3|gen=m	20	obj
+
+1	Ecco-	ecco	B	B	_	4	mod
+2	li	li	P	PC	num=p|per=3|gen=m	4	obj
+3	li	li	P	PC	num=p|per=3|gen=m	4	obj
+4	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	urli	urlio	S	S	num=p|gen=m	0	ROOT
+3	rabbiosi	rabbioso	A	A	num=p|gen=m	2	mod
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	obj
+2	arrivano	arrivare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	al	a	E	EA	num=s|gen=m	2	comp
+4	cervello	cervello	S	S	num=s|gen=m	3	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	mani	mano	S	S	num=p|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	tremano	tremare	V	V	num=p|per=3|mod=i|ten=p	2	mod_rel
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	nervi	nervo	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	crollano	crollare	V	V	num=p|per=3|mod=i|ten=p	2	mod_rel
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+4	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+5	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+6	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+7	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	5	conj
+8	lo	lo	P	PC	num=s|per=3|gen=m	7	obj
+9	,	,	F	FF	_	12	punc
+10	non	non	B	BN	_	12	neg
+11	deve	dovere	V	VM	num=s|per=3|mod=i|ten=p	12	modal
+12	scappare	scappare	V	V	mod=f	7	arg
+13	circonda-	circondare	V	V	num=s|per=2|mod=m|ten=p	12	arg
+14	lo	lo	P	PC	num=s|per=3|gen=m	13	obj
+15	,	,	F	FF	_	12	con
+16	agguanta-	agguantare	V	V	num=s|per=2|mod=m|ten=p	12	conj
+17	lo	lo	P	PC	num=s|per=3|gen=m	16	obj
+18	colpisci-	colpire	V	V	num=s|per=2|mod=m|ten=p	12	conj
+19	lo	lo	P	PC	num=s|per=3|gen=m	18	obj
+20	ammazza-	ammazzare	V	V	num=s|per=2|mod=m|ten=p	12	conj
+21	lo	lo	P	PC	num=s|per=3|gen=m	20	obj
+
+1	Ecco-	ecco	B	B	_	3	mod
+2	li	li	P	PC	num=p|per=3|gen=m	3	obj
+3	incalzano	incalzare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	bocca	bocca	S	S	num=s|gen=f	1	obj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	bocca	bocca	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	asciuga	asciugare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	vista	vista	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	annebbia	annebbiare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	occhi	occhio	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	bruciano	bruciare	V	V	num=p|per=3|mod=i|ten=p	2	mod_rel
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+4	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+5	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+6	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+7	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	5	conj
+8	lo	lo	P	PC	num=s|per=3|gen=m	7	obj
+9	,	,	F	FF	_	12	punc
+10	non	non	B	BN	_	12	neg
+11	deve	dovere	V	VM	num=s|per=3|mod=i|ten=p	12	modal
+12	scappare	scappare	V	V	mod=f	7	arg
+13	circonda-	circondare	V	V	num=s|per=2|mod=m|ten=p	12	arg
+14	lo	lo	P	PC	num=s|per=3|gen=m	13	obj
+15	,	,	F	FF	_	12	con
+16	agguanta-	agguantare	V	V	num=s|per=2|mod=m|ten=p	12	conj
+17	lo	lo	P	PC	num=s|per=3|gen=m	16	obj
+18	colpisci-	colpire	V	V	num=s|per=2|mod=m|ten=p	12	conj
+19	lo	lo	P	PC	num=s|per=3|gen=m	18	obj
+20	ammazza-	ammazzare	V	V	num=s|per=2|mod=m|ten=p	12	conj
+21	lo	lo	P	PC	num=s|per=3|gen=m	20	obj
+
+1	Li	li	P	PC	num=p|per=3|gen=m	2	obj
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	li	li	P	PC	num=p|per=3|gen=m	2	obj
+4	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	2	mod
+5	li	li	P	PC	num=p|per=3|gen=m	4	obj
+6	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	4	conj
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	facce	faccia	S	S	num=p|gen=f	5	mod
+3	stravolte	stravolgere	V	V	num=p|mod=p|gen=f	2	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	volti	volto	S	S	num=p|gen=m	0	ROOT
+6	abbruttiti	abbruttire	V	V	num=p|mod=p|gen=m	5	mod
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	occhi	occhio	S	S	num=p|gen=m	0	ROOT
+3	iniettati	iniettare	V	V	num=p|mod=p|gen=m	2	mod
+4	di	di	E	E	_	3	comp
+5	sangue	sangue	S	S	num=s|gen=m	4	prep
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	pugni	pugno	S	S	num=p|gen=m	0	ROOT
+3	protesi	protendere	V	V	num=p|mod=p|gen=m	2	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	sassi	sasso	S	S	num=p|gen=m	2	conj
+6	i	il	R	RD	num=p|gen=m	7	det
+7	bastoni	bastone	S	S	num=p|gen=m	5	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	rabbia	rabbia	S	S	num=s|gen=f	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	foga	foga	S	S	num=s|gen=f	2	mod
+5	sfrenata	sfrenato	A	A	num=s|gen=f	4	mod
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	grida	grida	S	S	num=n|gen=f	0	ROOT
+3	bestiali	bestiale	A	A	num=p|gen=n	2	mod
+4	da	da	E	E	_	2	comp
+5	cani	cane	S	S	num=p|gen=m	4	prep
+6	rabbiosi	rabbioso	A	A	num=p|gen=m	5	mod
+
+1	Cani	cane	S	S	num=p|gen=m	0	ROOT
+2	cani	cane	S	S	num=p|gen=m	1	mod
+
+1	Un'	uno	R	RI	num=s|gen=f	2	det
+2	orda	orda	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	cani	cane	S	S	num=p|gen=m	3	prep
+5	rabbiosi	rabbioso	A	A	num=p|gen=m	4	mod
+
+1	cani	cane	S	S	num=p|gen=m	0	ROOT
+2	cani	cane	S	S	num=p|gen=m	1	mod
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	orda	orda	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	cani	cane	S	S	num=p|gen=m	3	prep
+5	rabbiosi	rabbioso	A	A	num=p|gen=m	4	mod
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+4	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+5	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+6	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+7	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	5	conj
+8	lo	lo	P	PC	num=s|per=3|gen=m	7	obj
+9	,	,	F	FF	_	12	punc
+10	non	non	B	BN	_	12	neg
+11	deve	dovere	V	VM	num=s|per=3|mod=i|ten=p	12	modal
+12	scappare	scappare	V	V	mod=f	7	arg
+13	circonda-	circondare	V	V	num=s|per=2|mod=m|ten=p	12	arg
+14	lo	lo	P	PC	num=s|per=3|gen=m	13	obj
+15	,	,	F	FF	_	12	con
+16	agguanta-	agguantare	V	V	num=s|per=2|mod=m|ten=p	12	conj
+17	lo	lo	P	PC	num=s|per=3|gen=m	16	obj
+18	colpisci-	colpire	V	V	num=s|per=2|mod=m|ten=p	12	conj
+19	lo	lo	P	PC	num=s|per=3|gen=m	18	obj
+20	ammazza-	ammazzare	V	V	num=s|per=2|mod=m|ten=p	12	conj
+21	lo	lo	P	PC	num=s|per=3|gen=m	20	obj
+
+1	Sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	testa	testa	S	S	num=s|gen=f	1	obj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	testa	testa	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	spezza	spezzare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+
+1	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	cuore	cuore	S	S	num=s|gen=m	1	subj
+4	il	il	R	RD	num=s|gen=m	5	det
+5	cuore	cuore	S	S	num=s|gen=m	1	obj
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	mi	mi	P	PC	num=s|per=1|gen=n	8	comp_ind
+8	scoppia	scoppiare	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	tempie	tempia	S	S	num=p|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	battono	battere	V	V	num=p|per=3|mod=i|ten=p	2	mod_rel
+6	le	il	R	RD	num=p|gen=f	7	det
+7	vene	vena	S	S	num=p|gen=f	2	conj
+8	che	che	P	PR	num=n|gen=n	10	subj
+9	si	si	P	PC	num=n|per=3|gen=n	10	clit
+10	gonfiano	gonfiare	V	V	num=p|per=3|mod=i|ten=p	7	mod_rel
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	gambe	gamba	S	S	num=p|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	non	non	B	BN	_	5	neg
+5	reggono	reggere	V	V	num=p|per=3|mod=i|ten=p	2	mod_rel
+6	le	il	R	RD	num=p|gen=f	7	det
+7	forze	forza	S	S	num=p|gen=f	5	obj
+8	che	che	P	PR	num=n|gen=n	10	subj
+9	mi	mi	P	PC	num=s|per=1|gen=n	10	comp_ind
+10	mancano	mancare	V	V	num=p|per=3|mod=i|ten=p	7	mod_rel
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	forze	forza	S	S	num=p|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	mancano	mancare	V	V	num=p|per=3|mod=i|ten=p	2	mod_rel
+6	le	il	R	RD	num=p|gen=f	7	det
+7	forze	forza	S	S	num=p|gen=f	5	subj
+8	che	che	P	PR	num=n|gen=n	10	subj
+9	mi	mi	P	PC	num=s|per=1|gen=n	10	comp_ind
+10	mancano	mancare	V	V	num=p|per=3|mod=i|ten=p	7	mod_rel
+
+1	G/coro	G/coro	S	SP	_	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	una	uno	R	RI	num=s|gen=f	5	det
+4	piccola	piccolo	A	A	num=s|gen=f	5	mod
+5	città	città	S	S	num=n|gen=f	0	ROOT
+6	una	uno	R	RI	num=s|gen=f	8	det
+7	piccola	piccolo	A	A	num=s|gen=f	8	mod
+8	città	città	S	S	num=n|gen=f	5	mod
+9	una	uno	R	RI	num=s|gen=f	11	det
+10	piccola	piccolo	A	A	num=s|gen=f	11	mod
+11	città	città	S	S	num=n|gen=f	8	mod
+

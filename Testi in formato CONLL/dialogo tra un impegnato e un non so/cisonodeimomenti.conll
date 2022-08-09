@@ -1,0 +1,188 @@
+1	Ci	ci	P	PC	num=p|per=1|gen=n	2	comp
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	subj
+4	momenti	momento	S	S	num=p|gen=m	3	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	voglia	voglia	S	S	num=s|gen=f	0	ROOT
+4	di	di	E	E	_	3	comp
+5	star	star	S	S	num=n|gen=f	4	prep
+6	solo	solo	B	B	_	0	ROOT
+
+1	rinchiuso	rinchiudere	V	V	num=s|mod=p|gen=m	0	_
+2	in	in	E	E	_	1	comp
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	stanza	stanza	S	S	num=s|gen=f	2	prep
+
+1	a	a	E	E	_	0	ROOT
+2	pensare	pensare	V	V	mod=f	1	prep
+3	ai	al	E	EA	num=p|gen=m	2	comp
+4	fatti	fatto	S	S	num=p|gen=m	3	prep
+5	miei	miei	A	A	num=p|gen=m	4	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	almeno	almeno	B	B	_	3	mod
+3	in	in	E	E	_	1	ROOT
+4	quei	quello	D	DD	num=p|gen=m	5	mod
+5	momenti	momento	S	S	num=p|gen=m	3	prep
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	disperazione	disperazione	S	S	num=s|gen=f	0	_
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	troppo	troppo	B	B	_	1	mod
+3	più	più	B	B	_	4	mod
+4	importante	importante	A	A	num=s|gen=n	1	pred
+
+1	esisto	esistere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	solo	solo	B	B	_	1	mod
+3	io	io	P	PE	num=s|per=1|gen=n	1	subj
+
+1	Vi	vi	P	PC	num=p|per=2|gen=n	2	clit
+2	confesso	confessare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	in	in	E	E	_	3	sub
+5	questi	questo	D	DD	num=p|gen=m	6	mod
+6	momenti	momento	S	S	num=p|gen=m	4	prep
+
+1	io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	me	me	P	PE	num=s|per=1|gen=n	4	comp_ind
+3	ne	ne	P	PC	num=n|gen=n	4	comp
+4	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	comp
+6	quel	quello	P	PD	num=s|gen=m	5	prep
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	succede	succedere	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+
+1	me	me	P	PE	num=s|per=1|gen=n	3	subj
+2	ne	ne	P	PC	num=n|gen=n	3	comp
+3	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	politica	politica	S	S	num=s|gen=f	4	prep
+
+1	della	di	E	EA	num=s|gen=f	0	ROOT
+2	gente	gente	S	S	num=s|gen=f	1	prep
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	muore	morire	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	ogni	ogni	D	DI	num=s|gen=n	6	mod
+6	giorno	giorno	S	S	num=s|gen=m	4	mod_temp
+
+1	dell'	di	E	EA	num=s|gen=n	0	ROOT
+2	America	America	S	SP	_	1	prep
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	Russia	Russia	S	SP	_	3	prep
+5	della	di	E	EA	num=s|gen=f	2	comp
+6	Cina	Cina	S	SP	_	5	prep
+
+1	In	in	E	E	_	0	ROOT
+2	questi	questo	D	DD	num=p|gen=m	3	mod
+3	momenti	momento	S	S	num=p|gen=m	1	prep
+
+1	io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	me	me	P	PE	num=s|per=1|gen=n	4	clit
+3	ne	ne	P	PC	num=n|gen=n	4	comp
+4	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	delle	di	E	EA	num=p|gen=f	4	comp
+6	guerre	guerra	S	S	num=p|gen=f	5	prep
+7	civili	civile	A	A	num=p|gen=n	6	mod
+
+1	me	me	P	PE	num=s|per=1|gen=n	3	subj
+2	ne	ne	P	PC	num=n|gen=n	3	comp
+3	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dell'	di	E	EA	num=s|gen=n	3	comp
+5	imperialismo	imperialismo	S	S	num=s|gen=m	4	prep
+
+1	non	non	B	BN	_	3	neg
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	importa	importare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	Vietnam	Vietnam	S	SP	_	4	prep
+
+1	non	non	B	BN	_	3	neg
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	importa	importare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	comunismo	comunismo	S	S	num=s|gen=m	4	prep
+
+1	In	in	E	E	_	0	ROOT
+2	questi	questo	D	DD	num=p|gen=m	3	mod
+3	momenti	momento	S	S	num=p|gen=m	1	prep
+
+1	io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	me	me	P	PE	num=s|per=1|gen=n	4	obj
+3	ne	ne	P	PC	num=n|gen=n	4	comp
+4	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	degli	di	E	EA	num=p|gen=m	4	comp
+6	operai	operaio	S	S	num=p|gen=m	5	prep
+
+1	me	me	P	PE	num=s|per=1|gen=n	3	subj
+2	ne	ne	P	PC	num=n|gen=n	3	comp
+3	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	licenziamenti	licenziamento	S	S	num=p|gen=m	4	prep
+
+1	me	me	P	PE	num=s|per=1|gen=n	3	subj
+2	ne	ne	P	PC	num=n|gen=n	3	comp
+3	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	comp
+5	Marx	Marx	S	SP	_	4	prep
+6	e	e	C	CC	_	4	con
+7	di	di	E	E	_	4	conj
+8	Lenin	Lenin	S	SP	_	7	prep
+
+1	non	non	B	BN	_	2	neg
+2	sopporto	sopportare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	Gianfranco	Gianfranco	S	SP	_	4	mod
+4	Serena	Serena	S	SP	_	2	obj
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	discorsi	discorso	S	S	num=p|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	baretto	baretto	S	S	num=s|gen=m	3	prep
+
+1	me	me	P	PE	num=s|per=1|gen=n	3	subj
+2	ne	ne	P	PC	num=n|gen=n	3	comp
+3	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	me	me	P	PE	num=s|per=1|gen=n	3	obj
+5	ne	ne	P	PC	num=n|gen=n	6	comp
+6	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	3	conj
+7	me	me	P	PE	num=s|per=1|gen=n	6	obj
+8	ne	ne	P	PC	num=n|gen=n	9	comp
+9	frego	fregare	V	V	num=s|per=1|mod=i|ten=p	6	conj
+
+1	In	in	E	E	_	0	ROOT
+2	questi	questo	D	DD	num=p|gen=m	3	mod
+3	momenti	momento	S	S	num=p|gen=m	1	prep
+
+1	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	solo	solo	B	B	_	5	mod
+3	la	il	R	RD	num=s|gen=f	5	det
+4	mia	mio	A	AP	num=s|gen=f	5	mod
+5	vita	vita	S	S	num=s|gen=f	1	obj
+
+1	e	e	C	CC	_	4	con
+2	la	il	R	RD	num=s|gen=f	4	det
+3	mia	mio	A	AP	num=s|gen=f	4	mod
+4	sofferenza	sofferenza	S	S	num=s|gen=f	0	_
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	mia	mio	A	AP	num=s|gen=f	5	mod
+4	sola	solo	A	A	num=s|gen=f	5	mod
+5	verità	verità	S	S	num=n|gen=f	1	pred
+
+1	In	in	E	E	_	0	ROOT
+2	questi	questo	D	DD	num=p|gen=m	3	mod
+3	momenti	momento	S	S	num=p|gen=m	1	prep
+
+1	cari	caro	A	A	num=p|gen=m	2	mod
+2	compagni	compagno	S	S	num=p|gen=m	0	_
+
+1	ributtate-	ributtare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	1	obj
+
+1	nella	in	E	EA	num=s|gen=f	0	ROOT
+2	realtà	realtà	S	S	num=n|gen=f	1	prep
+

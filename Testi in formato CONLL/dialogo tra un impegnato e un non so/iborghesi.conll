@@ -1,0 +1,391 @@
+1	Quand'	Quand'	S	SP	_	2	subj
+2	ero	essere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+3	piccolo	piccolo	A	A	num=s|gen=m	5	mod
+4	non	non	B	BN	_	5	neg
+5	stavo	stare	V	V	num=s|per=1|mod=i|ten=i	2	pred
+6	mica	mica	B	B	_	5	mod
+7	bene	bene	B	B	_	5	mod
+
+1	ero	essere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+2	anche	anche	B	B	_	1	mod
+3	magrolino	magrolino	B	B	_	4	mod
+4	avevo	avere	V	V	num=s|per=1|mod=i|ten=i	1	pred
+5	qualche	qualche	D	DI	num=s|gen=n	6	mod
+6	allucinazione	allucinazione	S	S	num=s|gen=f	4	obj
+
+1	e	e	C	CC	_	0	ROOT
+2	quando	quando	C	CS	_	1	conj
+3	andavo	andare	V	V	num=s|per=1|mod=i|ten=i	2	sub
+4	a	a	E	E	_	3	comp
+5	cena	cena	S	S	num=s|gen=f	4	prep
+6	nel	in	E	EA	num=s|gen=m	5	comp
+7	tinello	tinello	S	S	num=s|gen=m	6	prep
+8	con	con	E	E	_	3	comp
+9	il	il	R	RD	num=s|gen=m	10	det
+10	tavolo	tavolo	S	S	num=s|gen=m	8	prep
+11	di	di	E	E	_	10	comp
+12	noce	noce	S	S	num=s|gen=f	11	prep
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+2	sedevamo	sedere	V	V	num=p|per=1|mod=i|ten=i	0	ROOT
+3	tutti	tutto	P	PI	num=p|gen=m	2	subj
+4	e	e	C	CC	_	3	con
+5	facevamo	fare	V	VM	num=p|per=1|mod=i|ten=i	3	conj
+6	il	il	R	RD	num=s|gen=m	7	det
+7	segno	segno	S	S	num=s|gen=m	5	obj
+8	della	di	E	EA	num=s|gen=f	7	comp
+9	croce	croce	S	S	num=s|gen=f	8	prep
+
+1	Dopo	dopo	E	E	_	9	comp_temp
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	1	prep
+4	che	che	C	CS	_	3	concat
+5	li	li	P	PC	num=p|per=3|gen=m	6	obj
+6	guardavo	guardare	V	V	num=s|per=1|mod=i|ten=i	3	sub
+7	mi	mi	P	PC	num=s|per=1|gen=n	6	subj
+8	si	si	P	PC	num=n|per=3|gen=n	9	clit
+9	trasformavano	trasformare	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	gesti	gesto	S	S	num=p|gen=m	0	ROOT
+3	preparati	preparato	A	A	num=p|gen=m	2	mod
+4	degli	di	E	EA	num=p|gen=m	2	comp
+5	attori	attore	S	S	num=p|gen=m	4	prep
+6	attori	attore	S	S	num=p|gen=m	5	mod
+7	consumati	consumare	V	V	num=p|mod=p|gen=m	2	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	dicono	dire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	battuta	battuta	S	S	num=s|gen=f	2	obj
+5	e	e	C	CC	_	2	con
+6	ascoltano	ascoltare	V	V	num=p|per=3|mod=i|ten=p	2	conj
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	effetto	effetto	S	S	num=s|gen=m	6	obj
+
+1	e	e	C	CC	_	3	con
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	ero	essere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+4	li	li	P	PC	num=p|per=3|gen=m	3	pred
+5	come	come	E	E	_	3	comp
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	comparsa	comparsa	S	S	num=s|gen=f	5	prep
+8	vivevo	vivere	V	V	num=s|per=1|mod=i|ten=i	3	conj
+9	la	il	R	RD	num=s|gen=f	10	det
+10	commedia	commedia	S	S	num=s|gen=f	8	obj
+
+1	anzi	anzi	B	B	_	4	mod
+2	no	no	B	BN	_	4	neg
+3	la	il	R	RD	num=s|gen=f	4	det
+4	farsa	farsa	S	S	num=s|gen=f	0	ROOT
+5	.	.	F	FS	_	4	punc
+
+1	E	e	C	CC	_	0	ROOT
+2	chissà	chissà	B	B	_	1	concat
+3	perché	perché	C	CS	_	2	concat
+4	durante	durante	E	E	_	3	comp_temp
+5	questa	questo	D	DD	num=s|gen=f	6	mod
+6	allucinazione	allucinazione	S	S	num=s|gen=f	4	prep
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	veniva	venire	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	in	in	E	E	_	2	comp_loc
+5	mente	mente	S	S	num=s|gen=f	4	prep
+6	una	uno	R	RI	num=s|gen=f	8	det
+7	stranissima	strano	A	A	num=s|gen=f	8	mod
+8	canzone	canzone	S	S	num=s|gen=f	2	subj
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	borghesi	borghese	S	S	num=p|gen=n	3	subj
+3	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	tutti	tutto	P	PI	num=p|gen=m	8	subj
+5	dei	di	E	EA	num=p|gen=m	8	comp
+6	porci	porco	S	S	num=p|gen=m	8	subj
+7	più	più	B	B	_	8	mod
+8	sono	essere	V	V	num=p|per=3|mod=i|ten=p	3	conj
+9	grassi	grasso	A	A	num=p|gen=m	8	pred
+
+1	più	più	B	B	_	2	mod
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	lerci	lercio	A	A	num=p|gen=m	2	pred
+4	più	più	B	B	_	5	mod
+5	son	son	V	V	num=p|per=3|mod=i|ten=p	3	mod_rel
+6	lerci	lerci	S	S	num=p|gen=m	5	obj
+7	e	e	C	CC	_	5	con
+8	più	più	B	B	_	10	mod
+9	c'	ci	P	PC	num=n|gen=n	8	comp
+10	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	5	conj
+11	i	il	R	RD	num=p|gen=m	12	det
+12	milioni	milione	S	S	num=p|gen=m	10	obj
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	borghesi	borghese	S	S	num=p|gen=n	3	subj
+3	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	tutti	tutto	P	PI	num=p|gen=m	3	obj
+
+1	Quand'	Quand'	S	SP	_	2	subj
+2	ero	essere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+3	piccolo	piccolo	A	A	num=s|gen=m	5	mod
+4	non	non	B	BN	_	5	neg
+5	stavo	stare	V	V	num=s|per=1|mod=i|ten=i	2	pred
+6	mica	mica	B	B	_	5	mod
+7	bene	bene	B	B	_	5	mod
+
+1	ero	essere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+2	anche	anche	B	B	_	3	mod
+3	molto	molto	B	B	_	4	mod
+4	magro	magro	A	A	num=s|gen=m	1	pred
+5	avevo	avere	V	V	num=s|per=1|mod=i|ten=i	1	conj
+6	sempre	sempre	B	B	_	5	mod
+7	qualche	qualche	D	DI	num=s|gen=n	8	mod
+8	allucinazione	allucinazione	S	S	num=s|gen=f	5	obj
+
+1	e	e	C	CC	_	7	con
+2	quando	quando	C	CS	_	7	mod
+3	andavo	andare	V	V	num=s|per=1|mod=i|ten=i	7	mod
+4	a	a	E	E	_	3	comp
+5	scuola	scuola	S	S	num=s|gen=f	4	prep
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	clit
+7	ricordo	ricordare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+8	di	di	E	E	_	7	comp
+9	quel	quello	D	DD	num=s|gen=m	11	mod
+10	vecchio	vecchio	A	A	num=s|gen=m	11	mod
+11	professore	professore	S	S	num=s|gen=m	8	prep
+
+1	bravissima	bravo	A	A	num=s|gen=f	2	mod
+2	persona	persona	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	parlava	parlare	V	V	num=s|per=3|mod=i|ten=i	2	mod_rel
+5	in	in	E	E	_	4	comp
+6	latino	latino	S	S	num=s|gen=m	5	prep
+7	ore	ora	S	S	num=p|gen=f	4	obj
+8	e	e	C	CC	_	7	con
+9	ore	ora	S	S	num=p|gen=f	7	conj
+
+1	Dopo	dopo	E	E	_	9	comp_temp
+2	un	uno	R	RI	num=s|gen=m	6	det
+3	pò	pò	B	B	_	2	concat
+4	che	che	C	CS	_	3	concat
+5	lo	il	R	RD	num=s|gen=m	6	det
+6	guardavo	guardare	V	V	num=s|per=1|mod=i|ten=i	1	prep
+7	mi	mi	P	PC	num=s|per=1|gen=n	6	clit
+8	si	si	P	PC	num=n|per=3|gen=n	9	clit
+9	trasformava	trasformare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+
+1	si	si	P	PC	num=n|per=3|gen=n	3	clit
+2	la	il	R	RD	num=s|gen=f	3	det
+3	bocca	bocca	S	S	num=s|gen=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	chiudeva	chiudere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+6	stretta	stringere	V	V	num=s|mod=p|gen=f	10	mod
+7	lo	il	R	RD	num=s|gen=m	8	det
+8	sguardo	sguardo	S	S	num=s|gen=m	10	subj
+9	si	si	P	PC	num=n|per=3|gen=n	10	clit
+10	bloccava	bloccare	V	V	num=s|per=3|mod=i|ten=i	5	arg
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	colore	colore	S	S	num=s|gen=m	3	subj
+3	scompariva	scomparire	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	fermo	fermo	A	A	num=s|gen=m	3	mod
+5	immobile	immobile	A	A	num=s|gen=n	4	mod
+6	di	di	E	E	_	4	comp
+7	pietra	pietra	S	S	num=s|gen=f	6	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	tutto	tutto	P	PI	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	pietra	pietra	S	S	num=s|gen=f	3	prep
+5	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	3	con
+2	io	io	P	PE	num=s|per=1|gen=n	3	subj
+3	vedevo	vedere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+4	già	già	B	B	_	3	mod
+5	il	il	R	RD	num=s|gen=m	7	det
+6	suo	suo	A	AP	num=s|gen=m	7	mod
+7	busto	busto	S	S	num=s|gen=m	3	obj
+8	davanti	davanti	B	B	_	9	mod
+9	ad	ad	E	E	_	3	comp
+10	un'	uno	R	RI	num=s|gen=f	11	det
+11	aiuola	aiuola	S	S	num=s|gen=f	9	prep
+
+1	con	con	E	E	_	0	_
+2	su	su	E	E	_	1	comp
+3	scritto	scritto	S	S	num=s|gen=m	2	prep
+4	prof.	prof.	S	SA	_	5	mod
+5	Malipiero	Malipiero	S	SP	_	3	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	vita	vita	S	S	num=s|gen=f	5	mod
+8	per	per	E	E	_	7	comp
+9	la	il	R	RD	num=s|gen=f	10	det
+10	scuola	scuola	S	S	num=s|gen=f	8	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	chissà	chissà	B	B	_	1	concat
+3	perché	perché	C	CS	_	2	concat
+4	anche	anche	B	B	_	5	mod
+5	durante	durante	E	E	_	3	comp_temp
+6	questa	questo	D	DD	num=s|gen=f	7	mod
+7	allucinazione	allucinazione	S	S	num=s|gen=f	5	prep
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	veniva	venire	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	in	in	E	E	_	2	comp_loc
+5	mente	mente	S	S	num=s|gen=f	4	prep
+6	una	uno	R	RI	num=s|gen=f	8	det
+7	stranissima	strano	A	A	num=s|gen=f	8	mod
+8	canzone	canzone	S	S	num=s|gen=f	2	subj
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	borghesi	borghese	S	S	num=p|gen=n	3	subj
+3	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	tutti	tutto	P	PI	num=p|gen=m	8	subj
+5	dei	di	E	EA	num=p|gen=m	8	comp
+6	porci	porco	S	S	num=p|gen=m	8	subj
+7	più	più	B	B	_	8	mod
+8	sono	essere	V	V	num=p|per=3|mod=i|ten=p	3	conj
+9	grassi	grasso	A	A	num=p|gen=m	8	pred
+
+1	più	più	B	B	_	2	mod
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	lerci	lercio	A	A	num=p|gen=m	2	pred
+4	più	più	B	B	_	5	mod
+5	son	son	V	V	num=p|per=3|mod=i|ten=p	3	mod_rel
+6	lerci	lerci	S	S	num=p|gen=m	5	obj
+7	più	più	B	B	_	9	mod
+8	ci	ci	P	PC	num=p|per=1|gen=n	9	comp_ind
+9	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	6	mod_rel
+10	i	il	R	RD	num=p|gen=m	11	det
+11	milioni	milione	S	S	num=p|gen=m	9	obj
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	borghesi	borghese	S	S	num=p|gen=n	3	subj
+3	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	tutti	tutto	P	PI	num=p|gen=m	3	obj
+
+1	Adesso	adesso	B	B	_	5	mod_temp
+2	che	che	C	CS	_	1	concat
+3	son	son	D	DE	num=n|gen=n	4	mod
+4	grande	grande	A	A	num=s|gen=n	5	mod
+5	ringrazio	ringraziare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+6	il	il	R	RD	num=s|gen=m	7	det
+7	Signore	Signore	S	SP	_	5	obj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	passato	passare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	disturbo	disturbo	S	S	num=s|gen=m	3	mod_temp
+
+1	senza	senza	E	E	_	3	comp
+2	bisogno	bisogno	S	S	num=s|gen=m	1	prep
+3	neanche	neanche	B	B	_	4	mod
+4	del	di	E	EA	num=s|gen=m	0	ROOT
+5	dottore	dottore	S	S	num=s|gen=m	4	prep
+
+1	non	non	B	BN	_	4	neg
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+3	più	più	B	B	_	4	mod
+4	ammalato	ammalare	V	V	num=s|mod=p|gen=m	0	_
+
+1	non	non	B	BN	_	2	neg
+2	capisco	capire	V	V	num=s|per=1|mod=i|ten=p	6	ROOT
+3	cosa	cosa	P	PQ	num=s|gen=n	6	obj
+4	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+5	abbia	avere	V	VA	num=s|per=3|mod=c|ten=p	6	aux
+6	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+7	bene	bene	B	B	_	6	mod
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	5	aux
+2	anche	anche	B	B	_	3	mod
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	ingrassato	ingrassare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	non	non	B	BN	_	4	neg
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+3	più	più	B	B	_	4	mod
+4	avuto	avere	V	V	num=s|mod=p|gen=m	0	_
+5	neanche	neanche	B	B	_	4	mod
+6	un'	uno	R	RI	num=s|gen=f	7	det
+7	allucinazione	allucinazione	S	S	num=s|gen=f	4	obj
+
+1	Mio	mio	A	AP	num=s|gen=m	2	mod
+2	figlio	figlio	S	S	num=s|gen=m	0	ROOT
+
+1	mio	mio	A	AP	num=s|gen=m	2	mod
+2	figlio	figlio	S	S	num=s|gen=m	4	subj
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	preoccupa	preoccupare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	4	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	così	così	B	B	_	3	mod
+3	magro	magro	A	A	num=s|gen=m	1	pred
+4	e	e	C	CC	_	1	con
+5	poi	poi	B	B	_	1	mod
+
+1	e	e	C	CC	_	3	con
+2	poi	poi	B	B	_	3	mod
+3	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	sempre	sempre	B	B	_	5	mod
+5	delle	di	E	EA	num=p|gen=f	3	comp
+6	strane	strano	A	A	num=p|gen=f	7	mod
+7	allucinazioni	allucinazione	S	S	num=p|gen=f	5	prep
+
+1	ogni	ogni	D	DI	num=s|gen=n	4	mod
+2	tanto	tanto	B	B	_	1	mod
+3	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	4	modal
+4	lì	lì	B	B	_	6	mod_loc
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+6	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	e	e	C	CC	_	6	con
+8	canta	cantare	V	V	num=s|per=3|mod=i|ten=p	6	conj
+
+1	canta	cantare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	canzone	canzone	S	S	num=s|gen=f	1	obj
+4	stranissima	strano	A	A	num=s|gen=f	3	mod
+
+1	che	che	C	CS	_	0	ROOT
+2	io	io	P	PE	num=s|per=1|gen=n	6	subj
+3	non	non	B	BN	_	6	neg
+4	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	6	aux
+5	mai	mai	B	B	_	6	mod_temp
+6	sentito	sentire	V	V	num=s|mod=p|gen=m	1	sub
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	borghesi	borghese	S	S	num=p|gen=n	3	subj
+3	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	tutti	tutto	P	PI	num=p|gen=m	3	obj
+5	dei	di	E	EA	num=p|gen=m	4	comp
+6	porci	porco	S	S	num=p|gen=m	5	prep
+
+1	più	più	B	B	_	2	mod
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	grassi	grasso	A	A	num=p|gen=m	2	pred
+4	e	e	C	CC	_	2	con
+5	più	più	B	B	_	6	mod
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	conj
+7	lerci	lercio	A	A	num=p|gen=m	6	pred
+
+1	più	più	B	B	_	2	mod
+2	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	lerci	lerci	S	S	num=p|gen=m	2	obj
+4	e	e	C	CC	_	2	con
+5	più	più	B	B	_	7	mod
+6	c'	ci	P	PC	num=n|gen=n	5	comp
+7	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	2	conj
+8	i	il	R	RD	num=p|gen=m	9	det
+9	milioni	milione	S	S	num=p|gen=m	7	obj
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	borghesi	borghese	S	S	num=p|gen=n	3	subj
+3	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	tutti	tutto	P	PI	num=p|gen=m	3	obj
+
+1	mah	mah	I	I	_	0	_
+

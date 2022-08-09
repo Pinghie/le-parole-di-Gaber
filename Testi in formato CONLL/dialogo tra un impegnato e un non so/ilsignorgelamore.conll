@@ -1,0 +1,250 @@
+1	Le	le	P	PC	num=n|per=3|gen=f	2	comp_ind
+2	chiedo	chiedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	scusa	scusare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	prego	pregare	V	V	num=s|per=1|mod=i|ten=p	6	subj
+5	non	non	B	BN	_	6	neg
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+7	niente	niente	B	B	_	6	mod
+
+1	potremmo	potere	V	VM	num=p|per=1|mod=d|ten=p	3	modal
+2	anche	anche	B	B	_	3	mod
+3	dar-	dare	V	V	mod=f	0	ROOT
+4	ci	ci	P	PC	num=p|per=1|gen=n	3	obj
+5	del	di	E	EA	num=s|gen=m	3	comp
+6	tu	tu	P	PE	num=s|per=2|gen=n	5	prep
+
+1	sei	sei	N	N	_	0	ROOT
+2	così	così	B	B	_	3	mod
+3	vera	vero	A	A	num=s|gen=f	1	mod
+4	e	e	C	CC	_	1	con
+5	anche	anche	B	B	_	6	mod
+6	intelligente	intelligente	A	A	num=s|gen=n	1	mod
+
+1	come	come	C	CS	_	0	ROOT
+2	vorrei	volere	V	VM	num=s|per=1|mod=d|ten=p	3	modal
+3	conoscer-	conoscere	V	V	mod=f	1	sub
+4	ti	ti	P	PC	num=s|per=2|gen=n	3	clit
+5	di	di	E	E	_	3	comp
+6	più	più	B	B	_	5	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	poi	poi	B	B	_	1	mod
+3	e	e	C	CC	_	2	con
+4	poi	poi	B	B	_	2	conj
+5	e	e	C	CC	_	2	con
+6	poi	poi	B	B	_	2	conj
+
+1	Come	come	E	E	_	0	ROOT
+2	sei	sei	N	N	_	1	concat
+3	bella	bello	A	A	num=s|gen=f	2	mod
+4	come	come	E	E	_	2	concat
+5	sei	sei	N	N	_	4	concat
+6	bella	bello	A	A	num=s|gen=f	1	prep
+
+1	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	tanto	tanto	D	DI	num=s|gen=m	3	mod
+3	bisogno	bisogno	S	S	num=s|gen=m	1	obj
+4	di	di	E	E	_	3	comp
+5	te	te	P	PE	num=s|per=2|gen=n	4	prep
+
+1	tu	tu	P	PE	num=s|per=2|gen=n	0	ROOT
+2	sei	sei	N	N	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	donna	donna	S	S	num=s|gen=f	1	ROOT
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	mia	mio	A	AP	num=s|gen=f	7	mod
+7	vita	vita	S	S	num=s|gen=f	5	prep
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	clit
+2	chiedo	chiedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	arg
+4	stare	stare	V	V	mod=f	3	prep
+5	con	con	E	E	_	4	comp
+6	me	me	P	PE	num=s|per=1|gen=n	5	prep
+
+1	perché	perché	C	CS	_	0	ROOT
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	clit
+3	amo	amare	V	V	num=s|per=1|mod=i|ten=p	1	sub
+4	perché	perché	C	CS	_	6	mod
+5	ti	ti	P	PC	num=s|per=2|gen=n	6	clit
+6	amo	amare	V	V	num=s|per=1|mod=i|ten=p	3	conj
+
+1	ma	ma	C	CC	_	3	con
+2	com'	come	B	B	_	3	mod
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	bella	bello	A	A	num=s|gen=f	3	pred
+5	la	il	R	RD	num=s|gen=f	6	det
+6	vita	vita	S	S	num=s|gen=f	3	subj
+7	in	in	E	E	_	3	comp
+8	due	due	N	N	_	7	prep
+
+1	Ti	ti	P	PC	num=s|per=2|gen=n	6	clit
+2	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	6	modal
+3	bene	bene	B	B	_	6	mod
+4	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+5	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	6	aux
+6	affezionato	affezionare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	ma	ma	C	CC	_	5	con
+2	a	a	E	E	_	5	comp
+3	volte	volta	S	S	num=p|gen=f	2	prep
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	clit
+5	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	_
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	pò	pò	B	B	_	5	obj
+8	giù	giù	B	B	_	5	con
+
+1	no	no	B	BN	_	4	neg
+2	no	no	B	BN	_	4	neg
+3	non	non	B	BN	_	4	neg
+4	faccio	fare	V	VM	num=s|per=1|mod=i|ten=p	0	_
+5	scene	scena	S	S	num=p|gen=f	4	obj
+
+1	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+2	sempre	sempre	B	B	_	3	mod
+3	sopportato	sopportare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	ma	ma	C	CC	_	5	con
+2	da	da	E	E	_	5	comp_temp
+3	tempo	tempo	S	S	num=s|gen=m	2	prep
+4	non	non	B	BN	_	5	neg
+5	parliamo	parlare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+6	quasi	quasi	B	B	_	5	mod
+7	più	più	B	B	_	5	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	poi	poi	B	B	_	1	mod
+3	e	e	C	CC	_	2	con
+4	poi	poi	B	B	_	2	conj
+
+1	e	e	C	CC	_	18	con
+2	poi	poi	B	B	_	18	mod
+3	quando	quando	C	CS	_	18	mod
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	comp
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	3	sub
+6	i	il	R	RD	num=p|gen=m	7	det
+7	figli	figlio	S	S	num=p|gen=m	5	subj
+8	,	,	F	FF	_	3	punc
+9	non	non	B	BN	_	18	neg
+10	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	18	modal
+11	,	,	F	FF	_	10	con
+12	i	il	R	RD	num=p|gen=m	14	det
+13	nostri	nostro	A	AP	num=p|gen=m	14	mod
+14	genitori	genitore	S	S	num=p|gen=m	10	conj
+15	,	,	F	FF	_	10	con
+16	beh	beh	I	I	_	17	mod
+17	quello	quello	P	PD	num=s|gen=m	18	subj
+18	sarebbe	essere	V	V	num=s|per=3|mod=d|ten=p	0	ROOT
+19	il	il	R	RD	num=s|gen=m	20	det
+20	meno	meno	B	B	_	18	pred
+21	,	,	F	FF	_	18	con
+22	si	si	P	PC	num=n|per=3|gen=n	25	clit
+23	si	si	P	PC	num=n|per=3|gen=n	25	clit
+24	lo	lo	P	PC	num=s|per=3|gen=m	25	obj
+25	so	sapere	V	V	num=s|per=1|mod=i|ten=p	18	conj
+26	è	essere	V	V	num=s|per=3|mod=i|ten=p	25	arg
+27	dura	duro	A	A	num=s|gen=f	26	pred
+28	,	,	F	FF	_	26	con
+29	gli	il	R	RD	num=p|gen=m	30	det
+30	amici	amico	S	S	num=p|gen=m	26	subj
+31	la	il	R	RD	num=s|gen=f	32	det
+32	gente	gente	S	S	num=s|gen=f	30	mod
+33	il	il	R	RD	num=s|gen=m	34	det
+34	lavoro	lavoro	S	S	num=s|gen=m	32	mod
+35	,	,	F	FF	_	38	punc
+36	anche	anche	B	B	_	38	mod
+37	il	il	R	RD	num=s|gen=m	38	det
+38	lavoro	lavoro	S	S	num=s|gen=m	34	mod
+39	si	si	P	PC	num=n|per=3|gen=n	38	clit
+40	,	,	F	FF	_	38	punc
+41	non	non	B	BN	_	43	neg
+42	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	43	modal
+43	lasciar-	lasciare	V	V	mod=f	34	mod_rel
+44	ci	ci	P	PC	num=p|per=1|gen=n	43	obj
+45	,	,	F	FF	_	43	con
+46	e	e	C	CC	_	43	con
+47	allora	allora	B	B	_	48	mod
+48	niente	niente	B	B	_	43	conj
+49	.	.	F	FS	_	18	punc
+
+1	Continuare	continuare	V	V	mod=f	0	ROOT
+2	così	così	B	B	_	1	mod
+3	,	,	F	FF	_	1	con
+4	continuare	continuare	V	V	mod=f	1	conj
+5	così	così	B	B	_	4	mod
+6	per	per	E	E	_	4	comp
+7	i	il	R	RD	num=p|gen=m	8	det
+8	figli	figlio	S	S	num=p|gen=m	6	prep
+9	per	per	E	E	_	8	comp
+10	tutti	tutto	P	PI	num=p|gen=m	9	prep
+11	,	,	F	FF	_	1	con
+12	la	il	R	RD	num=s|gen=f	13	det
+13	risata	risata	S	S	num=s|gen=f	1	obj
+14	davanti	davanti	B	B	_	15	mod
+15	agli	al	E	EA	num=p|gen=m	13	comp
+16	altri	altro	A	A	num=p|gen=m	15	prep
+17	tutto	tutto	T	T	num=s|gen=m	18	mod
+18	tranquillo	tranquillo	A	A	num=s|gen=m	19	mod
+19	regolare	regolare	A	A	num=s|gen=n	15	mod
+20	,	,	F	FF	_	19	con
+21	il	il	R	RD	num=s|gen=m	22	det
+22	tradimento	tradimento	S	S	num=s|gen=m	19	conj
+23	piccolo	piccolo	A	A	num=s|gen=m	22	mod
+24	borghese	borghese	A	A	num=s|gen=n	19	conj
+25	la	il	R	RD	num=s|gen=f	26	det
+26	falsità	falsità	S	S	num=n|gen=f	19	conj
+27	,	,	F	FF	_	19	con
+28	la	il	R	RD	num=s|gen=f	29	det
+29	commedia	commedia	S	S	num=s|gen=f	19	conj
+30	la	il	R	RD	num=s|gen=f	31	det
+31	meschinità	meschinità	S	S	num=n|gen=f	19	conj
+32	e	e	C	CC	_	19	con
+33	poi	poi	B	B	_	19	conj
+34	e	e	C	CC	_	19	con
+35	poi	poi	B	B	_	19	conj
+36	e	e	C	CC	_	16	con
+37	poi	poi	B	B	_	16	conj
+
+1	Com'	come	B	B	_	0	_
+2	eri	eri	B	B	_	3	mod
+3	bella	bello	A	A	num=s|gen=f	1	mod
+4	com'	come	B	B	_	3	mod
+5	eri	eri	B	B	_	6	mod
+6	bella	bello	A	A	num=s|gen=f	3	mod
+
+1	avevo	avere	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+2	bisogno	bisogno	S	S	num=s|gen=m	1	obj
+3	di	di	E	E	_	2	comp
+4	te	te	P	PE	num=s|per=2|gen=n	3	prep
+
+1	eri	eri	B	B	_	3	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	donna	donna	S	S	num=s|gen=f	0	ROOT
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	mia	mio	A	AP	num=s|gen=f	6	mod
+6	vita	vita	S	S	num=s|gen=f	4	prep
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	chiesto	chiedere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	di	di	E	E	_	3	arg
+5	stare	stare	V	V	mod=f	4	prep
+6	con	con	E	E	_	5	comp
+7	me	me	P	PE	num=s|per=1|gen=n	6	prep
+
+1	perché	perché	C	CS	_	0	ROOT
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	clit
+3	amavo	amare	V	V	num=s|per=1|mod=i|ten=i	1	sub
+4	perché	perché	C	CS	_	3	mod
+5	ti	ti	P	PC	num=s|per=2|gen=n	6	comp_ind
+6	amavo	amare	V	V	num=s|per=1|mod=i|ten=i	4	sub
+
+1	ma	ma	C	CC	_	3	con
+2	com'	come	B	B	_	3	mod
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	bella	bello	A	A	num=s|gen=f	3	pred
+5	la	il	R	RD	num=s|gen=f	6	det
+6	vita	vita	S	S	num=s|gen=f	3	subj
+7	in	in	E	E	_	3	comp
+8	due	due	N	N	_	7	prep
+

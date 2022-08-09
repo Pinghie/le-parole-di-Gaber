@@ -1,0 +1,369 @@
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	mastino	mastino	S	S	num=s|gen=m	0	ROOT
+3	,	,	F	FF	_	5	punc
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	mastino	mastino	S	S	num=s|gen=m	2	mod
+6	nero	nero	A	A	num=s|gen=m	5	mod
+7	lucido	lucido	A	A	num=s|gen=m	8	mod
+8	metallico	metallico	A	A	num=s|gen=m	5	mod
+9	,	,	F	FF	_	5	punc
+10	un	uno	R	RI	num=s|gen=m	11	det
+11	cane	cane	S	S	num=s|gen=m	2	conj
+12	mastino	mastino	S	S	num=s|gen=m	11	mod
+13	,	,	F	FF	_	14	punc
+14	con	con	E	E	_	11	comp
+15	un	uno	R	RI	num=s|gen=m	16	det
+16	occhio	occhio	S	S	num=s|gen=m	14	prep
+17	solo	solo	A	A	num=s|gen=m	16	mod
+18	vitreo	vitreo	A	A	num=s|gen=m	16	mod
+19	in	in	E	E	_	18	comp
+20	mezzo	mezzo	S	S	num=s|gen=m	19	prep
+21	alla	al	E	EA	num=s|gen=f	20	comp
+22	fronte	fronte	S	S	num=s|gen=n	21	prep
+23	.	.	F	FS	_	2	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	3	subj
+3	schiaccia	schiacciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	bottone	bottone	S	S	num=s|gen=m	3	obj
+6	,	,	F	FF	_	7	punc
+7	dall'	da	E	EA	num=s|gen=n	3	comp
+8	occhio	occhio	S	S	num=s|gen=m	7	prep
+9	del	di	E	EA	num=s|gen=m	8	comp
+10	mastino	mastino	S	S	num=s|gen=m	9	prep
+11	parte	parte	S	S	num=s|gen=f	10	mod
+12	un	uno	R	RI	num=s|gen=m	13	det
+13	fascio	fascio	S	S	num=s|gen=m	3	pred
+14	di	di	E	E	_	13	comp
+15	luce	luce	S	S	num=s|gen=f	14	prep
+16	,	,	F	FF	_	17	punc
+17	intensa	intenso	A	A	num=s|gen=f	13	mod
+18	verdastra	verdastro	A	A	num=s|gen=f	17	mod
+19	,	,	F	FF	_	17	con
+20	elettrica	elettrico	S	S	num=s|gen=f	17	conj
+21	.	.	F	FS	_	3	punc
+
+1	Pssss	Pssss	S	SP	_	2	mod
+2	Pssss	Pssss	S	SP	_	0	ROOT
+3	Pssss	Pssss	S	SP	_	2	mod
+
+1	Avvolti	avvolgere	V	V	num=p|mod=p|gen=m	4	mod
+2	in	in	E	E	_	1	comp
+3	lucidi	lucido	S	S	num=p|gen=m	2	prep
+4	mantelli	mantello	S	S	num=p|gen=m	0	ROOT
+
+1	guanti	guanto	S	S	num=p|gen=m	0	ROOT
+2	di	di	E	E	_	1	comp
+3	pelle	pelle	S	S	num=s|gen=f	2	prep
+4	sciarpa	sciarpa	S	S	num=s|gen=f	3	mod
+5	nera	nero	A	A	num=s|gen=f	4	mod
+
+1	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	4	aux
+2	le	il	R	RD	num=p|gen=f	3	det
+3	facce	faccia	S	S	num=p|gen=f	1	obj
+4	mascherate	mascherare	V	V	num=p|mod=p|gen=f	0	ROOT
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	scarpe	scarpa	S	S	num=p|gen=f	0	ROOT
+3	a	a	E	E	_	2	comp
+4	punta	punta	S	S	num=s|gen=f	3	prep
+5	lucidate	lucidare	V	V	num=p|mod=p|gen=f	2	mod
+
+1	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	nascosti	nascosto	A	A	num=p|gen=m	0	ROOT
+3	nella	in	E	EA	num=s|gen=f	2	comp
+4	sera	sera	S	S	num=s|gen=f	3	prep
+
+1	Non	non	B	BN	_	2	neg
+2	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	niente	niente	B	B	_	2	mod
+4	stanno	stare	V	V	num=p|per=3|mod=i|ten=p	2	conj
+5	fermi	fermo	A	A	num=p|gen=m	4	pred
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	alle	al	E	EA	num=p|gen=f	1	pred
+3	porte	porta	S	S	num=p|gen=f	2	prep
+4	di	di	E	E	_	3	comp_loc
+5	Milano	Milano	S	SP	_	4	prep
+
+1	con	con	E	E	_	0	ROOT
+2	dei	di	E	EA	num=p|gen=m	1	prep
+3	grossissimi	grosso	A	A	num=p|gen=m	4	mod
+4	mastini	mastino	S	S	num=p|gen=m	2	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	stan	stan	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	seduti	sedere	V	V	num=p|mod=p|gen=m	2	pred
+4	ai	al	E	EA	num=p|gen=m	3	comp
+5	loro	loro	A	AP	num=n|gen=n	6	mod
+6	piedi	piede	S	S	num=p|gen=m	4	prep
+
+1	e	e	C	CC	_	3	con
+2	loro	loro	P	PE	num=p|per=3|gen=n	3	subj
+3	tengono	tenere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	per	per	E	E	_	3	comp
+5	mano	mano	S	S	num=s|gen=f	4	prep
+
+1	Han	Han	S	SP	_	4	mod
+2	circondato	circondare	V	V	num=s|mod=p|gen=m	1	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	città	città	S	S	num=n|gen=f	0	ROOT
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	stan	stan	S	S	num=p|gen=f	0	ROOT
+3	guardando	guardare	V	V	mod=g	2	mod
+4	da	da	E	E	_	3	comp
+5	lontano	lontano	B	B	_	4	prep
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	imponenti	imponente	A	A	num=p|gen=n	1	pred
+3	e	e	C	CC	_	1	con
+4	silenziosi	silenzioso	A	A	num=p|gen=m	1	conj
+
+1	chi	chi	P	PR	num=n|gen=n	0	_
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	4	aux
+3	chi	chi	P	PR	num=n|gen=n	4	subj
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	mod_rel
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	laureati	laureato	S	S	num=p|gen=m	0	ROOT
+3	e	e	C	CC	_	2	con
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	studiosi	studioso	S	S	num=p|gen=m	2	conj
+
+1	E	e	C	CC	_	4	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	Italia	Italia	S	SP	_	4	subj
+4	giocava	giocare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+5	alle	al	E	EA	num=p|gen=f	4	comp
+6	carte	carta	S	S	num=p|gen=f	5	prep
+
+1	e	e	C	CC	_	2	con
+2	parlava	parlare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	di	di	E	E	_	2	comp
+4	calcio	calcio	S	S	num=s|gen=m	3	prep
+5	nei	in	E	EA	num=p|gen=m	2	comp_loc
+6	bar	bar	S	S	num=n|gen=m	5	prep
+
+1	e	e	C	CC	_	4	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	Italia	Italia	S	SP	_	4	subj
+4	rideva	ridere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+5	e	e	C	CC	_	4	con
+6	cantava	cantare	V	V	num=s|per=3|mod=i|ten=i	4	conj
+
+1	Pssss	Pssss	S	SP	_	2	mod
+2	Pssss	Pssss	S	SP	_	0	ROOT
+3	Pssss	Pssss	S	SP	_	2	mod
+
+1	Ora	ora	B	B	_	3	mod_temp
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	muovono	muovere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	sicuri	sicuro	A	A	num=p|gen=m	3	mod
+
+1	coi	con	E	EA	num=p|gen=m	4	comp
+2	loro	loro	A	AP	num=n|gen=n	3	mod
+3	volti	volto	S	S	num=p|gen=m	1	prep
+4	mascherati	mascherare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	sguardi	sguardo	S	S	num=p|gen=m	0	ROOT
+3	fissi	fisso	A	A	num=p|gen=m	2	mod
+4	minacciosi	minaccioso	A	A	num=p|gen=m	2	mod
+
+1	vengono	venire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	avanti	avanti	B	B	_	1	mod
+3	silenziosi	silenzioso	A	A	num=p|gen=m	1	mod
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	passi	passo	S	S	num=p|gen=m	0	_
+3	lenti	lento	A	A	num=p|gen=m	2	mod
+4	cadenzati	cadenzati	A	A	num=p|gen=m	2	mod
+
+1	Portano	portare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	strane	strano	A	A	num=p|gen=f	3	mod
+3	borse	borsa	S	S	num=p|gen=f	1	obj
+4	nere	nero	A	A	num=p|gen=f	3	mod
+
+1	piene	pieno	A	A	num=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	oggetti	oggetto	S	S	num=p|gen=m	2	prep
+4	misteriosi	misterioso	A	A	num=p|gen=m	3	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	senza	senza	E	E	_	1	comp
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	ombra	ombra	S	S	num=s|gen=f	2	prep
+5	di	di	E	E	_	4	comp
+6	paura	paura	S	S	num=s|gen=f	5	prep
+
+1	stanno	stare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	occupando	occupare	V	V	mod=g	1	mod
+3	i	il	R	RD	num=p|gen=m	4	det
+4	punti	punto	S	S	num=p|gen=m	2	obj
+5	chiave	chiave	S	S	num=s|gen=f	2	obj
+
+1	tengono	tenere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	in	in	E	E	_	1	comp
+3	pugno	pugno	S	S	num=s|gen=m	2	prep
+4	la	il	R	RD	num=s|gen=f	5	det
+5	questura	questura	S	S	num=s|gen=f	1	obj
+
+1	Dagli	da	E	EA	num=p|gen=m	0	ROOT
+2	occhi	occhio	S	S	num=p|gen=m	1	prep
+3	chiari	chiaro	A	A	num=p|gen=m	2	mod
+4	dei	di	E	EA	num=p|gen=m	2	comp
+5	mastini	mastino	S	S	num=p|gen=m	4	prep
+
+1	parte	parte	S	S	num=s|gen=f	3	mod
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	luce	luce	S	S	num=s|gen=f	0	ROOT
+4	molto	molto	B	B	_	5	mod
+5	intensa	intenso	A	A	num=s|gen=f	3	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	lascia	lasciare	V	V	num=s|per=3|mod=i|ten=p	0	_
+3	tutti	tutto	P	PI	num=p|gen=m	2	obj
+4	ipnotizzati	ipnotizzare	V	V	num=p|mod=p|gen=m	2	mod
+
+1	chi	chi	P	PR	num=n|gen=n	0	_
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	4	aux
+3	chi	chi	P	PR	num=n|gen=n	4	subj
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	mod_rel
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	intellighenzia	intellighenzia	S	S	num=s|gen=f	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	scienziati	scienziato	S	S	num=p|gen=m	2	mod
+
+1	E	e	C	CC	_	4	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	Italia	Italia	S	SP	_	4	subj
+4	giocava	giocare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+5	alle	al	E	EA	num=p|gen=f	4	comp
+6	carte	carta	S	S	num=p|gen=f	5	prep
+
+1	e	e	C	CC	_	2	con
+2	parlava	parlare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	di	di	E	E	_	2	comp
+4	calcio	calcio	S	S	num=s|gen=m	3	prep
+5	nei	in	E	EA	num=p|gen=m	2	comp_loc
+6	bar	bar	S	S	num=n|gen=m	5	prep
+
+1	e	e	C	CC	_	4	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	Italia	Italia	S	SP	_	4	subj
+4	rideva	ridere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+5	e	e	C	CC	_	4	con
+6	cantava	cantare	V	V	num=s|per=3|mod=i|ten=i	4	conj
+
+1	Ora	ora	B	B	_	3	mod_temp
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	muovono	muovere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	3	mod
+5	in	in	E	E	_	3	comp
+6	fretta	fretta	S	S	num=s|gen=f	5	prep
+
+1	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	moltissimi	molto	A	A	num=p|gen=m	3	mod
+3	alleati	alleato	S	S	num=p|gen=m	1	obj
+
+1	hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	occupato	occupare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	anche	anche	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	Rai	Rai	S	SP	_	2	obj
+
+1	le	il	R	RD	num=p|gen=f	3	det
+2	grandi	grande	A	A	num=p|gen=n	3	mod
+3	industrie	industria	S	S	num=p|gen=f	0	ROOT
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	operai	operaio	S	S	num=p|gen=m	3	mod
+
+1	anche	anche	B	B	_	3	mod
+2	le	il	R	RD	num=p|gen=f	3	det
+3	scuole	scuola	S	S	num=p|gen=f	0	ROOT
+4	e	e	C	CC	_	3	con
+5	i	il	R	RD	num=p|gen=m	6	det
+6	sindacati	sindacato	S	S	num=p|gen=m	3	conj
+
+1	Ora	ora	B	B	_	3	mod_temp
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	tolgono	togliere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	i	il	R	RD	num=p|gen=m	5	det
+5	mantelli	mantello	S	S	num=p|gen=m	3	obj
+
+1	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	già	già	B	B	_	3	mod
+3	sicuri	sicuro	A	A	num=p|gen=m	1	mod
+4	di	di	E	E	_	3	arg
+5	aver	avere	V	VA	mod=f	6	aux
+6	vinto	vincere	V	V	num=s|mod=p|gen=m	4	prep
+
+1	anche	anche	B	B	_	3	mod
+2	le	il	R	RD	num=p|gen=f	3	det
+3	maschere	maschera	S	S	num=p|gen=f	0	ROOT
+4	van	van	A	A	num=p|gen=f	3	mod
+5	giù	giù	B	B	_	3	mod
+
+1	ormai	ormai	B	B	_	5	mod
+2	non	non	B	BN	_	5	neg
+3	ne	ne	P	PC	num=n|gen=n	5	comp
+4	han	han	V	VA	num=s|per=1|mod=i|ten=p	5	aux
+5	bisogno	bisogno	S	S	num=s|gen=m	0	ROOT
+6	più	più	B	B	_	5	mod
+
+1	son	son	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+2	già	già	B	B	_	3	mod
+3	seduti	sedere	V	V	num=p|mod=p|gen=m	0	ROOT
+4	in	in	E	E	_	3	comp
+5	parlamento	parlamento	S	S	num=s|gen=m	4	prep
+
+1	Ora	ora	B	B	_	4	mod_temp
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	possono	potere	V	VM	num=p|per=3|mod=i|ten=p	4	modal
+4	vedere	vedere	V	V	mod=f	0	ROOT
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	razza	razza	S	S	num=s|gen=f	1	pred
+4	superiore	superiore	A	A	num=s|gen=n	3	mod
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	bellissimi	bello	A	A	num=p|gen=m	1	pred
+3	e	e	C	CC	_	1	con
+4	hitleriani	hitleriano	A	A	num=p|gen=m	1	conj
+
+1	chi	chi	P	PR	num=n|gen=n	0	_
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	4	aux
+3	chi	chi	P	PR	num=n|gen=n	4	subj
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	mod_rel
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	i	il	R	RD	num=p|gen=m	3	det
+3	tecnocrati	tecnocrate	S	S	num=p|gen=m	1	pred
+4	italiani	italiano	A	A	num=p|gen=m	3	mod
+
+1	Ein	Ein	S	SW	num=n|gen=n	0	concat
+2	zwei	zwei	S	SW	num=n|gen=n	1	concat
+3	ein	ein	S	SW	num=n|gen=n	1	concat
+4	zwei	zwei	S	SW	num=n|gen=n	1	concat
+
+1	Alles	Alles	S	SP	_	0	ROOT
+2	kaputt	kaputt	A	A	num=n|gen=n	1	mod
+
+1	E	e	C	CC	_	4	con
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	Italia	Italia	S	SP	_	4	subj
+4	giocava	giocare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+5	alle	al	E	EA	num=p|gen=f	4	comp
+6	carte	carta	S	S	num=p|gen=f	5	prep
+
+1	e	e	C	CC	_	2	con
+2	parlava	parlare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	di	di	E	E	_	2	comp
+4	calcio	calcio	S	S	num=s|gen=m	3	prep
+5	nei	in	E	EA	num=p|gen=m	2	comp_loc
+6	bar	bar	S	S	num=n|gen=m	5	prep
+

@@ -1,0 +1,329 @@
+1	Beh	beh	I	I	_	0	ROOT
+2	cos'	cosa	P	PQ	num=s|gen=n	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	ROOT
+4	quella	quello	D	DD	num=s|gen=f	5	mod
+5	faccia	faccia	S	S	num=s|gen=f	3	pred
+6	eh	eh	I	I	_	5	mod
+
+1	dai	da	E	EA	num=p|gen=m	0	ROOT
+2	su	su	E	E	_	1	prep
+3	non	non	B	BN	_	5	neg
+4	ne	ne	P	PC	num=n|gen=n	5	comp
+5	facciamo	fare	V	V	num=p|per=1|mod=i|ten=p	2	prep
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	dramma	dramma	S	S	num=s|gen=m	5	obj
+
+1	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+2	che	che	C	CS	_	1	concat
+3	quando	quando	C	CS	_	2	concat
+4	sei	essere	V	VA	num=s|per=2|mod=i|ten=p	5	aux
+5	guarito	guarire	V	V	num=s|mod=p|gen=m	3	sub
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	obj
+2	ridi	ridere	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	sopra	sopra	B	B	_	2	mod
+
+1	Ma	ma	C	CC	_	3	con
+2	cosa	cosa	P	PQ	num=s|gen=n	3	obj
+3	fai	fare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	ma	ma	C	CC	_	3	con
+5	cosa	cosa	P	PQ	num=s|gen=n	6	obj
+6	fai	fare	V	V	num=s|per=2|mod=i|ten=p	3	conj
+
+1	dai	da	E	EA	num=p|gen=m	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	piangere	piangere	V	V	mod=f	1	prep
+
+1	sei	sei	N	N	_	2	mod
+2	peggio	peggio	B	B	_	0	ROOT
+3	d'	di	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	bambino	bambino	S	S	num=s|gen=m	3	prep
+6	.	.	F	FS	_	2	punc
+
+1	Ma	ma	C	CC	_	2	con
+2	guarda	guardare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	2	obj
+5	alla	al	E	EA	num=s|gen=f	2	comp
+6	tua	tuo	A	AP	num=s|gen=f	7	mod
+7	età	età	S	S	num=n|gen=f	5	prep
+
+1	dai	da	E	EA	num=p|gen=m	0	ROOT
+2	finisci-	finire	V	V	num=s|per=2|mod=m|ten=p	1	prep
+3	la	la	P	PC	num=s|per=3|gen=f	1	ROOT
+
+1	che	che	P	PR	num=n|gen=n	6	ROOT
+2	vuoi	volere	V	VM	num=s|per=2|mod=i|ten=p	1	mod_rel
+3	che	che	C	CS	_	2	arg
+4	sappiano	sapere	V	V	num=p|per=3|mod=c|ten=p	3	sub
+5	le	il	R	RD	num=p|gen=f	6	det
+6	suore	suora	S	S	num=p|gen=f	4	subj
+
+1	Ma	ma	C	CC	_	2	con
+2	smetti-	smettere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+3	la	la	P	PC	num=s|per=3|gen=f	2	obj
+4	fissato	fissato	A	A	num=s|gen=m	2	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	chiaro	chiaro	A	A	num=s|gen=m	1	pred
+3	che	che	C	CS	_	1	subj
+4	guarisci	guarire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+
+1	ma	ma	C	CC	_	4	con
+2	che	che	P	PR	num=n|gen=n	4	subj
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	obj
+4	metti	mettere	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+5	in	in	E	E	_	4	comp
+6	mente	mente	S	S	num=s|gen=f	5	prep
+
+1	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	3	ROOT
+2	che	che	D	DE	num=n|gen=n	3	subj
+3	starai	stare	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+4	bene	bene	B	B	_	3	mod
+
+1	Vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	2	mod
+2	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	3	subj
+3	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	0	_
+
+1	andremo	andare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+2	in	in	E	E	_	1	comp
+3	giro	giro	S	S	num=s|gen=m	2	prep
+4	insieme	insieme	B	B	_	1	mod
+
+1	e	e	C	CC	_	2	con
+2	troveremo	trovare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	bosco	bosco	S	S	num=s|gen=m	2	obj
+5	pieno	pieno	A	A	num=s|gen=m	4	mod
+6	di	di	E	E	_	4	comp
+7	animali	animale	S	S	num=p|gen=m	6	prep
+
+1	e	e	C	CC	_	3	con
+2	poi	poi	B	B	_	3	mod
+3	andremo	andare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+4	con	con	E	E	_	3	comp
+5	la	il	R	RD	num=s|gen=f	6	det
+6	barca	barca	S	S	num=s|gen=f	4	prep
+
+1	dove	dove	P	PR	num=n|gen=n	0	_
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mare	mare	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+5	alto	alto	A	A	num=s|gen=m	4	pred
+6	in	in	E	E	_	4	comp
+7	mezzo	mezzo	S	S	num=s|gen=m	6	prep
+8	ai	al	E	EA	num=p|gen=m	4	comp
+9	pescecani	pescecane	S	S	num=p|gen=m	8	prep
+
+1	E	e	C	CC	_	0	ROOT
+2	dopo	dopo	E	E	_	1	comp_temp
+3	stanchi	stanco	A	A	num=p|gen=m	4	mod
+4	morti	morto	S	S	num=p|gen=m	2	prep
+
+1	andremo	andare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+2	fuori	fuori	B	B	_	3	mod
+3	a	a	E	E	_	1	comp
+4	cena	cena	S	S	num=s|gen=f	3	prep
+5	dalla	da	E	EA	num=s|gen=f	1	comp
+6	zia	zia	S	S	num=s|gen=f	5	prep
+7	Morina	Morina	S	SP	_	1	subj
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	farà	fare	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	coniglio	coniglio	S	S	num=s|gen=m	3	subj
+
+1	e	e	C	CC	_	3	con
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	darà	dare	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+4	quel	quello	D	DD	num=s|gen=m	5	mod
+5	vino	vino	S	S	num=s|gen=m	3	subj
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	c'	ci	P	PC	num=n|gen=n	8	comp
+8	ha	avere	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+9	solo	solo	B	B	_	8	mod
+10	lei	lei	P	PE	num=s|per=3|gen=n	8	subj
+
+1	Vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	2	mod
+2	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+2	ubriacheremo	ubriacare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+3	insieme	insieme	B	B	_	2	mod
+
+1	e	e	C	CC	_	2	con
+2	canteremo	cantare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	coro	coro	S	S	num=s|gen=m	3	prep
+5	le	il	R	RD	num=p|gen=f	7	det
+6	nostre	nostro	A	AP	num=p|gen=f	7	mod
+7	canzoni	canzone	S	S	num=p|gen=f	2	obj
+
+1	e	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	ci	ci	P	PC	num=n|gen=n	4	comp
+4	butteranno	buttare	V	V	num=p|per=3|mod=i|ten=f	0	ROOT
+5	fuori	fuori	B	B	_	4	mod
+
+1	e	e	C	CC	_	2	con
+2	sveglieremo	svegliare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+3	tutti	tutto	P	PI	num=p|gen=m	4	mod
+4	pieni	pieno	A	A	num=p|gen=m	2	obj
+5	d'	di	E	E	_	4	comp
+6	allegria	allegria	S	S	num=s|gen=f	5	prep
+
+1	Ma	ma	C	CC	_	3	con
+2	cosa	cosa	P	PQ	num=s|gen=n	3	obj
+3	fai	fare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	ma	ma	C	CC	_	3	con
+5	cosa	cosa	P	PQ	num=s|gen=n	6	obj
+6	fai	fare	V	V	num=s|per=2|mod=i|ten=p	3	conj
+
+1	ma	ma	C	CC	_	2	con
+2	piangi	piangere	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	ancora	ancora	B	B	_	2	mod
+4	dai	da	E	EA	num=p|gen=m	2	obj
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	poi	poi	B	B	_	2	mod
+4	tanto	tanto	B	B	_	2	mod
+5	grave	grave	A	A	num=s|gen=n	2	pred
+
+1	Non	non	B	BN	_	2	neg
+2	far	fare	V	V	mod=f	0	ROOT
+3	cosi	coso	S	S	num=p|gen=m	2	obj
+4	dà	dare	V	V	num=s|per=3|mod=i|ten=p	2	mod
+5	retta	retta	S	S	num=s|gen=f	4	obj
+6	a	a	E	E	_	4	comp_ind
+7	me	me	P	PE	num=s|per=1|gen=n	6	prep
+
+1	non	non	B	BN	_	3	neg
+2	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	3	aux
+3	niente	niente	B	B	_	0	ROOT
+
+1	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+2	già	già	B	B	_	3	mod
+3	parlato	parlare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	col	con	E	EA	num=s|gen=m	3	comp
+5	dottore	dottore	S	S	num=s|gen=m	4	prep
+
+1	Ti	ti	P	PC	num=s|per=2|gen=n	2	clit
+2	senti	sentire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	arg
+4	morire	morire	V	V	mod=f	3	prep
+
+1	ma	ma	C	CC	_	5	con
+2	via	via	I	I	_	5	mod
+3	che	che	D	DQ	num=n|gen=n	4	mod
+4	cosa	cosa	S	S	num=s|gen=f	5	obj
+5	dici	dire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+
+1	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+2	che	che	C	CS	_	1	comp
+3	domattina	domattina	B	B	_	2	sub
+
+1	starai	stare	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+2	senz'	senza	E	E	_	1	comp
+3	altro	altro	P	PI	num=s|gen=m	2	prep
+4	meglio	meglio	B	B	_	1	mod
+
+1	Vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	2	mod
+2	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	3	subj
+3	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	0	_
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	obj
+2	porterò	portare	V	V	num=s|per=1|mod=i|ten=f	0	ROOT
+3	a	a	E	E	_	2	arg
+4	ballare	ballare	V	V	mod=f	3	prep
+
+1	e	e	C	CC	_	3	con
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	farò	fare	V	V	num=s|per=1|mod=i|ten=f	0	ROOT
+4	sentire	sentire	V	V	mod=f	3	arg
+5	in	in	E	E	_	4	comp
+6	forma	forma	S	S	num=s|gen=f	5	prep
+7	come	come	C	CS	_	4	comp
+8	allora	allora	B	B	_	7	concat
+
+1	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+2	le	il	R	RD	num=p|gen=f	4	det
+3	nostre	nostro	A	AP	num=p|gen=f	4	mod
+4	mogli	moglie	S	S	num=p|gen=f	1	obj
+5	a	a	E	E	_	1	comp
+6	casa	casa	S	S	num=s|gen=f	5	prep
+
+1	andremo	andare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+2	in	in	E	E	_	1	comp
+3	giro	giro	S	S	num=s|gen=m	2	prep
+4	soli	solo	A	A	num=p|gen=m	1	mod
+5	in	in	E	E	_	4	comp
+6	cerca	cerca	S	S	num=s|gen=f	5	prep
+7	d'	di	E	E	_	6	comp
+8	avventura	avventura	S	S	num=s|gen=f	7	prep
+
+1	E	e	C	CC	_	0	ROOT
+2	come	come	B	B	_	3	mod
+3	da	da	E	E	_	1	ROOT
+4	ragazzi	ragazzo	S	S	num=p|gen=m	3	prep
+
+1	tu	tu	P	PE	num=s|per=2|gen=n	2	subj
+2	sarai	essere	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	migliore	migliore	A	A	num=s|gen=n	2	pred
+5	e	e	C	CC	_	2	con
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+7	farai	fare	V	V	num=s|per=2|mod=i|ten=f	2	conj
+8	soffrire	soffrire	V	V	mod=f	7	arg
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	ruberai	rubare	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	donna	donna	S	S	num=s|gen=f	2	obj
+
+1	e	e	C	CC	_	3	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	dirai	dire	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+4	ridendo	ridere	V	V	mod=g	3	mod
+5	che	che	C	CS	_	4	arg
+6	ami	amare	V	V	num=s|per=2|mod=i|ten=p	5	sub
+7	solo	solo	B	B	_	6	mod
+8	lei	lei	P	PE	num=s|per=3|gen=n	6	obj
+
+1	Vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+2	Vedrai	Vedrai	B	B	_	1	mod
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+2	ubriacheremo	ubriacare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+3	insieme	insieme	B	B	_	2	mod
+
+1	e	e	C	CC	_	2	con
+2	canteremo	cantare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+3	in	in	E	E	_	2	comp
+4	coro	coro	S	S	num=s|gen=m	3	prep
+5	le	il	R	RD	num=p|gen=f	7	det
+6	nostre	nostro	A	AP	num=p|gen=f	7	mod
+7	canzoni	canzone	S	S	num=p|gen=f	2	obj
+
+1	e	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	ci	ci	P	PC	num=n|gen=n	4	comp
+4	butteranno	buttare	V	V	num=p|per=3|mod=i|ten=f	0	ROOT
+5	fuori	fuori	B	B	_	4	mod
+
+1	e	e	C	CC	_	2	con
+2	sveglieremo	svegliare	V	V	num=p|per=1|mod=i|ten=f	0	ROOT
+3	tutti	tutto	P	PI	num=p|gen=m	4	mod
+4	pieni	pieno	A	A	num=p|gen=m	2	obj
+5	d'	di	E	E	_	4	comp
+6	allegria	allegria	S	S	num=s|gen=f	5	prep
+
+1	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+2	....	....	F	FS	_	1	punc
+3	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+4	....	....	F	FS	_	3	punc
+5	vedrai	vedere	V	V	num=s|per=2|mod=i|ten=f	0	ROOT
+6	....	....	B	B	_	5	mod
+
