@@ -1,0 +1,86 @@
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	accuso	accusare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	accuso	accusare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	umanità	umanità	S	S	num=s|gen=f	2	obj
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	accuso	accusare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	le	il	R	RD	num=p|gen=f	5	det
+4	grandi	grande	A	A	num=p|gen=n	5	mod
+5	potenze	potenza	S	S	num=p|gen=f	2	obj
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	sfruttano	sfruttare	V	V	num=p|per=3|mod=i|ten=p	5	mod_rel
+8	i	il	R	RD	num=p|gen=m	10	det
+9	piccoli	piccolo	A	A	num=p|gen=m	10	mod
+10	stati	stato	S	S	num=p|gen=m	7	obj
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	accuso	accusare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	autorità	autorità	S	S	num=n|gen=f	2	obj
+5	il	il	R	RD	num=s|gen=m	6	det
+6	potere	potere	S	S	num=s|gen=m	2	obj
+7	non	non	B	BN	_	8	neg
+8	democratico	democratico	A	A	num=s|gen=m	6	mod
+
+1	accuso	accusare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	democrazia	democrazia	S	S	num=s|gen=f	1	obj
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	accuso	accusare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	governo	governo	S	S	num=s|gen=m	2	obj
+5	gli	il	R	RD	num=p|gen=m	6	det
+6	intrighi	intrigo	S	S	num=p|gen=m	4	mod
+7	gli	il	R	RD	num=p|gen=m	8	det
+8	imbrogli	imbroglio	S	S	num=p|gen=m	6	mod
+9	la	il	R	RD	num=s|gen=f	10	det
+10	corruzione	corruzione	S	S	num=s|gen=f	2	obj
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	accuso	accusare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	stampa	stampa	S	S	num=s|gen=f	2	obj
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	accuso	accusare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	televisione	televisione	S	S	num=s|gen=f	2	obj
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	accuso	accusare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	mondo	mondo	S	S	num=s|gen=m	2	obj
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	canzone	canzone	S	S	num=s|gen=f	5	prep
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	accuso	accusare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	Sanremo	Sanremo	S	SP	_	2	obj
+
+1	A	a	E	E	_	10	comp
+2	proposito	proposito	S	S	num=s|gen=m	1	prep
+3	,	,	F	FF	_	1	punc
+4	se	se	C	CS	_	10	mod
+5	telefonano	telefonare	V	V	num=p|per=3|mod=i|ten=p	4	sub
+6	quelli	quello	P	PD	num=p|gen=m	5	subj
+7	del	di	E	EA	num=s|gen=m	6	comp
+8	festival	festival	S	S	num=n|gen=m	7	prep
+9	,	,	F	FF	_	4	punc
+10	di-	dire	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+11	gli	gli	P	PC	num=s|per=3|gen=m	10	obj
+12	che	che	P	PR	num=n|gen=n	11	prep
+13	accetto	accetto	A	A	num=s|gen=m	12	mod
+14	comunque	comunque	B	B	_	13	mod
+15	,	,	F	FF	_	18	punc
+16	la	il	R	RD	num=s|gen=f	17	det
+17	canzone	canzone	S	S	num=s|gen=f	18	subj
+18	è	essere	V	V	num=s|per=3|mod=i|ten=p	13	mod_rel
+19	già	già	B	B	_	20	mod
+20	pronta	pronto	A	A	num=s|gen=f	18	pred
+21	.	.	F	FS	_	10	punc
+

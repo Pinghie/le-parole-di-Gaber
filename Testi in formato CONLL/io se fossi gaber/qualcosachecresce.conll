@@ -1,0 +1,476 @@
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+4	dentro	dentro	B	B	_	3	mod
+5	e	e	C	CC	_	3	con
+6	fuori	fuori	B	B	_	1	conj
+
+1	da	da	E	E	_	5	comp
+2	soli	sole	S	S	num=p|gen=m	1	prep
+3	non	non	B	BN	_	5	neg
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	mai	mai	B	B	_	5	mod
+7	soli	solo	A	A	num=p|gen=m	5	pred
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	comp
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	altri	altro	P	PI	num=p|gen=m	2	subj
+5	nei	in	E	EA	num=p|gen=m	2	comp
+6	nostri	nostro	A	AP	num=p|gen=m	7	mod
+7	pensieri	pensiero	S	S	num=p|gen=m	5	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	notte	notte	S	S	num=s|gen=f	0	ROOT
+3	io	io	P	PE	num=s|per=1|gen=n	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	clit
+5	addormento	addormentare	V	V	num=s|per=1|mod=i|ten=p	2	mod_rel
+6	e	e	C	CC	_	5	con
+7	sogno	sognare	V	V	num=s|per=1|mod=i|ten=p	5	conj
+8	i	il	R	RD	num=p|gen=m	9	det
+9	sogni	sogno	S	S	num=p|gen=m	0	ROOT
+
+1	degli	di	E	EA	num=p|gen=m	0	ROOT
+2	altri	altro	A	A	num=p|gen=m	3	mod
+3	sognatori	sognatore	S	S	num=p|gen=m	1	prep
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	che	che	C	CS	_	0	ROOT
+2	quasi	quasi	B	B	_	5	mod
+3	non	non	B	BN	_	5	neg
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	riconosce	riconoscere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	comp
+4	dismisura	dismisura	S	S	num=s|gen=f	3	prep
+
+1	Un	uno	R	RI	num=s|gen=m	3	det
+2	grosso	grosso	A	A	num=s|gen=m	3	mod
+3	libro	libro	S	S	num=s|gen=m	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	quadro	quadro	S	S	num=s|gen=m	3	mod
+6	a	a	E	E	_	5	comp
+7	olio	olio	S	S	num=s|gen=m	6	prep
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	film	film	S	S	num=n|gen=m	3	mod
+
+1	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	grande	grande	A	A	num=s|gen=n	4	mod
+4	agglomerato	agglomerato	S	S	num=s|gen=m	1	pred
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	escrescenza	escrescenza	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	cultura	cultura	S	S	num=s|gen=f	3	prep
+
+1	qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	fino	fino	E	E	_	2	mod
+2	a	a	E	E	_	0	ROOT
+3	sorpassare	sorpassare	V	V	mod=f	2	prep
+4	il	il	R	RD	num=s|gen=m	6	det
+5	proprio	proprio	A	AP	num=s|gen=m	6	mod
+6	scopo	scopo	S	S	num=s|gen=m	3	obj
+
+1	fino	fino	E	E	_	4	mod
+2	a	a	E	E	_	1	concat
+3	non	non	B	BN	_	4	neg
+4	aver	avere	V	V	mod=f	0	ROOT
+5	più	più	B	B	_	4	mod
+6	senso	senso	S	S	num=s|gen=m	4	obj
+
+1	fino	fino	E	E	_	4	mod
+2	a	a	E	E	_	1	concat
+3	non	non	B	BN	_	4	neg
+4	aver	avere	V	V	mod=f	0	ROOT
+5	più	più	B	B	_	4	mod
+6	nome	nome	S	S	num=s|gen=m	4	obj
+
+1	fino	fino	E	E	_	0	_
+2	all'	al	E	EA	num=s|gen=n	1	concat
+3	estinzione	estinzione	S	S	num=s|gen=f	1	prep
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	fondazioni	fondazione	S	S	num=p|gen=f	0	ROOT
+3	a	a	E	E	_	2	comp
+4	fin	fin	E	E	_	3	prep
+5	di	di	E	E	_	4	comp
+6	bene	bene	S	S	num=s|gen=m	5	prep
+7	le	il	R	RD	num=p|gen=f	8	det
+8	facce	faccia	S	S	num=p|gen=f	4	prep
+9	serene	sereno	A	A	num=p|gen=f	8	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	psiche	psiche	S	S	num=s|gen=f	0	ROOT
+3	le	il	R	RD	num=p|gen=f	4	det
+4	ricerche	ricerca	S	S	num=p|gen=f	2	mod
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	assistenza	assistenza	S	S	num=s|gen=f	2	mod
+
+1	un'	uno	R	RI	num=s|gen=f	2	det
+2	estasi	estasi	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	gran	gran	A	A	num=n|gen=n	5	mod
+5	contatto	contatto	S	S	num=s|gen=m	3	prep
+6	e	e	C	CC	_	3	con
+7	di	di	E	E	_	3	conj
+8	presenza	presenza	S	S	num=s|gen=f	7	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	solitudine	solitudine	S	S	num=s|gen=f	3	subj
+3	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	troppo	troppo	B	B	_	5	mod
+5	male	male	B	B	_	3	mod
+6	al	a	E	EA	num=s|gen=m	3	comp
+7	cuore	cuore	S	S	num=s|gen=m	6	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	finalmente	finalmente	B	B	_	1	mod
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	era	essere	V	V	num=s|per=3|mod=i|ten=i	1	pred
+5	del	di	E	EA	num=s|gen=m	4	pred
+6	gran	gran	A	A	num=n|gen=n	5	prep
+7	comunicare	comunicare	V	V	mod=f	0	ROOT
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	4	subj
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+4	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	grosso	grosso	A	A	num=s|gen=m	4	pred
+
+1	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	tutto	tutto	D	DI	num=s|gen=m	5	mod
+3	anche	anche	B	B	_	5	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	sesso	sesso	S	S	num=s|gen=m	1	subj
+6	onnipresente	onnipresente	A	A	num=s|gen=n	5	mod
+7	esagerato	esagerato	A	A	num=s|gen=m	5	mod
+
+1	un	uno	R	RI	num=s|gen=m	3	det
+2	grosso	grosso	A	A	num=s|gen=m	3	mod
+3	sesso	sesso	S	S	num=s|gen=m	0	ROOT
+4	sempre	sempre	B	B	_	5	mod
+5	più	più	B	B	_	6	mod
+6	asessuato	asessuato	A	A	num=s|gen=m	3	mod
+
+1	senza	senza	E	E	_	0	ROOT
+2	pudore	pudore	S	S	num=s|gen=m	1	prep
+3	senza	senza	E	E	_	1	comp
+4	il	il	R	RD	num=s|gen=m	5	det
+5	gusto	gusto	S	S	num=s|gen=m	3	prep
+6	dell'	di	E	EA	num=s|gen=n	5	comp
+7	errore	errore	S	S	num=s|gen=m	6	prep
+
+1	qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	va	andare	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+4	oltre	oltre	E	E	_	3	comp
+5	qualcosa	qualcosa	P	PI	num=s|gen=n	4	prep
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	sesso	sesso	S	S	num=s|gen=m	0	ROOT
+3	ingigantito	ingigantire	V	V	num=s|mod=p|gen=m	2	mod
+4	nel	in	E	EA	num=s|gen=m	3	comp
+5	suo	suo	A	AP	num=s|gen=m	6	mod
+6	rito	rito	S	S	num=s|gen=m	4	prep
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	milioni	milione	S	S	num=p|gen=m	1	pred
+3	milioni	milione	S	S	num=p|gen=m	2	mod
+4	e	e	C	CC	_	1	con
+5	milioni	milione	S	S	num=p|gen=m	1	conj
+6	di	di	E	E	_	5	comp
+7	seni	seno	S	S	num=p|gen=m	6	prep
+8	di	di	E	E	_	7	comp
+9	culi	culo	S	S	num=p|gen=m	8	prep
+10	e	e	C	CC	_	6	con
+11	di	di	E	E	_	6	conj
+12	cosce	coscia	S	S	num=p|gen=f	11	prep
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	fino	fino	E	E	_	2	mod
+2	a	a	E	E	_	0	ROOT
+3	sorpassare	sorpassare	V	V	mod=f	2	prep
+4	il	il	R	RD	num=s|gen=m	6	det
+5	proprio	proprio	A	AP	num=s|gen=m	6	mod
+6	scopo	scopo	S	S	num=s|gen=m	3	obj
+
+1	fino	fino	E	E	_	4	mod
+2	a	a	E	E	_	1	concat
+3	non	non	B	BN	_	4	neg
+4	aver	avere	V	V	mod=f	0	ROOT
+5	più	più	B	B	_	4	mod
+6	senso	senso	S	S	num=s|gen=m	4	obj
+
+1	fino	fino	E	E	_	4	mod
+2	a	a	E	E	_	1	concat
+3	non	non	B	BN	_	4	neg
+4	aver	avere	V	V	mod=f	0	ROOT
+5	più	più	B	B	_	4	mod
+6	nome	nome	S	S	num=s|gen=m	4	obj
+
+1	fino	fino	E	E	_	0	_
+2	all'	al	E	EA	num=s|gen=n	1	concat
+3	estinzione	estinzione	S	S	num=s|gen=f	1	prep
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	tutto	tutto	P	PI	num=s|gen=m	1	obj
+3	da	da	E	E	_	1	arg
+4	morire	morire	V	V	mod=f	3	prep
+
+1	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	tutto	tutto	P	PI	num=s|gen=m	1	obj
+3	senza	senza	E	E	_	1	comp
+4	senso	senso	S	S	num=s|gen=m	3	prep
+5	dalla	da	E	EA	num=s|gen=f	1	comp
+6	moda	moda	S	S	num=s|gen=f	5	prep
+7	alle	al	E	EA	num=p|gen=f	1	comp
+8	tastiere	tastiera	S	S	num=p|gen=f	7	prep
+
+1	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	grammo	grammo	S	S	num=s|gen=m	1	obj
+4	di	di	E	E	_	3	comp
+5	eroina	eroina	S	S	num=s|gen=f	4	prep
+6	e	e	C	CC	_	1	con
+7	centuplica	centuplicare	V	V	num=s|per=3|mod=i|ten=p	1	conj
+8	se	se	C	CS	_	7	mod
+9	stesso	stesso	A	A	num=s|gen=m	8	sub
+
+1	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	pollo	pollo	S	S	num=s|gen=m	1	obj
+4	in	in	E	E	_	3	comp
+5	gelatina	gelatina	S	S	num=s|gen=f	4	prep
+6	bianco	bianco	A	A	num=s|gen=m	5	mod
+7	come	come	E	E	_	1	comp
+8	il	il	R	RD	num=s|gen=m	9	det
+9	gesso	gesso	S	S	num=s|gen=m	7	prep
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	4	subj
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+4	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	5	arg
+5	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	bene	bene	B	B	_	0	ROOT
+
+1	come	come	E	E	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	salse	salsa	S	S	num=p|gen=f	1	prep
+4	americane	americano	A	A	num=p|gen=f	3	mod
+
+1	senza	senza	E	E	_	0	comp
+2	misura	misura	S	S	num=s|gen=f	1	prep
+3	senza	senza	E	E	_	1	comp
+4	distinzione	distinzione	S	S	num=s|gen=f	3	prep
+
+1	senza	senza	E	E	_	0	comp
+2	nemmeno	nemmeno	B	B	_	1	prep
+3	più	più	B	B	_	5	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	bisogno	bisogno	S	S	num=s|gen=m	2	prep
+6	dell'	di	E	EA	num=s|gen=n	5	comp
+7	organizzazione	organizzazione	S	S	num=s|gen=f	6	prep
+
+1	Politica	politica	S	S	num=s|gen=f	0	ROOT
+2	del	di	E	EA	num=s|gen=m	1	comp
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	coinvolgimento	coinvolgimento	S	S	num=s|gen=m	2	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	senso	senso	S	S	num=s|gen=m	0	ROOT
+3	dell'	di	E	EA	num=s|gen=n	2	comp
+4	Europa	Europa	S	SP	_	3	prep
+5	nelle	in	E	EA	num=p|gen=f	2	comp
+6	masse	massa	S	S	num=p|gen=f	5	prep
+
+1	recupero	recuperare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	del	di	E	EA	num=s|gen=m	1	comp
+3	sentimento	sentimento	S	S	num=s|gen=m	2	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	uccelli	uccello	S	S	num=p|gen=m	1	ROOT
+3	di	di	E	E	_	2	comp
+4	rovo	rovo	S	S	num=s|gen=m	3	prep
+5	come	come	C	CS	_	6	mod
+6	se	se	C	CS	_	2	mod
+7	piovesse	piovere	V	V	num=s|per=3|mod=c|ten=i	6	sub
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+4	qualcosa	qualcosa	P	PI	num=s|gen=n	3	obj
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	universo	universo	S	S	num=s|gen=m	0	ROOT
+3	caldo	caldo	A	A	num=s|gen=m	2	mod
+4	persino	persino	B	B	_	5	mod
+5	in	in	E	E	_	2	comp
+6	mezzo	mezzo	S	S	num=s|gen=m	5	prep
+7	al	a	E	EA	num=s|gen=m	2	comp
+8	mare	mare	S	S	num=s|gen=m	7	prep
+
+1	e	e	C	CC	_	2	con
+2	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	5	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	ricatto	ricatto	S	S	num=s|gen=m	2	subj
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	fungo	fungo	S	S	num=s|gen=m	6	prep
+8	nucleare	nucleare	A	A	num=s|gen=n	7	mod
+
+1	E	e	C	CC	_	2	con
+2	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	paura	paura	S	S	num=s|gen=f	2	subj
+5	ma	ma	C	CC	_	2	con
+6	senza	senza	C	CS	_	2	mod
+7	esser	essere	V	V	mod=f	6	sub
+8	più	più	B	B	_	9	mod
+9	paura	paura	S	S	num=s|gen=f	7	pred
+
+1	dobbiamo	dovere	V	VM	num=p|per=1|mod=i|ten=p	2	modal
+2	ringraziare	ringraziare	V	V	mod=f	0	ROOT
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	armi	arma	S	S	num=p|gen=f	0	ROOT
+3	son	son	C	CC	_	2	con
+4	talmente	talmente	B	B	_	5	mod
+5	troppe	troppo	P	PI	num=p|gen=f	2	conj
+6	che	che	C	CS	_	5	comp
+7	la	il	R	RD	num=s|gen=f	8	det
+8	guerra	guerra	S	S	num=s|gen=f	6	sub
+
+1	non	non	B	BN	_	5	neg
+2	sì	sì	B	B	_	5	mod
+3	può	potere	V	VM	num=s|per=3|mod=i|ten=p	5	modal
+4	più	più	B	B	_	5	mod
+5	fare	fare	V	V	mod=f	0	ROOT
+
+1	Migliaia	migliaio	S	S	num=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	neutroni	neutrone	S	S	num=p|gen=m	2	prep
+4	trecentomila	trecentomila	N	N	_	5	mod
+5	tipi	tipo	S	S	num=p|gen=m	3	mod
+
+1	di	di	E	E	_	3	comp
+2	missili	missile	S	S	num=p|gen=m	1	prep
+3	tremendi	tremendo	A	A	num=p|gen=m	0	ROOT
+
+1	ordigni	ordigno	S	S	num=p|gen=m	0	ROOT
+2	della	di	E	EA	num=s|gen=f	1	comp
+3	fantascienza	fantascienza	S	S	num=s|gen=f	2	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	bastano	bastare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	arg
+4	distrugger	distruggere	V	V	mod=f	3	prep
+5	dieci	dieci	N	N	_	4	obj
+6	mondi	mondo	S	S	num=p|gen=m	0	ROOT
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	Qualcosa	qualcosa	P	PI	num=s|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	fino	fino	E	E	_	2	mod
+2	a	a	E	E	_	0	ROOT
+3	sorpassare	sorpassare	V	V	mod=f	2	prep
+4	il	il	R	RD	num=s|gen=m	6	det
+5	proprio	proprio	A	AP	num=s|gen=m	6	mod
+6	scopo	scopo	S	S	num=s|gen=m	3	obj
+
+1	fino	fino	E	E	_	4	mod
+2	a	a	E	E	_	1	concat
+3	non	non	B	BN	_	4	neg
+4	aver	avere	V	V	mod=f	0	ROOT
+5	più	più	B	B	_	4	mod
+6	senso	senso	S	S	num=s|gen=m	4	obj
+
+1	fino	fino	E	E	_	4	mod
+2	a	a	E	E	_	1	concat
+3	non	non	B	BN	_	4	neg
+4	aver	avere	V	V	mod=f	0	ROOT
+5	più	più	B	B	_	4	mod
+6	nome	nome	S	S	num=s|gen=m	4	obj
+
+1	fino	fino	E	E	_	0	_
+2	all'	al	E	EA	num=s|gen=n	1	concat
+3	estinzione	estinzione	S	S	num=s|gen=f	1	prep
+
+1	Più	più	B	B	_	2	mod
+2	reale	reale	A	A	num=s|gen=n	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	reale	reale	A	A	num=s|gen=n	3	prep
+
+1	Più	più	B	B	_	2	mod
+2	reale	reale	A	A	num=s|gen=n	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	reale	reale	A	A	num=s|gen=n	3	prep
+
+1	Più	più	B	B	_	2	mod
+2	reale	reale	A	A	num=s|gen=n	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	reale	reale	A	A	num=s|gen=n	3	prep
+
+1	Più	più	B	B	_	2	mod
+2	reale	reale	A	A	num=s|gen=n	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	reale	reale	A	A	num=s|gen=n	3	prep
+

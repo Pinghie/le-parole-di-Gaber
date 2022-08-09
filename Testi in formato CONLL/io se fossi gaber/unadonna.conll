@@ -1,0 +1,319 @@
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	fasciata	fasciato	A	A	num=s|gen=f	2	mod
+4	in	in	E	E	_	2	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	abito	abito	S	S	num=s|gen=m	4	prep
+7	elegante	elegante	A	A	num=s|gen=n	6	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	custodisce	custodire	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	il	il	R	RD	num=s|gen=m	6	det
+6	bello	bello	A	A	num=s|gen=m	4	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	felice	felice	A	A	num=s|gen=n	2	mod
+4	di	di	E	E	_	2	arg
+5	essere	essere	V	V	mod=f	4	prep
+6	serpente	serpente	A	A	num=s|gen=n	5	pred
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	infelice	infelice	A	A	num=s|gen=n	2	mod
+4	di	di	E	E	_	2	arg
+5	essere	essere	V	V	mod=f	4	prep
+6	questo	questo	P	PD	num=s|gen=m	5	pred
+7	e	e	C	CC	_	4	con
+8	quello	quello	P	PD	num=s|gen=m	4	conj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	2	comp
+4	a	a	E	E	_	3	comp
+5	dispetto	dispetto	S	S	num=s|gen=m	4	prep
+6	degli	di	E	EA	num=p|gen=m	5	comp
+7	uomini	uomo	S	S	num=p|gen=m	6	prep
+
+1	diffida	diffida	S	S	num=s|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	quelle	quello	D	DD	num=p|gen=f	4	mod
+4	cose	cosa	S	S	num=p|gen=f	2	prep
+5	bianche	bianco	A	A	num=p|gen=f	4	mod
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	sono	essere	V	V	num=p|per=3|mod=i|ten=p	5	mod_rel
+8	le	il	R	RD	num=p|gen=f	9	det
+9	stelle	stella	S	S	num=p|gen=f	7	pred
+10	e	e	C	CC	_	9	con
+11	le	il	R	RD	num=p|gen=f	12	det
+12	lune	luna	S	S	num=p|gen=f	9	conj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	cui	cui	P	PR	num=n|gen=n	5	subj
+4	non	non	B	BN	_	5	neg
+5	piace	piacere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+6	la	il	R	RD	num=s|gen=f	7	det
+7	fedeltà	fedeltà	S	S	num=n|gen=f	5	obj
+8	del	di	E	EA	num=s|gen=m	7	comp
+9	cane	cane	S	S	num=s|gen=m	8	prep
+10	.	.	F	FS	_	2	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	nuova	nuovo	A	A	num=s|gen=f	2	mod
+4	appena	appena	B	B	_	5	mod
+5	nata	nascere	V	V	num=s|mod=p|gen=f	2	mod
+
+1	antica	antico	A	A	num=s|gen=f	0	ROOT
+2	e	e	C	CC	_	1	con
+3	dignitosa	dignitoso	A	A	num=s|gen=f	1	conj
+4	come	come	E	E	_	1	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	regina	regina	S	S	num=s|gen=f	4	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	sicura	sicuro	A	A	num=s|gen=f	2	mod
+4	e	e	C	CC	_	2	con
+5	temuta	temere	V	V	num=s|mod=p|gen=f	2	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	volgare	volgare	A	A	num=s|gen=n	2	mod
+4	come	come	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	padrona	padrone	S	S	num=s|gen=f	4	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	così	così	B	B	_	4	mod
+4	sospirata	sospirare	V	V	num=s|mod=p|gen=f	2	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	nasconde	nascondere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	tutto	tutto	P	PI	num=s|gen=m	4	obj
+6	nel	in	E	EA	num=s|gen=m	4	comp
+7	suo	suo	A	AP	num=s|gen=m	9	mod
+8	incomprensibile	incomprensibile	A	A	num=s|gen=n	9	mod
+9	interno	interno	S	S	num=s|gen=m	6	prep
+
+1	e	e	C	CC	_	4	con
+2	che	che	C	CS	_	4	subj
+3	invece	invece	B	B	_	4	mod
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	uno	uno	R	RI	num=s|gen=m	6	det
+6	spirito	spirito	S	S	num=s|gen=m	4	pred
+7	chiaro	chiaro	A	A	num=s|gen=m	6	mod
+8	come	come	E	E	_	6	comp
+9	il	il	R	RD	num=s|gen=m	10	det
+10	giorno	giorno	S	S	num=s|gen=m	8	prep
+11	.	.	F	FS	_	4	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	donna	donna	S	S	num=s|gen=f	2	mod
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	donna	donna	S	S	num=s|gen=f	2	mod
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	talmente	talmente	B	B	_	4	mod
+4	normale	normale	A	A	num=s|gen=n	2	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	rischia	rischiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	arg
+4	sembrare	sembrare	V	V	mod=f	3	prep
+5	originale	originale	A	A	num=s|gen=n	4	pred
+
+1	uno	uno	R	RI	num=s|gen=m	3	det
+2	strano	strano	A	A	num=s|gen=m	3	mod
+3	animale	animale	S	S	num=s|gen=m	0	ROOT
+4	debole	debole	A	A	num=s|gen=n	3	mod
+5	e	e	C	CC	_	3	con
+6	forte	forte	A	A	num=s|gen=n	3	conj
+
+1	in	in	E	E	_	0	ROOT
+2	armonia	armonia	S	S	num=s|gen=f	1	prep
+3	con	con	E	E	_	2	comp
+4	tutto	tutto	D	DI	num=s|gen=m	6	mod
+5	anche	anche	B	B	_	6	mod
+6	con	con	E	E	_	3	comp
+7	la	il	R	RD	num=s|gen=f	8	det
+8	morte	morte	S	S	num=s|gen=f	6	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	così	così	B	B	_	4	mod
+4	generosa	generoso	A	A	num=s|gen=f	2	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	accendere	accendere	V	V	mod=f	4	arg
+6	il	il	R	RD	num=s|gen=m	7	det
+7	fuoco	fuoco	S	S	num=s|gen=m	5	obj
+8	che	che	P	PR	num=n|gen=n	9	subj
+9	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	5	conj
+10	fare	fare	V	V	mod=f	9	arg
+11	l'	il	R	RD	num=s|gen=n	12	det
+12	amore	amore	S	S	num=s|gen=m	10	obj
+
+1	e	e	C	CC	_	0	con
+2	che	che	C	CS	_	1	conj
+3	vuole	volere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	obj
+6	concreto	concreto	A	A	num=s|gen=m	5	mod
+7	come	come	E	E	_	5	comp
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	sognatore	sognatore	S	S	num=s|gen=m	7	prep
+10	.	.	F	FS	_	0	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	donna	donna	S	S	num=s|gen=f	2	mod
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	donna	donna	S	S	num=s|gen=f	2	mod
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	donna	donna	S	S	num=s|gen=f	2	mod
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	donna	donna	S	S	num=s|gen=f	2	mod
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	resiste	resistere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	tenace	tenace	A	A	num=s|gen=n	4	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	diversa	diverso	A	A	num=s|gen=f	2	mod
+4	e	e	C	CC	_	3	con
+5	sempre	sempre	B	B	_	6	mod
+6	uguale	uguale	A	A	num=s|gen=n	3	conj
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	eterna	eterno	A	A	num=s|gen=f	2	mod
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	crede	credere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+6	nella	in	E	EA	num=s|gen=f	5	comp
+7	specie	specie	S	S	num=n|gen=f	6	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	ostina	ostinarsi	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+6	ad	ad	E	E	_	5	arg
+7	essere	essere	V	V	mod=f	6	prep
+8	immortale	immortale	A	A	num=s|gen=n	7	pred
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	non	non	B	BN	_	5	neg
+5	conosce	conoscere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+
+1	quella	quello	P	PD	num=s|gen=f	3	mod
+2	stupida	stupido	A	A	num=s|gen=f	3	mod
+3	emozione	emozione	S	S	num=s|gen=f	0	ROOT
+4	più	più	B	B	_	3	mod
+5	o	o	C	CC	_	4	dis
+6	meno	meno	B	B	_	4	disj
+7	vanitosa	vanitoso	A	A	num=s|gen=f	3	mod
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	7	subj
+4	nei	in	E	EA	num=p|gen=m	7	comp
+5	salotti	salotto	S	S	num=p|gen=m	4	prep
+6	non	non	B	BN	_	7	neg
+7	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+8	la	il	R	RD	num=s|gen=f	9	det
+9	spiritosa	spiritoso	S	S	num=s|gen=f	7	obj
+10	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	0	ROOT
+2	se	se	C	CS	_	1	conj
+3	questo	questo	D	DD	num=s|gen=m	4	mod
+4	bisogno	bisogno	S	S	num=s|gen=m	2	prep
+5	maledetto	maledetto	A	A	num=s|gen=m	4	mod
+
+1	lasciasse	lasciare	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+2	in	in	E	E	_	1	comp
+3	pace	pace	S	S	num=s|gen=f	2	prep
+4	i	il	R	RD	num=p|gen=m	6	det
+5	suoi	suo	A	AP	num=p|gen=m	6	mod
+6	desideri	desiderio	S	S	num=p|gen=m	1	obj
+
+1	e	e	C	CC	_	7	con
+2	se	se	C	CS	_	1	con
+3	non	non	B	BN	_	5	neg
+4	le	le	P	PC	num=n|per=3|gen=f	5	comp_ind
+5	facessero	fare	V	V	num=p|per=3|mod=c|ten=i	2	sub
+6	più	più	B	B	_	5	mod
+7	effetto	effetto	S	S	num=s|gen=m	0	ROOT
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	finti	finto	S	S	num=p|gen=m	0	ROOT
+3	amori	amore	S	S	num=p|gen=m	2	mod
+4	dei	di	E	EA	num=p|gen=m	2	comp
+5	corteggiatori	corteggiatore	S	S	num=p|gen=m	4	prep
+
+1	allora	allora	B	B	_	3	mod
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	clit
+3	saremmo	essere	V	V	num=p|per=1|mod=d|ten=p	0	ROOT
+4	anche	anche	B	B	_	5	mod
+5	noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+6	gli	il	R	RD	num=p|gen=m	7	det
+7	uomini	uomo	S	S	num=p|gen=m	5	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	1	ROOT
+4	di	di	E	E	_	3	comp
+5	donne	donna	S	S	num=p|gen=f	4	prep
+6	talmente	talmente	B	B	_	7	mod
+7	belle	bello	A	A	num=p|gen=f	5	mod
+8	da	da	E	E	_	7	arg
+9	non	non	B	BN	_	10	neg
+10	aver	avere	V	V	mod=f	8	prep
+11	bisogno	bisogno	S	S	num=s|gen=m	10	obj
+
+1	di	di	E	E	_	0	ROOT
+2	uniformar-	uniformare	V	V	mod=f	1	prep
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	all'	al	E	EA	num=s|gen=n	2	comp
+5	immagine	immagine	S	S	num=s|gen=f	4	prep
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	nostro	nostro	A	AP	num=s|gen=m	8	mod
+8	sogno	sogno	S	S	num=s|gen=m	6	prep
+9	.	.	F	FS	_	1	punc
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	donna	donna	S	S	num=s|gen=f	2	mod
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	donna	donna	S	S	num=s|gen=f	2	mod
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	donna	donna	S	S	num=s|gen=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	donna	donna	S	S	num=s|gen=f	2	mod
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	donna	donna	S	S	num=s|gen=f	2	mod
+

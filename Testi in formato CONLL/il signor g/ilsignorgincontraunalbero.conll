@@ -1,0 +1,129 @@
+1	Io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+2	GG	GG	P	PE	num=s|per=1|gen=n	1	mod
+3	vivo	vivo	A	A	num=s|gen=m	2	mod
+4	e	e	C	CC	_	5	con
+5	lavoro	lavoro	S	S	num=s|gen=m	2	conj
+6	a	a	E	E	_	5	comp_loc
+7	Milano	Milano	S	SP	_	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	Lactarius	Lactarius	S	SP	_	3	mod
+3	Gigante	Gigante	S	SP	_	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	albero	albero	S	S	num=s|gen=m	4	pred
+7	secolare	secolare	A	A	num=s|gen=n	6	mod
+8	di	di	E	E	_	6	comp
+9	colore	colore	S	S	num=s|gen=m	8	prep
+10	biancastro	biancastro	A	A	num=s|gen=m	9	mod
+11	,	,	F	FF	_	4	con
+12	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	4	conj
+13	preferibilmente	preferibilmente	B	B	_	12	mod
+14	nei	in	E	EA	num=p|gen=m	12	comp
+15	boschi	bosco	S	S	num=p|gen=m	14	prep
+16	di	di	E	E	_	15	comp
+17	conifere	conifere	S	S	num=p|gen=f	16	prep
+18	e	e	C	CC	_	17	con
+19	latifoglie	latifoglie	S	S	num=p|gen=m	17	conj
+20	.	.	F	FS	_	4	punc
+
+1	Ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	incontrato	incontrare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	albero	albero	S	S	num=s|gen=m	2	obj
+
+1	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	solo	solo	B	B	_	3	mod
+3	in	in	E	E	_	1	pred
+4	mezzo	mezzo	S	S	num=s|gen=m	3	prep
+5	a	a	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	prato	prato	S	S	num=s|gen=m	5	prep
+
+1	allora	allora	B	B	_	4	mod
+2	l'	lo	P	PC	num=s|per=3|gen=n	4	obj
+3	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+4	guardato	guardare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+3	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+4	spaventato	spaventare	V	V	num=s|mod=p|gen=m	0	ROOT
+5	.	.	F	FS	_	4	punc
+
+1	Al	a	E	EA	num=s|gen=m	0	ROOT
+2	di	di	E	E	_	4	comp
+3	là	là	B	B	_	2	prep
+4	dell'	di	E	EA	num=s|gen=n	1	prep
+5	albero	albero	S	S	num=s|gen=m	4	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	uccello	uccello	S	S	num=s|gen=m	0	ROOT
+3	innamorato	innamorare	V	V	num=s|mod=p|gen=m	2	mod
+
+1	continua	continuare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	a	a	E	E	_	1	arg
+3	volare	volare	V	V	mod=f	2	prep
+
+1	per	per	E	E	_	0	ROOT
+2	far-	fare	V	VM	mod=f	1	prep
+3	me	me	P	PC	num=s|per=1|gen=n	4	obj
+4	ricordare	ricordare	V	V	mod=f	2	arg
+5	.	.	F	FS	_	1	punc
+
+1	Ed	e	C	CC	_	0	con
+2	io	io	P	PE	num=s|per=1|gen=n	0	_
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	lavorato	lavorare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	lavorato	lavorare	V	V	num=s|mod=p|gen=m	3	mod
+5	lavorato	lavorare	V	V	num=s|mod=p|gen=m	3	mod
+
+1	ora	ora	B	B	_	3	mod_temp
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	fermo	fermare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	momento	momento	S	S	num=s|gen=m	3	obj
+6	a	a	E	E	_	3	arg
+7	guardare	guardare	V	V	mod=f	6	prep
+
+1	quel	quello	P	PD	num=s|gen=m	0	ROOT
+2	seguir-	seguire	V	V	mod=f	1	mod
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	di	di	E	E	_	2	comp
+5	errori	errore	S	S	num=p|gen=m	4	prep
+6	e	e	C	CC	_	2	con
+7	il	il	R	RD	num=s|gen=m	9	det
+8	mio	mio	A	AP	num=s|gen=m	9	mod
+9	passato	passato	S	S	num=s|gen=m	2	obj
+
+1	e	e	C	CC	_	7	con
+2	quella	quello	D	DD	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	7	obj
+4	che	che	P	PR	num=n|gen=n	7	subj
+5	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+6	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	7	aux
+7	rubato	rubare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	12	arg
+2	tardi	tardi	B	B	_	1	mod
+3	,	,	F	FF	_	4	punc
+4	fra	fra	E	E	_	1	comp
+5	i	il	R	RD	num=p|gen=m	6	det
+6	rami	rame	S	S	num=p|gen=m	4	prep
+7	sul	su	E	EA	num=s|gen=m	6	comp_loc
+8	Ticino	Ticino	S	SP	_	7	prep
+9	,	,	F	FF	_	4	punc
+10	un	uno	R	RI	num=s|gen=m	11	det
+11	beccaccino	beccaccino	S	S	num=s|gen=m	1	pred
+12	sfiora	sfiorare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+13	le	il	R	RD	num=p|gen=f	14	det
+14	foglie	foglia	S	S	num=p|gen=f	12	subj
+15	,	,	F	FF	_	16	punc
+16	travolto	travolgere	V	V	num=s|mod=p|gen=m	14	mod
+17	dagli	da	E	EA	num=p|gen=m	16	comp
+18	spari	sparo	S	S	num=p|gen=m	17	prep
+19	.	.	F	FS	_	12	punc
+

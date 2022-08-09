@@ -1,0 +1,249 @@
+1	Se	se	C	CS	_	3	mod
+2	potessi	potere	V	V	num=s|per=1|mod=c|ten=i	3	modal
+3	cantare	cantare	V	V	mod=f	0	ROOT
+4	davvero	davvero	B	B	_	3	mod
+
+1	canterei	cantare	V	V	num=s|per=1|mod=d|ten=p	0	ROOT
+2	veramente	vero	B	B	_	1	mod
+3	per	per	E	E	_	1	comp
+4	tutti	tutto	P	PI	num=p|gen=m	3	prep
+
+1	canterei	cantare	V	V	num=s|per=1|mod=d|ten=p	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	gioie	gioia	S	S	num=p|gen=f	1	obj
+4	ed	e	C	CC	_	3	con
+5	i	il	R	RD	num=p|gen=m	6	det
+6	lutti	lutto	S	S	num=p|gen=m	3	conj
+
+1	e	e	C	CC	_	5	con
+2	il	il	R	RD	num=s|gen=m	4	det
+3	mio	mio	A	AP	num=s|gen=m	4	mod
+4	canto	canto	S	S	num=s|gen=m	5	subj
+5	sarebbe	essere	V	V	num=s|per=3|mod=d|ten=p	0	ROOT
+6	sincero	sincero	A	A	num=s|gen=m	5	pred
+7	.	.	F	FS	_	5	punc
+
+1	Ma	ma	C	CC	_	7	con
+2	se	se	C	CS	_	7	mod
+3	canto	canto	S	S	num=s|gen=m	2	sub
+4	così	così	B	B	_	3	mod
+5	io	io	P	PE	num=s|per=1|gen=n	7	subj
+6	non	non	B	BN	_	7	neg
+7	piaccio	piacere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	fare	fare	V	V	mod=f	0	ROOT
+3	per	per	E	E	_	2	comp
+4	forza	forza	S	S	num=s|gen=f	3	prep
+5	il	il	R	RD	num=s|gen=m	6	det
+6	pagliaccio	pagliaccio	S	S	num=s|gen=m	2	obj
+7	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	3	con
+2	allora	allora	B	B	_	3	mod
+3	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	chitarra	chitarra	S	S	num=s|gen=f	3	subj
+5	fac-	fare	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+6	ci	ci	P	PC	num=p|per=1|gen=n	5	obj
+7	divertire	divertire	V	V	mod=f	5	arg
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	7	modal
+2	chitarra	chitarra	S	S	num=s|gen=f	1	obj
+3	non	non	B	BN	_	7	neg
+4	far-	fare	V	VM	mod=f	7	modal
+5	ci	ci	P	PC	num=p|per=1|gen=n	4	clit
+6	mai	mai	B	B	_	7	mod_temp
+7	pensare	pensare	V	V	mod=f	0	ROOT
+
+1	al	a	E	EA	num=s|gen=m	0	ROOT
+2	buio	buio	S	S	num=s|gen=m	1	prep
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	paura	paura	S	S	num=s|gen=f	3	prep
+5	al	a	E	EA	num=s|gen=m	4	comp
+6	dubbio	dubbio	S	S	num=s|gen=m	5	prep
+7	alla	al	E	EA	num=s|gen=f	4	comp
+8	censura	censura	S	S	num=s|gen=f	7	prep
+
+1	agli	al	E	EA	num=p|gen=m	0	ROOT
+2	scandali	scandalo	S	S	num=p|gen=m	1	prep
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	fame	fame	S	S	num=s|gen=f	3	prep
+5	all'	al	E	EA	num=s|gen=n	4	comp
+6	uomo	uomo	S	S	num=s|gen=m	5	prep
+7	come	come	E	E	_	6	comp
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	cane	cane	S	S	num=s|gen=m	7	prep
+
+1	schiacciato	schiacciare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	calpestato	calpestare	V	V	num=s|mod=p|gen=m	1	conj
+4	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	3	con
+2	allora	allora	B	B	_	3	mod
+3	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	chitarra	chitarra	S	S	num=s|gen=f	3	subj
+5	fac-	fare	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+6	ci	ci	P	PC	num=p|per=1|gen=n	5	obj
+7	divertire	divertire	V	V	mod=f	5	arg
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	7	modal
+2	chitarra	chitarra	S	S	num=s|gen=f	1	obj
+3	non	non	B	BN	_	7	neg
+4	far-	fare	V	VM	mod=f	7	modal
+5	ci	ci	P	PC	num=p|per=1|gen=n	4	clit
+6	mai	mai	B	B	_	7	mod_temp
+7	pensare	pensare	V	V	mod=f	0	ROOT
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	chitarra	chitarra	S	S	num=s|gen=f	1	obj
+3	mia	mio	A	AP	num=s|gen=f	2	mod
+4	e	e	C	CC	_	1	con
+5	tutti	tutto	P	PI	num=p|gen=m	1	conj
+6	in	in	E	E	_	5	comp
+7	allegria	allegria	S	S	num=s|gen=f	6	prep
+
+1	Se	se	C	CS	_	3	mod
+2	potessi	potere	V	V	num=s|per=1|mod=c|ten=i	3	modal
+3	cantare	cantare	V	V	mod=f	0	ROOT
+4	io	io	P	PE	num=s|per=1|gen=n	3	subj
+5	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	3	arg
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	sarei	essere	V	VA	num=s|per=1|mod=d|ten=p	4	aux
+3	veramente	vero	B	B	_	4	mod
+4	contento	contento	A	A	num=s|gen=m	0	ROOT
+
+1	ed	e	C	CC	_	4	con
+2	il	il	R	RD	num=s|gen=m	3	det
+3	canto	canto	S	S	num=s|gen=m	4	subj
+4	sarebbe	essere	V	V	num=s|per=3|mod=d|ten=p	0	ROOT
+5	qualcosa	qualcosa	P	PI	num=s|gen=n	4	pred
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	chitarra	chitarra	S	S	num=s|gen=f	3	subj
+3	sarebbe	essere	V	V	num=s|per=3|mod=d|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	sposa	sposa	S	S	num=s|gen=f	3	pred
+6	.	.	F	FS	_	3	punc
+
+1	Ma	ma	C	CC	_	5	con
+2	io	io	P	PE	num=s|per=1|gen=n	5	subj
+3	debbo	dovere	V	VM	num=s|per=1|mod=i|ten=p	5	modal
+4	soltanto	soltanto	B	B	_	5	mod
+5	piacere	piacere	V	V	mod=f	0	ROOT
+
+1	divertire	divertire	V	V	mod=f	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	gente	gente	S	S	num=s|gen=f	1	obj
+4	e	e	C	CC	_	1	con
+5	scherzare	scherzare	V	V	mod=f	1	conj
+6	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	3	con
+2	allora	allora	B	B	_	3	mod
+3	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	chitarra	chitarra	S	S	num=s|gen=f	3	obj
+5	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	3	mod
+6	i	il	R	RD	num=p|gen=m	8	det
+7	tuoi	tuo	A	AP	num=p|gen=m	8	mod
+8	accordi	accordo	S	S	num=p|gen=m	5	obj
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	più	più	B	B	_	3	mod
+3	forte	forte	A	A	num=s|gen=n	1	pred
+4	che	che	C	CS	_	1	subj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	diventi	diventare	V	V	num=s|per=3|mod=c|ten=p	4	sub
+7	sordi	sordo	S	S	num=p|gen=m	6	pred
+
+1	tutto	tutto	P	PI	num=s|gen=m	4	subj
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+3	già	già	B	B	_	4	mod
+4	passato	passare	V	V	num=s|mod=p|gen=m	0	_
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+6	già	già	B	B	_	7	mod
+7	dimenticato	dimenticare	V	V	num=s|mod=p|gen=m	4	mod
+
+1	e	e	C	CC	_	5	con
+2	solo	solo	B	B	_	5	mod
+3	chi	chi	P	PR	num=n|gen=n	5	subj
+4	oggi	oggi	B	B	_	5	mod_temp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	buono	buono	A	A	num=s|gen=m	5	pred
+7	domani	domani	B	B	_	8	mod
+8	avrà	avere	V	V	num=s|per=3|mod=i|ten=f	5	conj
+9	il	il	R	RD	num=s|gen=m	10	det
+10	perdono	perdono	S	S	num=s|gen=m	8	obj
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	foglio	foglio	S	S	num=s|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	condono	condono	S	S	num=s|gen=m	3	prep
+5	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	3	con
+2	allora	allora	B	B	_	3	mod
+3	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	chitarra	chitarra	S	S	num=s|gen=f	3	subj
+5	fac-	fare	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+6	ci	ci	P	PC	num=p|per=1|gen=n	5	obj
+7	divertire	divertire	V	V	mod=f	5	arg
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	7	modal
+2	chitarra	chitarra	S	S	num=s|gen=f	1	obj
+3	non	non	B	BN	_	7	neg
+4	far-	fare	V	VM	mod=f	7	modal
+5	ci	ci	P	PC	num=p|per=1|gen=n	4	clit
+6	mai	mai	B	B	_	7	mod_temp
+7	pensare	pensare	V	V	mod=f	0	ROOT
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	chitarra	chitarra	S	S	num=s|gen=f	1	subj
+3	ancora	ancora	B	B	_	1	mod
+4	e	e	C	CC	_	3	con
+5	tutti	tutto	P	PI	num=p|gen=m	3	conj
+6	alla	al	E	EA	num=s|gen=f	1	comp
+7	malora	malora	S	S	num=s|gen=f	6	prep
+
+1	E	e	C	CC	_	3	con
+2	allora	allora	B	B	_	3	mod
+3	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	chitarra	chitarra	S	S	num=s|gen=f	3	subj
+5	fac-	fare	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+6	ci	ci	P	PC	num=p|per=1|gen=n	5	obj
+7	divertire	divertire	V	V	mod=f	5	arg
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	7	modal
+2	chitarra	chitarra	S	S	num=s|gen=f	1	obj
+3	non	non	B	BN	_	7	neg
+4	far-	fare	V	VM	mod=f	7	modal
+5	ci	ci	P	PC	num=p|per=1|gen=n	4	clit
+6	mai	mai	B	B	_	7	mod_temp
+7	pensare	pensare	V	V	mod=f	0	ROOT
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	chitarra	chitarra	S	S	num=s|gen=f	1	subj
+3	forte	forte	A	A	num=s|gen=n	2	mod
+4	i	il	R	RD	num=p|gen=m	6	det
+5	tuoi	tuo	A	AP	num=p|gen=m	6	mod
+6	accordi	accordo	S	S	num=p|gen=m	1	obj
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	più	più	B	B	_	3	mod
+3	forte	forte	A	A	num=s|gen=n	1	pred
+4	che	che	C	CS	_	1	subj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	diventi	diventare	V	V	num=s|per=3|mod=c|ten=p	4	sub
+7	sordi	sordo	S	S	num=p|gen=m	6	pred
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	chitarra	chitarra	S	S	num=s|gen=f	1	obj
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	chitarra	chitarra	S	S	num=s|gen=f	1	obj
+
+1	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	chitarra	chitarra	S	S	num=s|gen=f	1	obj
+3	.	.	F	FS	_	1	punc
+

@@ -1,0 +1,340 @@
+1	Coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	eppure	eppure	B	BN	_	4	neg
+4	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	uomo	uomo	S	S	num=s|gen=m	4	pred
+
+1	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+
+1	Nasce	nascere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fragile	fragile	A	A	num=s|gen=n	1	pred
+3	e	e	C	CC	_	2	con
+4	incerto	incerto	A	A	num=s|gen=m	2	conj
+
+1	poi	poi	B	B	_	0	_
+2	quando	quando	C	CS	_	1	mod
+3	ha	avere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+4	la	il	R	RD	num=s|gen=f	5	det
+5	ragione	ragione	S	S	num=s|gen=f	3	obj
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	nutre	nutrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	comp
+4	soprusi	sopruso	S	S	num=p|gen=m	3	prep
+5	e	e	C	CC	_	3	con
+6	di	di	E	E	_	3	conj
+7	violenza	violenza	S	S	num=s|gen=f	6	prep
+
+1	e	e	C	CC	_	5	con
+2	vive	vivo	A	A	num=p|gen=f	1	conj
+3	e	e	C	CC	_	1	con
+4	non	non	B	BN	_	5	neg
+5	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	il	il	R	RD	num=s|gen=m	7	det
+7	perché	perché	C	CS	_	5	mod
+8	della	di	E	EA	num=s|gen=f	7	comp
+9	sua	suo	A	AP	num=s|gen=f	10	mod
+10	esistenza	esistenza	S	S	num=s|gen=f	8	prep
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+2	così	così	B	B	_	3	mod
+3	compromesso	compromettere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	con	con	E	E	_	0	ROOT
+2	ogni	ogni	D	DI	num=s|gen=n	3	mod
+3	compromesso	compromesso	S	S	num=s|gen=m	1	prep
+
+1	che	che	C	CS	_	8	subj
+2	oramai	oramai	B	B	_	6	mod
+3	più	più	B	B	_	4	mod
+4	nulla	nulla	P	PI	num=s|gen=m	6	subj
+5	né	né	C	CC	_	4	con
+6	sente	sentire	V	V	num=s|per=3|mod=i|ten=p	1	sub
+7	né	né	C	CC	_	6	con
+8	vede	vedere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	il	il	R	RD	num=s|gen=m	3	det
+3	compromesso	compromesso	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	l'	il	R	RD	num=s|gen=n	8	det
+6	unica	unico	A	A	num=s|gen=f	8	mod
+7	sua	suo	A	AP	num=s|gen=f	8	mod
+8	fede	fede	S	S	num=s|gen=f	4	pred
+
+1	Eppure	eppure	C	CC	_	2	con
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	pred
+
+1	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+
+1	Sul	su	E	EA	num=s|gen=m	5	comp
+2	muro	muro	S	S	num=s|gen=m	1	prep
+3	c'	ci	P	PC	num=n|gen=n	5	comp
+4	era	essere	V	VA	num=s|per=3|mod=i|ten=i	5	aux
+5	scritto	scrivere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	alzate-	alzare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	1	clit
+3	il	il	R	RD	num=s|gen=m	4	det
+4	salario	salario	S	S	num=s|gen=m	1	obj
+
+1	l'	lo	P	PC	num=s|per=3|gen=n	3	obj
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	cancellato	cancellare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	grande	grande	A	A	num=s|gen=n	6	mod
+6	cartellone	cartellone	S	S	num=s|gen=m	3	obj
+
+1	con	con	E	E	_	7	comp
+2	scritto	scritto	S	S	num=s|gen=m	1	prep
+3	costa	costa	S	S	num=s|gen=f	2	mod
+4	meno	meno	B	B	_	7	mod
+5	il	il	R	RD	num=s|gen=m	7	det
+6	mio	mio	A	AP	num=s|gen=m	7	mod
+7	sapone	sapone	S	S	num=s|gen=m	0	ROOT
+
+1	Hanno	avere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	arrestato	arrestare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	ragazzo	ragazzo	S	S	num=s|gen=m	2	obj
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	aveva	avere	V	VA	num=s|per=3|mod=i|ten=i	3	aux
+3	rubato	rubare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	tre	tre	N	N	_	5	mod
+5	mele	mela	S	S	num=p|gen=f	3	obj
+
+1	vi	vi	P	PC	num=n|gen=n	2	comp
+2	prego	pregare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	fate	fare	V	V	num=p|per=2|mod=i|ten=p	2	arg
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	di	di	E	E	_	3	comp
+7	beneficenza	beneficenza	S	S	num=s|gen=f	6	prep
+
+1	sarete	essere	V	V	num=p|per=2|mod=i|ten=f	0	ROOT
+2	in	in	E	E	_	1	pred
+3	pace	pace	S	S	num=s|gen=f	2	prep
+4	così	così	B	B	_	1	mod
+5	con	con	E	E	_	1	comp
+6	la	il	R	RD	num=s|gen=f	8	det
+7	vostra	vostro	A	AP	num=s|gen=f	8	mod
+8	coscienza	coscienza	S	S	num=s|gen=f	5	prep
+
+1	Eppure	eppure	C	CC	_	2	con
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	pred
+
+1	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+
+1	In	in	E	E	_	4	comp
+2	ditta	ditta	S	S	num=s|gen=f	1	prep
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	salone	salone	S	S	num=s|gen=m	4	subj
+
+1	lavorano	lavorare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	mille	mille	N	N	_	1	mod
+3	persone	persona	S	S	num=p|gen=f	1	subj
+
+1	per	per	E	E	_	3	comp
+2	me	me	P	PE	num=s|per=1|gen=n	1	prep
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	già	già	B	B	_	5	mod
+5	difficile	difficile	A	A	num=s|gen=n	3	pred
+6	la	il	R	RD	num=s|gen=f	7	det
+7	vita	vita	S	S	num=s|gen=f	3	subj
+8	in	in	E	E	_	7	comp
+9	due	due	N	N	_	8	prep
+
+1	e	e	C	CC	_	2	con
+2	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	prima	prima	B	B	_	8	mod
+5	o	o	C	CC	_	4	dis
+6	poi	poi	B	B	_	4	disj
+7	ci	ci	P	PC	num=p|per=1|gen=n	8	clit
+8	divideremo	dividere	V	V	num=p|per=1|mod=i|ten=f	3	sub
+
+1	Mio	mio	A	AP	num=s|gen=m	2	mod
+2	padre	padre	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	mio	mio	A	AP	num=s|gen=m	3	pred
+5	padre	padre	S	S	num=s|gen=m	3	pred
+
+1	mio	mio	A	AP	num=s|gen=m	2	mod
+2	padre	padre	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	brav'	brav'	S	S	num=s|gen=m	3	pred
+6	uomo	uomo	S	S	num=s|gen=m	5	mod
+
+1	mio	mio	A	AP	num=s|gen=m	2	mod
+2	padre	padre	S	S	num=s|gen=m	3	subj
+3	tratta	trattare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	tutti	tutto	P	PI	num=p|gen=m	3	obj
+5	da	da	E	E	_	3	comp
+6	cretini	cretino	S	S	num=p|gen=m	5	prep
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	vecchi	vecchio	S	S	num=p|gen=m	3	subj
+3	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	ammazzar-	ammazzare	V	V	mod=f	3	arg
+5	li	li	P	PC	num=p|per=3|gen=m	4	obj
+6	da	da	E	E	_	4	comp
+7	bambini	bambino	S	S	num=p|gen=m	6	prep
+8	.	.	F	FS	_	3	punc
+
+1	Eppure	eppure	C	CC	_	2	con
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	pred
+
+1	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	nostro	nostro	A	AP	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	paese	paese	S	S	num=s|gen=m	3	pred
+
+1	fondato	fondare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	sul	su	E	EA	num=s|gen=m	1	comp
+3	lavoro	lavoro	S	S	num=s|gen=m	2	prep
+
+1	e	e	C	CC	_	5	con
+2	anche	anche	B	B	_	3	mod
+3	se	se	C	CS	_	5	mod
+4	potrà	potere	V	VM	num=s|per=3|mod=i|ten=f	5	modal
+5	sembrare	sembrare	V	V	mod=f	0	ROOT
+6	strano	strano	A	A	num=s|gen=m	5	pred
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	più	più	B	B	_	3	mod
+3	apprezzato	apprezzato	A	A	num=s|gen=m	4	pred
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	chi	chi	P	PR	num=n|gen=n	4	subj
+6	lavora	lavorare	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+7	meno	meno	B	B	_	0	ROOT
+
+1	Oggi	oggi	B	B	_	5	mod_temp
+2	nel	in	E	EA	num=s|gen=m	5	comp
+3	mondo	mondo	S	S	num=s|gen=m	2	prep
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	lotta	lottare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	per	per	E	E	_	0	ROOT
+2	dare	dare	V	V	mod=f	1	prep
+3	benessere	benessere	S	S	num=s|gen=m	2	obj
+4	a	a	E	E	_	2	comp_ind
+5	tutti	tutto	P	PI	num=p|gen=m	4	prep
+
+1	ma	ma	C	CC	_	4	con
+2	facilmente	facilmente	B	B	_	4	mod
+3	prima	prima	B	B	_	4	mod
+4	di	di	E	E	_	0	_
+5	accordar-	accordare	V	V	mod=f	4	prep
+6	si	si	P	PC	num=n|per=3|gen=n	5	clit
+
+1	avranno	avere	V	VA	num=p|per=3|mod=i|ten=f	3	aux
+2	già	già	B	B	_	3	mod
+3	finito	finire	V	V	num=s|mod=p|gen=m	0	ROOT
+4	di	di	E	E	_	3	arg
+5	ammazzar-	ammazzare	V	V	mod=f	4	prep
+6	si	si	P	PC	num=n|per=3|gen=n	5	clit
+
+1	Eppure	eppure	C	CC	_	2	con
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	pred
+
+1	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+
+1	Eppure	eppure	C	CC	_	2	con
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	pred
+
+1	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+

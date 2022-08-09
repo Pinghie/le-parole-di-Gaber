@@ -1,0 +1,216 @@
+1	Ad	ad	E	E	_	0	ROOT
+2	esser	essere	V	V	mod=f	1	prep
+3	sincero	sincero	A	A	num=s|gen=m	2	pred
+4	io	io	P	PE	num=s|per=1|gen=n	6	subj
+5	non	non	B	BN	_	6	neg
+6	so	sapere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+
+1	se	se	C	CS	_	0	ROOT
+2	esistono	esistere	V	V	num=p|per=3|mod=i|ten=p	1	sub
+3	le	il	R	RD	num=p|gen=f	4	det
+4	cose	cosa	S	S	num=p|gen=f	2	subj
+
+1	non	non	B	BN	_	2	neg
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	se	se	C	CS	_	2	arg
+4	vanno	andare	V	V	num=p|per=3|mod=i|ten=p	3	sub
+5	male	male	B	B	_	4	mod
+6	o	o	C	CC	_	4	dis
+7	bene	bene	B	B	_	4	mod
+
+1	se	se	C	CS	_	0	ROOT
+2	tutto	tutto	P	PI	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	un'	uno	R	RI	num=s|gen=f	5	det
+5	illusione	illusione	S	S	num=s|gen=f	3	pred
+
+1	Ad	ad	E	E	_	0	ROOT
+2	essere	essere	V	V	mod=f	1	prep
+3	sincero	sincero	A	A	num=s|gen=m	2	pred
+4	io	io	P	PE	num=s|per=1|gen=n	6	subj
+5	non	non	B	BN	_	6	neg
+6	so	sapere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+7	nemmeno	nemmeno	B	B	_	6	mod
+
+1	se	se	C	CS	_	4	mod
+2	anche	anche	B	B	_	4	mod
+3	le	il	R	RD	num=p|gen=f	4	det
+4	persone	persona	S	S	num=p|gen=f	0	ROOT
+
+1	coi	con	E	EA	num=p|gen=m	6	comp
+2	loro	loro	A	AP	num=n|gen=n	3	mod
+3	sentimenti	sentimento	S	S	num=p|gen=m	1	prep
+4	e	e	C	CC	_	3	con
+5	la	il	R	RD	num=s|gen=f	6	det
+6	ragione	ragione	S	S	num=s|gen=f	0	ROOT
+
+1	esistono	esistere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	davvero	davvero	B	B	_	1	mod
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	niente	niente	B	B	_	3	mod
+
+1	ma	ma	C	CC	_	3	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	che	che	C	CS	_	3	ROOT
+5	ogni	ogni	D	DI	num=s|gen=n	6	mod
+6	cosa	cosa	S	S	num=s|gen=f	3	ROOT
+
+1	nell'	in	E	EA	num=s|gen=n	0	ROOT
+2	aria	aria	S	S	num=s|gen=f	1	prep
+3	e	e	C	CC	_	1	con
+4	nella	in	E	EA	num=s|gen=f	1	conj
+5	luce	luce	S	S	num=s|gen=f	4	prep
+
+1	debba	dovere	V	VM	num=s|per=3|mod=c|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	felice	felice	A	A	num=s|gen=n	2	pred
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	niente	niente	B	B	_	3	mod
+
+1	ma	ma	C	CC	_	3	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	che	che	C	CS	_	3	subj
+5	due	due	N	N	_	6	mod
+6	corpi	corpo	S	S	num=p|gen=m	4	sub
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	buio	buio	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	stanza	stanza	S	S	num=s|gen=f	3	prep
+
+1	debba	dovere	V	VM	num=s|per=3|mod=c|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	esistenza	esistenza	S	S	num=s|gen=f	2	pred
+
+1	E	e	C	CC	_	3	con
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	alberi	albero	S	S	num=p|gen=m	0	ROOT
+4	le	il	R	RD	num=p|gen=f	5	det
+5	spiagge	spiaggia	S	S	num=p|gen=f	3	conj
+6	e	e	C	CC	_	3	con
+7	i	il	R	RD	num=p|gen=m	8	det
+8	cani	cane	S	S	num=p|gen=m	3	conj
+9	e	e	C	CC	_	3	con
+10	i	il	R	RD	num=p|gen=m	11	det
+11	gatti	gatto	S	S	num=p|gen=m	3	conj
+
+1	e	e	C	CC	_	3	con
+2	strani	strano	A	A	num=p|gen=m	3	mod
+3	oggetti	oggetto	S	S	num=p|gen=m	0	ROOT
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	cito	citare	V	V	num=s|per=1|mod=i|ten=p	3	mod_rel
+6	alla	al	E	EA	num=s|gen=f	5	comp
+7	rinfusa	rinfusa	S	S	num=s|gen=f	6	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	pendolo	pendolo	S	S	num=s|gen=m	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	stanza	stanza	S	S	num=s|gen=f	2	mod
+5	la	il	R	RD	num=s|gen=f	7	det
+6	tua	tuo	A	AP	num=s|gen=f	7	mod
+7	poltrona	poltrona	S	S	num=s|gen=f	4	mod
+8	rosa	rosa	S	S	num=s|gen=f	7	mod
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	carte	carta	S	S	num=p|gen=f	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	tarocchi	tarocco	S	S	num=p|gen=m	3	prep
+5	e	e	C	CC	_	2	con
+6	poi	poi	B	B	_	9	mod
+7	gli	il	R	RD	num=p|gen=m	9	det
+8	eterni	eterno	A	A	num=p|gen=m	9	mod
+9	scacchi	scacco	S	S	num=p|gen=m	2	mod
+
+1	il	il	R	RD	num=s|gen=m	3	det
+2	vecchio	vecchio	A	A	num=s|gen=m	3	mod
+3	libro	libro	S	S	num=s|gen=m	0	ROOT
+4	cuore	cuore	S	S	num=s|gen=m	3	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	acquerello	acquerello	S	S	num=s|gen=m	1	ROOT
+4	di	di	E	E	_	3	comp
+5	mia	mio	A	AP	num=s|gen=f	6	mod
+6	madre	madre	S	S	num=s|gen=f	4	prep
+
+1	col	con	E	EA	num=s|gen=m	0	ROOT
+2	solito	solito	A	A	num=s|gen=m	3	mod
+3	fiore	fiore	S	S	num=s|gen=m	1	prep
+
+1	E	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	lo	il	R	RD	num=s|gen=m	4	det
+4	specchio	specchio	S	S	num=s|gen=m	0	ROOT
+5	rosso	rosso	A	A	num=s|gen=m	4	mod
+
+1	su	su	E	E	_	3	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	splende	splende	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un'	uno	R	RI	num=s|gen=f	6	det
+5	illusoria	illusorio	A	A	num=s|gen=f	6	mod
+6	aurora	aurora	S	S	num=s|gen=f	3	obj
+
+1	chissà	chissà	B	B	_	5	mod
+2	se	se	C	CS	_	5	subj
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+4	mai	mai	B	B	_	5	mod_temp
+5	esistito	esistere	V	V	num=s|mod=p|gen=m	0	_
+
+1	chissà	chissà	B	B	_	2	mod
+2	se	se	C	CS	_	4	mod
+3	esiste	esistere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+4	ora	ora	B	B	_	0	_
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	niente	niente	B	B	_	3	mod
+
+1	ma	ma	C	CC	_	3	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	che	che	C	CS	_	3	ROOT
+5	ogni	ogni	D	DI	num=s|gen=n	6	mod
+6	cosa	cosa	S	S	num=s|gen=f	3	ROOT
+
+1	nell'	in	E	EA	num=s|gen=n	0	ROOT
+2	aria	aria	S	S	num=s|gen=f	1	prep
+3	e	e	C	CC	_	1	con
+4	nella	in	E	EA	num=s|gen=f	1	conj
+5	luce	luce	S	S	num=s|gen=f	4	prep
+
+1	debba	dovere	V	VM	num=s|per=3|mod=c|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	felice	felice	A	A	num=s|gen=n	2	pred
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	niente	niente	B	B	_	3	mod
+
+1	ma	ma	C	CC	_	3	con
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	che	che	C	CS	_	3	subj
+5	due	due	N	N	_	6	mod
+6	corpi	corpo	S	S	num=p|gen=m	4	sub
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	buio	buio	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	stanza	stanza	S	S	num=s|gen=f	3	prep
+
+1	debba	dovere	V	VM	num=s|per=3|mod=c|ten=p	2	modal
+2	essere	essere	V	V	mod=f	0	ROOT
+3	esistenza	esistenza	S	S	num=s|gen=f	2	pred
+

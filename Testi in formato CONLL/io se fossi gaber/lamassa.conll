@@ -1,0 +1,313 @@
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	serie	serie	S	S	num=n|gen=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	somma	somma	S	S	num=s|gen=f	2	mod
+5	di	di	E	E	_	4	comp
+6	numeri	numero	S	S	num=p|gen=m	5	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	insieme	insieme	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	punti	punto	S	S	num=p|gen=m	3	prep
+5	attaccati	attaccato	A	A	num=p|gen=m	4	mod
+
+1	fenomeno	fenomeno	S	S	num=s|gen=m	0	ROOT
+2	strano	strano	A	A	num=s|gen=m	3	mod
+3	fenomeno	fenomeno	S	S	num=s|gen=m	1	mod
+4	strano	strano	A	A	num=s|gen=m	1	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	magnetizzati	magnetizzare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	ammasso	ammasso	S	S	num=s|gen=m	0	ROOT
+3	dove	dove	P	PR	num=n|gen=n	6	obj
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	molecola	molecola	S	S	num=s|gen=f	6	subj
+6	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+7	da	da	E	E	_	6	comp
+8	sola	solo	A	A	num=s|gen=f	7	prep
+
+1	a	a	E	E	_	7	comp
+2	contatto	contatto	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	ogni	ogni	D	DI	num=s|gen=n	6	mod
+5	altra	altro	A	A	num=s|gen=f	6	mod
+6	molecola	molecola	S	S	num=s|gen=f	3	prep
+7	come	come	C	CS	_	0	_
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	serie	serie	S	S	num=n|gen=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	somma	somma	S	S	num=s|gen=f	2	mod
+5	di	di	E	E	_	4	comp
+6	uomini	uomo	S	S	num=p|gen=m	5	prep
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	insieme	insieme	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	uomini	uomo	S	S	num=p|gen=m	3	prep
+5	uniti	unito	A	A	num=p|gen=m	4	mod
+
+1	fenomeno	fenomeno	S	S	num=s|gen=m	0	ROOT
+2	strano	strano	A	A	num=s|gen=m	3	mod
+3	fenomeno	fenomeno	S	S	num=s|gen=m	1	mod
+4	strano	strano	A	A	num=s|gen=m	1	mod
+
+1	ma	ma	C	CC	_	3	con
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	ipnotizzati	ipnotizzare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	U'	U'	R	RD	num=s|gen=n	2	det
+2	inerzia	inerzia	S	S	num=s|gen=f	0	ROOT
+3	caotica	caotico	A	A	num=s|gen=f	2	mod
+4	e	e	C	CC	_	2	con
+5	opaca	opaco	A	A	num=s|gen=f	2	mod
+
+1	investita	investire	V	V	num=s|mod=p|gen=f	0	ROOT
+2	da	da	E	E	_	1	comp
+3	strane	strano	A	A	num=p|gen=f	4	mod
+4	correnti	corrente	S	S	num=p|gen=f	2	prep
+
+1	da	da	E	E	_	0	ROOT
+2	instabili	instabile	A	A	num=p|gen=n	3	mod
+3	flussi	flusso	S	S	num=p|gen=m	1	prep
+4	da	da	E	E	_	3	comp
+5	moti	moto	S	S	num=p|gen=m	4	prep
+6	sconnessi	sconnesso	A	A	num=p|gen=m	5	mod
+
+1	che	che	C	CS	_	7	subj
+2	lei	lei	P	PE	num=s|per=3|gen=n	4	subj
+3	non	non	B	BN	_	4	neg
+4	rimanda	rimandare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+5	o	o	C	CC	_	4	dis
+6	non	non	B	BN	_	4	disj
+7	vuole	volere	V	VM	num=s|per=3|mod=i|ten=p	0	_
+
+1	e	e	C	CC	_	3	con
+2	poi	poi	B	B	_	3	mod
+3	assorbe	assorbire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	massa	massa	S	S	num=s|gen=f	1	subj
+4	una	uno	R	RI	num=s|gen=f	6	det
+5	grande	grande	A	A	num=s|gen=n	6	mod
+6	potenza	potenza	S	S	num=s|gen=f	1	pred
+7	neutrale	neutrale	A	A	num=s|gen=n	6	mod
+
+1	Una	uno	R	RI	num=s|gen=f	3	det
+2	morbida	morbido	A	A	num=s|gen=f	3	mod
+3	spugna	spugna	S	S	num=s|gen=f	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	da	da	E	E	_	5	comp
+3	sola	solo	A	A	num=s|gen=f	2	prep
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	ingrossa	ingrossare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	e	e	C	CC	_	5	con
+7	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	5	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	massa	massa	S	S	num=s|gen=f	7	obj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	terreno	terreno	S	S	num=s|gen=m	3	pred
+6	fangoso	fangoso	A	A	num=s|gen=m	5	mod
+
+1	che	che	D	DE	num=n|gen=n	3	comp
+2	tutto	tutto	P	PI	num=s|gen=m	3	subj
+3	sprofonda	sprofondare	V	V	num=s|per=3|mod=i|ten=p	4	arg
+4	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	confuso	confuso	A	A	num=s|gen=m	4	pred
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	passiva	passivo	A	A	num=s|gen=f	3	pred
+5	e	e	C	CC	_	3	con
+6	abissale	abissale	A	A	num=s|gen=n	3	conj
+
+1	ingurgita	ingurgitare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	senso	senso	S	S	num=s|gen=m	1	obj
+4	distrugge	distruggere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+5	il	il	R	RD	num=s|gen=m	6	det
+6	sociale	sociale	A	A	num=s|gen=n	4	pred
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	silenzio	silenzio	S	S	num=s|gen=m	3	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	destino	destino	S	S	num=s|gen=m	1	pred
+4	neutrale	neutrale	A	A	num=s|gen=n	3	mod
+5	del	di	E	EA	num=s|gen=m	3	comp
+6	plagio	plagio	S	S	num=s|gen=m	5	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	contagio	contagio	S	S	num=s|gen=m	3	pred
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	interrompe	interrompere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	circuito	circuito	S	S	num=s|gen=m	3	obj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	neutro	neutro	A	A	num=s|gen=m	3	pred
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	massa	massa	S	S	num=s|gen=f	3	obj
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	opacizza	opacizzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	luce	luce	S	S	num=s|gen=f	3	obj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	rifiuta	rifiutare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	fede	fede	S	S	num=s|gen=f	6	subj
+6	rifiuta	rifiutare	V	V	num=s|per=3|mod=i|ten=p	3	arg
+7	anche	anche	B	B	_	6	mod
+8	il	il	R	RD	num=s|gen=m	9	det
+9	male	male	S	S	num=s|gen=m	6	obj
+
+1	rifiuta	rifiutare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	attesa	attesa	S	S	num=s|gen=f	1	subj
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mistero	mistero	S	S	num=s|gen=m	1	obj
+6	il	il	R	RD	num=s|gen=m	7	det
+7	sociale	sociale	A	A	num=s|gen=n	5	mod
+
+1	Una	uno	R	RI	num=s|gen=f	3	det
+2	morbida	morbido	A	A	num=s|gen=f	3	mod
+3	spugna	spugna	S	S	num=s|gen=f	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	da	da	E	E	_	5	comp
+3	sola	solo	A	A	num=s|gen=f	2	prep
+4	s'	si	P	PC	num=n|per=3|gen=n	5	clit
+5	ingrossa	ingrossare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	e	e	C	CC	_	5	con
+7	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	5	conj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	massa	massa	S	S	num=s|gen=f	7	obj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	palla	palla	S	S	num=s|gen=f	3	pred
+6	informale	informale	A	A	num=s|gen=n	5	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	molle	molle	A	A	num=s|gen=n	1	pred
+3	e	e	C	CC	_	1	con
+4	vischiosa	vischioso	A	A	num=s|gen=f	1	conj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	uno	uno	R	RI	num=s|gen=m	4	det
+3	strano	strano	A	A	num=s|gen=m	4	mod
+4	animale	animale	S	S	num=s|gen=m	1	pred
+
+1	che	che	C	CS	_	4	subj
+2	tutto	tutto	P	PI	num=s|gen=m	3	subj
+3	distrugge	distruggere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	disperde	disperdere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	computer	computer	S	SW	num=s|gen=m	3	pred
+6	avaro	avaro	A	A	num=s|gen=m	5	mod
+
+1	un	uno	R	RI	num=s|gen=m	3	det
+2	gran	gran	A	A	num=n|gen=n	3	mod
+3	buco	buco	S	S	num=s|gen=m	9	mod_temp
+4	nero	nero	A	A	num=s|gen=m	3	mod
+5	in	in	E	E	_	7	comp
+6	cui	cui	P	PR	num=n|gen=n	5	prep
+7	tutto	tutto	P	PI	num=s|gen=m	9	subj
+8	si	si	P	PC	num=n|per=3|gen=n	9	clit
+9	perde	perdere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	inerzia	inerzia	S	S	num=s|gen=f	3	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	cortocircuito	cortocircuito	S	S	num=s|gen=m	1	pred
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	immobile	immobile	S	S	num=s|gen=m	0	ROOT
+3	orgia	orgia	S	S	num=s|gen=f	2	mod
+4	del	di	E	EA	num=s|gen=m	2	comp
+5	rito	rito	S	S	num=s|gen=m	4	prep
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	grande	grande	A	A	num=s|gen=n	3	mod
+3	energia	energia	S	S	num=s|gen=f	0	ROOT
+4	negativa	negativo	A	A	num=s|gen=f	3	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	implosiva	implosiva	A	A	num=s|gen=f	3	pred
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	3	subj
+3	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	massa	massa	S	S	num=s|gen=f	3	obj
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	serie	serie	S	S	num=n|gen=f	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	somma	somma	S	S	num=s|gen=f	2	mod
+5	di	di	E	E	_	4	comp
+6	uomini	uomo	S	S	num=p|gen=m	5	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	insieme	insieme	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	uomini	uomo	S	S	num=p|gen=m	3	prep
+5	uniti	unito	A	A	num=p|gen=m	4	mod
+6	fenomeno	fenomeno	S	S	num=s|gen=m	4	mod
+7	strano	strano	A	A	num=s|gen=m	6	mod
+
+1	fenomeno	fenomeno	S	S	num=s|gen=m	5	subj_pass
+2	strano	strano	A	A	num=s|gen=m	1	mod
+3	ma	ma	C	CC	_	1	con
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	neutralizzati	neutralizzare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	fenomeno	fenomeno	S	S	num=s|gen=m	0	ROOT
+2	strano	strano	A	A	num=s|gen=m	3	mod
+3	fenomeno	fenomeno	S	S	num=s|gen=m	1	mod
+4	strano	strano	A	A	num=s|gen=m	1	mod
+
+1	fenomeno	fenomeno	S	S	num=s|gen=m	0	ROOT
+2	strano	strano	A	A	num=s|gen=m	1	mod
+

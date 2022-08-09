@@ -1,0 +1,171 @@
+1	Signore	signore	S	S	num=p|gen=f	0	ROOT
+2	delle	di	E	EA	num=p|gen=f	1	comp
+3	domeniche	domenica	S	S	num=p|gen=f	2	prep
+
+1	prova	prova	S	S	num=s|gen=f	0	ROOT
+2	ad	ad	E	E	_	1	arg
+3	esser-	essere	V	V	mod=f	2	prep
+4	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+5	anche	anche	B	B	_	6	mod
+6	dei	di	E	EA	num=p|gen=m	1	comp
+7	lunedì	lunedì	S	S	num=n|gen=m	6	prep
+
+1	e	e	C	CC	_	6	con
+2	di	di	E	E	_	6	comp
+3	tutti	tutto	T	T	num=p|gen=m	5	mod
+4	quei	quello	D	DD	num=p|gen=m	5	mod
+5	giorni	giorno	S	S	num=p|gen=m	2	prep
+6	tristi	triste	A	A	num=p|gen=n	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	obj
+3	capitano	capitare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	sulla	su	E	EA	num=s|gen=f	3	comp_loc
+5	terra	terra	S	S	num=s|gen=f	4	prep
+6	.	.	F	FS	_	3	punc
+
+1	Signore	signore	S	S	num=p|gen=f	0	ROOT
+2	dei	di	E	EA	num=p|gen=m	1	comp
+3	ricchi	ricco	A	A	num=p|gen=m	2	prep
+4	e	e	C	CC	_	3	con
+5	dei	di	E	EA	num=p|gen=m	3	conj
+6	fortunati	fortunato	S	S	num=p|gen=m	5	prep
+
+1	prova	prova	S	S	num=s|gen=f	0	ROOT
+2	ad	ad	E	E	_	1	comp
+3	esser-	essere	V	VA	mod=f	4	aux
+4	lo	lo	P	PC	num=s|per=3|gen=m	2	prep
+5	se	se	C	CS	_	1	mod
+6	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	5	sub
+
+1	anche	anche	B	B	_	2	mod
+2	di	di	E	E	_	0	ROOT
+3	quelli	quello	P	PD	num=p|gen=m	2	prep
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	non	non	B	BN	_	6	neg
+6	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	3	mod_rel
+7	niente	niente	B	B	_	6	mod
+8	.	.	F	FS	_	2	punc
+
+1	Anche	anche	B	B	_	7	mod
+2	di	di	E	E	_	1	comp
+3	chi	chi	P	PR	num=n|gen=n	2	prep
+4	ha	avere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+5	paura	paura	S	S	num=s|gen=f	4	obj
+6	e	e	C	CC	_	1	con
+7	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	anche	anche	B	B	_	6	mod
+2	di	di	E	E	_	1	comp
+3	chi	chi	P	PR	num=n|gen=n	2	prep
+4	pena	pena	S	S	num=s|gen=f	3	mod
+5	e	e	C	CC	_	1	con
+6	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	anche	anche	B	B	_	8	mod
+2	di	di	E	E	_	1	comp
+3	chi	chi	P	PR	num=n|gen=n	2	prep
+4	lavora	lavorare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+5	e	e	C	CC	_	4	con
+6	lavora	lavorare	V	V	num=s|per=3|mod=i|ten=p	4	conj
+7	e	e	C	CC	_	1	con
+8	lavora	lavorare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	e	e	C	CC	_	2	con
+2	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	e	e	C	CC	_	2	con
+4	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	2	conj
+5	e	e	C	CC	_	2	con
+6	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	2	conj
+7	.	.	F	FS	_	2	punc
+
+1	Signore	signore	S	S	num=p|gen=f	0	ROOT
+2	dei	di	E	EA	num=p|gen=m	1	comp
+3	gentili	gentile	S	S	num=p|gen=m	2	prep
+4	e	e	C	CC	_	2	con
+5	dei	di	E	EA	num=p|gen=m	2	conj
+6	buoni	buono	S	S	num=p|gen=m	5	prep
+
+1	prova	prova	S	S	num=s|gen=f	0	ROOT
+2	ad	ad	E	E	_	1	arg
+3	esser-	essere	V	V	mod=f	2	prep
+4	lo	lo	P	PC	num=s|per=3|gen=m	3	pred
+5	se	se	C	CS	_	1	mod
+6	vuoi	volere	V	VM	num=s|per=2|mod=i|ten=p	1	ROOT
+
+1	anche	anche	B	B	_	2	mod
+2	di	di	E	E	_	0	ROOT
+3	quelli	quello	P	PD	num=p|gen=m	2	prep
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	3	mod_rel
+6	cattivi	cattivo	A	A	num=p|gen=m	5	pred
+7	e	e	C	CC	_	6	con
+8	violenti	violento	A	A	num=p|gen=m	6	conj
+
+1	perché	perché	C	CS	_	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	sanno	sapere	V	V	num=p|per=3|mod=i|ten=p	1	sub
+4	come	come	C	CS	_	3	arg
+5	difender-	difendere	V	V	mod=f	4	sub
+6	si	si	P	PC	num=n|per=3|gen=n	5	clit
+
+1	in	in	E	E	_	0	ROOT
+2	questo	questo	D	DD	num=s|gen=m	4	mod
+3	nostro	nostro	A	AP	num=s|gen=m	4	mod
+4	mondo	mondo	S	S	num=s|gen=m	1	prep
+5	.	.	F	FS	_	1	punc
+
+1	Signore	signore	S	S	num=p|gen=f	0	ROOT
+2	delle	di	E	EA	num=p|gen=f	1	comp
+3	chiese	chiesa	S	S	num=p|gen=f	2	prep
+4	e	e	C	CC	_	2	con
+5	dei	di	E	EA	num=p|gen=m	2	conj
+6	santi	santo	S	S	num=p|gen=m	5	prep
+
+1	Signore	signore	S	S	num=p|gen=f	0	ROOT
+2	delle	di	E	EA	num=p|gen=f	1	comp
+3	suore	suora	S	S	num=p|gen=f	2	prep
+4	e	e	C	CC	_	2	con
+5	dei	di	E	EA	num=p|gen=m	2	conj
+6	preti	prete	S	S	num=p|gen=m	5	prep
+
+1	prova	prova	S	S	num=s|gen=f	0	ROOT
+2	ad	ad	E	E	_	1	arg
+3	esser-	essere	V	VA	mod=f	6	aux
+4	lo	lo	P	PC	num=s|per=3|gen=m	6	obj
+5	se	se	C	CS	_	4	concat
+6	credi	credere	V	V	num=s|per=2|mod=i|ten=p	2	prep
+
+1	anche	anche	B	B	_	2	mod
+2	dei	di	E	EA	num=p|gen=m	0	ROOT
+3	cortili	cortile	S	S	num=p|gen=m	2	prep
+4	delle	di	E	EA	num=p|gen=f	3	comp
+5	fabbriche	fabbrica	S	S	num=p|gen=f	4	prep
+
+1	delle	di	E	EA	num=p|gen=f	0	ROOT
+2	puttane	puttana	S	S	num=p|gen=f	1	prep
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	ladri	ladro	S	S	num=p|gen=m	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	Signore	signore	S	S	num=p|gen=f	0	ROOT
+2	Signore	Signore	S	SP	_	1	mod
+3	dei	di	E	EA	num=p|gen=m	1	comp
+4	vincitori	vincitore	S	S	num=p|gen=m	3	prep
+
+1	prova	prova	S	S	num=s|gen=f	0	ROOT
+2	ad	ad	E	E	_	1	arg
+3	esser-	essere	V	V	mod=f	2	prep
+4	lo	lo	P	PC	num=s|per=3|gen=m	3	pred
+5	se	se	C	CS	_	1	mod
+6	ci	ci	P	PC	num=p|per=1|gen=n	7	comp_ind
+7	sei	essere	V	VA	num=s|per=2|mod=i|ten=p	5	sub
+
+1	anche	anche	B	B	_	2	mod
+2	dei	di	E	EA	num=p|gen=m	0	ROOT
+3	vinti	vinto	S	S	num=p|gen=m	2	prep
+4	.	.	F	FS	_	2	punc
+
+1	Amen	amen	I	I	_	0	ROOT
+2	.	.	F	FS	_	1	punc
+

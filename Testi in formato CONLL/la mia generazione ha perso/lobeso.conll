@@ -1,0 +1,465 @@
+1	S'	si	P	PC	num=n|per=3|gen=n	2	clit
+2	aggira	aggirare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	3	prep
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	individuo	individuo	S	S	num=s|gen=m	2	obj
+8	osceno	osceno	A	A	num=s|gen=m	7	mod
+
+1	così	così	B	B	_	2	mod
+2	diverso	diverso	A	A	num=s|gen=m	4	mod
+3	che	che	C	CS	_	4	subj
+4	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	quasi	quasi	B	B	_	6	mod
+6	disumano	disumano	A	A	num=s|gen=m	4	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	essere	essere	S	S	num=s|gen=m	1	pred
+4	inquietante	inquietante	A	A	num=s|gen=n	3	pred
+5	e	e	C	CC	_	1	con
+6	forse	forse	B	B	_	8	mod
+7	non	non	B	BN	_	8	neg
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+9	un	uno	R	RI	num=s|gen=m	10	det
+10	caso	caso	S	S	num=s|gen=m	8	pred
+
+1	che	che	C	CS	_	0	ROOT
+2	a	a	E	E	_	6	comp_loc
+3	poco	poco	B	B	_	2	prep
+4	a	a	E	E	_	6	comp
+5	poco	poco	P	PI	num=s|gen=m	4	prep
+6	diventi	diventare	V	V	num=s|per=3|mod=c|ten=p	1	sub
+7	contagioso	contagioso	A	A	num=s|gen=m	6	pred
+8	.	.	F	FS	_	1	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	0	ROOT
+3	,	,	F	FF	_	2	punc
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	0	ROOT
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	aspetto	aspetto	S	S	num=s|gen=m	3	obj
+
+1	imperturbabile	imperturbabile	A	A	num=s|gen=n	0	ROOT
+2	e	e	C	CC	_	1	con
+3	imponente	imponente	A	A	num=s|gen=n	1	conj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	grosso	grosso	A	A	num=s|gen=m	4	mod
+4	uomo	uomo	S	S	num=s|gen=m	1	pred
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	muove	muovere	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+8	lentamente	lento	B	B	_	7	mod
+
+1	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	sempre	sempre	B	B	_	1	mod
+3	dalla	da	E	EA	num=s|gen=f	1	comp
+4	sera	sera	S	S	num=s|gen=f	3	prep
+5	alla	al	E	EA	num=s|gen=f	1	comp
+6	mattina	mattina	S	S	num=s|gen=f	5	prep
+
+1	con	con	E	E	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	4	det
+3	isterica	isterico	A	A	num=s|gen=f	4	mod
+4	passione	passione	S	S	num=s|gen=f	1	prep
+
+1	per	per	E	E	_	0	ROOT
+2	qualsiasi	qualsiasi	D	DI	num=s|gen=n	3	mod
+3	proteina	proteina	S	S	num=s|gen=f	1	prep
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	4	subj
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	imprigionato	imprigionare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	suo	suo	A	AP	num=s|gen=m	3	mod
+3	corpo	corpo	S	S	num=s|gen=m	1	prep
+4	assai	assai	B	B	_	5	mod
+5	opulento	opulento	A	A	num=s|gen=m	3	mod
+
+1	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+4	generato	generare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	da	da	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	enorme	enorme	A	A	num=s|gen=n	4	mod
+4	allevamento	allevamento	S	S	num=s|gen=m	1	prep
+5	.	.	F	FS	_	1	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	aumenta	aumentare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	comp
+5	peso	peso	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	3	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	aumenta	aumentare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	comp
+5	peso	peso	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	3	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	strana	strano	A	A	num=s|gen=f	4	mod
+4	anomalia	anomalia	S	S	num=s|gen=f	1	pred
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	natura	natura	S	S	num=s|gen=f	5	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+4	nuovo	nuovo	A	A	num=s|gen=m	3	mod
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	assomiglia	assomigliare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+7	a	a	E	E	_	6	comp
+8	un	uno	R	RI	num=s|gen=m	10	det
+9	grosso	grosso	A	A	num=s|gen=m	10	mod
+10	uovo	uovo	S	S	num=s|gen=m	7	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	felice	felice	A	A	num=s|gen=n	1	pred
+3	,	,	F	FF	_	1	con
+4	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+5	in	in	E	E	_	4	comp
+6	pace	pace	S	S	num=s|gen=f	5	prep
+7	nel	in	E	EA	num=s|gen=m	4	comp
+8	suo	suo	A	AP	num=s|gen=m	9	mod
+9	stato	stato	S	S	num=s|gen=m	7	prep
+
+1	e	e	C	CC	_	3	con
+2	s'	si	P	PC	num=n|per=3|gen=n	3	clit
+3	ingurgita	ingurgitare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	comp
+5	tutto	tutto	D	DI	num=s|gen=m	4	prep
+
+1	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	quasi	quasi	B	B	_	3	mod
+3	lievitato	lievitare	V	V	num=s|mod=p|gen=m	1	pred
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	5	subj
+3	s'	si	P	PC	num=n|per=3|gen=n	4	clit
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	creato	creare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	quel	quello	D	DD	num=s|gen=m	3	mod
+2	suo	suo	A	AP	num=s|gen=m	3	mod
+3	corpo	corpo	S	S	num=s|gen=m	0	ROOT
+4	così	così	B	B	_	5	mod
+5	pieno	pieno	A	A	num=s|gen=m	3	mod
+
+1	per	per	E	E	_	0	ROOT
+2	sfuggire	sfuggire	V	V	mod=f	1	prep
+3	dal	da	E	EA	num=s|gen=m	2	comp
+4	terrore	terrore	S	S	num=s|gen=m	3	prep
+
+1	di	di	E	E	_	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	essere	essere	V	V	mod=f	1	prep
+4	nessuno	nessuno	P	PI	num=s|gen=m	3	pred
+5	.	.	F	FS	_	1	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	aumenta	aumentare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	comp
+5	peso	peso	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	3	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	aumenta	aumentare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	comp
+5	peso	peso	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	3	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	tutti	tutto	P	PI	num=p|gen=m	5	mod
+5	magri	magro	A	A	num=p|gen=m	3	pred
+6	e	e	C	CC	_	3	con
+7	grassi	grasso	S	S	num=p|gen=m	3	conj
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	i	il	R	RD	num=p|gen=m	4	det
+3	nuovi	nuovo	A	A	num=p|gen=m	4	mod
+4	paradossi	paradosso	S	S	num=p|gen=m	1	pred
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	presenza	presenza	S	S	num=s|gen=f	3	pred
+6	a	a	E	E	_	5	comp
+7	tutto	tutto	D	DI	num=s|gen=m	8	mod
+8	tondo	tondo	S	S	num=s|gen=m	6	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	simbolo	simbolo	S	S	num=s|gen=m	1	pred
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	1	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	idee	idea	S	S	num=p|gen=f	3	obj
+5	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	3	conj
+6	opinioni	opinione	S	S	num=p|gen=f	5	obj
+
+1	computer	computer	S	SW	num=s|gen=m	0	ROOT
+2	,	,	F	FF	_	1	punc
+3	cellulari	cellulare	S	S	num=p|gen=m	0	ROOT
+
+1	dibattiti	dibattito	S	S	num=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	canzoni	canzone	S	S	num=p|gen=f	1	conj
+
+1	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	sogno	sogno	S	S	num=s|gen=m	1	obj
+4	dell'	di	E	EA	num=s|gen=n	3	comp
+5	Europa	Europa	S	SP	_	4	prep
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	riforme	riforma	S	S	num=p|gen=f	0	ROOT
+3	,	,	F	FF	_	2	con
+4	i	il	R	RD	num=p|gen=m	5	det
+5	parlamenti	parlamento	S	S	num=p|gen=m	2	conj
+
+1	film	film	S	S	num=n|gen=m	0	ROOT
+2	d'	di	E	E	_	1	comp
+3	azione	azione	S	S	num=s|gen=f	2	prep
+4	e	e	C	CC	_	1	con
+5	libri	libro	S	S	num=p|gen=m	1	conj
+6	d'	di	E	E	_	5	comp
+7	arte	arte	S	S	num=s|gen=f	6	prep
+
+1	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	soldi	soldo	S	S	num=p|gen=m	1	obj
+3	e	e	C	CC	_	1	con
+4	sentimenti	sentimento	S	S	num=p|gen=m	1	conj
+
+1	e	e	C	CC	_	3	con
+2	s'	si	P	PC	num=n|per=3|gen=n	3	clit
+3	ingravida	ingravidare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	guardando	guardare	V	V	mod=g	3	mod
+5	e	e	C	CC	_	3	con
+6	mangiando	mangiare	V	V	mod=g	3	conj
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	orrori	orrore	S	S	num=p|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	mondo	mondo	S	S	num=s|gen=m	3	prep
+5	.	.	F	FS	_	2	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	ormai	ormai	B	B	_	3	mod
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	destino	destino	S	S	num=s|gen=m	3	pred
+7	senza	senza	E	E	_	6	comp
+8	scampo	scampo	S	S	num=s|gen=m	7	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	follia	follia	S	S	num=s|gen=f	1	pred
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	nostro	nostro	A	AP	num=s|gen=m	6	mod
+6	tempo	tempo	S	S	num=s|gen=m	4	prep
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pachiderma	pachiderma	S	S	num=s|gen=m	3	pred
+6	nauseabondo	nauseabondo	A	A	num=s|gen=m	5	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	simbolo	simbolo	S	S	num=s|gen=m	1	pred
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	1	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	gruppi	gruppo	S	S	num=p|gen=m	3	obj
+5	finanziari	finanziario	A	A	num=p|gen=m	4	mod
+
+1	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	spot	spot	S	SW	num=n|gen=m	1	obj
+3	e	e	C	CC	_	1	con
+4	informazioni	informazione	S	S	num=p|gen=f	1	conj
+
+1	aiuti	aiuto	S	S	num=p|gen=m	0	ROOT
+2	umanitari	umanitario	A	A	num=p|gen=m	1	mod
+
+1	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	slogan	slogan	S	SW	num=n|gen=m	1	obj
+3	e	e	C	CC	_	1	con
+4	ideologie	ideologia	S	S	num=p|gen=f	1	conj
+
+1	vecchie	vecchio	A	A	num=p|gen=f	2	mod
+2	idee	idea	S	S	num=p|gen=f	0	ROOT
+3	e	e	C	CC	_	2	con
+4	nuovi	nuovo	A	A	num=p|gen=m	5	mod
+5	miti	mito	S	S	num=p|gen=m	2	conj
+
+1	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	tutti	tutto	T	T	num=p|gen=m	5	mod
+3	i	il	R	RD	num=p|gen=m	5	det
+4	bei	bello	A	A	num=p|gen=m	5	mod
+5	discorsi	discorso	S	S	num=p|gen=m	1	obj
+
+1	dei	di	E	EA	num=p|gen=m	0	ROOT
+2	politici	politico	S	S	num=p|gen=m	1	prep
+3	e	e	C	CC	_	1	con
+4	dei	di	E	EA	num=p|gen=m	1	conj
+5	preti	prete	S	S	num=p|gen=m	4	prep
+
+1	e	e	C	CC	_	3	con
+2	s'	si	P	PC	num=n|per=3|gen=n	3	clit
+3	ingurgita	ingurgitare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	pace	pace	S	S	num=s|gen=f	3	obj
+6	,	,	F	FF	_	5	con
+7	la	il	R	RD	num=s|gen=f	8	det
+8	guerra	guerra	S	S	num=s|gen=f	5	conj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	pace	pace	S	S	num=s|gen=f	0	ROOT
+3	,	,	F	FF	_	2	con
+4	la	il	R	RD	num=s|gen=f	5	det
+5	guerra	guerra	S	S	num=s|gen=f	2	conj
+6	.	.	F	FS	_	2	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	aumenta	aumentare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	comp
+5	peso	peso	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	3	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	aumenta	aumentare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	comp
+5	peso	peso	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	3	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	aspetto	aspetto	S	S	num=s|gen=m	3	obj
+
+1	imperturbabile	imperturbabile	A	A	num=s|gen=n	0	ROOT
+2	e	e	C	CC	_	1	con
+3	imponente	imponente	A	A	num=s|gen=n	1	conj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	futuro	futuro	S	S	num=s|gen=m	1	pred
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	sempre	sempre	B	B	_	5	mod
+7	più	più	B	B	_	8	mod
+8	presente	presente	A	A	num=s|gen=n	5	pred
+
+1	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	tutto	tutto	P	PI	num=s|gen=m	1	obj
+3	,	,	F	FF	_	1	con
+4	mangia	mangiare	V	V	num=s|per=3|mod=i|ten=p	1	conj
+5	il	il	R	RD	num=s|gen=m	6	det
+6	mondo	mondo	S	S	num=s|gen=m	4	obj
+7	come	come	E	E	_	4	comp
+8	noi	noi	P	PE	num=p|per=1|gen=n	7	prep
+
+1	senza	senza	E	E	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	minimo	minimo	A	A	num=s|gen=m	4	mod
+4	disturbo	disturbo	S	S	num=s|gen=m	1	prep
+
+1	senza	senza	C	CS	_	2	mod
+2	vomitar-	vomitare	V	V	mod=f	0	ROOT
+3	lo	lo	P	PC	num=s|per=3|gen=m	2	obj
+4	mai	mai	B	B	_	2	mod
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	segreto	segreto	S	S	num=s|gen=m	3	pred
+
+1	di	di	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	gonfiar-	gonfiare	V	V	mod=f	1	prep
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	disumano	disumano	A	A	num=s|gen=m	3	mod
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	infinito	infinito	A	A	num=s|gen=m	3	pred
+
+1	di	di	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	Leopardi	Leopardi	S	SP	_	1	prep
+4	americano	americano	A	A	num=s|gen=m	3	mod
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	infinito	infinito	A	A	num=s|gen=m	3	pred
+
+1	di	di	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	Leopardi	Leopardi	S	SP	_	1	prep
+4	americano	americano	A	A	num=s|gen=m	3	mod
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	infinito	infinito	A	A	num=s|gen=m	3	pred
+
+1	di	di	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	Leopardi	Leopardi	S	SP	_	1	prep
+4	americano	americano	A	A	num=s|gen=m	3	mod
+5	.	.	F	FS	_	1	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	0	ROOT
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	S	S	num=s|gen=m	0	ROOT
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	obeso	obeso	A	A	num=s|gen=m	0	_
+3	....	....	C	CC	_	2	con
+

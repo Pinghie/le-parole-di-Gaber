@@ -1,0 +1,329 @@
+1	E	e	C	CC	_	2	con
+2	io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+3	che	che	C	CS	_	2	ROOT
+4	ancora	ancora	B	B	_	6	mod
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	clit
+6	innamoro	innamorare	V	V	num=s|per=1|mod=i|ten=p	3	sub
+7	come	come	E	E	_	6	comp
+8	uno	uno	R	RI	num=s|gen=m	9	det
+9	scemo	scemo	S	S	num=s|gen=m	7	prep
+
+1	perché	perché	C	CS	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	innamorar-	innamorare	V	V	mod=f	5	subj
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+6	uno	uno	R	RI	num=s|gen=m	7	det
+7	specifico	specifico	S	S	num=s|gen=m	5	pred
+8	dell'	di	E	EA	num=s|gen=n	7	comp
+9	uomo	uomo	S	S	num=s|gen=m	8	prep
+
+1	spudorato	spudorato	A	A	num=s|gen=m	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	1	comp
+3	accosto	accosto	B	B	_	2	mod
+4	all'	al	E	EA	num=s|gen=n	3	comp
+5	incerto	incerto	S	S	num=s|gen=m	4	prep
+6	dei	di	E	EA	num=p|gen=m	5	comp
+7	tuoi	tuo	A	AP	num=p|gen=m	8	mod
+8	richiami	richiamo	S	S	num=p|gen=m	6	prep
+
+1	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	io	io	P	PE	num=s|per=1|gen=n	1	pred
+3	che	che	P	PR	num=n|gen=n	4	obj
+4	deliro	delirare	V	V	num=s|per=1|mod=i|ten=p	2	mod_rel
+5	e	e	C	CC	_	1	con
+6	tu	tu	P	PE	num=s|per=2|gen=n	1	conj
+7	che	che	C	CS	_	6	comp
+8	ami	amo	S	S	num=p|gen=m	7	sub
+
+1	Non	non	B	BN	_	2	neg
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	dove	dove	B	B	_	7	mod_loc
+4	ora	ora	B	B	_	7	mod_temp
+5	tu	tu	P	PE	num=s|per=2|gen=n	7	subj
+6	sia	essere	V	VA	num=s|per=3|mod=c|ten=p	7	aux
+7	giunta	giunta	S	S	num=s|gen=f	2	obj
+
+1	cara	caro	A	A	num=s|gen=f	3	mod
+2	indimenticabile	indimenticabile	A	A	num=s|gen=n	1	mod
+3	Maria	Maria	S	SP	_	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	6	subj
+2	all'	al	E	EA	num=s|gen=n	6	comp
+3	inizio	inizio	S	S	num=s|gen=m	2	prep
+4	degli	di	E	EA	num=p|gen=m	3	comp_temp
+5	anni	anno	S	S	num=p|gen=m	4	prep
+6	settanta	settanta	N	N	_	0	ROOT
+
+1	conoscesti	conoscere	V	V	num=s|per=2|mod=i|ten=s	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	rabbia	rabbia	S	S	num=s|gen=f	1	obj
+4	e	e	C	CC	_	3	con
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	ironia	ironia	S	S	num=s|gen=f	3	conj
+
+1	Avevi	Avevi	C	CS	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	dono	dono	S	S	num=s|gen=m	1	prep
+4	assi	assi	A	A	num=p|gen=n	3	mod
+5	inconsueto	inconsueto	A	A	num=s|gen=m	3	mod
+
+1	di	di	E	E	_	0	ROOT
+2	ridere	ridere	V	V	mod=f	1	prep
+3	persino	persino	B	B	_	4	mod
+4	del	di	E	EA	num=s|gen=m	2	comp
+5	tuo	tuo	A	AP	num=s|gen=m	6	mod
+6	mito	mito	S	S	num=s|gen=m	4	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	intuizione	intuizione	S	S	num=s|gen=f	1	ROOT
+4	di	di	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	7	det
+6	strana	strano	A	A	num=s|gen=f	7	mod
+7	fede	fede	S	S	num=s|gen=f	4	prep
+
+1	per	per	E	E	_	5	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	cosa	cosa	S	S	num=s|gen=f	5	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	vera	vero	A	A	num=s|gen=f	5	pred
+7	soltanto	soltanto	B	B	_	0	ROOT
+
+1	quando	quando	C	CS	_	0	ROOT
+2	non	non	B	BN	_	5	neg
+3	ci	ci	P	PC	num=n|gen=n	5	comp
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	crede	credere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+
+1	Perché	perché	B	B	_	0	ROOT
+2	per	per	E	E	_	1	arg
+3	credere	credere	V	V	mod=f	2	prep
+4	davvero	davvero	B	B	_	3	mod
+
+1	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	spesso	spesso	B	B	_	3	mod
+3	andar-	andare	V	V	mod=f	1	arg
+4	se-	se	P	PC	num=n|per=3|gen=n	3	clit
+5	ne	ne	P	PC	num=n|gen=n	3	comp
+6	lontano	lontano	A	A	num=s|gen=m	3	mod
+
+1	e	e	C	CC	_	2	con
+2	ridere	ridere	V	V	mod=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	prep
+
+1	come	come	B	B	_	2	mod
+2	da	da	E	E	_	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	aereoplano	aereoplano	S	S	num=s|gen=m	2	prep
+
+1	Se	se	C	CS	_	0	ROOT
+2	tu	tu	P	PE	num=s|per=2|gen=n	5	subj
+3	fossi	essere	V	VA	num=s|per=1|mod=c|ten=i	5	aux
+4	davvero	davvero	B	B	_	5	mod
+5	esistita	esistere	V	V	num=s|mod=p|gen=f	1	sub
+
+1	cara	caro	A	A	num=s|gen=f	3	mod
+2	indimenticabile	indimenticabile	A	A	num=s|gen=n	1	mod
+3	Maria	Maria	S	SP	_	0	ROOT
+
+1	fin	fin	E	E	_	4	comp
+2	da	da	E	E	_	1	comp
+3	allora	allora	B	B	_	2	prep
+4	potevo	potere	V	V	num=s|per=1|mod=i|ten=i	5	modal
+5	imparare	imparare	V	V	mod=f	0	ROOT
+
+1	a	a	E	E	_	0	ROOT
+2	congiungere	congiungere	V	V	mod=f	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	vero	vero	A	A	num=s|gen=m	2	obj
+5	e	e	C	CC	_	4	con
+6	la	il	R	RD	num=s|gen=f	7	det
+7	bugia	bugia	S	S	num=s|gen=f	4	conj
+
+1	E	e	C	CC	_	4	con
+2	nelle	in	E	EA	num=p|gen=f	4	comp
+3	notti	notte	S	S	num=p|gen=f	2	prep
+4	massacranti	massacrante	A	A	num=p|gen=n	0	_
+
+1	riempite	riempire	V	V	num=p|mod=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	parole	parola	S	S	num=p|gen=f	2	prep
+4	intelligenti	intelligente	A	A	num=p|gen=n	1	pred
+
+1	e	e	C	CC	_	0	ROOT
+2	nell'	in	E	EA	num=s|gen=n	1	conj
+3	angoscia	angoscia	S	S	num=s|gen=f	2	prep
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	vita	vita	S	S	num=s|gen=f	4	prep
+
+1	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	in	in	E	E	_	1	comp
+3	mente	mente	S	S	num=s|gen=f	2	prep
+4	ancora	ancora	B	B	_	6	mod
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	eco	eco	S	S	num=s|gen=m	1	obj
+
+1	della	di	E	EA	num=s|gen=f	0	ROOT
+2	tua	tuo	A	AP	num=s|gen=f	3	mod
+3	risata	risata	S	S	num=s|gen=f	1	prep
+
+1	Perché	perché	B	B	_	0	ROOT
+2	per	per	E	E	_	1	arg
+3	vivere	vivere	V	V	mod=f	2	prep
+4	davvero	davvero	B	B	_	3	mod
+
+1	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	spesso	spesso	B	B	_	3	mod
+3	andar-	andare	V	V	mod=f	1	arg
+4	se-	se	P	PC	num=n|per=3|gen=n	3	clit
+5	ne	ne	P	PC	num=n|gen=n	3	comp
+6	lontano	lontano	A	A	num=s|gen=m	3	mod
+
+1	e	e	C	CC	_	2	con
+2	ridere	ridere	V	V	mod=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	prep
+
+1	come	come	B	B	_	2	mod
+2	da	da	E	E	_	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	aereoplano	aereoplano	S	S	num=s|gen=m	2	prep
+
+1	Forse	forse	B	B	_	5	mod
+2	sei	sei	N	N	_	5	mod
+3	solo	solo	B	B	_	5	mod
+4	un'	uno	R	RI	num=s|gen=f	5	det
+5	ipotesi	ipotesi	S	S	num=n|gen=f	0	ROOT
+6	di	di	E	E	_	5	comp
+7	donna	donna	S	S	num=s|gen=f	6	prep
+
+1	forse	forse	B	B	_	3	mod
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	esagerati	esagerare	V	V	num=p|mod=p|gen=m	0	ROOT
+4	i	il	R	RD	num=p|gen=m	5	det
+5	sentimenti	sentimento	S	S	num=p|gen=m	3	subj_pass
+
+1	e	e	C	CC	_	4	con
+2	i	il	R	RD	num=p|gen=m	3	det
+3	mille	mille	N	N	_	4	mod
+4	spunti	spunto	S	S	num=p|gen=m	0	ROOT
+5	che	che	P	PR	num=n|gen=n	4	comp
+6	mi	mi	P	PC	num=s|per=1|gen=n	5	concat
+7	dai	da	E	EA	num=p|gen=m	6	concat
+
+1	se	se	C	CS	_	0	ROOT
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	vero	vero	A	A	num=s|gen=m	2	pred
+4	che	che	C	CS	_	2	subj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	tratta	trattare	V	V	num=s|per=3|mod=i|ten=p	4	sub
+
+1	di	di	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	Maria	Maria	S	SP	_	1	prep
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	non	non	B	BN	_	6	neg
+6	conobbi	conoscere	V	V	num=s|per=1|mod=i|ten=s	3	mod_rel
+7	mai	mai	B	B	_	6	mod_temp
+
+1	Ma	ma	C	CC	_	2	con
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	a	a	E	E	_	6	comp_ind
+5	me	me	P	PE	num=s|per=1|gen=n	4	prep
+6	piace	piacere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+7	pensar-	pensare	V	V	mod=f	6	subj
+8	ti	ti	P	PC	num=s|per=2|gen=n	7	obj
+
+1	cara	caro	A	A	num=s|gen=f	3	mod
+2	indimenticabile	indimenticabile	A	A	num=s|gen=n	1	mod
+3	Maria	Maria	S	SP	_	0	ROOT
+
+1	come	come	C	CS	_	4	mod
+2	fossi	essere	V	VA	num=s|per=1|mod=c|ten=i	4	aux
+3	davvero	davvero	B	B	_	2	mod
+4	esistita	esistere	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	col	con	E	EA	num=s|gen=m	7	comp
+2	tuo	tuo	A	AP	num=s|gen=m	3	mod
+3	gusto	gusto	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	arg
+5	amare	amare	V	V	mod=f	4	prep
+6	e	e	C	CC	_	1	con
+7	andare	andare	V	V	mod=f	0	_
+8	via	via	B	B	_	7	mod
+
+1	Perché	perché	B	B	_	3	mod
+2	persino	persino	B	B	_	3	mod
+3	nell'	in	E	EA	num=s|gen=n	0	ROOT
+4	amore	amore	S	S	num=s|gen=m	3	prep
+
+1	nell'	in	E	EA	num=s|gen=n	0	ROOT
+2	eccellenza	eccellenza	S	S	num=s|gen=f	1	prep
+3	del	di	E	EA	num=s|gen=m	2	arg
+4	soffrire	soffrire	V	V	mod=f	3	prep
+
+1	nella	in	E	EA	num=s|gen=f	0	ROOT
+2	violenza	violenza	S	S	num=s|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	litigata	litigata	S	S	num=s|gen=f	3	prep
+
+1	eri	eri	B	B	_	3	mod
+2	così	così	B	B	_	3	mod
+3	coinvolta	coinvolgere	V	V	num=s|mod=p|gen=f	0	ROOT
+4	e	e	C	CC	_	3	con
+5	così	così	B	B	_	6	mod
+6	distaccata	distaccare	V	V	num=s|mod=p|gen=f	3	conj
+
+1	Perché	perché	B	B	_	0	ROOT
+2	per	per	E	E	_	1	arg
+3	credere	credere	V	V	mod=f	2	prep
+4	all'	al	E	EA	num=s|gen=n	3	comp
+5	amore	amore	S	S	num=s|gen=m	4	prep
+6	davvero	davvero	B	B	_	5	mod
+
+1	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	spesso	spesso	B	B	_	3	mod
+3	andar-	andare	V	V	mod=f	1	arg
+4	se-	se	P	PC	num=n|per=3|gen=n	3	clit
+5	ne	ne	P	PC	num=n|gen=n	3	comp
+6	lontano	lontano	A	A	num=s|gen=m	3	mod
+
+1	e	e	C	CC	_	2	con
+2	ridere	ridere	V	V	mod=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	prep
+
+1	come	come	B	B	_	2	mod
+2	da	da	E	E	_	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	aereoplano	aereoplano	S	S	num=s|gen=m	2	prep
+
+1	E	e	C	CC	_	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	logica	logica	S	S	num=s|gen=f	2	prep
+5	assurda	assurdo	A	A	num=s|gen=f	4	mod
+6	del	di	E	EA	num=s|gen=m	4	comp
+7	tempo	tempo	S	S	num=s|gen=m	6	prep
+
+1	questo	questo	D	DD	num=s|gen=m	2	mod
+2	tempo	tempo	S	S	num=s|gen=m	5	mod_temp
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	tutto	tutto	P	PI	num=s|gen=m	5	mod
+5	porta	porta	S	S	num=s|gen=f	0	ROOT
+6	via	via	B	B	_	5	mod
+
+1	riesca	riuscire	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+2	almeno	almeno	B	B	_	3	mod
+3	salvare	salvare	V	V	mod=f	1	arg
+4	il	il	R	RD	num=s|gen=m	6	det
+5	tuo	tuo	A	AP	num=s|gen=m	6	mod
+6	nome	nome	S	S	num=s|gen=m	3	obj
+
+1	Maria	Maria	S	SP	_	0	ROOT
+

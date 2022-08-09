@@ -1,0 +1,196 @@
+1	Non	non	B	BN	_	2	neg
+2	insegnate	insegnare	V	V	num=p|mod=p|gen=f	0	ROOT
+3	ai	al	E	EA	num=p|gen=m	2	comp
+4	bambini	bambino	S	S	num=p|gen=m	3	prep
+
+1	Non	non	B	BN	_	2	neg
+2	insegnate	insegnare	V	V	num=p|mod=p|gen=f	0	ROOT
+3	la	il	R	RD	num=s|gen=f	5	det
+4	vostra	vostro	A	AP	num=s|gen=f	5	mod
+5	morale	morale	S	S	num=s|gen=f	2	obj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	così	così	B	B	_	3	mod
+3	stanca	stanco	A	A	num=s|gen=f	1	pred
+4	e	e	C	CC	_	1	con
+5	malata	malato	A	A	num=s|gen=f	1	conj
+
+1	Potrebbe	potere	V	VM	num=s|per=3|mod=d|ten=p	2	modal
+2	far	fare	V	VM	mod=f	0	_
+3	male	male	B	B	_	2	mod
+
+1	Forse	forse	B	B	_	4	mod
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	grave	grave	A	A	num=s|gen=n	4	mod
+4	imprudenza	imprudenza	S	S	num=s|gen=f	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	lasciar-	lasciare	V	V	mod=f	1	pred
+3	li	li	P	PC	num=p|per=3|gen=m	2	obj
+4	in	in	E	E	_	2	comp
+5	balia	balia	S	S	num=s|gen=f	4	prep
+6	di	di	E	E	_	5	comp
+7	una	uno	R	RI	num=s|gen=f	9	det
+8	falsa	falso	A	A	num=s|gen=f	9	mod
+9	coscienza	coscienza	S	S	num=s|gen=f	6	prep
+10	.	.	F	FS	_	1	punc
+
+1	Non	non	B	BN	_	2	neg
+2	elogiate	elogiare	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	pensiero	pensiero	S	S	num=s|gen=m	2	obj
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	più	più	B	B	_	5	mod
+5	raro	raro	A	A	num=s|gen=m	2	pred
+
+1	Non	non	B	BN	_	2	neg
+2	indicate	indicare	V	V	num=p|mod=p|gen=f	0	ROOT
+3	per	per	E	E	_	2	comp
+4	loro	loro	P	PE	num=p|per=3|gen=n	3	prep
+
+1	Una	uno	R	RI	num=s|gen=f	2	det
+2	via	via	S	S	num=s|gen=f	0	ROOT
+3	conosciuta	conoscere	V	V	num=s|mod=p|gen=f	2	mod
+
+1	Ma	ma	C	CC	_	4	ROOT
+2	se	se	C	CS	_	4	ROOT
+3	proprio	proprio	B	B	_	4	mod
+4	volete	volere	V	VM	num=p|per=2|mod=i|ten=p	0	ROOT
+
+1	Insegnate	insegnare	V	V	num=p|mod=p|gen=f	0	ROOT
+2	soltanto	soltanto	B	B	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	magia	magia	S	S	num=s|gen=f	1	obj
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	vita	vita	S	S	num=s|gen=f	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Giro	giro	S	S	num=s|gen=m	4	subj
+2	giro	giro	S	S	num=s|gen=m	1	mod
+3	tondo	tondo	A	A	num=s|gen=m	2	mod
+4	cambia	cambiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	mondo	mondo	S	S	num=s|gen=m	4	obj
+7	.	.	F	FS	_	4	punc
+
+1	Non	non	B	BN	_	2	neg
+2	insegnate	insegnare	V	V	num=p|mod=p|gen=f	0	ROOT
+3	ai	al	E	EA	num=p|gen=m	2	comp
+4	bambini	bambino	S	S	num=p|gen=m	3	prep
+
+1	Non	non	B	BN	_	2	neg
+2	divulgate	divulgare	V	V	num=p|mod=p|gen=f	3	mod
+3	illusioni	illusione	S	S	num=p|gen=f	0	ROOT
+4	sociali	sociale	A	A	num=p|gen=n	3	mod
+
+1	Non	non	B	BN	_	3	neg
+2	gli	gli	P	PC	num=s|per=3|gen=m	3	comp_ind
+3	riempite	riempire	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	futuro	futuro	S	S	num=s|gen=m	3	obj
+
+1	Di	di	E	E	_	0	ROOT
+2	vecchi	vecchio	A	A	num=p|gen=m	3	mod
+3	ideali	ideale	A	A	num=p|gen=n	1	prep
+
+1	L'	il	R	RD	num=s|gen=n	3	det
+2	unica	unico	A	A	num=s|gen=f	3	mod
+3	cosa	cosa	S	S	num=s|gen=f	5	subj
+4	sicura	sicuro	A	A	num=s|gen=f	3	mod
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	tener-	tenere	V	V	mod=f	5	pred
+7	li	li	P	PC	num=p|per=3|gen=m	6	obj
+8	lontano	lontano	A	A	num=s|gen=m	6	pred
+
+1	Dalla	da	E	EA	num=s|gen=f	0	ROOT
+2	nostra	nostro	A	AP	num=s|gen=f	3	mod
+3	cultura	cultura	S	S	num=s|gen=f	1	prep
+4	.	.	F	FS	_	1	punc
+
+1	Non	non	B	BN	_	2	neg
+2	esaltate	esaltare	V	V	num=p|mod=p|gen=f	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	talento	talento	S	S	num=s|gen=m	2	obj
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	più	più	B	B	_	5	mod
+5	spento	spento	A	A	num=s|gen=m	2	pred
+
+1	Non	non	B	BN	_	3	neg
+2	li	li	P	PC	num=p|per=3|gen=m	3	obj
+3	avviate	avviare	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+4	al	a	E	EA	num=s|gen=m	3	comp
+5	bel	bello	A	A	num=s|gen=m	6	mod
+6	canto	canto	S	S	num=s|gen=m	4	prep
+7	,	,	F	FF	_	4	con
+8	al	a	E	EA	num=s|gen=m	4	conj
+9	teatro	teatro	S	S	num=s|gen=m	8	prep
+
+1	Alla	al	E	EA	num=s|gen=f	0	ROOT
+2	danza	danza	S	S	num=s|gen=f	1	prep
+
+1	Ma	ma	C	CC	_	4	ROOT
+2	se	se	C	CS	_	4	ROOT
+3	proprio	proprio	B	B	_	4	mod
+4	volete	volere	V	VM	num=p|per=2|mod=i|ten=p	0	ROOT
+
+1	Raccontategli	Raccontategli	S	SP	_	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	sogno	sogno	S	S	num=s|gen=m	0	ROOT
+4	di	di	E	E	_	3	comp
+
+1	Un'	uno	R	RI	num=s|gen=f	3	det
+2	antica	antico	A	A	num=s|gen=f	3	mod
+3	speranza	speranza	S	S	num=s|gen=f	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	Non	non	B	BN	_	2	neg
+2	insegnate	insegnare	V	V	num=p|mod=p|gen=f	0	ROOT
+3	ai	al	E	EA	num=p|gen=m	2	comp
+4	bambini	bambino	S	S	num=p|gen=m	3	prep
+
+1	Ma	ma	C	CC	_	9	con
+2	coltivate	coltivato	A	A	num=p|gen=f	1	conj
+3	voi	voi	P	PE	num=p|per=2|gen=n	2	subj
+4	stessi	stessi	A	A	num=p|gen=m	3	mod
+5	il	il	R	RD	num=s|gen=m	6	det
+6	cuore	cuore	S	S	num=s|gen=m	1	conj
+7	e	e	C	CC	_	1	con
+8	la	il	R	RD	num=s|gen=f	9	det
+9	mente	mente	S	S	num=s|gen=f	0	ROOT
+
+1	Stategli	Stategli	S	SP	_	0	ROOT
+2	sempre	sempre	B	B	_	1	mod
+3	vicini	vicino	A	A	num=p|gen=m	1	mod
+
+1	Date	dare	V	V	num=p|mod=p|gen=f	2	mod
+2	fiducia	fiducia	S	S	num=s|gen=f	0	ROOT
+3	all'	al	E	EA	num=s|gen=n	2	comp
+4	amore	amore	S	S	num=s|gen=m	3	prep
+5	il	il	R	RD	num=s|gen=m	6	det
+6	resto	resto	S	S	num=s|gen=m	7	subj
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+8	niente	niente	B	B	_	7	mod
+9	.	.	F	FS	_	2	punc
+
+1	Giro	giro	S	S	num=s|gen=m	4	subj
+2	giro	giro	S	S	num=s|gen=m	1	mod
+3	tondo	tondo	A	A	num=s|gen=m	2	mod
+4	cambia	cambiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	mondo	mondo	S	S	num=s|gen=m	4	obj
+7	.	.	F	FS	_	4	punc
+
+1	Giro	giro	S	S	num=s|gen=m	4	subj
+2	giro	giro	S	S	num=s|gen=m	1	mod
+3	tondo	tondo	A	A	num=s|gen=m	2	mod
+4	cambia	cambiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	mondo	mondo	S	S	num=s|gen=m	4	obj
+7	.	.	F	FS	_	4	punc
+

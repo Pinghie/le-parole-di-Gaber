@@ -1,0 +1,244 @@
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	tempo	tempo	S	S	num=s|gen=m	0	ROOT
+3	quanto	quanto	B	B	_	4	mod
+4	tempo	tempo	S	S	num=s|gen=m	2	mod
+
+1	e	e	C	CC	_	5	con
+2	dopo	dopo	E	E	_	5	comp_temp
+3	tanto	tanto	D	DI	num=s|gen=m	4	mod
+4	tempo	tempo	S	S	num=s|gen=m	2	prep
+5	rincontrar-	rincontrare	V	V	mod=f	0	ROOT
+6	ti	ti	P	PC	num=s|per=2|gen=n	5	obj
+
+1	e	e	C	CC	_	6	con
+2	i	il	R	RD	num=p|gen=m	4	det
+3	nostri	nostro	A	AP	num=p|gen=m	4	mod
+4	cuori	cuore	S	S	num=p|gen=m	6	subj
+5	non	non	B	BN	_	6	neg
+6	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+7	se	se	C	CS	_	6	mod
+8	smemorati	smemorato	S	S	num=p|gen=m	7	sub
+9	o	o	C	CC	_	8	dis
+10	incerti	incerto	A	A	num=p|gen=m	8	disj
+
+1	e	e	C	CC	_	8	con
+2	con	con	E	E	_	8	comp
+3	addirittura	addirittura	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	paura	paura	S	S	num=s|gen=f	2	prep
+6	di	di	E	E	_	5	comp
+7	non	non	B	BN	_	6	prep
+8	sapere	sapere	V	V	mod=f	0	_
+
+1	come	come	C	CS	_	0	ROOT
+2	salutar-	salutare	V	V	mod=f	1	sub
+3	ti	ti	P	PC	num=s|per=2|gen=n	2	obj
+4	.	.	F	FS	_	1	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	tempo	tempo	S	S	num=s|gen=m	0	ROOT
+3	quanto	quanto	B	B	_	4	mod
+4	tempo	tempo	S	S	num=s|gen=m	2	mod
+
+1	e	e	C	CC	_	3	con
+2	poi	poi	B	B	_	3	mod
+3	chissà	chissà	B	B	_	7	mod
+4	da	da	E	E	_	7	comp
+5	dove	dove	B	B	_	4	prep
+6	son	son	V	VA	num=p|per=3|mod=i|ten=p	7	aux
+7	passate	passare	V	V	num=p|mod=p|gen=f	0	ROOT
+
+1	in	in	E	E	_	7	comp
+2	tutti	tutto	T	T	num=p|gen=m	4	mod
+3	questi	questo	D	DD	num=p|gen=m	4	mod
+4	anni	anno	S	S	num=p|gen=m	1	prep
+5	le	il	R	RD	num=p|gen=f	7	det
+6	nostre	nostro	A	AP	num=p|gen=f	7	mod
+7	vite	vita	S	S	num=p|gen=f	0	ROOT
+
+1	chissà	chissà	B	B	_	6	mod
+2	che	che	C	CS	_	6	mod
+3	facce	faccia	S	S	num=p|gen=f	6	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	6	aux
+5	forse	forse	B	B	_	6	mod
+6	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	_
+
+1	due	due	N	N	_	2	mod
+2	persone	persona	S	S	num=p|gen=f	0	ROOT
+3	sconosciute	sconosciuto	A	A	num=p|gen=f	2	mod
+4	.	.	F	FS	_	2	punc
+
+1	Eppure	eppure	C	CC	_	6	mod
+2	la	il	R	RD	num=s|gen=f	3	det
+3	luce	luce	S	S	num=s|gen=f	6	subj
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	viso	viso	S	S	num=s|gen=m	4	prep
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	sempre	sempre	B	B	_	6	mod
+8	la	il	R	RD	num=s|gen=f	9	det
+9	stessa	stessa	A	A	num=s|gen=f	6	pred
+
+1	lo	il	R	RD	num=s|gen=m	3	det
+2	stesso	stesso	A	A	num=s|gen=m	3	mod
+3	sguardo	sguardo	S	S	num=s|gen=m	0	ROOT
+4	tu	tu	P	PE	num=s|per=2|gen=n	3	mod
+5	così	così	B	B	_	6	mod
+6	diversa	diverso	A	A	num=s|gen=f	3	mod
+
+1	ma	ma	C	CC	_	3	con
+2	forse	forse	B	B	_	3	mod
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	solo	solo	B	B	_	3	mod
+5	qualche	qualche	D	DI	num=s|gen=n	6	mod
+6	ruga	ruga	S	S	num=s|gen=f	3	subj
+7	nei	in	E	EA	num=p|gen=m	6	comp
+8	tuoi	tuo	A	AP	num=p|gen=m	9	mod
+9	occhi	occhio	S	S	num=p|gen=m	7	prep
+
+1	da	da	E	E	_	0	ROOT
+2	animale	animale	S	S	num=s|gen=m	1	prep
+3	in	in	E	E	_	2	comp
+4	fuga	fuga	S	S	num=s|gen=f	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	2	con
+2	io	io	P	PE	num=s|per=1|gen=n	6	subj
+3	che	che	C	CS	_	6	mod
+4	non	non	B	BN	_	6	neg
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+6	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	_
+
+1	e	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	niente	niente	P	PI	num=s|gen=m	3	obj
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	mio	mio	A	AP	num=s|gen=m	7	mod
+7	viso	viso	S	S	num=s|gen=m	5	prep
+
+1	di	di	E	E	_	6	comp
+2	fronte	fronte	S	S	num=s|gen=n	1	prep
+3	a	a	E	E	_	2	comp
+4	te	te	P	PE	num=s|per=2|gen=n	3	prep
+5	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	6	aux
+6	confuso	confondere	V	V	num=s|mod=p|gen=m	0	ROOT
+7	e	e	C	CC	_	6	con
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	pò	pò	B	B	_	10	mod
+10	a	a	E	E	_	6	comp
+11	disagio	disagio	S	S	num=s|gen=m	10	prep
+
+1	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	4	mod
+4	male	male	B	B	_	1	mod
+5	quella	quello	P	PD	num=s|gen=f	1	obj
+6	mia	mio	A	AP	num=s|gen=f	5	mod
+7	caricatura	caricatura	S	S	num=s|gen=f	5	mod
+
+1	che	che	C	CS	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	tempo	tempo	S	S	num=s|gen=m	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	prepara	preparare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+6	.	.	F	FS	_	1	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	tempo	tempo	S	S	num=s|gen=m	0	ROOT
+3	quanto	quanto	B	B	_	4	mod
+4	tempo	tempo	S	S	num=s|gen=m	2	mod
+
+1	e	e	C	CC	_	7	con
+2	dopo	dopo	E	E	_	7	comp_temp
+3	tanto	tanto	D	DI	num=s|gen=m	4	mod
+4	tempo	tempo	S	S	num=s|gen=m	2	prep
+5	non	non	B	BN	_	7	neg
+6	ci	ci	P	PC	num=p|per=1|gen=n	7	comp_ind
+7	viene	venire	V	VA	num=s|per=3|mod=i|ten=p	0	_
+
+1	nemmeno	nemmeno	B	B	_	3	mod
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	parola	parola	S	S	num=s|gen=f	0	ROOT
+4	o	o	C	CC	_	3	dis
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	emozione	emozione	S	S	num=s|gen=f	3	disj
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	perduti	perduto	A	A	num=p|gen=m	2	pred
+6	come	come	C	CS	_	5	comp
+7	tutti	tutto	P	PI	num=p|gen=m	6	sub
+
+1	non	non	B	BN	_	2	neg
+2	per	per	E	E	_	0	ROOT
+3	cattiveria	cattiveria	S	S	num=s|gen=f	2	prep
+4	ma	ma	C	CC	_	2	con
+5	per	per	E	E	_	2	conj
+6	distrazione	distrazione	S	S	num=s|gen=f	5	prep
+7	.	.	F	FS	_	2	punc
+
+1	Eppure	eppure	C	CC	_	4	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	voce	voce	S	S	num=s|gen=f	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	stessa	stessa	A	A	num=s|gen=f	4	pred
+7	così	così	B	B	_	8	mod
+8	famigliare	famigliare	A	A	num=s|gen=n	6	mod
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	stessa	stessa	A	A	num=s|gen=f	3	mod
+3	donna	donna	S	S	num=s|gen=f	0	ROOT
+4	tu	tu	P	PE	num=s|per=2|gen=n	3	mod
+5	così	così	B	B	_	6	mod
+6	cambiata	cambiare	V	V	num=s|mod=p|gen=f	3	mod
+
+1	che	che	P	PR	num=n|gen=n	5	subj_pass
+2	ora	ora	B	B	_	5	mod_temp
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	pò	pò	B	B	_	5	mod
+5	lontana	lontano	A	A	num=s|gen=f	0	_
+6	e	e	C	CC	_	5	con
+7	assente	assente	A	A	num=s|gen=n	5	conj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	obj
+2	saluta	salutare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	educatamente	educatamente	B	B	_	2	mod
+4	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	5	con
+2	io	io	P	PE	num=s|per=1|gen=n	5	obj
+3	io	io	P	PE	num=s|per=1|gen=n	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	domando	domare	V	V	mod=g	0	_
+
+1	cosa	cosa	P	PQ	num=s|gen=n	2	subj
+2	resta	restare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	amore	amore	S	S	num=s|gen=m	3	prep
+
+1	qualche	qualche	D	DI	num=s|gen=n	2	mod
+2	rimpianto	rimpianto	S	S	num=s|gen=m	0	ROOT
+3	e	e	C	CC	_	2	con
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	angolino	angolino	S	S	num=s|gen=m	2	conj
+6	di	di	E	E	_	5	comp
+7	dolore	dolore	S	S	num=s|gen=m	6	prep
+
+1	ma	ma	C	CC	_	2	con
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	male	male	B	B	_	2	mod
+4	quella	quello	P	PD	num=s|gen=f	2	obj
+5	mia	mio	A	AP	num=s|gen=f	4	mod
+6	caricatura	caricatura	S	S	num=s|gen=f	4	mod
+
+1	che	che	C	CS	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	tempo	tempo	S	S	num=s|gen=m	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	prepara	preparare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+6	.	.	F	FS	_	1	punc
+

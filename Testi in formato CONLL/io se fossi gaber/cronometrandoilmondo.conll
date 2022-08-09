@@ -1,0 +1,324 @@
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	animale	animale	S	S	num=s|gen=m	0	ROOT
+3	sconosciuto	sconosciuto	A	A	num=s|gen=m	2	mod
+4	,	,	F	FF	_	6	punc
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	gira	girare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+7	per	per	E	E	_	6	comp
+8	la	il	R	RD	num=s|gen=f	9	det
+9	casa	casa	S	S	num=s|gen=f	7	prep
+10	,	,	F	FF	_	6	punc
+11	i	il	R	RD	num=p|gen=m	12	det
+12	gesti	gesto	S	S	num=p|gen=m	6	obj
+13	incomprensibili	incomprensibile	A	A	num=p|gen=n	12	mod
+14	e	e	C	CC	_	6	con
+15	l'	il	R	RD	num=s|gen=n	16	det
+16	aria	aria	S	S	num=s|gen=f	6	obj
+17	misteriosa	misterioso	A	A	num=s|gen=f	16	mod
+18	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	lo	lo	P	PC	num=s|per=3|gen=m	3	obj
+3	osservo	osservare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	,	,	F	FF	_	3	con
+5	lo	il	R	RD	num=s|gen=m	6	det
+6	studio	studio	S	S	num=s|gen=m	3	conj
+7	,	,	F	FF	_	3	con
+8	vorrei	volere	V	VM	num=s|per=1|mod=d|ten=p	10	modal
+9	proprio	proprio	B	B	_	10	mod
+10	conoscer-	conoscere	V	V	mod=f	3	conj
+11	lo	lo	P	PC	num=s|per=3|gen=m	10	obj
+12	meglio	meglio	B	B	_	10	mod
+13	,	,	F	FF	_	3	con
+14	sto	stare	V	V	num=s|per=1|mod=i|ten=p	3	conj
+15	parlando	parlare	V	V	mod=g	14	arg
+16	di	di	E	E	_	15	comp
+17	mio	mio	A	AP	num=s|gen=m	18	mod
+18	figlio	figlio	S	S	num=s|gen=m	16	prep
+19	.	.	F	FS	_	3	punc
+
+1	Allevato	allevare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	da	da	E	E	_	1	comp
+3	padre	padre	S	S	num=s|gen=m	2	prep
+4	perfetto	perfetto	A	A	num=s|gen=m	0	ROOT
+
+1	trascorreva	trascorrere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	intervalli	intervallo	S	S	num=p|gen=m	1	obj
+3	felici	felice	A	A	num=p|gen=n	0	ROOT
+
+1	cronometrando	cronometrare	V	V	mod=g	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	1	obj
+
+1	cosciente	cosciente	A	A	num=s|gen=n	0	ROOT
+2	e	e	C	CC	_	1	con
+3	stupefatto	stupefare	V	V	num=s|mod=p|gen=m	1	conj
+4	.	.	F	FS	_	1	punc
+
+1	Dietro	dietro	E	E	_	7	comp
+2	i	il	R	RD	num=p|gen=m	4	det
+3	suoi	suo	A	AP	num=p|gen=m	4	mod
+4	occhi	occhio	S	S	num=p|gen=m	1	prep
+5	assorti	assorto	A	A	num=p|gen=m	4	mod
+6	e	e	C	CC	_	5	con
+7	strani	strano	A	A	num=p|gen=m	0	_
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	2	subj
+4	pò	pò	B	B	_	5	mod
+5	dell'	di	E	EA	num=s|gen=n	3	comp
+6	indifferenza	indifferenza	S	S	num=s|gen=f	5	prep
+7	dei	di	E	EA	num=p|gen=m	6	comp
+8	marziani	marziano	S	S	num=p|gen=m	7	prep
+
+1	di	di	E	E	_	0	ROOT
+2	chi	chi	P	PR	num=n|gen=n	1	prep
+3	divide	divedere	V	V	num=s|per=3|mod=i|ten=s	2	mod_rel
+4	il	il	R	RD	num=s|gen=m	6	det
+5	proprio	proprio	A	AP	num=s|gen=m	6	mod
+6	affetto	affetto	S	S	num=s|gen=m	3	obj
+
+1	tra	tra	E	E	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	computer	computer	S	SW	num=s|gen=m	1	prep
+4	e	e	C	CC	_	3	con
+5	il	il	R	RD	num=s|gen=m	7	det
+6	suo	suo	A	AP	num=s|gen=m	7	mod
+7	gatto	gatto	S	S	num=s|gen=m	3	conj
+
+1	con	con	E	E	_	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	4	det
+3	inspiegabile	inspiegabile	A	A	num=s|gen=n	4	mod
+4	armonia	armonia	S	S	num=s|gen=f	1	prep
+
+1	Senza	senza	E	E	_	0	ROOT
+2	uno	uno	R	RI	num=s|gen=m	3	det
+3	scoppio	scoppio	S	S	num=s|gen=m	1	prep
+4	illogico	illogico	A	A	num=s|gen=m	3	mod
+5	di	di	E	E	_	3	comp
+6	gioia	gioia	S	S	num=s|gen=f	5	prep
+
+1	senza	senza	C	CS	_	0	ROOT
+2	nemmeno	nemmeno	B	B	_	4	mod
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	riso	riso	S	S	num=s|gen=m	1	sub
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	improvviso	improvviso	A	A	num=s|gen=m	4	mod
+
+1	senza	senza	C	CS	_	0	ROOT
+2	neanche	neanche	B	B	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	paura	paura	S	S	num=s|gen=f	1	ROOT
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	noia	noia	S	S	num=s|gen=f	5	prep
+
+1	Ma	ma	C	CC	_	7	con
+2	al	a	E	EA	num=s|gen=m	7	comp
+3	contrario	contrario	S	S	num=s|gen=m	2	prep
+4	di	di	E	E	_	3	comp
+5	chi	chi	P	PR	num=n|gen=n	4	prep
+6	è	essere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+7	insoddisfatto	insoddisfatto	A	A	num=s|gen=m	0	ROOT
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	mantiene	mantenere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	6	det
+4	suo	suo	A	AP	num=s|gen=m	6	mod
+5	proprio	proprio	A	AP	num=s|gen=m	6	mod
+6	equilibrio	equilibrio	S	S	num=s|gen=m	2	obj
+
+1	cronometrando	cronometrare	V	V	mod=g	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	1	obj
+4	cosciente	cosciente	A	A	num=s|gen=n	3	mod
+5	e	e	C	CC	_	1	con
+6	stupefatto	stupefare	V	V	num=s|mod=p|gen=m	1	conj
+
+1	Senza	senza	E	E	_	6	comp
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	slanci	slancio	S	S	num=p|gen=m	1	prep
+4	o	o	C	CC	_	1	dis
+5	le	il	R	RD	num=p|gen=f	6	det
+6	passioni	passione	S	S	num=p|gen=f	0	ROOT
+7	ardenti	ardente	A	A	num=p|gen=n	6	mod
+
+1	senza	senza	E	E	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	smania	smania	S	S	num=s|gen=f	1	prep
+4	dei	di	E	EA	num=p|gen=m	3	comp
+5	grossi	grosso	A	A	num=p|gen=m	6	mod
+6	mutamenti	mutamento	S	S	num=p|gen=m	4	prep
+
+1	ché	ché	C	CC	_	0	ROOT
+2	forse	forse	B	B	_	3	mod
+3	cose	cosa	S	S	num=p|gen=f	1	ROOT
+4	come	come	E	E	_	3	comp
+5	queste	questo	D	DD	num=p|gen=f	4	prep
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	5	subj
+2	le	le	P	PC	num=n|per=3|gen=f	5	comp_ind
+3	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+4	già	già	B	B	_	5	mod
+5	vissute	vivere	V	V	num=p|mod=p|gen=f	0	ROOT
+6	o	o	C	CC	_	5	dis
+7	viste	vista	S	S	num=p|gen=f	5	disj
+
+1	attraverso	attraverso	E	E	_	0	ROOT
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	occhi	occhio	S	S	num=p|gen=m	1	prep
+4	degli	di	E	EA	num=p|gen=m	3	comp
+5	eroi	eroe	S	S	num=p|gen=m	4	prep
+
+1	Forse	forse	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	uno	uno	R	RI	num=s|gen=m	4	det
+4	scherzo	scherzo	S	S	num=s|gen=m	2	pred
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	fantascienza	fantascienza	S	S	num=s|gen=f	5	prep
+
+1	forse	forse	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	prova	prova	S	S	num=s|gen=f	2	subj
+5	di	di	E	E	_	4	comp
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	razza	razza	S	S	num=s|gen=f	5	prep
+8	nuova	nuovo	A	A	num=s|gen=f	7	mod
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	dà	dare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	sensazione	sensazione	S	S	num=s|gen=f	3	obj
+6	dell'	di	E	EA	num=s|gen=n	5	comp
+7	assenza	assenza	S	S	num=s|gen=f	6	prep
+
+1	Così	così	B	B	_	2	mod
+2	estraneo	estraneo	A	A	num=s|gen=m	0	ROOT
+3	persino	persino	B	B	_	4	mod
+4	al	a	E	EA	num=s|gen=m	2	comp
+5	suo	suo	A	AP	num=s|gen=m	6	mod
+6	tempo	tempo	S	S	num=s|gen=m	4	prep
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	mantiene	mantenere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	6	det
+4	suo	suo	A	AP	num=s|gen=m	6	mod
+5	proprio	proprio	A	AP	num=s|gen=m	6	mod
+6	equilibrio	equilibrio	S	S	num=s|gen=m	2	obj
+
+1	cronometrando	cronometrare	V	V	mod=g	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	1	obj
+
+1	cronometrando	cronometrare	V	V	mod=g	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	1	obj
+
+1	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	vorrei	volere	V	VM	num=s|per=1|mod=d|ten=p	4	modal
+3	almeno	almeno	B	B	_	4	mod
+4	sentir-	sentire	V	V	mod=f	0	ROOT
+5	ti	ti	P	PC	num=s|per=2|gen=n	4	obj
+6	vicino	vicino	B	B	_	4	mod_loc
+
+1	in	in	E	E	_	5	comp
+2	qualche	qualche	D	DI	num=s|gen=n	3	mod
+3	sentimento	sentimento	S	S	num=s|gen=m	1	prep
+4	uguale	uguale	A	A	num=s|gen=n	3	mod
+5	ai	al	E	EA	num=p|gen=m	0	_
+6	miei	mio	A	AP	num=p|gen=m	5	prep
+
+1	almeno	almeno	B	B	_	0	_
+2	nei	in	E	EA	num=p|gen=m	1	comp
+3	deliri	delirio	S	S	num=p|gen=m	2	prep
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	non	non	B	BN	_	6	neg
+6	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	3	mod_rel
+
+1	o	o	C	CC	_	4	ROOT
+2	che	che	C	CS	_	4	ROOT
+3	non	non	B	BN	_	4	neg
+4	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	0	ROOT
+
+1	Io	io	P	PE	num=s|per=1|gen=n	6	subj
+2	vorrei	volere	V	VM	num=s|per=1|mod=d|ten=p	6	modal
+3	almeno	almeno	B	B	_	6	mod
+4	poter-	potere	V	VM	mod=f	6	modal
+5	ti	ti	P	PC	num=s|per=2|gen=n	4	clit
+6	incontrare	incontrare	V	V	mod=f	0	ROOT
+
+1	in	in	E	E	_	0	ROOT
+2	qualche	qualche	D	DI	num=s|gen=n	4	mod
+3	antica	antico	A	A	num=s|gen=f	4	mod
+4	forma	forma	S	S	num=s|gen=f	1	prep
+5	di	di	E	E	_	4	comp
+6	ironia	ironia	S	S	num=s|gen=f	5	prep
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	cuore	cuore	S	S	num=s|gen=m	1	prep
+3	nella	in	E	EA	num=s|gen=f	2	comp
+4	voglia	voglia	S	S	num=s|gen=f	3	prep
+5	di	di	E	E	_	4	arg
+6	cambiare	cambiare	V	V	mod=f	5	prep
+
+1	o	o	C	CC	_	0	ROOT
+2	in	in	E	E	_	1	disj
+3	qualche	qualche	D	DI	num=s|gen=n	5	mod
+4	nostra	nostro	A	AP	num=s|gen=f	5	mod
+5	idea	idea	S	S	num=s|gen=f	2	prep
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	quasi	quasi	B	B	_	3	mod
+3	certamente	certo	B	B	_	1	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	diciassette	diciassette	N	N	_	0	ROOT
+3	e	e	C	CC	_	2	con
+4	il	il	R	RD	num=s|gen=m	5	det
+5	sessantotto	sessantotto	N	N	_	2	conj
+
+1	per	per	E	E	_	3	comp
+2	lui	lui	P	PE	num=s|per=3|gen=m	1	prep
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	soltanto	soltanto	B	B	_	5	mod
+5	numeri	numero	S	S	num=p|gen=m	3	pred
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	lotto	lotto	S	S	num=s|gen=m	6	prep
+8	.	.	F	FS	_	3	punc
+
+1	Allevato	allevare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	da	da	E	E	_	1	comp
+3	padre	padre	S	S	num=s|gen=m	2	prep
+4	perfetto	perfetto	A	A	num=s|gen=m	0	ROOT
+
+1	trascorreva	trascorrere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+2	intervalli	intervallo	S	S	num=p|gen=m	1	obj
+3	felici	felice	A	A	num=p|gen=n	0	ROOT
+
+1	cronometrando	cronometrare	V	V	mod=g	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	1	obj
+
+1	Cronometrando	cronometrare	V	V	mod=g	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	1	obj
+
+1	cronometrando	cronometrare	V	V	mod=g	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	1	obj
+
+1	Cronometrando	cronometrare	V	V	mod=g	0	_
+
+1	cronometrando	cronometrare	V	V	mod=g	0	_
+
+1	cronometrando	cronometrare	V	V	mod=g	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	1	obj
+
+1	cronometrando	cronometrare	V	V	mod=g	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	1	obj
+

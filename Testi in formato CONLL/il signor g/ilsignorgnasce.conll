@@ -1,0 +1,370 @@
+1	Stanza	stanza	S	S	num=s|gen=f	0	ROOT
+2	132	132	N	N	_	3	mod
+3	ore	ora	S	S	num=p|gen=f	1	mod
+4	18	18	N	N	_	7	subj
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+6	già	già	B	B	_	7	mod
+7	nato	nascere	V	V	num=s|mod=p|gen=m	3	mod
+8	,	,	F	FF	_	7	punc
+9	si	si	P	PC	num=n|per=3|gen=n	11	clit
+10	un	uno	R	RI	num=s|gen=m	11	det
+11	maschio	maschio	S	S	num=s|gen=m	17	subj
+12	due	due	N	N	_	13	mod
+13	chili	chilo	S	S	num=p|gen=m	11	mod
+14	e	e	C	CC	_	11	con
+15	nove	nove	N	N	_	11	mod
+16	,	,	F	FF	_	15	punc
+17	và	và	V	V	num=s|per=3|mod=i|ten=f	3	conj
+18	com'	come	B	B	_	19	mod
+19	è	essere	V	V	num=s|per=3|mod=i|ten=p	17	conj
+20	bello	bello	A	A	num=s|gen=m	19	pred
+21	tutto	tutto	D	DI	num=s|gen=m	23	mod
+22	suo	suo	A	AP	num=s|gen=m	23	mod
+23	padre	padre	S	S	num=s|gen=m	19	subj
+24	,	,	F	FF	_	25	punc
+25	no	no	B	BN	_	28	neg
+26	tutto	tutto	B	B	_	28	mod
+27	sua	suo	A	AP	num=s|gen=f	28	mod
+28	madre	madre	S	S	num=s|gen=f	19	subj
+29	ma	ma	C	CC	_	19	con
+30	che	che	C	CS	_	19	subj
+31	dici	dire	V	V	num=s|per=2|mod=i|ten=p	30	sub
+32	,	,	F	FF	_	30	punc
+33	si	si	P	PC	num=n|per=3|gen=n	36	clit
+34	tutto	tutto	D	DI	num=s|gen=m	36	mod
+35	bene	bene	B	B	_	36	mod
+36	parto	parto	S	S	num=s|gen=m	31	obj
+37	naturale	naturale	A	A	num=s|gen=n	36	mod
+38	non	non	B	BN	_	41	neg
+39	se	se	P	PC	num=n|per=3|gen=n	41	clit
+40	n'	ne	P	PC	num=n|gen=n	41	comp
+41	è	essere	V	V	num=s|per=3|mod=i|ten=p	36	mod_rel
+42	neanche	neanche	B	B	_	43	mod
+43	accorta	accorto	A	A	num=s|gen=f	41	pred
+44	.	.	F	FS	_	1	punc
+
+1	Quanti	quanto	D	DQ	num=p|gen=m	2	mod
+2	fiori	fiore	S	S	num=p|gen=m	0	ROOT
+3	colorati	colorato	A	A	num=p|gen=m	2	mod
+
+1	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	2	aux
+2	nato	nascere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	in	in	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	serra	serra	S	S	num=s|gen=f	3	prep
+
+1	quanti	quanto	D	DQ	num=p|gen=m	2	mod
+2	volti	volto	S	S	num=p|gen=m	0	ROOT
+3	emozionati	emozionare	V	V	num=p|mod=p|gen=m	2	mod
+
+1	quanta	quanta	B	B	_	2	mod
+2	gente	gente	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	afferra	afferrare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+6	.	.	F	FS	_	2	punc
+
+1	Che	che	P	PR	num=n|gen=n	3	subj
+2	fortuna	fortuna	S	S	num=s|gen=f	3	mod_temp
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	tanti	tanto	D	DI	num=p|gen=m	5	mod
+5	amici	amico	S	S	num=p|gen=m	3	obj
+
+1	e	e	C	CC	_	2	con
+2	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	qui	qui	B	B	_	4	mod_loc
+4	tutti	tutto	P	PI	num=p|gen=m	2	subj
+5	felici	felice	A	A	num=p|gen=n	2	pred
+
+1	tra	tra	E	E	_	0	ROOT
+2	sorrisi	sorriso	S	S	num=p|gen=m	1	prep
+3	e	e	C	CC	_	2	con
+4	complimenti	complimento	S	S	num=p|gen=m	2	conj
+
+1	prendo	prendere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	i	il	R	RD	num=p|gen=m	4	det
+3	primi	primo	N	NO	num=p|gen=m	4	mod
+4	sacramenti	sacramento	S	S	num=p|gen=m	1	obj
+5	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	5	con
+2	che	che	C	CS	_	1	con
+3	nome	nome	S	S	num=s|gen=m	2	sub
+4	mi	mi	P	PC	num=s|per=1|gen=n	3	comp
+5	daranno	dare	V	V	num=p|per=3|mod=i|ten=f	0	ROOT
+
+1	forse	forse	B	B	_	2	mod
+2	G	G	S	SP	_	0	ROOT
+3	come	come	C	CS	_	2	mod
+4	mio	mio	A	AP	num=s|gen=m	5	mod
+5	nonno	nonno	S	S	num=s|gen=m	3	sub
+
+1	io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	giocherei	giocare	V	V	num=s|per=1|mod=d|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	vita	vita	S	S	num=s|gen=f	3	subj
+
+1	che	che	C	CS	_	0	ROOT
+2	quei	quello	D	DD	num=p|gen=m	3	mod
+3	tipi	tipo	S	S	num=p|gen=m	6	subj
+4	lì	lì	B	B	_	6	mod
+5	lo	lo	P	PC	num=s|per=3|gen=m	6	obj
+6	fanno	fare	V	V	num=p|per=3|mod=i|ten=p	1	sub
+7	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	com'	come	B	B	_	3	mod
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	grasso	grasso	A	A	num=s|gen=m	3	pred
+5	ueh	ueh	C	CC	_	3	con
+6	ueh	ueh	S	SW	num=n|gen=n	3	subj
+
+1	ma	ma	C	CC	_	3	con
+2	com'	come	B	B	_	3	mod
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	bello	bello	A	A	num=s|gen=m	3	pred
+5	ueh	ueh	C	CC	_	3	con
+6	ueh	ueh	S	SW	num=n|gen=n	3	subj
+
+1	guarda-	guardare	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	1	obj
+3	povero	povero	A	A	num=s|gen=m	1	pred
+4	piccolo	piccolo	A	A	num=s|gen=m	3	mod
+
+1	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	1	obj
+3	povero	povero	A	A	num=s|gen=m	1	pred
+4	piccolo	piccolo	A	A	num=s|gen=m	3	mod
+
+1	dammelo	dammelo	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	5	mod
+4	anche	anche	B	B	_	5	mod
+5	a	a	E	E	_	1	comp
+6	me	me	P	PE	num=s|per=1|gen=n	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	amore	amore	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	bambino	bambino	S	S	num=s|gen=m	3	prep
+
+1	una	uno	R	RI	num=s|gen=f	3	det
+2	vera	vero	A	A	num=s|gen=f	3	mod
+3	meraviglia	meraviglia	S	S	num=s|gen=f	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	voce	voce	S	S	num=s|gen=f	1	pred
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	zia	zia	S	S	num=s|gen=f	4	prep
+
+1	con	con	E	E	_	0	ROOT
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	mostro	mostro	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	sua	suo	A	AP	num=s|gen=f	6	mod
+6	figlia	figlio	S	S	num=s|gen=f	4	prep
+7	.	.	F	FS	_	1	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	aux
+3	anche	anche	B	B	_	4	mod
+4	lui	lui	P	PE	num=s|per=3|gen=m	6	subj
+5	tutto	tutto	P	PI	num=s|gen=m	6	mod
+6	sudato	sudare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	quel	quello	D	DD	num=s|gen=m	2	mod
+2	maiale	maiale	S	S	num=s|gen=m	0	ROOT
+3	con	con	E	E	_	2	comp
+4	gli	il	R	RD	num=p|gen=m	5	det
+5	occhiali	occhiale	S	S	num=p|gen=m	3	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	vede	vedere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	raramente	raro	B	B	_	3	mod
+
+1	solo	solo	B	B	_	2	mod
+2	in	in	E	E	_	0	ROOT
+3	casi	caso	S	S	num=p|gen=m	2	prep
+4	eccezionali	eccezionale	A	A	num=p|gen=n	3	mod
+5	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	2	con
+2	incomincia	incominciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	fra	fra	E	E	_	2	comp
+4	i	il	R	RD	num=p|gen=m	5	det
+5	commenti	commento	S	S	num=p|gen=m	3	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	sfilata	sfilata	S	S	num=s|gen=f	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	parenti	parente	S	S	num=p|gen=n	3	prep
+
+1	ma	ma	C	CC	_	5	con
+2	io	io	P	PE	num=s|per=1|gen=n	5	subj
+3	proprio	proprio	A	A	num=s|gen=m	2	mod
+4	non	non	B	BN	_	5	neg
+5	capisco	capire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	perché	perché	C	CS	_	0	ROOT
+2	son	son	B	BN	_	4	neg
+3	così	così	B	B	_	4	mod
+4	contenti	contento	A	A	num=p|gen=m	1	sub
+5	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	com'	come	B	B	_	3	mod
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	grasso	grasso	A	A	num=s|gen=m	3	pred
+5	ueh	ueh	C	CC	_	3	con
+6	ueh	ueh	S	SW	num=n|gen=n	3	subj
+
+1	ma	ma	C	CC	_	3	con
+2	com'	come	B	B	_	3	mod
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	bello	bello	A	A	num=s|gen=m	3	pred
+5	ueh	ueh	C	CC	_	3	con
+6	ueh	ueh	S	SW	num=n|gen=n	3	subj
+
+1	guarda-	guardare	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	1	obj
+3	povero	povero	A	A	num=s|gen=m	1	pred
+4	piccolo	piccolo	A	A	num=s|gen=m	3	mod
+
+1	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	1	obj
+3	povero	povero	A	A	num=s|gen=m	1	pred
+4	piccolo	piccolo	A	A	num=s|gen=m	3	mod
+
+1	dammelo	dammelo	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	5	mod
+4	anche	anche	B	B	_	5	mod
+5	a	a	E	E	_	1	comp
+6	me	me	P	PE	num=s|per=1|gen=n	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Poi	poi	B	B	_	3	mod
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	mettono	mettere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	a	a	E	E	_	3	arg
+5	mangiare	mangiare	V	V	mod=f	4	prep
+
+1	per	per	E	E	_	0	ROOT
+2	concludere	concludere	V	V	mod=f	1	prep
+3	la	il	R	RD	num=s|gen=f	4	det
+4	festa	festa	S	S	num=s|gen=f	2	obj
+
+1	uno	uno	P	PI	num=s|gen=m	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	alza	alzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	col	con	E	EA	num=s|gen=m	3	comp
+5	bicchiere	bicchiere	S	S	num=s|gen=m	4	prep
+
+1	ma	ma	C	CC	_	3	con
+2	gli	gli	P	PC	num=s|per=3|gen=m	3	comp_ind
+3	gira	girare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	3	mod
+6	la	il	R	RD	num=s|gen=f	7	det
+7	testa	testa	S	S	num=s|gen=f	3	obj
+
+1	Sarà	essere	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	uomo	uomo	S	S	num=s|gen=m	1	pred
+4	assai	assai	B	B	_	5	mod
+5	importante	importante	A	A	num=s|gen=n	3	mod
+
+1	forte	forte	A	A	num=s|gen=n	0	ROOT
+2	bello	bello	A	A	num=s|gen=m	1	mod
+3	e	e	C	CC	_	2	con
+4	intelligente	intelligente	A	A	num=s|gen=n	2	conj
+
+1	ma	ma	C	CC	_	2	con
+2	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	calmo	calmo	A	A	num=s|gen=m	2	pred
+4	che	che	C	CS	_	2	subj
+5	magari	magari	B	B	_	4	sub
+
+1	poi	poi	B	B	_	2	mod
+2	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	2	pred
+4	deficiente	deficiente	A	A	num=s|gen=n	3	mod
+
+1	A	a	E	E	_	0	ROOT
+2	proposito	proposito	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	nome	nome	S	S	num=s|gen=m	3	prep
+
+1	proprio	proprio	B	B	_	2	mod
+2	G	G	S	SP	_	0	ROOT
+3	come	come	C	CS	_	2	mod
+4	mio	mio	A	AP	num=s|gen=m	5	mod
+5	nonno	nonno	S	S	num=s|gen=m	3	sub
+
+1	avrei	avere	V	VA	num=s|per=1|mod=d|ten=p	2	aux
+2	voglia	volere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	di	di	E	E	_	2	arg
+4	reagire	reagire	V	V	mod=f	3	prep
+
+1	ma	ma	C	CC	_	4	con
+2	per	per	E	E	_	4	comp
+3	ora	ora	B	B	_	2	prep
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	troppo	troppo	B	B	_	6	mod
+6	sonno	sonno	S	S	num=s|gen=m	4	obj
+
+1	Ma	ma	C	CC	_	3	con
+2	com'	come	B	B	_	3	mod
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	grasso	grasso	A	A	num=s|gen=m	3	pred
+5	ueh	ueh	C	CC	_	3	con
+6	ueh	ueh	S	SW	num=n|gen=n	3	subj
+
+1	ma	ma	C	CC	_	3	con
+2	com'	come	B	B	_	3	mod
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	bello	bello	A	A	num=s|gen=m	3	pred
+5	ueh	ueh	C	CC	_	3	con
+6	ueh	ueh	S	SW	num=n|gen=n	3	subj
+
+1	guarda-	guardare	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	1	obj
+3	povero	povero	A	A	num=s|gen=m	1	pred
+4	piccolo	piccolo	A	A	num=s|gen=m	3	mod
+
+1	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	1	obj
+3	povero	povero	A	A	num=s|gen=m	1	pred
+4	piccolo	piccolo	A	A	num=s|gen=m	3	mod
+
+1	guarda-	guardare	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	1	obj
+3	povero	povero	A	A	num=s|gen=m	1	pred
+4	piccolo	piccolo	A	A	num=s|gen=m	3	mod
+
+1	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	1	obj
+3	povero	povero	A	A	num=s|gen=m	1	pred
+4	piccolo	piccolo	A	A	num=s|gen=m	3	mod
+
+1	guarda-	guardare	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	1	obj
+3	povero	povero	A	A	num=s|gen=m	1	pred
+4	piccolo	piccolo	A	A	num=s|gen=m	3	mod
+
+1	prendi-	prendere	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+2	lo	lo	P	PC	num=s|per=3|gen=m	1	obj
+3	povero	povero	A	A	num=s|gen=m	1	pred
+4	piccolo	piccolo	A	A	num=s|gen=m	3	mod
+
+1	dammelo	dammelo	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	5	mod
+4	anche	anche	B	B	_	5	mod
+5	a	a	E	E	_	1	comp
+6	me	me	P	PE	num=s|per=1|gen=n	5	prep
+

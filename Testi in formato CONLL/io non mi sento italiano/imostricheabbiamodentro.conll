@@ -1,0 +1,349 @@
+1	Fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	certo	certo	A	A	num=s|gen=m	4	mod
+4	effetto	effetto	S	S	num=s|gen=m	1	obj
+5	non	non	B	BN	_	6	neg
+6	capire	capire	V	V	mod=f	1	conj
+7	bene	bene	B	B	_	6	mod
+
+1	Da	da	E	E	_	0	ROOT
+2	dove	dove	P	PR	num=n|gen=n	3	subj
+3	nasce	nascere	V	V	num=s|per=3|mod=i|ten=p	1	prep
+4	ogni	ogni	D	DI	num=s|gen=n	6	mod
+5	tua	tuo	A	AP	num=s|gen=f	6	mod
+6	reazione	reazione	S	S	num=s|gen=f	3	obj
+
+1	E	e	C	CC	_	3	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	3	subj
+3	stai	stare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	vivendo	vivere	V	V	mod=g	3	pred
+5	senza	senza	C	CS	_	4	mod
+6	sapere	sapere	V	V	mod=f	5	sub
+7	mai	mai	B	B	_	6	mod_temp
+
+1	Nel	in	E	EA	num=s|gen=m	0	ROOT
+2	tuo	tuo	A	AP	num=s|gen=m	3	mod
+3	profondo	profondo	A	A	num=s|gen=m	4	mod
+4	quello	quello	P	PD	num=s|gen=m	1	prep
+5	che	che	P	PR	num=n|gen=n	6	obj
+6	sei	sei	N	N	_	4	mod_rel
+
+1	Quello	quello	P	PD	num=s|gen=m	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	obj
+3	sei	sei	N	N	_	1	mod_rel
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	vivono	vivere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	comp
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	uomo	uomo	S	S	num=s|gen=m	3	prep
+
+1	Nascosti	nascosto	A	A	num=p|gen=m	0	ROOT
+2	nell'	in	E	EA	num=s|gen=n	1	comp
+3	inconscio	inconscio	S	S	num=s|gen=m	2	prep
+
+1	Sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	atavico	atavico	A	A	num=s|gen=m	4	mod
+4	richiamo	richiamo	S	S	num=s|gen=m	1	pred
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	vagano	vagare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	comp
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	mente	mente	S	S	num=s|gen=f	3	prep
+
+1	Sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	i	il	R	RD	num=p|gen=m	3	det
+3	nostri	nostro	A	AP	num=p|gen=m	5	mod
+4	oscuri	oscuro	A	A	num=p|gen=m	5	mod
+5	istinti	istinto	S	S	num=p|gen=m	1	pred
+
+1	E	e	C	CC	_	4	con
+2	inevitabilmente	inevitabilmente	B	B	_	4	mod
+3	dobbiamo	dovere	V	VM	num=p|per=1|mod=i|ten=p	4	modal
+4	far-	fare	V	V	mod=f	0	ROOT
+5	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+6	i	il	R	RD	num=p|gen=m	7	det
+7	conti	conte	S	S	num=p|gen=m	4	obj
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	Silenziosi	silenzioso	A	A	num=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	insinuanti	insinuante	A	A	num=p|gen=n	1	conj
+
+1	Sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	gene	gene	S	S	num=s|gen=m	1	pred
+4	egoista	egoista	A	A	num=s|gen=n	3	mod
+
+1	Che	che	P	PR	num=n|gen=n	3	subj
+2	senza	senza	C	CS	_	3	mod
+3	complimenti	complimento	S	S	num=p|gen=m	0	ROOT
+
+1	Domina	Domina	S	S	num=s|gen=f	0	ROOT
+2	e	e	C	CC	_	1	con
+3	conquista	conquista	S	S	num=s|gen=f	1	conj
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+2	spingono	spingere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	violenza	violenza	S	S	num=s|gen=f	3	prep
+
+1	Che	che	D	DE	num=n|gen=n	0	_
+2	quasi	quasi	B	B	_	3	mod
+3	per	per	E	E	_	1	comp
+4	simbiosi	simbiosi	S	S	num=s|gen=f	3	prep
+
+1	Si	si	P	PC	num=n|per=3|gen=n	3	clit
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	incollata	incollare	V	V	num=s|mod=p|gen=f	0	ROOT
+4	alla	al	E	EA	num=s|gen=f	3	comp
+5	nostra	nostro	A	AP	num=s|gen=f	6	mod
+6	esistenza	esistenza	S	S	num=s|gen=f	4	prep
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	nostra	nostro	A	AP	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	0	ROOT
+4	civile	civile	A	A	num=s|gen=n	3	mod
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	nostra	nostro	A	AP	num=s|gen=f	3	mod
+3	idea	idea	S	S	num=s|gen=f	0	ROOT
+4	di	di	E	E	_	3	comp
+5	giustizia	giustizia	S	S	num=s|gen=f	4	prep
+6	e	e	C	CC	_	3	con
+7	uguaglianza	uguaglianza	S	S	num=s|gen=f	3	conj
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	convivenza	convivenza	S	S	num=s|gen=f	5	subj
+3	sociale	sociale	A	A	num=s|gen=n	2	mod
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	minacciata	minacciare	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	Dai	da	E	EA	num=p|gen=m	0	ROOT
+2	mostri	mostro	S	S	num=p|gen=m	1	prep
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	mod_rel
+5	la	il	R	RD	num=s|gen=f	7	det
+6	nostra	nostro	A	AP	num=s|gen=f	7	mod
+7	sostanza	sostanza	S	S	num=s|gen=f	4	pred
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+2	fanno	fare	V	VM	num=p|per=3|mod=i|ten=p	3	modal
+3	illanguidire	illanguidire	V	V	mod=f	0	ROOT
+
+1	Di	di	E	E	_	0	ROOT
+2	fronte	fronte	S	S	num=s|gen=n	1	prep
+3	a	a	E	E	_	2	comp
+4	quella	quello	D	DD	num=s|gen=f	5	mod
+5	cosa	cosa	S	S	num=s|gen=f	3	prep
+
+1	Che	che	D	DE	num=n|gen=n	2	mod
+2	spudoratamente	spudorato	B	B	_	0	_
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	chiamiamo	chiamare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	amore	amore	S	S	num=s|gen=m	2	pred
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	Sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	insaziabili	insaziabile	A	A	num=p|gen=n	1	pred
+3	e	e	C	CC	_	1	con
+4	funesti	funesto	A	A	num=p|gen=m	1	conj
+
+1	Sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	potere	potere	S	S	num=s|gen=m	1	pred
+4	a	a	E	E	_	3	comp
+5	tutti	tutto	T	T	num=p|gen=m	7	mod
+6	i	il	R	RD	num=p|gen=m	7	det
+7	costi	costo	S	S	num=p|gen=m	4	prep
+
+1	Ma	ma	C	CC	_	5	con
+2	anche	anche	B	B	_	3	mod
+3	chi	chi	P	PR	num=n|gen=n	5	subj
+4	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+5	odia	odiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Soltanto	soltanto	B	B	_	2	mod
+2	per	per	E	E	_	0	ROOT
+3	invidia	invidia	S	S	num=s|gen=f	2	prep
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	2	comp_ind
+2	ispirano	ispirare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	5	det
+4	grande	grande	A	A	num=s|gen=n	5	mod
+5	sogno	sogno	S	S	num=s|gen=m	2	obj
+
+1	Di	di	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	Dio	Dio	S	SP	_	1	prep
+4	severo	severo	A	A	num=s|gen=m	3	mod
+5	e	e	C	CC	_	1	con
+6	giusto	giusto	B	B	_	1	conj
+
+1	Col	con	E	EA	num=s|gen=m	0	ROOT
+2	mitico	mitico	A	A	num=s|gen=m	3	mod
+3	bisogno	bisogno	S	S	num=s|gen=m	1	prep
+
+1	Di	di	E	E	_	6	comp
+2	Allah	Allah	S	SP	_	1	prep
+3	e	e	C	CC	_	1	con
+4	di	di	E	E	_	1	conj
+5	Gesù	Gesù	S	SP	_	4	prep
+6	Cristo	Cristo	S	SP	_	0	ROOT
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	2	comp_ind
+2	inculcano	inculcare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	idee	idea	S	S	num=p|gen=f	2	subj
+4	contorte	contorte	S	S	num=p|gen=f	3	mod
+
+1	E	e	C	CC	_	3	con
+2	il	il	R	RD	num=s|gen=m	3	det
+3	gusto	gusto	S	S	num=s|gen=m	0	ROOT
+4	sadico	sadico	A	A	num=s|gen=m	3	mod
+5	e	e	C	CC	_	3	con
+6	morboso	morboso	A	A	num=s|gen=m	3	conj
+
+1	Di	di	E	E	_	0	ROOT
+2	fronte	fronte	S	S	num=s|gen=n	1	prep
+3	a	a	E	E	_	2	comp
+4	immagini	immagine	S	S	num=p|gen=f	3	prep
+5	di	di	E	E	_	4	comp
+6	morte	morte	S	S	num=s|gen=f	5	prep
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	nostra	nostro	A	AP	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	0	ROOT
+4	cosciente	cosciente	A	A	num=s|gen=n	3	mod
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	nostra	nostro	A	AP	num=s|gen=f	3	mod
+3	fede	fede	S	S	num=s|gen=f	0	ROOT
+4	nel	in	E	EA	num=s|gen=m	3	comp
+5	giusto	giusto	A	A	num=s|gen=m	4	prep
+6	e	e	C	CC	_	3	con
+7	nel	in	E	EA	num=s|gen=m	3	comp
+8	bello	bello	A	A	num=s|gen=m	7	prep
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	equilibrio	equilibrio	S	S	num=s|gen=m	1	pred
+4	apparente	apparente	A	A	num=s|gen=n	3	mod
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	è	essere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+7	minacciato	minacciare	V	V	num=s|mod=p|gen=m	3	mod_rel
+
+1	Dai	da	E	EA	num=p|gen=m	0	ROOT
+2	mostri	mostro	S	S	num=p|gen=m	1	prep
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	abbiamo	abbiamo	V	V	num=p|per=3|mod=c|ten=p	2	mod_rel
+5	nel	in	E	EA	num=s|gen=m	4	comp
+6	nostro	nostro	A	AP	num=s|gen=m	7	mod
+7	cervello	cervello	S	S	num=s|gen=m	5	prep
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	Crescono	crescere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	in	in	E	E	_	1	comp
+3	tutto	tutto	T	T	num=s|gen=m	5	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	2	prep
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	2	clit
+2	stanno	stare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	devastando	devastare	V	V	mod=g	2	mod
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	mostri	mostro	S	S	num=p|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	5	aux
+5	dentro	dentro	B	B	_	2	mod_rel
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	vivono	vivere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	comp
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	mente	mente	S	S	num=s|gen=f	3	prep
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	nascono	nascere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	comp
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	terra	terra	S	S	num=s|gen=f	3	prep
+
+1	Inevitabilmente	inevitabilmente	B	B	_	3	mod
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	clit
+3	portano	portare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	alla	al	E	EA	num=s|gen=f	3	comp
+5	guerra	guerra	S	S	num=s|gen=f	4	prep
+

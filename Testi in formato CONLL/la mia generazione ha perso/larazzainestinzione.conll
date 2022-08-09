@@ -1,0 +1,563 @@
+1	Non	non	B	BN	_	3	neg
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	piace	piacere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	finta	finta	S	S	num=s|gen=f	3	subj
+6	allegria	allegria	S	S	num=s|gen=f	5	mod
+
+1	non	non	B	BN	_	2	neg
+2	sopporto	sopportare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	5	mod
+4	le	il	R	RD	num=p|gen=f	5	det
+5	cene	cena	S	S	num=p|gen=f	2	obj
+6	in	in	E	E	_	5	comp
+7	compagnia	compagnia	S	S	num=s|gen=f	6	prep
+
+1	e	e	C	CC	_	4	con
+2	coi	con	E	EA	num=p|gen=m	4	comp
+3	giovani	giovane	S	S	num=p|gen=n	2	prep
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	intransigente	intransigente	A	A	num=s|gen=n	4	pred
+
+1	di	di	E	E	_	5	comp
+2	certe	certo	D	DI	num=p|gen=f	3	mod
+3	mode	moda	S	S	num=p|gen=f	1	prep
+4	,	,	F	FF	_	1	con
+5	canzoni	canzone	S	S	num=p|gen=f	0	ROOT
+6	e	e	C	CC	_	5	con
+7	trasgressioni	trasgressione	S	S	num=p|gen=f	5	conj
+
+1	non	non	B	BN	_	4	neg
+2	me	me	P	PE	num=s|per=1|gen=n	4	subj
+3	ne	ne	P	PC	num=n|gen=n	4	comp
+4	frega	fregare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	niente	niente	B	B	_	4	mod
+6	.	.	F	FS	_	4	punc
+
+1	E	e	C	CC	_	2	con
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	6	aux
+3	anche	anche	B	B	_	4	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	2	pred
+6	annoiato	annoiare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	da	da	E	E	_	4	comp
+2	chi	chi	P	PR	num=n|gen=n	1	prep
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+4	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	la	il	R	RD	num=s|gen=f	6	det
+6	morale	morale	S	S	num=s|gen=f	4	subj
+
+1	ed	e	C	CC	_	2	con
+2	esalta	esaltare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	come	come	E	E	_	2	comp
+4	sacra	sacro	A	A	num=s|gen=f	3	prep
+5	la	il	R	RD	num=s|gen=f	6	det
+6	vita	vita	S	S	num=s|gen=f	2	obj
+7	coniugale	coniugale	A	A	num=s|gen=n	6	mod
+
+1	e	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	i	il	R	RD	num=p|gen=m	6	det
+6	gay	gay	S	S	num=n|gen=n	4	subj
+7	che	che	P	PR	num=n|gen=n	11	mod
+8	han	han	B	B	_	11	mod
+9	tutte	tutto	T	T	num=p|gen=f	11	mod
+10	le	il	R	RD	num=p|gen=f	11	det
+11	ragioni	ragione	S	S	num=p|gen=f	6	mod
+
+1	ma	ma	C	CC	_	4	con
+2	io	io	P	PE	num=s|per=1|gen=n	4	subj
+3	non	non	B	BN	_	4	neg
+4	riesco	riuscire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	a	a	E	E	_	4	arg
+6	tollerare	tollerare	V	V	mod=f	5	prep
+
+1	le	il	R	RD	num=p|gen=f	3	det
+2	loro	loro	A	AP	num=n|gen=n	3	mod
+3	esibizioni	esibizione	S	S	num=p|gen=f	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	Non	non	B	BN	_	3	neg
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	piace	piacere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	chi	chi	P	PR	num=n|gen=n	3	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+6	troppo	troppo	B	B	_	7	mod
+7	solidale	solidale	A	A	num=s|gen=n	5	pred
+
+1	e	e	C	CC	_	2	con
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	professionista	professionista	S	S	num=s|gen=m	2	obj
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	sociale	sociale	A	A	num=s|gen=n	5	prep
+
+1	ma	ma	C	CC	_	3	con
+2	chi	chi	P	PR	num=n|gen=n	3	subj
+3	specula	speculare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	su	su	E	E	_	3	comp
+5	chi	chi	P	PR	num=n|gen=n	4	prep
+6	è	essere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+7	malato	malato	A	A	num=s|gen=m	5	mod_rel
+
+1	su	su	E	E	_	6	comp
+2	disabili	disabili	S	S	num=p|gen=m	1	prep
+3	,	,	F	FF	_	2	con
+4	tossici	tossico	S	S	num=p|gen=m	2	conj
+5	e	e	C	CC	_	2	con
+6	anziani	anziano	S	S	num=p|gen=m	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	vero	vero	A	A	num=s|gen=m	1	pred
+4	criminale	criminale	A	A	num=s|gen=n	3	mod
+5	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	5	mod
+5	nessuno	nessuno	P	PI	num=s|gen=m	3	obj
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	s'	si	P	PC	num=n|per=3|gen=n	8	clit
+8	incazza	incazzarsi	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+
+1	fra	fra	E	E	_	4	comp
+2	tutti	tutto	P	PI	num=p|gen=m	1	prep
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	assuefatti	assuefare	V	V	num=p|mod=p|gen=m	0	ROOT
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	nuova	nuovo	A	A	num=s|gen=f	7	mod
+7	razza	razza	S	S	num=s|gen=f	5	prep
+
+1	e	e	C	CC	_	4	con
+2	chi	chi	P	PR	num=n|gen=n	4	subj
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	inventa	inventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	7	det
+6	bel	bello	A	A	num=s|gen=m	7	mod
+7	partito	partito	S	S	num=s|gen=m	4	obj
+
+1	per	per	E	E	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	nostro	nostro	A	AP	num=s|gen=m	4	mod
+4	bene	bene	S	S	num=s|gen=m	1	prep
+
+1	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	proprio	proprio	B	B	_	3	mod
+3	destinato	destinare	V	V	num=s|mod=p|gen=m	1	pred
+
+1	a	a	E	E	_	0	ROOT
+2	diventare	diventare	V	V	mod=f	1	prep
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	buffone	buffone	S	S	num=s|gen=m	2	obj
+5	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	forse	forse	B	B	_	3	mod
+3	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	io	io	P	PE	num=s|per=1|gen=n	3	ROOT
+5	che	che	P	PR	num=n|gen=n	3	ROOT
+6	faccio	fare	V	VM	num=s|per=1|mod=i|ten=p	3	ROOT
+7	parte	parte	S	S	num=s|gen=f	6	obj
+
+1	di	di	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	razza	razza	S	S	num=s|gen=f	1	prep
+
+1	in	in	E	E	_	0	ROOT
+2	estinzione	estinzione	S	S	num=s|gen=f	1	prep
+3	.	.	F	FS	_	1	punc
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	generazione	generazione	S	S	num=s|gen=f	5	subj
+4	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	strade	strada	S	S	num=p|gen=f	0	ROOT
+3	,	,	F	FF	_	2	con
+4	le	il	R	RD	num=p|gen=f	5	det
+5	piazze	piazza	S	S	num=p|gen=f	2	conj
+6	gremite	gremire	V	V	num=p|mod=p|gen=f	2	mod
+
+1	di	di	E	E	_	3	comp
+2	gente	gente	S	S	num=s|gen=f	1	prep
+3	appassionata	appassionato	A	A	num=s|gen=f	0	ROOT
+
+1	sicura	sicuro	A	A	num=s|gen=f	0	ROOT
+2	di	di	E	E	_	1	arg
+3	ridare	ridare	V	V	mod=f	2	prep
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	senso	senso	S	S	num=s|gen=m	3	obj
+6	alla	al	E	EA	num=s|gen=f	3	comp
+7	propria	proprio	A	AP	num=s|gen=f	8	mod
+8	vita	vita	S	S	num=s|gen=f	6	prep
+
+1	ma	ma	C	CC	_	3	con
+2	ormai	ormai	B	B	_	3	mod
+3	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	tutte	tutto	P	PI	num=p|gen=f	5	mod
+5	cose	cosa	S	S	num=p|gen=f	3	subj
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	secolo	secolo	S	S	num=s|gen=m	6	prep
+8	scorso	scorso	A	A	num=s|gen=m	7	mod
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	generazione	generazione	S	S	num=s|gen=f	5	subj
+4	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	perso	perdere	V	V	num=s|mod=p|gen=m	0	ROOT
+6	.	.	F	FS	_	5	punc
+
+1	Non	non	B	BN	_	3	neg
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	piace	piacere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	6	det
+5	troppa	troppo	D	DI	num=s|gen=f	6	mod
+6	informazione	informazione	S	S	num=s|gen=f	3	obj
+
+1	odio	odio	S	S	num=s|gen=m	0	ROOT
+2	anche	anche	B	B	_	4	mod
+3	i	il	R	RD	num=p|gen=m	4	det
+4	giornali	giornale	S	S	num=p|gen=m	1	mod
+5	e	e	C	CC	_	4	con
+6	la	il	R	RD	num=s|gen=f	7	det
+7	televisione	televisione	S	S	num=s|gen=f	4	conj
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	cultura	cultura	S	S	num=s|gen=f	6	subj
+3	per	per	E	E	_	2	comp
+4	le	il	R	RD	num=p|gen=f	5	det
+5	masse	massa	S	S	num=p|gen=f	3	prep
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	un'	uno	R	RI	num=s|gen=f	8	det
+8	idiozia	idiozia	S	S	num=s|gen=f	6	pred
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	fila	fila	S	S	num=s|gen=f	0	ROOT
+3	coi	con	E	EA	num=p|gen=m	2	comp
+4	panini	panino	S	S	num=p|gen=m	3	prep
+5	davanti	davanti	B	B	_	6	mod
+6	ai	al	E	EA	num=p|gen=m	4	comp
+7	musei	museo	S	S	num=p|gen=m	6	prep
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	malinconia	malinconia	S	S	num=s|gen=f	2	obj
+4	.	.	F	FS	_	2	punc
+
+1	E	e	C	CC	_	5	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	tecnologia	tecnologia	S	S	num=s|gen=f	5	subj
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	comp_ind
+5	porterà	portare	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+6	lontano	lontano	B	B	_	5	mod
+
+1	ma	ma	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	nessuno	nessuno	P	PI	num=s|gen=m	4	subj
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	sappia	sapere	V	V	num=s|per=3|mod=c|ten=p	6	mod_rel
+9	l'	il	R	RD	num=s|gen=n	10	det
+10	italiano	italiano	S	S	num=s|gen=m	8	obj
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	di	di	E	E	_	2	subj
+4	buono	buono	A	A	num=s|gen=m	3	prep
+5	che	che	C	CS	_	2	subj
+6	la	il	R	RD	num=s|gen=f	7	det
+7	scuola	scuola	S	S	num=s|gen=f	5	sub
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	aggiorna	aggiornare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	con	con	E	E	_	2	comp
+4	urgenza	urgenza	S	S	num=s|gen=f	3	prep
+
+1	e	e	C	CC	_	6	con
+2	con	con	E	E	_	6	comp
+3	tutti	tutto	T	T	num=p|gen=m	5	mod
+4	i	il	R	RD	num=p|gen=m	5	det
+5	nuovi	nuovo	A	A	num=p|gen=m	2	prep
+6	quiz	quiz	S	SW	num=n|gen=m	0	ROOT
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	comp_ind
+2	garantisce	garantire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	ignoranza	ignoranza	S	S	num=s|gen=f	2	subj
+5	.	.	F	FS	_	2	punc
+
+1	Non	non	B	BN	_	3	neg
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	piace	piacere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	nessuna	nessuna	D	DI	num=s|gen=f	5	mod
+5	ideologia	ideologia	S	S	num=s|gen=f	3	subj
+
+1	non	non	B	BN	_	2	neg
+2	faccio	fare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	neanche	neanche	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	tifo	tifo	S	S	num=s|gen=m	2	obj
+6	per	per	E	E	_	5	comp
+7	la	il	R	RD	num=s|gen=f	8	det
+8	democrazia	democrazia	S	S	num=s|gen=f	6	prep
+
+1	di	di	E	E	_	4	comp
+2	gente	gente	S	S	num=s|gen=f	1	prep
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	da	da	E	E	_	4	arg
+6	dire	dire	V	V	mod=f	9	subj
+7	ce	ce	P	PC	num=p|per=1|gen=n	6	clit
+8	n'	ne	P	PC	num=n|gen=n	9	comp
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	5	prep
+10	tanta	tanto	D	DI	num=s|gen=f	9	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	qualità	qualità	S	S	num=n|gen=f	5	subj
+3	non	non	B	BN	_	5	neg
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	richiesta	richiedere	V	V	num=s|mod=p|gen=f	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	numero	numero	S	S	num=s|gen=m	1	pred
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	conta	contare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	7	con
+2	anche	anche	B	B	_	5	mod
+3	il	il	R	RD	num=s|gen=m	5	det
+4	mio	mio	A	AP	num=s|gen=m	5	mod
+5	paese	paese	S	S	num=s|gen=m	7	subj
+6	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+7	piace	piacere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	sempre	sempre	B	B	_	7	mod
+9	meno	meno	B	B	_	7	mod
+
+1	non	non	B	BN	_	2	neg
+2	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	4	mod
+4	all'	al	E	EA	num=s|gen=n	2	comp
+5	ingegno	ingegno	S	S	num=s|gen=m	4	prep
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	popolo	popolo	S	S	num=s|gen=m	6	prep
+8	italiano	italiano	A	A	num=s|gen=m	7	mod
+
+1	dove	dove	B	B	_	4	mod_loc
+2	ogni	ogni	D	DI	num=s|gen=n	4	subj
+3	intellettuale	intellettuale	A	A	num=s|gen=n	2	mod
+4	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	opinione	opinione	S	S	num=s|gen=f	4	obj
+
+1	ma	ma	C	CC	_	4	con
+2	se	se	C	CS	_	4	mod
+3	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+4	guardi	guardare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+5	bene	bene	B	B	_	4	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	solito	solito	S	S	num=s|gen=m	1	pred
+4	coglione	coglione	S	S	num=s|gen=m	3	mod
+5	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	forse	forse	B	B	_	3	mod
+3	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	io	io	P	PE	num=s|per=1|gen=n	3	ROOT
+5	che	che	P	PR	num=n|gen=n	3	ROOT
+6	faccio	fare	V	VM	num=s|per=1|mod=i|ten=p	3	ROOT
+7	parte	parte	S	S	num=s|gen=f	6	obj
+
+1	di	di	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	razza	razza	S	S	num=s|gen=f	1	prep
+
+1	in	in	E	E	_	0	ROOT
+2	estinzione	estinzione	S	S	num=s|gen=f	1	prep
+3	.	.	F	FS	_	1	punc
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	generazione	generazione	S	S	num=s|gen=f	5	subj
+4	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	migliaia	migliaio	S	S	num=p|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	ragazzi	ragazzo	S	S	num=p|gen=m	2	prep
+4	pronti	pronto	A	A	num=p|gen=m	3	mod
+5	a	a	E	E	_	4	comp
+6	tutto	tutto	D	DI	num=s|gen=m	5	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	stavano	stare	V	V	num=p|per=3|mod=i|ten=i	0	ROOT
+3	cercando	cercare	V	V	mod=g	2	pred
+
+1	magari	magari	B	B	_	0	_
+2	con	con	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	di	di	E	E	_	2	comp
+6	presunzione	presunzione	S	S	num=s|gen=f	5	prep
+
+1	di	di	E	E	_	0	ROOT
+2	cambiare	cambiare	V	V	mod=f	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	mondo	mondo	S	S	num=s|gen=m	2	obj
+
+1	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	2	modal
+2	raccontar-	raccontare	V	V	mod=f	0	ROOT
+3	lo	lo	P	PC	num=s|per=3|gen=m	2	obj
+4	ai	al	E	EA	num=p|gen=m	2	comp
+5	figli	figlio	S	S	num=p|gen=m	4	prep
+
+1	senza	senza	E	E	_	0	ROOT
+2	alcun	alcun	D	DI	num=s|gen=m	3	mod
+3	rimorso	rimorso	S	S	num=s|gen=m	1	prep
+
+1	ma	ma	C	CC	_	6	con
+2	la	il	R	RD	num=s|gen=f	4	det
+3	mia	mio	A	AP	num=s|gen=f	4	mod
+4	generazione	generazione	S	S	num=s|gen=f	6	subj
+5	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	perso	perdere	V	V	num=s|mod=p|gen=m	0	ROOT
+7	.	.	F	FS	_	6	punc
+
+1	Non	non	B	BN	_	3	neg
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	piace	piacere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mercato	mercato	S	S	num=s|gen=m	3	subj
+6	globale	globale	A	A	num=s|gen=n	5	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	paradiso	paradiso	S	S	num=s|gen=m	2	pred
+5	di	di	E	E	_	4	comp
+6	ogni	ogni	D	DI	num=s|gen=n	7	mod
+7	multinazionale	multinazionale	S	S	num=s|gen=f	5	prep
+
+1	e	e	C	CC	_	6	con
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	domani	domani	B	B	_	5	mod_loc
+4	state	essere	V	VA	num=p|mod=p|gen=f	5	aux
+5	pur	pur	B	B	_	6	mod
+6	tranquilli	tranquillo	A	A	num=p|gen=m	0	ROOT
+
+1	ci	ci	P	PC	num=n|gen=n	2	comp
+2	saranno	essere	V	V	num=p|per=3|mod=i|ten=f	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	più	più	B	B	_	5	mod
+5	poveri	povero	A	A	num=p|gen=m	2	pred
+6	e	e	C	CC	_	5	con
+7	più	più	B	B	_	8	mod
+8	ricchi	ricco	A	A	num=p|gen=m	5	conj
+
+1	ma	ma	C	CC	_	0	ROOT
+2	tutti	tutto	P	PI	num=p|gen=m	1	conj
+3	più	più	B	B	_	4	mod
+4	imbecilli	imbecille	A	A	num=p|gen=n	2	mod
+5	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	2	con
+2	immagino	immaginare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	futuro	futuro	S	S	num=s|gen=m	2	obj
+
+1	senza	senza	E	E	_	0	ROOT
+2	alcun	alcun	D	DI	num=s|gen=m	3	mod
+3	rimedio	rimedio	S	S	num=s|gen=m	1	prep
+
+1	una	uno	R	RI	num=s|gen=f	2	det
+2	specie	specie	S	S	num=n|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	massa	massa	S	S	num=s|gen=f	3	prep
+
+1	senza	senza	E	E	_	4	comp
+2	più	più	B	B	_	1	prep
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	individuo	individuo	S	S	num=s|gen=m	0	ROOT
+
+1	e	e	C	CC	_	2	con
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	5	det
+4	nostro	nostro	A	AP	num=s|gen=m	5	mod
+5	stato	stato	S	S	num=s|gen=m	2	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	pavido	pavido	A	A	num=s|gen=m	2	pred
+4	e	e	C	CC	_	2	con
+5	impotente	impotente	A	A	num=s|gen=n	2	conj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	sempre	sempre	B	B	_	1	mod
+3	più	più	B	B	_	4	mod
+4	allo	al	E	EA	num=s|gen=m	1	comp
+5	sfascio	sfascio	S	S	num=s|gen=m	4	prep
+
+1	e	e	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	gliene	gliene	P	PC	num=n|per=3|gen=n	4	clit
+4	frega	fregare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	niente	niente	B	B	_	4	mod
+
+1	e	e	C	CC	_	2	con
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	5	mod
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	Chiesa	Chiesa	S	SP	_	2	obj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	incalza	incalzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	che	che	C	CS	_	2	comp
+5	mai	mai	B	B	_	4	sub
+
+1	io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	vorrei	volere	V	VM	num=s|per=1|mod=d|ten=p	3	modal
+3	che	che	C	CS	_	4	subj
+4	sprofondasse	sprofondare	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+
+1	con	con	E	E	_	0	ROOT
+2	tutti	tutto	T	T	num=p|gen=m	4	mod
+3	i	il	R	RD	num=p|gen=m	4	det
+4	Papi	Papi	S	SP	_	1	prep
+5	e	e	C	CC	_	4	con
+6	i	il	R	RD	num=p|gen=m	7	det
+7	Giubilei	Giubilei	S	SP	_	4	conj
+8	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	3	con
+2	questa	questo	P	PD	num=s|gen=f	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	un'	uno	R	RI	num=s|gen=f	5	det
+5	astrazione	astrazione	S	S	num=s|gen=f	3	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	idea	idea	S	S	num=s|gen=f	1	pred
+4	di	di	E	E	_	3	comp
+5	chi	chi	P	PR	num=n|gen=n	4	prep
+6	appartiene	appartenere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	a	a	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	razza	razza	S	S	num=s|gen=f	1	prep
+
+1	in	in	E	E	_	0	ROOT
+2	estinzione	estinzione	S	S	num=s|gen=f	1	prep
+3	.	.	F	FS	_	1	punc
+

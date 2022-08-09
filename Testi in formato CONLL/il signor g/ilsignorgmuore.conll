@@ -1,0 +1,307 @@
+1	Sshhhh	Sshhhh	S	SP	_	2	mod
+2	stanza	stanza	S	S	num=s|gen=f	18	subj
+3	132	132	N	N	_	4	mod
+4	ore	ora	S	S	num=p|gen=f	7	mod_temp
+5	18	18	N	N	_	7	mod
+6	è	essere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+7	spirato	spirare	V	V	num=s|mod=p|gen=m	2	mod_rel
+8	,	,	F	FF	_	7	con
+9	si	si	P	PC	num=n|per=3|gen=n	11	clit
+10	il	il	R	RD	num=s|gen=m	11	det
+11	cuore	cuore	S	S	num=s|gen=m	7	conj
+12	come	come	E	E	_	11	comp
+13	il	il	R	RD	num=s|gen=m	16	det
+14	suo	suo	A	AP	num=s|gen=m	16	mod
+15	povero	povero	A	A	num=s|gen=m	16	mod
+16	papà	papà	S	S	num=n|gen=m	12	prep
+17	,	,	F	FF	_	7	con
+18	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+19	che	che	C	CS	_	18	arg
+20	dorma	dormire	V	V	num=s|per=3|mod=c|ten=p	24	mod
+21	,	,	F	FF	_	23	punc
+22	quanti	quanti	A	A	num=p|gen=m	23	mod
+23	anni	anno	S	S	num=p|gen=m	24	subj
+24	aveva	avere	V	V	num=s|per=3|mod=i|ten=i	19	sub
+25	?	?	F	FS	_	18	punc
+
+1	Però	però	B	B	_	6	mod
+2	,	,	F	FF	_	1	punc
+3	no	no	B	BN	_	6	neg
+4	non	non	B	BN	_	6	neg
+5	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	sofferto	soffrire	V	V	num=s|mod=p|gen=m	0	ROOT
+7	non	non	B	BN	_	10	neg
+8	se	se	P	PC	num=n|per=3|gen=n	10	clit
+9	n'	ne	P	PC	num=n|gen=n	10	comp
+10	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	arg
+11	neanche	neanche	B	B	_	12	mod
+12	accorto	accorgersi	V	V	num=s|mod=p|gen=m	10	pred
+13	.	.	F	FS	_	6	punc
+
+1	Oh	oh	I	I	_	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	bella	bello	A	A	num=s|gen=f	4	mod
+4	processione	processione	S	S	num=s|gen=f	2	sub
+
+1	m'	m'	C	CC	_	3	con
+2	han	han	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	portato	portare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	in	in	E	E	_	3	comp
+5	questa	questo	D	DD	num=s|gen=f	6	mod
+6	fossa	fossa	S	S	num=s|gen=f	4	prep
+
+1	e	e	C	CC	_	4	con
+2	con	con	E	E	_	4	comp
+3	quanta	quanta	B	B	_	2	prep
+4	commozione	commozione	S	S	num=s|gen=f	0	ROOT
+
+1	han	han	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	deposto	deporre	V	V	num=s|mod=p|gen=m	0	ROOT
+3	le	il	R	RD	num=p|gen=f	5	det
+4	mie	mio	A	AP	num=p|gen=f	5	mod
+5	ossa	osso	S	S	num=p|gen=m	2	obj
+
+1	M'	M'	P	PE	num=s|per=2|gen=n	4	subj
+2	han	han	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+3	voluto	volere	V	VM	num=s|mod=p|gen=m	4	modal
+4	proprio	proprio	B	B	_	5	mod
+5	bene	bene	B	B	_	0	_
+
+1	una	uno	R	RI	num=s|gen=f	3	det
+2	bella	bello	A	A	num=s|gen=f	3	mod
+3	passeggiata	passeggiata	S	S	num=s|gen=f	0	ROOT
+
+1	anche	anche	B	B	_	2	mod
+2	se	se	C	CS	_	5	mod
+3	la	il	R	RD	num=s|gen=f	5	det
+4	prima	primo	N	NO	num=s|gen=f	5	mod
+5	classe	classe	S	S	num=s|gen=f	0	ROOT
+
+1	beh	beh	I	I	_	3	mod
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	esagerata	esagerare	V	V	num=s|mod=p|gen=f	3	pred
+
+1	Questo	questo	D	DD	num=s|gen=m	2	mod
+2	spreco	spreco	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	lumini	lumino	S	S	num=p|gen=m	3	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	questo	questo	D	DD	num=s|gen=m	3	mod
+3	coro	coro	S	S	num=s|gen=m	1	ROOT
+4	di	di	E	E	_	3	comp
+5	bambini	bambino	S	S	num=p|gen=m	4	prep
+
+1	e	e	C	CC	_	4	con
+2	quei	quello	D	DD	num=p|gen=m	3	mod
+3	preti	prete	S	S	num=p|gen=m	4	subj
+4	mascherati	mascherare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	chissà	chissà	B	B	_	2	mod
+2	quanto	quanto	B	B	_	0	_
+3	son	son	D	DE	num=n|gen=n	4	mod
+4	costati	costare	V	V	num=p|mod=p|gen=m	2	mod
+
+1	Com'	come	B	B	_	2	mod
+2	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	caro	caro	A	A	num=s|gen=m	2	pred
+4	ahi	ahi	I	I	_	2	subj
+5	ahi	ahi	I	I	_	4	mod
+
+1	com'	come	B	B	_	2	mod
+2	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	buono	buono	A	A	num=s|gen=m	2	pred
+4	ahi	ahi	I	I	_	2	subj
+5	ahi	ahi	I	I	_	0	ROOT
+
+1	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	davvero	davvero	B	B	_	1	mod
+3	impossibile	impossibile	A	A	num=s|gen=n	1	pred
+
+1	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	D	DQ	num=n|gen=n	3	mod
+3	cosa	cosa	S	S	num=s|gen=f	1	obj
+4	incredibile	incredibile	A	A	num=s|gen=n	3	mod
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	4	subj
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	.	.	F	FS	_	4	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	4	mod
+4	quello	quello	P	PD	num=s|gen=m	2	subj
+5	con	con	E	E	_	4	comp
+6	gli	il	R	RD	num=p|gen=m	7	det
+7	occhiali	occhiale	S	S	num=p|gen=m	5	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	_
+3	lì	lì	B	B	_	2	mod_loc
+4	tutto	tutto	D	DI	num=s|gen=m	5	mod
+5	sudato	sudare	V	V	num=s|mod=p|gen=m	2	mod
+
+1	l'	lo	P	PC	num=s|per=3|gen=n	2	obj
+2	avrò	avere	V	V	num=s|per=1|mod=i|ten=f	0	ROOT
+3	visto	vedere	V	V	num=s|mod=p|gen=m	2	mod
+4	due	due	N	N	_	7	mod
+5	o	o	C	CC	_	4	dis
+6	tre	tre	N	N	_	4	disj
+7	volte	volta	S	S	num=p|gen=f	3	mod
+
+1	da	da	E	E	_	0	ROOT
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	giorno	giorno	S	S	num=s|gen=m	1	prep
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	son	son	D	DE	num=n|gen=n	6	mod
+6	nato	nascere	V	V	num=s|mod=p|gen=m	3	mod_rel
+7	.	.	F	FS	_	1	punc
+
+1	Quanta	quanta	B	B	_	2	mod
+2	gente	gente	S	S	num=s|gen=f	0	ROOT
+3	affezionata	affezionato	A	A	num=s|gen=f	2	mod
+
+1	che	che	D	DE	num=n|gen=n	2	mod
+2	premura	premura	S	S	num=s|gen=f	0	ROOT
+3	che	che	C	CS	_	2	mod
+4	assistenza	assistenza	S	S	num=s|gen=f	3	sub
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	busta	busta	S	S	num=s|gen=f	2	subj
+5	sigillata	sigillare	V	V	num=s|mod=p|gen=f	4	mod
+
+1	state	essere	V	V	num=p|mod=p|gen=f	2	aux
+2	calmi	calmare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	che	che	D	DE	num=n|gen=n	4	mod
+4	impazienza	impazienza	S	S	num=s|gen=f	0	ROOT
+
+1	Ma	ma	C	CC	_	4	con
+2	c'	ci	P	PC	num=n|gen=n	4	comp
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	scritto	scrivere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	solamente	solo	B	B	_	4	mod
+
+1	G	G	S	SP	_	2	subj
+2	saluta	salutare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	5	det
+4	sua	suo	A	AP	num=s|gen=f	5	mod
+5	gente	gente	S	S	num=s|gen=f	2	obj
+
+1	s'	si	P	PC	num=n|per=3|gen=n	3	clit
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	mangiato	mangiare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	tutti	tutto	T	T	num=p|gen=m	6	mod
+5	i	il	R	RD	num=p|gen=m	6	det
+6	soldi	soldo	S	S	num=p|gen=m	3	subj_pass
+
+1	non	non	B	BN	_	3	neg
+2	vi	vi	P	PC	num=p|per=2|gen=n	3	comp_ind
+3	lascia	lasciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	proprio	proprio	B	B	_	3	mod
+5	niente	niente	B	B	_	3	obj
+
+1	Com'	come	B	B	_	2	mod
+2	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	caro	caro	A	A	num=s|gen=m	2	pred
+4	ahi	ahi	I	I	_	2	subj
+5	ahi	ahi	I	I	_	4	mod
+
+1	com'	come	B	B	_	2	mod
+2	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	buono	buono	A	A	num=s|gen=m	2	pred
+4	ahi	ahi	I	I	_	2	subj
+5	ahi	ahi	I	I	_	0	ROOT
+
+1	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	davvero	davvero	B	B	_	1	mod
+3	impossibile	impossibile	A	A	num=s|gen=n	1	pred
+
+1	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	D	DQ	num=n|gen=n	3	mod
+3	cosa	cosa	S	S	num=s|gen=f	1	obj
+4	incredibile	incredibile	A	A	num=s|gen=n	3	mod
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	4	subj
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	.	.	F	FS	_	4	punc
+
+1	Com'	come	B	B	_	2	mod
+2	era	essere	V	V	num=s|per=3|mod=i|ten=i	5	arg
+3	caro	caro	A	A	num=s|gen=m	2	pred
+4	com'	come	B	B	_	3	mod
+5	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+6	buono	buono	A	A	num=s|gen=m	5	pred
+
+1	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	davvero	davvero	B	B	_	1	mod
+3	impossibile	impossibile	A	A	num=s|gen=n	1	pred
+
+1	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	D	DQ	num=n|gen=n	3	mod
+3	cosa	cosa	S	S	num=s|gen=f	1	obj
+4	incredibile	incredibile	A	A	num=s|gen=n	3	mod
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	4	subj
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	.	.	F	FS	_	4	punc
+
+1	Sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	davvero	davvero	B	B	_	1	mod
+3	impossibile	impossibile	A	A	num=s|gen=n	1	pred
+
+1	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	D	DQ	num=n|gen=n	3	mod
+3	cosa	cosa	S	S	num=s|gen=f	1	obj
+4	incredibile	incredibile	A	A	num=s|gen=n	3	mod
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	4	subj
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	.	.	F	FS	_	4	punc
+
+1	Sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	davvero	davvero	B	B	_	1	mod
+3	impossibile	impossibile	A	A	num=s|gen=n	1	pred
+
+1	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	D	DQ	num=n|gen=n	3	mod
+3	cosa	cosa	S	S	num=s|gen=f	1	obj
+4	incredibile	incredibile	A	A	num=s|gen=n	3	mod
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	4	subj
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	.	.	F	FS	_	4	punc
+
+1	Sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	davvero	davvero	B	B	_	1	mod
+3	impossibile	impossibile	A	A	num=s|gen=n	1	pred
+
+1	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	D	DQ	num=n|gen=n	3	mod
+3	cosa	cosa	S	S	num=s|gen=f	1	obj
+4	incredibile	incredibile	A	A	num=s|gen=n	3	mod
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	4	subj
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	.	.	F	FS	_	4	punc
+

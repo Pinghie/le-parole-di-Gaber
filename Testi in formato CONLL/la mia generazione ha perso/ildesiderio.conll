@@ -1,0 +1,293 @@
+1	Amore	amore	S	S	num=s|gen=m	0	ROOT
+
+1	non	non	B	BN	_	4	neg
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	senso	senso	S	S	num=s|gen=m	1	ROOT
+4	incolpare	incolpare	V	V	mod=f	0	ROOT
+5	qualcuno	qualcuno	P	PI	num=s|gen=m	4	obj
+
+1	calcare	calcare	V	V	mod=f	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	mano	mano	S	S	num=s|gen=f	1	obj
+
+1	su	su	E	E	_	5	comp
+2	questo	questo	P	PD	num=s|gen=m	1	prep
+3	o	o	C	CC	_	1	dis
+4	quel	quello	D	DD	num=s|gen=m	5	mod
+5	difetto	difetto	S	S	num=s|gen=m	0	ROOT
+
+1	o	o	C	CC	_	0	ROOT
+2	su	su	E	E	_	1	comp_loc
+3	altre	altro	D	DI	num=p|gen=f	4	mod
+4	cose	cosa	S	S	num=p|gen=f	2	prep
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	non	non	B	BN	_	7	neg
+7	contano	contare	V	V	num=p|per=3|mod=i|ten=p	4	mod_rel
+8	affatto	affatto	B	B	_	7	mod
+9	.	.	F	FS	_	1	punc
+
+1	Amore	amore	S	S	num=s|gen=m	0	ROOT
+
+1	non	non	B	BN	_	3	neg
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	clit
+3	prendo	prendere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	sul	su	E	EA	num=s|gen=m	3	comp
+5	serio	serio	S	S	num=s|gen=m	4	prep
+
+1	quello	quello	P	PD	num=s|gen=m	0	ROOT
+2	che	che	P	PR	num=n|gen=n	4	subj
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+4	manca	mancare	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	chiama	chiamare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	desiderio	desiderio	S	S	num=s|gen=m	2	pred
+4	.	.	F	FS	_	2	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	desiderio	desiderio	S	S	num=s|gen=m	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	cosa	cosa	S	S	num=s|gen=f	1	pred
+4	più	più	B	B	_	5	mod
+5	importante	importante	A	A	num=s|gen=n	3	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	emozione	emozione	S	S	num=s|gen=f	1	pred
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	presente	presente	S	S	num=s|gen=n	4	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	esser	essere	V	V	mod=f	1	subj
+4	vivi	vivo	A	A	num=p|gen=m	3	pred
+5	in	in	E	E	_	3	comp
+6	tutto	tutto	D	DI	num=s|gen=m	7	mod
+7	ciò	ciò	P	PD	num=s|gen=m	5	prep
+8	che	che	C	CS	_	11	subj
+9	si	si	P	PC	num=n|per=3|gen=n	10	clit
+10	può	potere	V	VM	num=s|per=3|mod=i|ten=p	11	modal
+11	fare	fare	V	V	mod=f	3	conj
+
+1	non	non	B	BN	_	2	neg
+2	solo	solo	B	B	_	3	mod
+3	nell'	in	E	EA	num=s|gen=n	0	ROOT
+4	amore	amore	S	S	num=s|gen=m	3	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	desiderio	desiderio	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	quando	quando	C	CS	_	3	mod
+5	inventi	inventare	V	V	num=s|per=3|mod=c|ten=p	4	sub
+6	ogni	ogni	D	DI	num=s|gen=n	7	mod
+7	momento	momento	S	S	num=s|gen=m	5	obj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	quando	quando	C	CS	_	1	mod
+3	ridere	ridere	V	V	mod=f	6	subj
+4	e	e	C	CC	_	3	con
+5	parlare	parlare	V	V	mod=f	3	conj
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+7	una	uno	R	RI	num=s|gen=f	9	det
+8	gran	gran	A	A	num=n|gen=n	9	mod
+9	gioia	gioia	S	S	num=s|gen=f	6	pred
+
+1	e	e	C	CC	_	3	con
+2	questo	questo	D	DD	num=s|gen=m	3	mod
+3	sentimento	sentimento	S	S	num=s|gen=m	0	ROOT
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	clit
+2	salva	salva	S	S	num=s|gen=f	0	ROOT
+3	dalla	da	E	EA	num=s|gen=f	2	comp
+4	noia	noia	S	S	num=s|gen=f	3	prep
+5	.	.	F	FS	_	2	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	desiderio	desiderio	S	S	num=s|gen=m	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	cosa	cosa	S	S	num=s|gen=f	1	pred
+4	più	più	B	B	_	5	mod
+5	importante	importante	A	A	num=s|gen=n	3	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	nasce	nascere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	misteriosamente	misterioso	B	B	_	2	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	vago	vago	A	A	num=s|gen=m	1	pred
+4	crescere	crescere	V	V	mod=f	1	subj
+5	di	di	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	turbamento	turbamento	S	S	num=s|gen=m	5	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	dall'	da	E	EA	num=s|gen=n	2	comp
+4	istinto	istinto	S	S	num=s|gen=m	3	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	primo	primo	N	NO	num=s|gen=m	4	mod
+4	impulso	impulso	S	S	num=s|gen=m	1	pred
+5	per	per	E	E	_	4	arg
+6	conoscere	conoscere	V	V	mod=f	5	prep
+7	e	e	C	CC	_	1	con
+8	capire	capire	V	V	mod=f	1	conj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	radice	radice	S	S	num=s|gen=f	1	pred
+4	di	di	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	pianta	pianta	S	S	num=s|gen=f	4	prep
+7	delicata	delicato	A	A	num=s|gen=f	6	mod
+
+1	che	che	C	CS	_	0	ROOT
+2	se	se	C	CS	_	4	subj
+3	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	4	modal
+4	coltivare	coltivare	V	V	mod=f	1	sub
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	obj
+2	tiene	tenere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	comp
+4	vita	vita	S	S	num=s|gen=f	3	prep
+5	.	.	F	FS	_	2	punc
+
+1	Amore	amore	S	S	num=s|gen=m	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	senso	senso	S	S	num=s|gen=m	2	obj
+4	elencare	elencare	V	V	mod=f	2	subj
+5	problemi	problema	S	S	num=p|gen=m	4	obj
+
+1	e	e	C	CC	_	2	con
+2	inventar	inventare	V	V	mod=f	0	ROOT
+3	nuovi	nuovo	A	A	num=p|gen=m	4	mod
+4	nomi	nome	S	S	num=p|gen=m	2	obj
+
+1	al	a	E	EA	num=s|gen=m	3	comp
+2	nostro	nostro	A	AP	num=s|gen=m	1	prep
+3	regredire	regredire	V	V	mod=f	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	ferma	fermare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	continuando	continuare	V	V	mod=g	4	mod
+6	a	a	E	E	_	5	arg
+7	parlare	parlare	V	V	mod=f	6	prep
+8	.	.	F	FS	_	4	punc
+
+1	Amore	amore	S	S	num=s|gen=m	0	ROOT
+2	,	,	F	FF	_	1	punc
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	necessario	necessario	A	A	num=s|gen=m	2	pred
+
+1	se	se	C	CS	_	0	ROOT
+2	quello	quello	P	PD	num=s|gen=m	1	sub
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	comp_ind
+5	manca	mancare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	chiama	chiamare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	desiderio	desiderio	S	S	num=s|gen=m	2	pred
+4	.	.	F	FS	_	2	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	desiderio	desiderio	S	S	num=s|gen=m	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	cosa	cosa	S	S	num=s|gen=f	1	pred
+4	più	più	B	B	_	5	mod
+5	importante	importante	A	A	num=s|gen=n	3	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	attrazione	attrazione	S	S	num=s|gen=f	1	pred
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	incosciente	incosciente	A	A	num=s|gen=n	3	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	affiorare	affiorare	V	V	mod=f	1	subj
+4	di	di	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	7	det
+6	strana	strano	A	A	num=s|gen=f	7	mod
+7	voce	voce	S	S	num=s|gen=f	4	prep
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	all'	al	E	EA	num=s|gen=n	5	comp
+3	improvviso	improvviso	S	S	num=s|gen=m	2	prep
+4	ti	ti	P	PC	num=s|per=2|gen=n	5	comp_ind
+5	seduce	sedurre	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	tensione	tensione	S	S	num=s|gen=f	1	pred
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	non	non	B	BN	_	6	neg
+6	riesci	riuscire	V	V	num=s|per=2|mod=i|ten=p	3	mod_rel
+7	a	a	E	E	_	6	arg
+8	controllare	controllare	V	V	mod=f	7	prep
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	comp_ind
+2	viene	venire	V	V	num=s|per=3|mod=i|ten=p	5	ROOT
+3	addosso	addosso	B	B	_	2	mod
+4	non	non	B	BN	_	5	neg
+5	sai	sapere	V	VM	num=s|per=2|mod=i|ten=p	0	ROOT
+6	bene	bene	B	B	_	7	mod
+7	come	come	B	B	_	5	mod
+8	e	e	C	CC	_	7	con
+9	quando	quando	C	CS	_	7	conj
+
+1	e	e	C	CC	_	3	con
+2	prima	prima	B	B	_	3	mod
+3	di	di	E	E	_	0	ROOT
+4	capire	capire	V	V	mod=f	3	prep
+
+1	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	già	già	B	B	_	3	mod
+3	crescendo	crescere	V	V	mod=g	1	mod
+4	.	.	F	FS	_	1	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	desiderio	desiderio	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	6	det
+5	vero	vero	A	A	num=s|gen=m	6	mod
+6	stimolo	stimolo	S	S	num=s|gen=m	3	pred
+7	interiore	interiore	A	A	num=s|gen=n	6	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	già	già	B	B	_	1	mod
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	futuro	futuro	S	S	num=s|gen=m	1	pred
+5	che	che	P	PR	num=n|gen=n	8	subj
+6	in	in	E	E	_	8	comp
+7	silenzio	silenzio	S	S	num=s|gen=m	6	prep
+8	stai	stare	V	V	num=s|per=2|mod=i|ten=p	4	mod_rel
+9	sognando	sognare	V	V	mod=g	1	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	4	det
+3	unico	unico	A	A	num=s|gen=m	4	mod
+4	motore	motore	S	S	num=s|gen=m	1	pred
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	muove	muovere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	mondo	mondo	S	S	num=s|gen=m	2	obj
+5	.	.	F	FS	_	2	punc
+

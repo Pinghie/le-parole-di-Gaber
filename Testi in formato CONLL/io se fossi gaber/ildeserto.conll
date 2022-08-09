@@ -1,0 +1,545 @@
+1	Fonte	fonte	S	S	num=s|gen=f	0	ROOT
+2	luminosa	luminoso	A	A	num=s|gen=f	1	mod
+3	scena	scena	S	S	num=s|gen=f	1	mod
+4	soffusa	soffuso	A	A	num=s|gen=f	3	mod
+5	di	di	E	E	_	3	comp
+6	magia	magia	S	S	num=s|gen=f	5	prep
+
+1	sera	sera	S	S	num=s|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	televisione	televisione	S	S	num=s|gen=f	2	prep
+
+1	voce	voce	S	S	num=s|gen=f	0	ROOT
+2	sospesa	sospendere	V	V	num=s|mod=p|gen=f	1	mod
+3	nella	in	E	EA	num=s|gen=f	2	comp_loc
+4	mia	mio	A	AP	num=s|gen=f	5	mod
+5	casa	casa	S	S	num=s|gen=f	3	prep
+6	luce	luce	S	S	num=s|gen=f	5	mod
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	fa	fare	V	V	num=s|per=3|mod=i|ten=p	5	mod_rel
+9	compagnia	compagnia	S	S	num=s|gen=f	8	obj
+
+1	ma	ma	C	CC	_	0	ROOT
+2	improvvisamente	improvviso	B	B	_	1	mod
+
+1	Un	uno	R	RI	num=s|gen=m	5	det
+2	pò	pò	B	B	_	3	mod
+3	d'	di	E	E	_	1	ROOT
+4	incertezza	incertezza	S	S	num=s|gen=f	3	prep
+5	fin	fin	E	E	_	0	_
+6	quando	quando	C	CS	_	5	concat
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	mano	mano	S	S	num=s|gen=f	4	subj
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	ferma	fermare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	sul	su	E	EA	num=s|gen=m	4	comp
+6	telecomando	telecomando	S	S	num=s|gen=m	5	prep
+
+1	lo	lo	P	PC	num=s|per=3|gen=m	2	obj
+2	posa	posare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	lontano	lontano	A	A	num=s|gen=m	2	pred
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	mente	mente	S	S	num=s|gen=f	5	subj
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	ancora	ancora	B	B	_	5	mod
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	presente	presente	A	A	num=s|gen=n	5	pred
+
+1	si	si	P	PC	num=n|per=3|gen=n	3	clit
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	scelta	scegliere	V	V	num=s|mod=p|gen=f	0	ROOT
+4	il	il	R	RD	num=s|gen=m	6	det
+5	suo	suo	A	AP	num=s|gen=m	6	mod
+6	giusto	giusto	A	A	num=s|gen=m	7	mod
+7	abbandono	abbandono	S	S	num=s|gen=m	3	subj_pass
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	corpo	corpo	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	sereno	sereno	A	A	num=s|gen=m	3	pred
+5	non	non	B	BN	_	9	neg
+6	si	si	P	PC	num=n|per=3|gen=n	9	clit
+7	è	essere	V	VA	num=s|per=3|mod=i|ten=p	9	aux
+8	quasi	quasi	B	B	_	9	mod
+9	mosso	muovere	V	V	num=s|mod=p|gen=m	4	mod
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	cuore	cuore	S	S	num=s|gen=m	5	subj
+3	si	si	P	PC	num=n|per=3|gen=n	5	clit
+4	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	scelto	scegliere	V	V	num=s|mod=p|gen=m	0	ROOT
+6	la	il	R	RD	num=s|gen=f	9	det
+7	sua	suo	A	AP	num=s|gen=f	9	mod
+8	tenera	tenero	A	A	num=s|gen=f	9	mod
+9	ipnosi	ipnosi	S	S	num=s|gen=f	5	obj
+
+1	con	con	E	E	_	3	comp
+2	tutto	tutto	P	PI	num=s|gen=m	1	prep
+3	se	se	C	CS	_	0	ROOT
+4	stesso	stesso	A	A	num=s|gen=m	3	sub
+
+1	Fonte	fonte	S	S	num=s|gen=f	0	ROOT
+2	luminosa	luminoso	A	A	num=s|gen=f	1	mod
+
+1	scena	scena	S	S	num=s|gen=f	0	ROOT
+2	pervasa	pervadere	V	V	num=s|mod=p|gen=f	1	mod
+3	di	di	E	E	_	1	comp
+4	allegria	allegria	S	S	num=s|gen=f	3	prep
+
+1	ma	ma	C	CC	_	0	ROOT
+2	improvvisamente	improvviso	B	B	_	1	mod
+
+1	E	e	C	CC	_	5	con
+2	se	se	C	CS	_	5	mod
+3	improvvisamente	improvviso	B	B	_	5	mod
+4	ti	ti	P	PC	num=s|per=2|gen=n	5	comp_ind
+5	venisse	venire	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+6	in	in	E	E	_	5	comp
+7	mente	mente	S	S	num=s|gen=f	6	prep
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	obj
+2	venisse	venire	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+3	in	in	E	E	_	2	comp
+4	mente	mente	S	S	num=s|gen=f	3	prep
+5	come	come	B	B	_	6	mod
+6	in	in	E	E	_	9	comp
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	sogno	sogno	S	S	num=s|gen=m	6	prep
+9	visto	vedere	V	V	num=s|mod=p|gen=m	2	mod
+10	dal	da	E	EA	num=s|gen=m	9	concat
+11	di	di	E	E	_	10	concat
+12	fuori	fuori	B	B	_	9	mod
+
+1	che	che	D	DQ	num=n|gen=n	2	mod
+2	cosa	cosa	S	S	num=s|gen=f	3	subj
+3	resterebbe	restare	V	V	num=s|per=3|mod=d|ten=p	0	ROOT
+4	di	di	E	E	_	3	comp
+5	questo	questo	D	DD	num=s|gen=m	6	mod
+6	vetro	vetro	S	S	num=s|gen=m	4	prep
+7	luminoso	luminoso	A	A	num=s|gen=m	3	pred
+
+1	se	se	C	CS	_	4	mod
+2	non	non	B	BN	_	3	neg
+3	avesse	avere	V	V	num=s|per=3|mod=c|ten=i	1	sub
+4	spettatori	spettatore	S	S	num=p|gen=m	0	ROOT
+
+1	Se	se	C	CS	_	3	mod
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	clit
+3	venisse	venire	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+4	da	da	E	E	_	3	arg
+5	pensare	pensare	V	V	mod=f	4	prep
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	per	per	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	attimo	attimo	S	S	num=s|gen=m	2	prep
+5	soltanto	soltanto	B	B	_	0	_
+
+1	non	non	B	BN	_	2	neg
+2	esiste	esistere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	ascoltatore	ascoltatore	S	S	num=s|gen=m	2	subj
+
+1	E	e	C	CC	_	0	ROOT
+2	se	se	C	CS	_	1	conj
+3	abbassando	abbassare	V	V	mod=g	2	sub
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	audio	audio	S	S	num=n|gen=m	3	obj
+
+1	e	e	C	CC	_	0	ROOT
+2	fermo	fermo	A	A	num=s|gen=m	1	conj
+3	sulla	su	E	EA	num=s|gen=f	2	comp
+4	bocca	bocca	S	S	num=s|gen=f	3	prep
+5	del	di	E	EA	num=s|gen=m	4	arg
+6	cantante	cantante	A	A	num=s|gen=n	8	mod
+7	ti	ti	P	PC	num=s|per=2|gen=n	8	comp_ind
+8	venisse	venire	V	V	num=s|per=3|mod=c|ten=i	5	prep
+9	in	in	E	E	_	8	comp
+10	mente	mente	S	S	num=s|gen=f	9	prep
+
+1	che	che	C	CS	_	5	subj
+2	fuori	fuori	B	B	_	5	mod
+3	non	non	B	BN	_	5	neg
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	più	più	B	B	_	5	mod
+7	nessuno	nessuno	P	PI	num=s|gen=m	5	subj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	tutti	tutto	P	PI	num=p|gen=m	4	mod
+4	morti	morto	S	S	num=p|gen=m	2	pred
+5	o	o	C	CC	_	2	dis
+6	andati	andare	V	V	num=p|mod=p|gen=m	2	disj
+7	via	via	B	B	_	6	mod
+
+1	e	e	C	CC	_	7	con
+2	in	in	E	E	_	7	comp_loc
+3	tutto	tutto	T	T	num=s|gen=m	5	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	2	prep
+6	c'	ci	P	PC	num=n|gen=n	7	comp
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	soltanto	soltanto	B	B	_	7	mod
+9	quella	quello	D	DD	num=s|gen=f	10	mod
+10	bocca	bocca	S	S	num=s|gen=f	7	subj
+
+1	piena	pieno	A	A	num=s|gen=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	poesia	poesia	S	S	num=s|gen=f	2	prep
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	deserto	deserto	S	S	num=s|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	deserto	deserto	S	S	num=s|gen=m	2	mod
+
+1	E	e	C	CC	_	5	con
+2	se	se	C	CS	_	5	mod
+3	improvvisamente	improvviso	B	B	_	5	mod
+4	ti	ti	P	PC	num=s|per=2|gen=n	5	comp_ind
+5	venisse	venire	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+6	in	in	E	E	_	5	comp
+7	mente	mente	S	S	num=s|gen=f	6	prep
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	obj
+2	venisse	venire	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+3	in	in	E	E	_	2	comp
+4	mente	mente	S	S	num=s|gen=f	3	prep
+5	che	che	P	PR	num=n|gen=n	4	comp
+6	quella	quello	D	DD	num=s|gen=f	7	mod
+7	bocca	bocca	S	S	num=s|gen=f	5	prep
+8	colorata	colorato	A	A	num=s|gen=f	7	mod
+
+1	gira	girare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	per	per	E	E	_	1	comp
+3	le	il	R	RD	num=p|gen=f	4	det
+4	stanze	stanza	S	S	num=p|gen=f	2	prep
+5	vuote	vuoto	A	A	num=p|gen=f	4	mod
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	grande	grande	A	A	num=s|gen=n	3	mod
+3	orchestra	orchestra	S	S	num=s|gen=f	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	lì	lì	B	B	_	4	pred
+6	che	che	C	CS	_	7	subj
+7	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	4	conj
+
+1	e	e	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	sentono	sentire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+5	le	il	R	RD	num=p|gen=f	6	det
+6	note	nota	S	S	num=p|gen=f	4	subj
+
+1	Se	se	C	CS	_	0	ROOT
+2	tu	tu	P	PE	num=s|per=2|gen=n	3	subj
+3	vedessi	vedere	V	V	num=s|per=1|mod=c|ten=i	1	sub
+4	la	il	R	RD	num=s|gen=f	6	det
+5	tua	tuo	A	AP	num=s|gen=f	6	mod
+6	casa	casa	S	S	num=s|gen=f	3	obj
+7	vuota	vuoto	A	A	num=s|gen=f	6	mod
+
+1	come	come	E	E	_	7	comp
+2	vista	vista	S	S	num=s|gen=f	1	prep
+3	da	da	E	E	_	7	comp
+4	lontano	lontano	A	A	num=s|gen=m	3	prep
+5	sempre	sempre	B	B	_	4	mod
+6	più	più	B	B	_	7	mod
+7	lontano	lontano	A	A	num=s|gen=m	0	_
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	soltanto	soltanto	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	televisione	televisione	S	S	num=s|gen=f	2	subj
+6	e	e	C	CC	_	5	con
+7	nei	in	E	EA	num=p|gen=m	5	conj
+8	palazzi	palazzo	S	S	num=p|gen=m	7	prep
+
+1	nessuno	nessuno	P	PI	num=s|gen=m	0	_
+
+1	Se	se	C	CS	_	3	mod
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	obj
+3	venisse	venire	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+4	in	in	E	E	_	3	comp
+5	mente	mente	S	S	num=s|gen=f	4	prep
+6	che	che	P	PR	num=n|gen=n	9	obj
+7	niente	niente	P	PI	num=s|gen=m	9	subj
+8	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	9	aux
+9	resistito	resistere	V	V	num=s|mod=p|gen=m	5	mod_rel
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	massa	massa	S	S	num=s|gen=f	4	subj
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	morta	morire	V	V	num=s|mod=p|gen=f	0	ROOT
+5	dolcemente	dolcemente	B	B	_	4	mod
+6	e	e	C	CC	_	4	con
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	individuo	individuo	S	S	num=s|gen=m	4	subj
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	addormentato	addormentare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	deserto	deserto	S	S	num=s|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	deserto	deserto	S	S	num=s|gen=m	2	mod
+
+1	l'	il	R	RD	num=s|gen=n	3	det
+2	illogica	illogico	A	A	num=s|gen=f	3	mod
+3	illusione	illusione	S	S	num=s|gen=f	0	ROOT
+4	che	che	P	PR	num=n|gen=n	8	obj
+5	la	il	R	RD	num=s|gen=f	6	det
+6	voce	voce	S	S	num=s|gen=f	8	subj
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	disperda	disperdere	V	V	num=s|per=3|mod=c|ten=p	3	mod_rel
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	deserto	deserto	S	S	num=s|gen=m	1	prep
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	grande	grande	A	A	num=s|gen=n	3	mod
+3	sensazione	sensazione	S	S	num=s|gen=f	0	ROOT
+4	di	di	E	E	_	3	arg
+5	essere	essere	V	V	mod=f	4	prep
+6	soli	solo	A	A	num=p|gen=m	5	pred
+7	insieme	insieme	B	B	_	8	mod
+8	a	a	E	E	_	5	comp
+9	tutti	tutto	P	PI	num=p|gen=m	8	prep
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	deserto	deserto	S	S	num=s|gen=m	1	prep
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	2	mod
+4	il	il	R	RD	num=s|gen=m	6	det
+5	grande	grande	A	A	num=s|gen=n	6	mod
+6	schermo	schermo	S	S	num=s|gen=m	2	subj
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	va	andare	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+9	avanti	avanti	B	B	_	8	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	follia	follia	S	S	num=s|gen=f	1	pred
+4	di	di	E	E	_	3	comp
+5	indifferenza	indifferenza	S	S	num=s|gen=f	4	prep
+6	e	e	C	CC	_	1	con
+7	presunzione	presunzione	S	S	num=s|gen=f	1	conj
+
+1	non	non	B	BN	_	3	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	accorge	accorgersi	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	arg
+5	parlare	parlare	V	V	mod=f	4	prep
+6	a	a	E	E	_	5	comp
+7	gente	gente	S	S	num=s|gen=f	6	prep
+8	assente	assente	A	A	num=s|gen=n	5	mod
+
+1	a	a	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	auditorio	auditorio	S	S	num=s|gen=m	1	prep
+4	di	di	E	E	_	3	comp
+5	cartone	cartone	S	S	num=s|gen=m	4	prep
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	grande	grande	A	A	num=s|gen=n	3	mod
+3	bocca	bocca	S	S	num=s|gen=f	7	subj
+4	non	non	B	BN	_	7	neg
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	può	potere	V	VM	num=s|per=3|mod=i|ten=p	7	modal
+7	fermare	fermare	V	V	mod=f	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	conto	conto	S	S	num=s|gen=m	2	obj
+4	dell'	di	E	EA	num=s|gen=n	3	comp
+5	assenza	assenza	S	S	num=s|gen=f	4	prep
+
+1	e	e	C	CC	_	2	con
+2	sfoga	sfogare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sfoga	sfogare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	la	il	R	RD	num=s|gen=f	5	det
+5	furia	furia	S	S	num=s|gen=f	3	obj
+6	di	di	E	E	_	5	comp
+7	abbondanza	abbondanza	S	S	num=s|gen=f	6	prep
+
+1	sempre	sempre	B	B	_	2	mod
+2	più	più	B	B	_	3	mod
+3	vistosa	vistoso	A	A	num=s|gen=f	0	ROOT
+
+1	Bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	far	fare	V	V	mod=f	1	arg
+3	qualcosa	qualcosa	P	PI	num=s|gen=n	2	obj
+4	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+5	far	fare	V	V	mod=f	4	arg
+6	qualcosa	qualcosa	P	PI	num=s|gen=n	5	obj
+
+1	trecento	trecento	N	N	_	2	mod
+2	ballerini	ballerino	S	S	num=p|gen=m	3	mod
+3	luci	luce	S	S	num=p|gen=f	0	ROOT
+4	a	a	E	E	_	3	comp
+5	tutto	tutto	P	PI	num=s|gen=m	4	prep
+6	spiano	spiano	S	S	num=s|gen=m	0	ROOT
+
+1	gli	il	R	RD	num=p|gen=m	2	det
+2	specchi	specchio	S	S	num=p|gen=m	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	ricchezza	ricchezza	S	S	num=s|gen=f	2	conj
+5	e	e	C	CC	_	2	con
+6	anche	anche	B	B	_	8	mod
+7	lo	il	R	RD	num=s|gen=m	8	det
+8	spreco	spreco	S	S	num=s|gen=m	2	conj
+9	il	il	R	RD	num=s|gen=m	11	det
+10	grande	grande	A	A	num=s|gen=n	11	mod
+11	sacrificio	sacrificio	S	S	num=s|gen=m	8	mod
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	America	America	S	SP	_	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	irrompe	irrompere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	nelle	in	E	EA	num=p|gen=f	4	comp_loc
+6	case	casa	S	S	num=p|gen=f	5	prep
+7	vuote	vuoto	A	A	num=p|gen=f	6	mod
+
+1	i	il	R	RD	num=p|gen=m	2	det
+2	fuochi	fuoco	S	S	num=p|gen=m	0	ROOT
+3	d'	di	E	E	_	2	comp
+4	artificio	artificio	S	S	num=s|gen=m	3	prep
+
+1	Bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	far	fare	V	V	mod=f	1	arg
+3	qualcosa	qualcosa	P	PI	num=s|gen=n	2	obj
+4	qualsiasi	qualsiasi	D	DI	num=s|gen=n	3	mod
+5	cosa	cosa	S	S	num=s|gen=f	2	mod
+
+1	bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	dir-	dire	V	V	mod=f	1	arg
+3	lo	lo	P	PC	num=s|per=3|gen=m	2	obj
+4	a	a	E	E	_	2	comp
+5	quella	quello	D	DD	num=s|gen=f	6	mod
+6	bocca	bocca	S	S	num=s|gen=f	4	prep
+7	aperta	aperto	A	A	num=s|gen=f	6	mod
+
+1	mandar-	mandare	V	V	mod=f	0	ROOT
+2	gli	gli	P	PC	num=s|per=3|gen=m	1	comp_ind
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	telegramma	telegramma	S	S	num=s|gen=m	1	obj
+5	urgente	urgente	A	A	num=s|gen=n	4	mod
+
+1	guardate	guardare	V	V	num=p|per=2|mod=m|ten=p	0	ROOT
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	arg
+5	più	più	B	B	_	4	mod
+6	la	il	R	RD	num=s|gen=f	7	det
+7	gente	gente	S	S	num=s|gen=f	4	subj
+
+1	Bisogna	bisognare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	dir-	dire	V	V	mod=f	1	arg
+3	lo	lo	P	PC	num=s|per=3|gen=m	2	obj
+
+1	al	a	E	EA	num=s|gen=m	0	ROOT
+2	grande	grande	A	A	num=s|gen=n	3	mod
+3	schermo	schermo	S	S	num=s|gen=m	1	prep
+4	ai	al	E	EA	num=p|gen=m	3	comp
+5	dirigenti	dirigente	S	S	num=p|gen=n	4	prep
+6	alla	al	E	EA	num=s|gen=f	3	comp
+7	Demoscopea	Demoscopea	S	SP	_	6	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	gente	gente	S	S	num=s|gen=f	4	subj
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	andata	andare	V	V	num=s|mod=p|gen=f	0	ROOT
+5	via	via	B	B	_	4	mod
+6	la	il	R	RD	num=s|gen=f	7	det
+7	gente	gente	S	S	num=s|gen=f	9	subj
+8	è	essere	V	VA	num=s|per=3|mod=i|ten=p	9	aux
+9	andata	andare	V	V	num=s|mod=p|gen=f	4	conj
+10	via	via	B	B	_	9	mod
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	andata	andare	V	V	num=s|mod=p|gen=f	0	ROOT
+3	tutta	tutto	P	PI	num=s|gen=f	2	subj
+4	via	via	B	B	_	2	mod
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	deserto	deserto	S	S	num=s|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	deserto	deserto	S	S	num=s|gen=m	2	mod
+
+1	l'	il	R	RD	num=s|gen=n	3	det
+2	illogica	illogico	A	A	num=s|gen=f	3	mod
+3	illusione	illusione	S	S	num=s|gen=f	0	ROOT
+4	che	che	P	PR	num=n|gen=n	8	obj
+5	la	il	R	RD	num=s|gen=f	6	det
+6	voce	voce	S	S	num=s|gen=f	8	subj
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	disperda	disperdere	V	V	num=s|per=3|mod=c|ten=p	3	mod_rel
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	deserto	deserto	S	S	num=s|gen=m	1	prep
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	grande	grande	A	A	num=s|gen=n	3	mod
+3	sensazione	sensazione	S	S	num=s|gen=f	0	ROOT
+4	di	di	E	E	_	3	arg
+5	essere	essere	V	V	mod=f	4	prep
+6	soli	solo	A	A	num=p|gen=m	5	pred
+7	insieme	insieme	B	B	_	8	mod
+8	a	a	E	E	_	5	comp
+9	tutti	tutto	P	PI	num=p|gen=m	8	prep
+
+1	nel	in	E	EA	num=s|gen=m	0	ROOT
+2	deserto	deserto	S	S	num=s|gen=m	1	prep
+
+1	E	e	C	CC	_	9	con
+2	per	per	E	E	_	9	comp
+3	la	il	R	RD	num=s|gen=f	5	det
+4	prima	primo	N	NO	num=s|gen=f	5	mod
+5	volta	volta	S	S	num=s|gen=f	2	prep
+6	e	e	C	CC	_	2	con
+7	per	per	E	E	_	9	comp
+8	noi	noi	P	PE	num=p|per=1|gen=n	7	prep
+9	soli	solo	A	A	num=p|gen=m	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	sole	sole	S	S	num=s|gen=m	4	subj_pass
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	tramontato	tramontare	V	V	num=s|mod=p|gen=m	0	ROOT
+5	e	e	C	CC	_	4	con
+6	poi	poi	B	B	_	9	mod
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	è	essere	V	VA	num=s|per=3|mod=i|ten=p	9	aux
+9	alzato	alzare	V	V	num=s|mod=p|gen=m	4	conj
+
+1	e	e	C	CC	_	3	con
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	respira	respirare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	e	e	C	CC	_	3	con
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	aria	aria	S	S	num=s|gen=f	7	subj
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	fresca	fresco	A	A	num=s|gen=f	7	pred
+9	al	a	E	EA	num=s|gen=m	8	comp
+10	mio	mio	A	AP	num=s|gen=m	11	mod
+11	palato	palato	S	S	num=s|gen=m	9	prep
+12	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	9	con
+2	per	per	E	E	_	9	comp
+3	la	il	R	RD	num=s|gen=f	5	det
+4	prima	primo	N	NO	num=s|gen=f	5	mod
+5	volta	volta	S	S	num=s|gen=f	2	prep
+6	e	e	C	CC	_	2	con
+7	per	per	E	E	_	9	comp
+8	noi	noi	P	PE	num=p|per=1|gen=n	7	prep
+9	soli	solo	A	A	num=p|gen=m	0	ROOT
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	sole	sole	S	S	num=s|gen=m	0	ROOT
+

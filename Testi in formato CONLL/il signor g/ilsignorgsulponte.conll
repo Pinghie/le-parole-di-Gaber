@@ -1,0 +1,241 @@
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	acqua	acqua	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	passa	passare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	acqua	acqua	S	S	num=s|gen=f	4	obj
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	scorre	scorrere	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+
+1	tira	tirare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	vento	vento	S	S	num=s|gen=m	1	obj
+5	e	e	C	CC	_	1	con
+6	piove	piovere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	pò	pò	B	B	_	6	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	notte	notte	S	S	num=s|gen=f	1	pred
+3	fonda	fondo	A	A	num=s|gen=f	2	mod
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+6	qualche	qualche	D	DI	num=s|gen=n	7	mod
+7	lume	lume	S	S	num=s|gen=m	5	subj
+
+1	sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	sopra	sopra	E	E	_	1	comp
+3	il	il	R	RD	num=s|gen=m	4	det
+4	ponte	ponte	S	S	num=s|gen=m	2	prep
+5	e	e	C	CC	_	1	con
+6	guardo	guardare	V	V	num=s|per=1|mod=i|ten=p	1	conj
+7	il	il	R	RD	num=s|gen=m	8	det
+8	fiume	fiume	S	S	num=s|gen=m	6	obj
+
+1	A	a	E	E	_	0	ROOT
+2	cosa	cosa	P	PQ	num=s|gen=n	3	subj
+3	pensi	pensare	V	V	num=s|per=3|mod=c|ten=p	1	prep
+4	mio	mio	A	AP	num=s|gen=m	5	mod
+5	signor	signor	S	S	num=s|gen=m	3	obj
+6	G	G	S	SP	_	5	mod
+
+1	pensi	pensare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+2	alla	al	E	EA	num=s|gen=f	1	comp
+3	vita	vita	S	S	num=s|gen=f	2	prep
+4	a	a	E	E	_	3	comp
+5	ciò	ciò	P	PD	num=s|gen=m	4	prep
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	finì	finire	V	V	num=s|per=3|mod=i|ten=s	3	mod_rel
+
+1	a	a	E	E	_	0	ROOT
+2	ciò	ciò	P	PD	num=s|gen=m	1	prep
+3	che	che	P	PR	num=n|gen=n	5	obj
+4	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	5	aux
+5	detto	dire	V	V	num=s|mod=p|gen=m	2	mod_rel
+6	a	a	E	E	_	5	comp
+7	ciò	ciò	P	PD	num=s|gen=m	6	prep
+8	che	che	P	PR	num=n|gen=n	10	obj
+9	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	10	aux
+10	fatto	fare	V	V	num=s|mod=p|gen=m	7	mod_rel
+
+1	e	e	C	CC	_	2	con
+2	al	a	E	EA	num=s|gen=m	0	_
+3	tuo	tuo	A	AP	num=s|gen=m	4	mod
+4	coraggio	coraggio	S	S	num=s|gen=m	2	prep
+5	al	a	E	EA	num=s|gen=m	4	comp
+6	tuo	tuo	A	AP	num=s|gen=m	7	mod
+7	passato	passato	S	S	num=s|gen=m	5	prep
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+3	già	già	B	B	_	4	mod
+4	passato	passare	V	V	num=s|mod=p|gen=m	0	ROOT
+5	.	.	F	FS	_	4	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	acqua	acqua	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	passa	passare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	acqua	acqua	S	S	num=s|gen=f	4	obj
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	scorre	scorrere	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+
+1	dentro	dentro	E	E	_	0	ROOT
+2	quel	quello	D	DD	num=s|gen=m	3	mod
+3	buio	buio	S	S	num=s|gen=m	1	prep
+4	oltre	oltre	E	E	_	3	comp
+5	quel	quello	D	DD	num=s|gen=m	6	mod
+6	buio	buio	S	S	num=s|gen=m	4	prep
+
+1	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	molto	molto	B	B	_	3	mod
+3	freddo	freddo	S	S	num=s|gen=m	1	obj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+5	quasi	quasi	B	B	_	6	mod
+6	inverno	inverno	S	S	num=s|gen=m	4	pred
+
+1	sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	sopra	sopra	E	E	_	1	comp_temp
+3	il	il	R	RD	num=s|gen=m	4	det
+4	ponte	ponte	S	S	num=s|gen=m	2	prep
+5	in	in	E	E	_	1	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	inferno	inferno	S	S	num=s|gen=m	5	prep
+
+1	In	in	E	E	_	5	comp
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	inferno	inferno	S	S	num=s|gen=m	1	prep
+4	mio	mio	A	AP	num=s|gen=m	3	mod
+5	signor	signor	S	S	num=s|gen=m	0	ROOT
+6	G	G	S	SP	_	5	mod
+
+1	via	via	B	B	_	3	mod
+2	non	non	B	BN	_	3	neg
+3	diciamo	dire	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	frasi	frase	S	S	num=p|gen=f	3	obj
+5	così	così	B	B	_	3	mod
+
+1	tutto	tutto	P	PI	num=s|gen=m	3	subj
+2	s'	si	P	PC	num=n|per=3|gen=n	3	clit
+3	aggiusta	aggiustare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	questo	questo	P	PD	num=s|gen=m	5	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	conj
+6	il	il	R	RD	num=s|gen=m	8	det
+7	tuo	tuo	A	AP	num=s|gen=m	8	mod
+8	motto	motto	S	S	num=s|gen=m	5	pred
+
+1	non	non	B	BN	_	6	neg
+2	lo	lo	P	PC	num=s|per=3|gen=m	6	obj
+3	ricordi	ricordo	S	S	num=p|gen=m	2	mod
+4	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	6	aux
+5	sempre	sempre	B	B	_	6	mod
+6	avuto	avere	V	V	num=s|mod=p|gen=m	0	_
+
+1	quello	quello	P	PD	num=s|gen=m	0	ROOT
+2	che	che	P	PR	num=n|gen=n	4	subj
+3	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	4	aux
+4	dato	dare	V	V	num=s|mod=p|gen=m	1	mod_rel
+5	.	.	F	FS	_	1	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	acqua	acqua	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	passa	passare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	acqua	acqua	S	S	num=s|gen=f	4	obj
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	scorre	scorrere	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+
+1	come	come	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	nenia	nenia	S	S	num=s|gen=f	1	prep
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	non	non	B	BN	_	6	neg
+6	finisce	finire	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	io	io	P	PE	num=s|per=1|gen=n	4	obj
+2	che	che	P	PR	num=n|gen=n	4	subj
+3	la	la	P	PC	num=s|per=3|gen=f	4	obj
+4	guardo	guardare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	come	come	C	CS	_	4	mod
+6	assopito	assopire	V	V	num=s|mod=p|gen=m	5	sub
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	4	comp
+2	farei	fare	V	VM	num=s|per=1|mod=d|ten=p	4	modal
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	tuffo	tuffo	S	S	num=s|gen=m	0	ROOT
+5	tutto	tutto	D	DI	num=s|gen=m	6	mod
+6	vestito	vestito	S	S	num=s|gen=m	4	mod
+
+1	Tutto	tutto	D	DI	num=s|gen=m	2	mod
+2	vestito	vestire	V	V	num=s|mod=p|gen=m	5	mod
+3	mio	mio	A	AP	num=s|gen=m	4	mod
+4	signor	signor	S	S	num=s|gen=m	2	obj
+5	G	G	S	SP	_	0	ROOT
+
+1	ma	ma	C	CC	_	2	con
+2	lascia	lasciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	stare	stare	V	V	mod=f	4	subj
+4	va	andare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+5	via	via	B	B	_	4	mod
+6	di	di	E	E	_	4	comp
+7	lì	lì	B	B	_	6	prep
+
+1	ritorna	ritornare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	a	a	E	E	_	1	comp_loc
+3	casa	casa	S	S	num=s|gen=f	2	prep
+4	tra	tra	E	E	_	1	comp
+5	le	il	R	RD	num=p|gen=f	7	det
+6	tue	tuo	A	AP	num=p|gen=f	7	mod
+7	mura	muro	S	S	num=p|gen=f	4	prep
+
+1	tra	tra	E	E	_	8	comp
+2	i	il	R	RD	num=p|gen=m	4	det
+3	tuoi	tuo	A	AP	num=p|gen=m	4	mod
+4	parenti	parente	S	S	num=p|gen=n	1	prep
+5	se	se	C	CS	_	8	mod
+6	hai	hai	T	T	num=p|gen=m	8	mod
+7	strane	strano	A	A	num=p|gen=f	8	mod
+8	voglie	voglia	S	S	num=p|gen=f	0	ROOT
+
+1	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	a	a	E	E	_	1	comp
+3	tua	tuo	A	AP	num=s|gen=f	4	mod
+4	moglie	moglie	S	S	num=s|gen=f	2	prep
+5	.	.	F	FS	_	1	punc
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	acqua	acqua	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	passa	passare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	acqua	acqua	S	S	num=s|gen=f	4	obj
+7	che	che	P	PR	num=n|gen=n	8	subj
+8	scorre	scorrere	V	V	num=s|per=3|mod=i|ten=p	6	mod_rel
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	riflette	riflettere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	neppure	neppure	B	BN	_	6	neg
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	stella	stella	S	S	num=s|gen=f	3	obj
+
+1	passa	passare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	coppia	coppia	S	S	num=s|gen=f	1	obj
+4	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+5	qualcuno	qualcuno	P	PI	num=s|gen=m	4	obj
+
+1	e	e	C	CC	_	0	ROOT
+2	su	su	E	E	_	1	conj
+3	quel	quello	D	DD	num=s|gen=m	4	mod
+4	ponte	ponte	S	S	num=s|gen=m	2	prep
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	3	mod
+5	nessuno	nessuno	P	PI	num=s|gen=m	3	subj
+

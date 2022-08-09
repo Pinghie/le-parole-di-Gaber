@@ -1,0 +1,286 @@
+1	Attimi	attimo	S	S	num=p|gen=m	0	ROOT
+2	Attimi	Attimi	A	A	num=p|gen=m	1	mod
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	1	mod_rel
+4	poca	poco	D	DI	num=s|gen=f	5	mod
+5	nostalgia	nostalgia	S	S	num=s|gen=f	3	obj
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	passato	passato	S	S	num=s|gen=m	6	prep
+
+1	a	a	E	E	_	3	comp
+2	volte	volta	S	S	num=p|gen=f	1	prep
+3	cedo	cedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	a	a	E	E	_	3	comp
+5	quel	quello	D	DD	num=s|gen=m	8	mod
+6	suo	suo	A	AP	num=s|gen=m	8	mod
+7	dolce	dolce	A	A	num=s|gen=n	8	mod
+8	mistero	mistero	S	S	num=s|gen=m	4	prep
+
+1	e	e	C	CC	_	7	con
+2	da	da	E	E	_	7	comp
+3	certi	certo	D	DI	num=p|gen=m	4	mod
+4	amori	amore	S	S	num=p|gen=m	2	prep
+5	dai	da	E	EA	num=p|gen=m	4	comp
+6	colori	colore	S	S	num=p|gen=m	5	prep
+7	delle	di	E	EA	num=p|gen=f	0	ROOT
+8	foto	foto	S	S	num=n|gen=f	7	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	idea	idea	S	S	num=s|gen=f	2	obj
+5	che	che	P	PR	num=n|gen=n	7	subj
+6	abbiano	avere	V	VA	num=p|per=3|mod=c|ten=p	7	aux
+7	vissuto	vivere	V	V	num=s|mod=p|gen=m	4	mod_rel
+8	davvero	davvero	B	B	_	7	mod
+9	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	avuto	avere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	tante	tanto	D	DI	num=p|gen=f	5	mod
+5	cose	cosa	S	S	num=p|gen=f	3	obj
+6	care	caro	A	A	num=p|gen=f	5	mod
+
+1	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	2	aux
+2	avuto	avere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	senso	senso	S	S	num=s|gen=m	2	obj
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	dolore	dolore	S	S	num=s|gen=m	5	prep
+
+1	e	e	C	CC	_	4	con
+2	anche	anche	B	B	_	4	mod
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	allegria	allegria	S	S	num=s|gen=f	0	ROOT
+5	di	di	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	uomo	uomo	S	S	num=s|gen=m	5	prep
+8	che	che	P	PR	num=n|gen=n	9	subj
+9	ama	amare	V	V	num=s|per=3|mod=i|ten=p	7	mod_rel
+
+1	ma	ma	C	CC	_	3	con
+2	se	se	P	PC	num=n|per=3|gen=n	3	clit
+3	dovessi	dovere	V	V	num=s|per=1|mod=c|ten=i	0	ROOT
+4	raccontare	raccontare	V	V	mod=f	3	arg
+5	la	il	R	RD	num=s|gen=f	7	det
+6	mia	mio	A	AP	num=s|gen=f	7	mod
+7	vita	vita	S	S	num=s|gen=f	4	obj
+
+1	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	paura	paura	S	S	num=s|gen=f	1	obj
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	mancherebbe	mancare	V	V	num=s|per=3|mod=d|ten=p	2	mod_rel
+6	la	il	R	RD	num=s|gen=f	7	det
+7	trama	trama	S	S	num=s|gen=f	5	subj
+8	.	.	F	FS	_	1	punc
+
+1	Attimi	attimo	S	S	num=p|gen=m	0	ROOT
+2	attimi	attimo	S	S	num=p|gen=m	1	mod
+
+1	vivere	vivere	V	V	mod=f	0	ROOT
+2	di	di	E	E	_	1	comp
+3	attimi	attimo	S	S	num=p|gen=m	2	prep
+4	attimi	attimo	S	S	num=p|gen=m	3	mod
+5	d'	di	E	E	_	1	comp
+6	amore	amore	S	S	num=s|gen=m	5	prep
+
+1	piccoli	piccolo	A	A	num=p|gen=m	2	mod
+2	spostamenti	spostamento	S	S	num=p|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	cuore	cuore	S	S	num=s|gen=m	3	prep
+
+1	piccoli	piccolo	A	A	num=p|gen=m	2	mod
+2	spostamenti	spostamento	S	S	num=p|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	cuore	cuore	S	S	num=s|gen=m	3	prep
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	cuore	cuore	S	S	num=s|gen=m	0	ROOT
+3	smemorato	smemorato	A	A	num=s|gen=m	2	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	cuore	cuore	S	S	num=s|gen=m	2	conj
+6	avaro	avaro	A	A	num=s|gen=m	5	mod
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	trattiene	trattenere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	propria	proprio	A	AP	num=s|gen=f	5	mod
+5	nulla	nulla	P	PI	num=s|gen=m	3	obj
+6	di	di	E	E	_	3	comp
+7	duraturo	duraturo	A	A	num=s|gen=m	6	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	cera	cerare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	disperatamente	disperato	B	B	_	2	mod
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	breve	breve	A	A	num=s|gen=n	3	mod
+3	gioia	gioia	S	S	num=s|gen=f	0	ROOT
+4	di	di	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	istante	istante	S	S	num=s|gen=m	4	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	cuore	cuore	S	S	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	4	subj
+4	conosce	conoscere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+5	solo	solo	B	B	_	4	mod
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	euforia	euforia	S	S	num=s|gen=f	4	obj
+8	.	.	F	FS	_	2	punc
+
+1	Attimi	attimo	S	S	num=p|gen=m	2	subj
+2	vivere	vivere	V	V	mod=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	attimi	attimo	S	S	num=p|gen=m	3	prep
+
+1	attimi	attimo	S	S	num=p|gen=m	0	ROOT
+2	d'	di	E	E	_	1	comp
+3	amore	amore	S	S	num=s|gen=m	2	prep
+
+1	piccoli	piccolo	A	A	num=p|gen=m	2	mod
+2	spostamenti	spostamento	S	S	num=p|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	cuore	cuore	S	S	num=s|gen=m	3	prep
+
+1	piccoli	piccolo	A	A	num=p|gen=m	2	mod
+2	spostamenti	spostamento	S	S	num=p|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	cuore	cuore	S	S	num=s|gen=m	3	prep
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	cuore	cuore	S	S	num=s|gen=m	0	ROOT
+3	senza	senza	E	E	_	2	comp
+4	ieri	ieri	B	B	_	3	prep
+5	senza	senza	E	E	_	2	comp
+6	domani	domani	B	B	_	5	prep
+
+1	e	e	C	CC	_	0	ROOT
+2	col	con	E	EA	num=s|gen=m	1	ROOT
+3	presente	presente	S	S	num=s|gen=n	2	prep
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	gli	gli	P	PC	num=s|per=3|gen=m	6	comp_ind
+6	sfugge	sfuggire	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+7	tra	tra	E	E	_	6	comp
+8	le	il	R	RD	num=p|gen=f	9	det
+9	mani	mano	S	S	num=p|gen=f	7	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	piange	piangere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	ride	ridere	V	V	num=s|per=3|mod=i|ten=p	2	pred
+4	ama	amare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+5	e	e	C	CC	_	4	con
+6	odia	odiare	V	V	num=s|per=3|mod=i|ten=p	4	conj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	prende	prendere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	tutto	tutto	P	PI	num=s|gen=m	2	obj
+4	poi	poi	B	B	_	2	mod
+5	va	andare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+6	via	via	B	B	_	5	mod
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	cuore	cuore	S	S	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	9	subj
+4	da	da	E	E	_	9	comp
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	ora	ora	S	S	num=s|gen=f	4	prep
+7	all'	al	E	EA	num=s|gen=n	6	comp
+8	altra	altro	P	PI	num=s|gen=f	7	prep
+9	cambia	cambiare	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+10	idea	idea	S	S	num=s|gen=f	9	obj
+
+1	Attimi	attimo	S	S	num=p|gen=m	0	ROOT
+2	attimi	attimo	S	S	num=p|gen=m	1	mod
+3	attimi	attimo	S	S	num=p|gen=m	2	mod
+4	.	.	F	FS	_	1	punc
+
+1	Attimi	attimo	S	S	num=p|gen=m	0	ROOT
+2	per	per	E	E	_	1	comp
+3	me	me	P	PE	num=s|per=1|gen=n	2	prep
+4	che	che	C	CS	_	1	comp
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	giorno	giorno	S	S	num=s|gen=m	4	sub
+7	in	in	E	E	_	6	comp
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	abbraccio	abbraccio	S	S	num=s|gen=m	7	prep
+10	innocente	innocente	A	A	num=s|gen=n	6	mod
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	3	clit
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	perso	perdere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	e	e	C	CC	_	3	con
+5	in	in	E	E	_	10	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	momento	momento	S	S	num=s|gen=m	5	prep
+8	ti	ti	P	PC	num=s|per=2|gen=n	10	comp_ind
+9	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	10	aux
+10	amato	amare	V	V	num=s|mod=p|gen=m	3	conj
+
+1	ma	ma	C	CC	_	0	ROOT
+2	quante	quanto	D	DQ	num=p|gen=f	3	mod
+3	notti	notte	S	S	num=p|gen=f	1	ROOT
+4	di	di	E	E	_	3	comp
+5	fatica	fatica	S	S	num=s|gen=f	4	prep
+6	che	che	P	PR	num=n|gen=n	7	subj
+7	aria	aria	S	S	num=s|gen=f	5	mod_rel
+8	pesante	pesante	A	A	num=s|gen=n	7	mod
+
+1	per	per	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	folle	folle	A	A	num=s|gen=n	4	mod
+4	orgasmo	orgasmo	S	S	num=s|gen=m	1	prep
+5	che	che	P	PR	num=n|gen=n	4	comp
+6	poi	poi	B	B	_	7	mod
+7	dura	duro	A	A	num=s|gen=f	5	sub
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	minuto	minuto	S	S	num=s|gen=m	7	conj
+10	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	7	con
+2	di	di	E	E	_	7	comp
+3	te	te	P	PE	num=s|per=2|gen=n	2	prep
+4	non	non	B	BN	_	7	neg
+5	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+6	è	essere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+7	rimasto	rimanere	V	V	num=s|mod=p|gen=m	0	ROOT
+8	niente	niente	P	PI	num=s|gen=m	7	subj
+9	di	di	E	E	_	8	comp
+10	cose	cosa	S	S	num=p|gen=f	9	prep
+11	solide	solido	A	A	num=p|gen=f	10	mod
+12	e	e	C	CC	_	11	con
+13	importanti	importante	A	A	num=p|gen=n	10	mod
+
+1	ricordo	ricordare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	solamente	solo	B	B	_	3	mod
+3	strani	strano	A	A	num=p|gen=m	4	mod
+4	dettagli	dettaglio	S	S	num=p|gen=m	1	obj
+
+1	far	fare	V	V	mod=f	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	amore	amore	S	S	num=s|gen=m	1	obj
+4	con	con	E	E	_	3	comp
+5	i	il	R	RD	num=p|gen=m	7	det
+6	nostri	nostro	A	AP	num=p|gen=m	7	mod
+7	sentimenti	sentimento	S	S	num=p|gen=m	4	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	pred
+3	far-	fare	V	V	mod=f	2	prep
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	un	uno	R	RI	num=s|gen=m	7	det
+6	bel	bello	A	A	num=s|gen=m	7	mod
+7	vestito	vestito	S	S	num=s|gen=m	3	obj
+8	con	con	E	E	_	3	comp
+9	dei	di	E	EA	num=p|gen=m	8	prep
+10	ritagli	ritaglio	S	S	num=p|gen=m	9	prep
+11	.	.	F	FS	_	1	punc
+
+1	Attimi	attimo	S	S	num=p|gen=m	0	ROOT
+2	attimi	attimo	S	S	num=p|gen=m	1	mod
+3	attimi	attimo	S	S	num=p|gen=m	0	ROOT
+

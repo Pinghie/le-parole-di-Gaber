@@ -1,0 +1,271 @@
+1	Caro	caro	A	A	num=s|gen=m	3	mod
+2	vecchio	vecchio	A	A	num=s|gen=m	3	mod
+3	zio	zio	S	S	num=s|gen=m	0	ROOT
+4	fascista	fascista	A	A	num=s|gen=n	3	mod
+
+1	è	essere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	vero	vero	A	A	num=s|gen=m	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	5	aux
+5	fatto	fare	V	V	num=s|mod=p|gen=m	3	sub
+6	un	uno	R	RI	num=s|gen=m	8	det
+7	bel	bello	A	A	num=s|gen=m	8	mod
+8	casino	casino	S	S	num=s|gen=m	5	obj
+
+1	ricordo	ricordare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	dai	da	E	EA	num=p|gen=m	1	comp
+3	racconti	racconto	S	S	num=p|gen=m	2	prep
+4	di	di	E	E	_	3	comp
+5	mia	mio	A	AP	num=s|gen=f	6	mod
+6	madre	madre	S	S	num=s|gen=f	4	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	sei	essere	V	VA	num=s|per=2|mod=i|ten=p	3	aux
+3	andato	andare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	a	a	E	E	_	3	comp_loc
+5	Roma	Roma	S	SP	_	4	prep
+6	a	a	E	E	_	3	comp
+7	piedi	piede	S	S	num=p|gen=m	6	prep
+8	da	da	E	E	_	3	comp_loc
+9	Milano	Milano	S	SP	_	8	prep
+10	.	.	F	FS	_	3	punc
+
+1	A	a	E	E	_	7	comp
+2	istinto	istinto	S	S	num=s|gen=m	1	prep
+3	io	io	P	PE	num=s|per=1|gen=n	7	subj
+4	ti	ti	P	PC	num=s|per=2|gen=n	7	comp_ind
+5	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	7	aux
+6	sempre	sempre	B	B	_	7	mod
+7	giudicato	giudicare	V	V	num=s|mod=p|gen=m	0	_
+
+1	come	come	C	CS	_	0	ROOT
+2	uno	uno	P	PI	num=s|gen=m	1	ROOT
+3	che	che	C	CS	_	2	mod
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	accende	accendere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+6	e	e	C	CC	_	5	con
+7	non	non	B	BN	_	8	neg
+8	ragiona	ragionare	V	V	num=s|per=3|mod=i|ten=p	5	conj
+
+1	e	e	C	CC	_	3	con
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	3	mod
+6	di	di	E	E	_	5	comp
+7	facile	facile	A	A	num=s|gen=n	8	mod
+8	ironia	ironia	S	S	num=s|gen=f	6	prep
+
+1	senza	senza	C	CS	_	0	ROOT
+2	capire	capire	V	V	mod=f	1	sub
+3	mai	mai	B	B	_	6	mod_temp
+4	la	il	R	RD	num=s|gen=f	6	det
+5	tua	tuo	A	AP	num=s|gen=f	6	mod
+6	persona	persona	S	S	num=s|gen=f	2	obj
+7	.	.	F	FS	_	1	punc
+
+1	Direi	dire	V	V	num=s|per=1|mod=d|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	eri	eri	V	V	num=s|per=3|mod=i|ten=p	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	stupido	stupido	A	A	num=s|gen=m	3	pred
+7	e	e	C	CC	_	6	con
+8	felice	felice	A	A	num=s|gen=n	6	conj
+
+1	coerente	coerente	A	A	num=s|gen=n	0	ROOT
+2	con	con	E	E	_	1	comp
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	immagine	immagine	S	S	num=s|gen=f	2	prep
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	duce	duce	S	S	num=s|gen=m	5	prep
+
+1	a	a	E	E	_	7	comp_temp
+2	ventun'	ventun'	N	N	_	3	mod
+3	anni	anno	S	S	num=p|gen=m	1	prep
+4	avevi	avevi	B	B	_	7	mod
+5	già	già	B	B	_	7	mod
+6	una	uno	R	RI	num=s|gen=f	7	det
+7	figlia	figlio	S	S	num=s|gen=f	0	ROOT
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	guerra	guerra	S	S	num=s|gen=f	6	mod_temp
+3	tutta	tutto	T	T	num=s|gen=f	4	mod
+4	tua	tuo	A	AP	num=s|gen=f	2	mod
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	idea	idea	S	S	num=s|gen=f	0	ROOT
+7	della	di	E	EA	num=s|gen=f	6	comp
+8	famiglia	famiglia	S	S	num=s|gen=f	7	prep
+9	.	.	F	FS	_	6	punc
+
+1	Ai	al	E	EA	num=p|gen=m	0	ROOT
+2	tempi	tempo	S	S	num=p|gen=m	1	prep
+3	in	in	E	E	_	5	comp
+4	cui	cui	P	PR	num=n|gen=n	3	prep
+5	cadevano	cadere	V	V	num=p|per=3|mod=i|ten=i	2	mod_rel
+6	le	il	R	RD	num=p|gen=f	7	det
+7	bombe	bomba	S	S	num=p|gen=f	5	obj
+
+1	mostravi	mostravi	B	B	_	6	mod
+2	con	con	E	E	_	6	comp
+3	orgoglio	orgoglio	S	S	num=s|gen=m	2	prep
+4	il	il	R	RD	num=s|gen=m	6	det
+5	tuo	tuo	A	AP	num=s|gen=m	6	mod
+6	coraggio	coraggio	S	S	num=s|gen=m	0	ROOT
+
+1	eppure	eppure	B	BN	_	3	neg
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	comp_ind
+3	piaceva	piacere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	aria	aria	S	S	num=s|gen=f	3	subj
+6	fresca	fresco	A	A	num=s|gen=f	5	mod
+
+1	delle	di	E	EA	num=p|gen=f	0	ROOT
+2	mattine	mattina	S	S	num=p|gen=f	1	prep
+3	limpide	limpido	A	A	num=p|gen=f	2	mod
+4	di	di	E	E	_	2	comp
+5	maggio	maggio	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	1	punc
+
+1	L	L	N	NO	num=n|gen=n	2	mod
+2	'uomo	'uomo	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	quasi	quasi	B	B	_	5	mod
+5	sempre	sempre	B	B	_	3	mod
+6	meglio	meglio	B	B	_	3	mod
+
+1	rispetto	rispetto	S	S	num=s|gen=m	0	ROOT
+2	alla	al	E	EA	num=s|gen=f	1	comp
+3	propria	proprio	A	AP	num=s|gen=f	4	mod
+4	ideologia	ideologia	S	S	num=s|gen=f	2	prep
+
+1	ricordo	ricordare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	quella	quello	D	DD	num=s|gen=f	3	mod
+3	volta	volta	S	S	num=s|gen=f	1	obj
+4	che	che	C	CS	_	3	arg
+5	piangevi	piangere	V	V	num=s|per=2|mod=i|ten=i	4	sub
+
+1	e	e	C	CC	_	3	con
+2	quanto	quanto	P	PR	num=s|gen=m	3	obj
+3	stavi	stare	V	V	num=s|per=2|mod=i|ten=i	0	ROOT
+4	male	male	B	B	_	3	mod_temp
+5	per	per	E	E	_	3	comp
+6	la	il	R	RD	num=s|gen=f	7	det
+7	zia	zia	S	S	num=s|gen=f	5	prep
+8	.	.	F	FS	_	3	punc
+
+1	Del	di	E	EA	num=s|gen=m	4	comp
+2	resto	resto	S	S	num=s|gen=m	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	segreto	segreto	S	S	num=s|gen=m	0	ROOT
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	fascismo	fascismo	S	S	num=s|gen=m	5	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	nel	in	E	EA	num=s|gen=m	1	pred
+3	simbolo	simbolo	S	S	num=s|gen=m	2	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	fascio	fascio	S	S	num=s|gen=m	4	prep
+6	littoriale	littoriale	A	A	num=s|gen=n	5	mod
+
+1	e	e	C	CC	_	7	con
+2	appena	appena	B	B	_	7	mod
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	fascettino	fascettino	S	S	num=s|gen=m	7	subj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	è	essere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+7	staccato	staccare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	svanisce	svanire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	4	det
+3	sua	suo	A	AP	num=s|gen=f	4	mod
+4	forza	forza	S	S	num=s|gen=f	1	obj
+5	criminale	criminale	A	A	num=s|gen=n	4	mod
+6	.	.	F	FS	_	1	punc
+
+1	Caro	caro	A	A	num=s|gen=m	3	mod
+2	vecchio	vecchio	A	A	num=s|gen=m	3	mod
+3	zio	zio	S	S	num=s|gen=m	0	ROOT
+4	fascista	fascista	A	A	num=s|gen=n	3	mod
+
+1	a	a	E	E	_	0	ROOT
+2	veder-	vedere	V	V	mod=f	1	prep
+3	ti	ti	P	PC	num=s|per=2|gen=n	2	clit
+4	innaffiare	innaffiare	V	V	mod=f	2	arg
+5	le	il	R	RD	num=p|gen=f	7	det
+6	tue	tuo	A	AP	num=p|gen=f	7	mod
+7	rose	rosa	S	S	num=p|gen=f	4	obj
+
+1	ancora	ancora	B	B	_	4	mod
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	entra	entrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	nella	in	E	EA	num=s|gen=f	4	comp
+6	testa	testa	S	S	num=s|gen=f	5	prep
+
+1	come	come	C	CS	_	0	ROOT
+2	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	3	aux
+3	potuto	potere	V	VM	num=s|mod=p|gen=m	4	modal
+4	fare	fare	V	V	mod=f	1	sub
+5	certe	certo	D	DI	num=p|gen=f	6	mod
+6	cose	cosa	S	S	num=p|gen=f	4	subj
+7	.	.	F	FS	_	1	punc
+
+1	Sorridi	sorridere	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+2	accarezzando	accarezzare	V	V	mod=g	1	mod
+3	i	il	R	RD	num=p|gen=m	5	det
+4	tuoi	tuo	A	AP	num=p|gen=m	5	mod
+5	nipoti	nipote	S	S	num=p|gen=n	2	obj
+
+1	con	con	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	commozione	commozione	S	S	num=s|gen=f	1	prep
+4	così	così	B	B	_	5	mod
+5	vera	vero	A	A	num=s|gen=f	3	mod
+
+1	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	3	aux
+2	sempre	sempre	B	B	_	3	mod
+3	avuto	avere	V	V	num=s|mod=p|gen=m	5	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	cuore	cuore	S	S	num=s|gen=m	0	ROOT
+6	troppo	troppo	B	B	_	7	mod
+7	tenero	tenero	A	A	num=s|gen=m	5	mod
+
+1	e	e	C	CC	_	3	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	testa	testa	S	S	num=s|gen=f	0	ROOT
+4	troppo	troppo	B	B	_	5	mod
+5	dura	duro	A	A	num=s|gen=f	3	mod
+6	.	.	F	FS	_	3	punc
+
+1	Negli	in	E	EA	num=p|gen=m	0	ROOT
+2	uomini	uomo	S	S	num=p|gen=m	1	prep
+3	politici	politico	A	A	num=p|gen=m	2	mod
+4	di	di	E	E	_	2	comp
+5	oggi	oggi	B	B	_	4	prep
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	come	come	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	grosso	grosso	A	A	num=s|gen=m	6	mod
+6	salto	salto	S	S	num=s|gen=m	3	prep
+7	di	di	E	E	_	6	comp
+8	statura	statura	S	S	num=s|gen=f	7	prep
+
+1	ma	ma	C	CC	_	3	con
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	ancora	ancora	B	B	_	6	mod
+5	il	il	R	RD	num=s|gen=m	6	det
+6	cuore	cuore	S	S	num=s|gen=m	3	obj
+7	troppo	troppo	B	B	_	8	mod
+8	tenero	tenero	A	A	num=s|gen=m	6	mod
+
+1	e	e	C	CC	_	3	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	testa	testa	S	S	num=s|gen=f	0	ROOT
+4	troppo	troppo	B	B	_	5	mod
+5	dura	duro	A	A	num=s|gen=f	3	mod
+6	.	.	F	FS	_	3	punc
+

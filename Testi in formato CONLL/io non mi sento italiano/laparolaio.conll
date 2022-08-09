@@ -1,0 +1,353 @@
+1	La	il	R	RD	num=s|gen=f	2	det
+2	parola	parola	S	S	num=s|gen=f	0	ROOT
+3	io	io	P	PE	num=s|per=1|gen=n	2	mod
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	idea	idea	S	S	num=s|gen=f	1	pred
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	fa	fare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+7	strada	strada	S	S	num=s|gen=f	6	obj
+8	a	a	E	E	_	7	comp
+9	poco	poco	P	PI	num=s|gen=m	8	prep
+10	a	a	E	E	_	6	comp
+11	poco	poco	B	B	_	10	prep
+
+1	Nel	in	E	EA	num=s|gen=m	3	comp
+2	bambino	bambino	S	S	num=s|gen=m	1	prep
+3	suona	suonare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	dolce	dolce	A	A	num=s|gen=n	3	pred
+5	come	come	E	E	_	4	comp
+6	un'	uno	R	RI	num=s|gen=f	7	det
+7	eco	eco	S	S	num=s|gen=f	5	prep
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	spinta	spinta	S	S	num=s|gen=f	1	pred
+4	per	per	E	E	_	3	arg
+5	tentare	tentare	V	V	mod=f	4	prep
+6	i	il	R	RD	num=p|gen=m	8	det
+7	primi	primo	N	NO	num=p|gen=m	8	mod
+8	passi	passo	S	S	num=p|gen=m	5	obj
+
+1	Verso	verso	E	E	_	7	comp
+2	un'	uno	R	RI	num=s|gen=f	4	det
+3	intima	intimo	A	A	num=s|gen=f	4	mod
+4	certezza	certezza	S	S	num=s|gen=f	1	prep
+5	di	di	E	E	_	4	comp
+6	sé	sé	P	PE	num=n|per=3|gen=n	5	prep
+7	stessi	stessi	A	A	num=p|gen=m	0	ROOT
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	parola	parola	S	S	num=s|gen=f	0	ROOT
+3	io	io	P	PE	num=s|per=1|gen=n	2	mod
+
+1	Con	con	E	E	_	4	comp
+2	il	il	R	RD	num=s|gen=m	3	det
+3	tempo	tempo	S	S	num=s|gen=m	1	prep
+4	assume	assumere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	tono	tono	S	S	num=s|gen=m	4	obj
+7	più	più	B	B	_	8	mod
+8	preciso	preciso	A	A	num=s|gen=m	6	mod
+
+1	Qualche	qualche	D	DI	num=s|gen=n	2	mod
+2	volta	volta	S	S	num=s|gen=f	3	mod_temp
+3	rischia	rischiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	arg
+5	esser	essere	V	V	mod=f	4	prep
+6	fastidioso	fastidioso	A	A	num=s|gen=m	5	pred
+
+1	Ma	ma	C	CC	_	2	con
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	5	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	segno	segno	S	S	num=s|gen=m	2	pred
+6	di	di	E	E	_	5	comp
+7	una	uno	R	RI	num=s|gen=f	8	det
+8	logica	logica	S	S	num=s|gen=f	6	prep
+9	infantile	infantile	A	A	num=s|gen=n	8	mod
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	peccato	peccato	S	S	num=s|gen=m	1	pred
+4	ricorrente	ricorrente	A	A	num=s|gen=n	3	mod
+5	ma	ma	C	CC	_	1	con
+6	veniale	veniale	A	A	num=s|gen=n	1	pred
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	_
+2	,	,	F	FF	_	1	con
+3	io	io	P	PE	num=s|per=1|gen=n	1	conj
+4	,	,	F	FF	_	1	con
+5	io	io	P	PE	num=s|per=1|gen=n	1	conj
+
+1	Ancora	ancora	B	B	_	2	mod
+2	io	io	P	PE	num=s|per=1|gen=n	0	_
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	vizio	vizio	S	S	num=s|gen=m	1	ROOT
+4	dell'	di	E	EA	num=s|gen=n	3	comp
+5	adolescente	adolescente	A	A	num=s|gen=n	4	prep
+
+1	Non	non	B	BN	_	3	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	cancella	cancellare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	con	con	E	E	_	3	comp
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	età	età	S	S	num=n|gen=f	4	prep
+
+1	E	e	C	CC	_	4	con
+2	negli	in	E	EA	num=p|gen=m	4	comp
+3	adulti	adulto	S	S	num=p|gen=m	2	prep
+4	stranamente	strano	B	B	_	0	_
+
+1	Diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	più	più	B	B	_	3	mod
+3	allarmante	allarmante	A	A	num=s|gen=n	1	pred
+4	e	e	C	CC	_	1	con
+5	cresce	crescere	V	V	num=s|per=3|mod=i|ten=p	1	conj
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	parola	parola	S	S	num=s|gen=f	0	ROOT
+3	io	io	P	PE	num=s|per=1|gen=n	2	mod
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	uno	uno	R	RI	num=s|gen=m	4	det
+3	strano	strano	A	A	num=s|gen=m	4	mod
+4	grido	grido	S	S	num=s|gen=m	1	pred
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	nasconde	nascondere	V	V	num=s|per=3|mod=i|ten=p	0	_
+3	invano	invano	B	B	_	2	mod
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	paura	paura	S	S	num=s|gen=f	5	subj
+3	di	di	E	E	_	5	comp
+4	non	non	B	BN	_	5	neg
+5	essere	essere	V	V	mod=f	0	ROOT
+6	nessuno	nessuno	P	PI	num=s|gen=m	5	pred
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	bisogno	bisogno	S	S	num=s|gen=m	1	pred
+4	esagerato	esagerato	A	A	num=s|gen=m	3	mod
+
+1	E	e	C	CC	_	4	con
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	4	mod
+4	morboso	morboso	A	A	num=s|gen=m	0	ROOT
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	immagine	immagine	S	S	num=s|gen=f	1	pred
+4	struggente	struggente	A	A	num=s|gen=n	3	mod
+5	del	di	E	EA	num=s|gen=m	3	comp
+6	Narciso	Narciso	S	SP	_	5	prep
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	_
+2	,	,	F	FF	_	1	con
+3	io	io	P	PE	num=s|per=1|gen=n	1	conj
+4	,	,	F	FF	_	1	con
+5	io	io	P	PE	num=s|per=1|gen=n	1	conj
+
+1	E	e	C	CC	_	2	con
+2	ancora	ancora	B	B	_	3	mod
+3	io	io	P	PE	num=s|per=1|gen=n	0	_
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+2	che	che	P	PR	num=n|gen=n	5	subj
+3	non	non	B	BN	_	5	neg
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	nato	nascere	V	V	num=s|mod=p|gen=m	1	mod_rel
+
+1	Per	per	E	E	_	0	ROOT
+2	restare	restare	V	V	mod=f	1	prep
+3	per	per	E	E	_	2	comp
+4	sempre	sempre	B	B	_	3	prep
+5	confuso	confuso	A	A	num=s|gen=m	2	pred
+6	nell'	in	E	EA	num=s|gen=n	2	comp
+7	anonimato	anonimato	S	S	num=s|gen=m	6	prep
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	clit
+3	faccio	fare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	avanti	avanti	B	B	_	3	mod
+
+1	Non	non	B	BN	_	2	neg
+2	sopporto	sopportare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	idea	idea	S	S	num=s|gen=f	2	obj
+5	di	di	E	E	_	4	arg
+6	sentir-	sentire	V	V	mod=f	5	prep
+7	me	me	P	PC	num=s|per=1|gen=n	6	clit
+8	un	uno	R	RI	num=s|gen=m	9	det
+9	numero	numero	S	S	num=s|gen=m	6	obj
+10	fra	fra	E	E	_	6	comp
+11	tanti	tanto	D	DI	num=p|gen=m	10	mod
+
+1	Ogni	ogni	D	DI	num=s|gen=n	2	mod
+2	giorno	giorno	S	S	num=s|gen=m	4	mod_temp
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	espando	espandere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	posso	potere	V	VM	num=s|per=1|mod=i|ten=p	3	modal
+3	essere	essere	V	V	mod=f	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	centro	centro	S	S	num=s|gen=m	3	pred
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	mondo	mondo	S	S	num=s|gen=m	6	prep
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	presente	presente	A	A	num=s|gen=n	2	pred
+
+1	Son	Son	R	RI	num=s|gen=m	2	det
+2	disposto	disporre	V	V	num=s|mod=p|gen=m	0	ROOT
+3	a	a	E	E	_	2	comp
+4	qualsiasi	qualsiasi	D	DI	num=s|gen=n	5	mod
+5	bassezza	bassezza	S	S	num=s|gen=f	3	prep
+6	per	per	E	E	_	2	arg
+7	sentir-	sentire	V	V	mod=f	6	prep
+8	me	me	P	PC	num=s|per=1|gen=n	7	clit
+9	importante	importante	A	A	num=s|gen=n	7	pred
+
+1	Devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	fare	fare	V	V	mod=f	0	ROOT
+3	presto	presto	B	B	_	2	mod
+
+1	Esaltato	esaltare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	da	da	E	E	_	1	comp
+3	questa	questo	D	DD	num=s|gen=f	4	mod
+4	mania	mania	S	S	num=s|gen=f	2	prep
+5	di	di	E	E	_	1	arg
+6	affermar-	affermare	V	V	mod=f	5	prep
+7	me	me	P	PC	num=s|per=1|gen=n	6	obj
+8	a	a	E	E	_	6	comp
+9	ogni	ogni	D	DI	num=s|gen=n	10	mod
+10	costo	costo	S	S	num=s|gen=m	8	prep
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	clit
+2	inflaziono	inflazionare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	,	,	F	FF	_	2	con
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	clit
+5	svendo	svendere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	3	modal
+3	essere	essere	V	V	mod=f	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	centro	centro	S	S	num=s|gen=m	3	pred
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	mondo	mondo	S	S	num=s|gen=m	6	prep
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	rispetto	rispetto	B	B	_	4	mod
+4	nessuno	nessuno	P	PI	num=s|gen=m	1	mod
+
+1	Se	se	C	CS	_	0	ROOT
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	serve	servire	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	posso	potere	V	VM	num=s|per=1|mod=i|ten=p	6	modal
+5	anche	anche	B	B	_	6	mod
+6	far	fare	V	V	mod=f	3	subj
+7	finta	finta	S	S	num=s|gen=f	6	obj
+8	di	di	E	E	_	7	arg
+9	essere	essere	V	V	mod=f	8	prep
+10	buono	buono	A	A	num=s|gen=m	9	pred
+
+1	Devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	2	modal
+2	dominare	dominare	V	V	mod=f	0	ROOT
+
+1	Sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	essere	essere	V	V	mod=f	1	arg
+4	senza	senza	E	E	_	3	comp
+5	ideali	ideale	S	S	num=p|gen=m	4	prep
+6	assetato	assetato	A	A	num=s|gen=m	5	mod
+7	di	di	E	E	_	5	comp
+8	potere	potere	S	S	num=s|gen=m	7	prep
+
+1	Sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	io	io	P	PE	num=s|per=1|gen=n	1	pred
+3	che	che	D	DE	num=n|gen=n	4	mod
+4	comando	comando	S	S	num=s|gen=m	0	ROOT
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	devo	dovere	V	VM	num=s|per=1|mod=i|ten=p	3	modal
+3	essere	essere	V	V	mod=f	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	centro	centro	S	S	num=s|gen=m	3	pred
+6	del	di	E	EA	num=s|gen=m	5	comp
+7	mondo	mondo	S	S	num=s|gen=m	6	prep
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+2	vanitoso	vanitoso	A	A	num=s|gen=m	1	mod
+3	,	,	F	FF	_	4	punc
+4	presuntuoso	presuntuoso	A	A	num=s|gen=m	1	mod
+
+1	Esibizionista	esibizionista	S	S	num=s|gen=f	0	ROOT
+2	,	,	F	FF	_	3	punc
+3	borioso	borioso	A	A	num=s|gen=m	1	mod
+4	,	,	F	FF	_	3	punc
+5	tronfio	tronfio	A	A	num=s|gen=m	1	mod
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	ROOT
+2	superbo	superbo	A	A	num=s|gen=m	1	mod
+3	,	,	F	FF	_	2	con
+4	megalomane	megalomane	A	A	num=s|gen=n	2	conj
+5	,	,	F	FF	_	1	con
+6	sbruffone	sbruffone	S	S	num=s|gen=m	1	conj
+
+1	Avido	avido	A	A	num=s|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	invadente	invadente	A	A	num=s|gen=n	1	conj
+
+1	Disgustoso	disgustoso	A	A	num=s|gen=m	0	ROOT
+2	,	,	F	FF	_	1	con
+3	arrogante	arrogante	A	A	num=s|gen=n	1	conj
+4	,	,	F	FF	_	1	con
+5	prepotente	prepotente	A	A	num=s|gen=n	1	conj
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	_
+2	,	,	F	FF	_	1	con
+3	soltanto	soltanto	B	B	_	4	mod
+4	io	io	P	PE	num=s|per=1|gen=n	1	conj
+
+1	Ovunque	ovunque	B	B	_	2	mod
+2	io	io	P	PE	num=s|per=1|gen=n	0	_
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	parola	parola	S	S	num=s|gen=f	0	ROOT
+3	io	io	P	PE	num=s|per=1|gen=n	2	mod
+
+1	Questo	questo	D	DD	num=s|gen=m	3	mod
+2	dolce	dolce	A	A	num=s|gen=n	3	mod
+3	monosillabo	monosillabo	A	A	num=s|gen=m	0	ROOT
+4	innocente	innocente	A	A	num=s|gen=n	3	mod
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	fatale	fatale	A	A	num=s|gen=n	1	pred
+3	che	che	C	CS	_	1	subj
+4	diventi	diventare	V	V	num=s|per=3|mod=c|ten=p	3	sub
+5	dilagante	dilagante	A	A	num=s|gen=n	4	pred
+
+1	Nella	in	E	EA	num=s|gen=f	0	ROOT
+2	logica	logica	S	S	num=s|gen=f	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	mondo	mondo	S	S	num=s|gen=m	3	prep
+5	occidentale	occidentale	A	A	num=s|gen=n	4	mod
+
+1	Forse	forse	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	5	det
+4	ultimo	ultimo	A	A	num=s|gen=m	5	mod
+5	peccato	peccato	S	S	num=s|gen=m	2	subj
+6	originale	originale	A	A	num=s|gen=n	2	pred
+
+1	Io	io	P	PE	num=s|per=1|gen=n	0	_
+

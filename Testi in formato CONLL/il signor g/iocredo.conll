@@ -1,0 +1,315 @@
+1	Son	Son	B	BN	_	0	ROOT
+2	sempre	sempre	B	B	_	3	mod
+3	stato	essere	V	V	num=s|mod=p|gen=m	1	ROOT
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	pred
+6	moderato	moderato	A	A	num=s|gen=m	5	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	trovare	trovare	V	V	mod=f	2	arg
+4	il	il	R	RD	num=s|gen=m	5	det
+5	buono	buono	A	A	num=s|gen=m	3	obj
+6	dov'	dove	B	B	_	7	mod_loc
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	conj
+
+1	non	non	B	BN	_	2	neg
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	nemici	nemico	A	A	num=p|gen=m	2	obj
+4	e	e	C	CC	_	2	con
+5	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	6	aux
+6	rispettato	rispettare	V	V	num=s|mod=p|gen=m	2	conj
+
+1	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+2	son	son	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	tutto	tutto	P	PI	num=s|gen=m	3	obj
+5	da	da	E	E	_	3	comp
+6	me	me	P	PE	num=s|per=1|gen=n	5	prep
+7	.	.	F	FS	_	3	punc
+
+1	Ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	posizione	posizione	S	S	num=s|gen=f	1	obj
+
+1	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	anche	anche	B	B	_	3	mod
+3	al	a	E	EA	num=s|gen=m	1	comp
+4	domani	domani	B	B	_	0	ROOT
+
+1	nella	in	E	EA	num=s|gen=f	0	ROOT
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	6	subj
+4	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	6	aux
+5	sempre	sempre	B	B	_	6	mod
+6	lavorato	lavorare	V	V	num=s|mod=p|gen=m	1	prep
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	abbastanza	abbastanza	B	B	_	3	mod
+3	contento	contento	A	A	num=s|gen=m	1	pred
+4	di	di	E	E	_	3	comp
+5	me	me	P	PE	num=s|per=1|gen=n	4	prep
+6	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	all'	al	E	EA	num=s|gen=n	2	comp
+4	amore	amore	S	S	num=s|gen=m	3	prep
+5	io	io	P	PE	num=s|per=1|gen=n	6	subj
+6	credo	credere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+7	all'	al	E	EA	num=s|gen=n	6	comp
+8	onestà	onestà	S	S	num=n|gen=f	7	prep
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	all'	al	E	EA	num=s|gen=n	2	comp
+4	onore	onore	S	S	num=s|gen=m	3	prep
+5	all'	al	E	EA	num=s|gen=n	4	comp
+6	amicizia	amicizia	S	S	num=s|gen=f	5	prep
+7	alla	al	E	EA	num=s|gen=f	6	comp
+8	bontà	bontà	S	S	num=s|gen=f	7	prep
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	famiglia	famiglia	S	S	num=s|gen=f	3	prep
+
+1	alle	al	E	EA	num=p|gen=f	0	ROOT
+2	persone	persona	S	S	num=p|gen=f	1	prep
+3	che	che	P	PR	num=n|gen=n	6	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+5	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	6	aux
+6	care	caro	A	A	num=p|gen=f	2	mod_rel
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	voce	voce	S	S	num=s|gen=f	3	prep
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	cuore	cuore	S	S	num=s|gen=m	5	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	6	det
+4	più	più	B	B	_	5	mod
+5	grande	grande	A	A	num=s|gen=n	6	mod
+6	verità	verità	S	S	num=n|gen=f	2	pred
+7	.	.	F	FS	_	2	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	vita	vita	S	S	num=s|gen=f	3	prep
+5	credo	credere	V	V	num=s|per=1|mod=i|ten=p	4	mod
+6	alla	al	E	EA	num=s|gen=f	5	comp
+7	santa	santo	A	A	num=s|gen=f	8	mod
+8	provvidenza	provvidenza	S	S	num=s|gen=f	6	prep
+
+1	con	con	E	E	_	6	comp
+2	tutta	tutto	T	T	num=s|gen=f	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	forza	forza	S	S	num=s|gen=f	1	prep
+5	io	io	P	PE	num=s|per=1|gen=n	6	subj
+6	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+7	io	io	P	PE	num=s|per=1|gen=n	8	subj
+8	credo	credere	V	V	num=s|per=1|mod=i|ten=p	6	arg
+9	io	io	P	PE	num=s|per=1|gen=n	8	obj
+10	credo	credere	V	V	num=s|per=1|mod=i|ten=p	6	conj
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	credo	credere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	comp_loc
+4	Dio	Dio	S	SP	_	3	prep
+
+1	Violenza	violenza	S	S	num=s|gen=f	0	ROOT
+2	per	per	E	E	_	1	comp
+3	le	il	R	RD	num=p|gen=f	4	det
+4	strade	strada	S	S	num=p|gen=f	2	prep
+5	,	,	F	FF	_	1	con
+6	preoccupante	preoccupante	A	A	num=s|gen=n	8	mod
+7	il	il	R	RD	num=s|gen=m	8	det
+8	bilancio	bilancio	S	S	num=s|gen=m	1	conj
+9	delle	di	E	EA	num=p|gen=f	8	comp
+10	vittime	vittima	S	S	num=p|gen=f	9	prep
+11	.	.	F	FS	_	1	punc
+
+1	Per	per	E	E	_	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	vie	via	S	S	num=p|gen=f	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	centro	centro	S	S	num=s|gen=m	4	prep
+6	nuovi	nuovo	A	A	num=p|gen=m	7	mod
+7	scontri	scontro	S	S	num=p|gen=m	5	mod
+8	fra	fra	E	E	_	7	comp
+9	forze	forza	S	S	num=p|gen=f	8	prep
+10	dell'	di	E	EA	num=s|gen=n	9	comp
+11	ordine	ordine	S	S	num=s|gen=m	10	prep
+12	e	e	C	CC	_	9	con
+13	dimostranti	dimostrante	S	S	num=p|gen=n	9	conj
+14	.	.	F	FS	_	1	punc
+
+1	Continua	continuare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	guerra	guerra	S	S	num=s|gen=f	1	obj
+4	civile	civile	A	A	num=s|gen=n	3	mod
+5	,	,	F	FF	_	1	punc
+6	i	il	R	RD	num=p|gen=m	7	det
+7	morti	morto	S	S	num=p|gen=m	8	subj
+8	sarebbero	essere	V	V	num=p|per=3|mod=d|ten=p	0	ROOT
+9	ventimila	ventimila	N	N	_	8	pred
+10	.	.	F	FS	_	8	punc
+
+1	Fine	fine	A	A	num=s|gen=n	0	ROOT
+2	della	di	E	EA	num=s|gen=f	1	comp
+3	tregua	tregua	S	S	num=s|gen=f	2	prep
+4	,	,	F	FF	_	1	punc
+5	in	in	E	E	_	9	comp
+6	alto	alto	A	A	num=s|gen=m	7	mod
+7	mare	mare	S	S	num=s|gen=m	5	prep
+8	i	il	R	RD	num=p|gen=m	9	det
+9	negoziati	negoziato	S	S	num=p|gen=m	0	ROOT
+10	per	per	E	E	_	9	comp
+11	la	il	R	RD	num=s|gen=f	12	det
+12	pace	pace	S	S	num=s|gen=f	10	prep
+13	.	.	F	FS	_	9	punc
+
+1	Su	su	E	E	_	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	3	det
+3	isola	isola	S	S	num=s|gen=f	1	prep
+4	del	di	E	EA	num=s|gen=m	3	comp
+5	Pacifico	Pacifico	S	SP	_	4	prep
+6	,	,	F	FF	_	7	punc
+7	esperimentato	esperimentare	V	V	num=s|mod=p|gen=m	5	mod
+8	nuovo	nuovo	A	A	num=s|gen=m	9	mod
+9	ordigno	ordigno	S	S	num=s|gen=m	7	obj
+10	nucleare	nucleare	A	A	num=s|gen=n	9	mod
+11	.	.	F	FS	_	1	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	signor	signor	S	S	num=s|gen=m	4	subj
+3	G	G	S	SP	_	2	mod
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	uomo	uomo	S	S	num=s|gen=m	4	pred
+7	moderato	moderato	A	A	num=s|gen=m	6	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sa	sapere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	trovare	trovare	V	V	mod=f	2	arg
+4	il	il	R	RD	num=s|gen=m	5	det
+5	buono	buono	A	A	num=s|gen=m	3	obj
+6	dov'	dove	B	B	_	7	mod_loc
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	conj
+
+1	non	non	B	BN	_	2	neg
+2	ha	avere	V	V	num=s|per=3|mod=i|ten=p	6	arg
+3	nemici	nemico	S	S	num=p|gen=m	2	obj
+4	ed	e	C	CC	_	2	con
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	rispettato	rispettare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	si	si	P	PC	num=n|per=3|gen=n	4	clit
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+5	tutto	tutto	P	PI	num=s|gen=m	4	obj
+6	da	da	E	E	_	4	comp
+7	sé	sé	P	PE	num=n|per=3|gen=n	6	prep
+8	.	.	F	FS	_	4	punc
+
+1	Ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	posizione	posizione	S	S	num=s|gen=f	1	obj
+
+1	pensa	pensare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	anche	anche	B	B	_	1	mod
+3	al	a	E	EA	num=s|gen=m	1	comp
+4	domani	domani	B	B	_	3	prep
+
+1	nella	in	E	EA	num=s|gen=f	6	comp
+2	sua	suo	A	AP	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	1	prep
+4	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+5	sempre	sempre	B	B	_	6	mod
+6	lavorato	lavorare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	ed	e	C	CC	_	2	con
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	abbastanza	abbastanza	B	B	_	4	mod
+4	contento	contento	A	A	num=s|gen=m	2	pred
+5	di	di	E	E	_	4	comp
+6	sé	sé	P	PE	num=n|per=3|gen=n	5	prep
+7	.	.	F	FS	_	2	punc
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	all'	al	E	EA	num=s|gen=n	2	comp
+4	amore	amore	S	S	num=s|gen=m	3	prep
+5	lui	lui	P	PE	num=s|per=3|gen=m	4	mod
+6	crede	credere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+7	all'	al	E	EA	num=s|gen=n	6	comp
+8	onestà	onestà	S	S	num=n|gen=f	7	prep
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	all'	al	E	EA	num=s|gen=n	2	comp
+4	onore	onore	S	S	num=s|gen=m	3	prep
+5	crede	credere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+6	all'	al	E	EA	num=s|gen=n	5	comp
+7	amicizia	amicizia	S	S	num=s|gen=f	6	prep
+8	alla	al	E	EA	num=s|gen=f	7	comp
+9	bontà	bontà	S	S	num=s|gen=f	8	prep
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	famiglia	famiglia	S	S	num=s|gen=f	3	prep
+
+1	alle	al	E	EA	num=p|gen=f	0	ROOT
+2	persone	persona	S	S	num=p|gen=f	1	prep
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	gli	gli	P	PC	num=s|per=3|gen=m	5	comp_ind
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	mod_rel
+6	care	caro	A	A	num=p|gen=f	5	pred
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	voce	voce	S	S	num=s|gen=f	3	prep
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	cuore	cuore	S	S	num=s|gen=m	5	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	6	det
+4	più	più	B	B	_	5	mod
+5	grande	grande	A	A	num=s|gen=n	6	mod
+6	verità	verità	S	S	num=n|gen=f	2	pred
+7	.	.	F	FS	_	2	punc
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	alla	al	E	EA	num=s|gen=f	2	comp
+4	vita	vita	S	S	num=s|gen=f	3	prep
+
+1	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	alla	al	E	EA	num=s|gen=f	1	comp
+3	santa	santo	A	A	num=s|gen=f	4	mod
+4	provvidenza	provvidenza	S	S	num=s|gen=f	2	prep
+
+1	con	con	E	E	_	6	comp
+2	tutta	tutto	T	T	num=s|gen=f	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	forza	forza	S	S	num=s|gen=f	1	prep
+5	lui	lui	P	PE	num=s|per=3|gen=m	6	subj
+6	crede	credere	V	V	num=s|per=3|mod=i|ten=p	10	arg
+7	lui	lui	P	PE	num=s|per=3|gen=m	8	subj
+8	crede	credere	V	V	num=s|per=3|mod=i|ten=p	6	arg
+9	lui	lui	P	PE	num=s|per=3|gen=m	8	obj
+10	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	comp_loc
+4	Dio	Dio	S	SP	_	3	prep
+

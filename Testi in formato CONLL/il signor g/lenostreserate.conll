@@ -1,0 +1,191 @@
+1	Molti	molto	P	PI	num=p|gen=m	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	dicono	dire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	sei	sei	N	N	_	5	mod
+5	fortunato	fortunato	S	S	num=s|gen=m	3	obj
+
+1	tu	tu	P	PE	num=s|per=2|gen=n	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	4	aux
+4	trovato	trovare	V	V	num=s|mod=p|gen=m	2	sub
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	lavoro	lavoro	S	S	num=s|gen=m	4	obj
+7	sicuro	sicuro	A	A	num=s|gen=m	6	mod
+
+1	bello	bello	A	A	num=s|gen=m	2	mod
+2	tranquillo	tranquillo	A	A	num=s|gen=m	0	ROOT
+3	interessante	interessante	A	A	num=s|gen=n	2	mod
+
+1	e	e	C	CC	_	4	con
+2	che	che	P	PR	num=n|gen=n	4	subj
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	obj
+4	rende	rendere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	decentemente	decentemente	B	B	_	4	mod
+6	.	.	F	FS	_	4	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	alle	al	E	EA	num=p|gen=f	2	comp
+4	nostre	nostro	A	AP	num=p|gen=f	5	mod
+5	serate	serata	S	S	num=p|gen=f	3	prep
+6	stupide	stupido	A	A	num=p|gen=f	5	mod
+7	e	e	C	CC	_	6	con
+8	vuote	vuoto	A	A	num=p|gen=f	6	conj
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	comp
+2	passo	passo	S	S	num=s|gen=m	0	ROOT
+3	a	a	E	E	_	2	arg
+4	prendere	prendere	V	V	mod=f	3	prep
+5	cosa	cosa	P	PQ	num=s|gen=n	2	mod
+6	facciamo	fare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	3	obj
+2	film	film	S	S	num=n|gen=m	3	subj
+3	vediamo	vedere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	no	no	B	BN	_	8	neg
+5	l'	lo	P	PC	num=s|per=3|gen=n	8	obj
+6	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	8	aux
+7	già	già	B	B	_	8	mod
+8	visto	vedere	V	V	num=s|mod=p|gen=m	3	mod
+
+1	tutto	tutto	D	DI	num=s|gen=m	2	mod
+2	previsto	prevedere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	.	.	F	FS	_	2	punc
+
+1	Molti	molto	P	PI	num=p|gen=m	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	dicono	dire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	non	non	B	BN	_	5	neg
+5	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	6	aux
+6	diritto	diritto	S	S	num=s|gen=m	3	obj
+
+1	di	di	E	E	_	6	comp
+2	lamentar-	lamentare	V	V	mod=f	1	prep
+3	ti	ti	P	PC	num=s|per=2|gen=n	2	obj
+4	ti	ti	P	PC	num=s|per=2|gen=n	6	comp_ind
+5	puoi	potere	V	VM	num=s|per=2|mod=i|ten=p	6	modal
+6	permettere	permettere	V	V	mod=f	0	ROOT
+
+1	qualche	qualche	D	DI	num=s|gen=n	2	mod
+2	parentesi	parentesi	S	S	num=n|gen=f	0	ROOT
+3	qualche	qualche	D	DI	num=s|gen=n	4	mod
+4	evasione	evasione	S	S	num=s|gen=f	2	mod_temp
+
+1	tu	tu	P	PE	num=s|per=2|gen=n	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	hai	hai	V	V	num=s|per=2|mod=m|ten=p	2	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	lavoro	lavoro	S	S	num=s|gen=m	3	obj
+6	di	di	E	E	_	5	comp
+7	soddisfazione	soddisfazione	S	S	num=s|gen=f	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	alle	al	E	EA	num=p|gen=f	2	comp
+4	nostre	nostro	A	AP	num=p|gen=f	5	mod
+5	serate	serata	S	S	num=p|gen=f	3	prep
+6	stupide	stupido	A	A	num=p|gen=f	5	mod
+7	e	e	C	CC	_	6	con
+8	vuote	vuoto	A	A	num=p|gen=f	6	conj
+
+1	vuoi	volere	V	VM	num=s|per=2|mod=i|ten=p	2	modal
+2	bere	bere	V	V	mod=f	0	_
+3	qualcosa	qualcosa	P	PI	num=s|gen=n	2	obj
+
+1	grazie	grazie	S	S	num=n|gen=n	4	subj
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+3	già	già	B	B	_	4	mod
+4	preso	prendere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	caffè	caffè	S	S	num=n|gen=m	4	obj
+7	su	su	E	E	_	6	comp_loc
+8	in	in	E	E	_	7	concat
+9	casa	casa	S	S	num=s|gen=f	6	mod
+
+1	che	che	D	DQ	num=n|gen=n	2	mod
+2	cosa	cosa	S	S	num=s|gen=f	6	subj_pass
+3	vuoi	volere	V	VM	num=s|per=2|mod=i|ten=p	6	modal
+4	niente	niente	B	B	_	6	mod
+5	ti	ti	P	PC	num=s|per=2|gen=n	4	clit
+6	annoi	annoiare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+
+1	Molti	molto	P	PI	num=p|gen=m	3	subj
+2	mi	mi	P	PC	num=s|per=1|gen=n	3	comp_ind
+3	dicono	dire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	ma	ma	C	CC	_	3	con
+5	cosa	cosa	S	S	num=s|gen=f	6	subj
+6	cerchi	cercare	V	V	num=s|per=3|mod=c|ten=p	3	conj
+
+1	cosa	cosa	P	PQ	num=s|gen=n	2	obj
+2	pretendi	pretendere	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	non	non	B	BN	_	4	neg
+4	fare	fare	V	V	mod=f	2	arg
+5	il	il	R	RD	num=s|gen=m	6	det
+6	nevrotico	nevrotico	A	A	num=s|gen=m	4	pred
+
+1	hai	hai	T	T	num=p|gen=m	6	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	ragazza	ragazzo	S	S	num=s|gen=f	6	ROOT
+4	che	che	P	PR	num=n|gen=n	6	subj
+5	ti	ti	P	PC	num=s|per=2|gen=n	6	comp_ind
+6	vuol	volere	V	VM	num=s|per=3|mod=i|ten=p	0	ROOT
+7	bene	bene	B	B	_	6	mod
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	comp_ind
+2	lascia	lasciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	libero	libero	A	A	num=s|gen=m	2	pred
+4	non	non	B	BN	_	6	neg
+5	ti	ti	P	PC	num=s|per=2|gen=n	6	comp_ind
+6	fa	fare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+7	scene	scena	S	S	num=p|gen=f	6	obj
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	alle	al	E	EA	num=p|gen=f	2	comp
+4	mostre	mostra	S	S	num=p|gen=f	3	prep
+5	serate	serata	S	S	num=p|gen=f	4	mod
+6	stupide	stupido	A	A	num=p|gen=f	5	mod
+7	e	e	C	CC	_	6	con
+8	vuote	vuoto	A	A	num=p|gen=f	4	mod
+
+1	le	il	R	RD	num=p|gen=f	2	det
+2	nove	nove	N	N	_	7	subj
+3	e	e	C	CC	_	2	con
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	quarto	quarto	S	S	num=s|gen=m	2	conj
+6	due	due	N	N	_	7	mod
+7	passi	passo	S	S	num=p|gen=m	0	ROOT
+8	al	a	E	EA	num=s|gen=m	7	comp
+9	centro	centro	S	S	num=s|gen=m	8	prep
+
+1	destinazione	destinazione	S	S	num=s|gen=f	0	ROOT
+2	al	a	E	EA	num=s|gen=m	1	comp
+3	solito	solito	A	A	num=s|gen=m	2	prep
+4	bar	bar	S	S	num=n|gen=m	0	ROOT
+
+1	televisione	televisione	S	S	num=s|gen=f	0	ROOT
+2	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	alle	al	E	EA	num=p|gen=f	2	comp
+4	nostre	nostro	A	AP	num=p|gen=f	5	mod
+5	serate	serata	S	S	num=p|gen=f	3	prep
+
+1	stupide	stupido	A	A	num=p|gen=f	0	ROOT
+2	e	e	C	CC	_	1	con
+3	vuote	vuoto	A	A	num=p|gen=f	1	conj
+4	.	.	F	FS	_	1	punc
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	alle	al	E	EA	num=p|gen=f	2	comp
+4	nostre	nostro	A	AP	num=p|gen=f	5	mod
+5	serate	serata	S	S	num=p|gen=f	3	prep
+
+1	stupide	stupido	A	A	num=p|gen=f	0	ROOT
+2	e	e	C	CC	_	1	con
+3	vuote	vuoto	A	A	num=p|gen=f	1	conj
+4	.	.	F	FS	_	1	punc
+

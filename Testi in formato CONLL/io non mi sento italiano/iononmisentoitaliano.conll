@@ -1,0 +1,578 @@
+1	Io	io	P	PE	num=s|per=1|gen=n	5	subj
+2	G.	G.	S	SP	_	3	mod
+3	G.	G.	S	SP	_	5	subj_pass
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	nato	nascere	V	V	num=s|mod=p|gen=m	0	ROOT
+6	e	e	C	CC	_	5	con
+7	vivo	vivo	A	A	num=s|gen=m	5	conj
+8	a	a	E	E	_	7	comp_loc
+9	Milano	Milano	S	SP	_	8	prep
+
+1	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	italiano	italiano	A	A	num=s|gen=m	4	pred
+
+1	Ma	ma	C	CC	_	7	con
+2	per	per	E	E	_	7	comp
+3	fortuna	fortuna	S	S	num=s|gen=f	2	prep
+4	o	o	C	CC	_	2	dis
+5	purtroppo	purtroppo	B	B	_	2	disj
+6	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+7	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	scusi	scusare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	Presidente	Presidente	S	SP	_	2	subj
+
+1	Non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	colpa	colpa	S	S	num=s|gen=f	3	prep
+5	mia	mio	A	AP	num=s|gen=f	2	pred
+
+1	Ma	ma	C	CC	_	4	con
+2	questa	questo	D	DD	num=s|gen=f	4	mod
+3	nostra	nostro	A	AP	num=s|gen=f	4	mod
+4	Patria	Patria	S	SP	_	0	ROOT
+
+1	Non	non	B	BN	_	2	neg
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	cosa	cosa	S	S	num=s|gen=f	5	subj
+5	sia	essere	V	VA	num=s|per=3|mod=c|ten=p	3	sub
+
+1	Può	potere	V	VM	num=s|per=3|mod=i|ten=p	2	modal
+2	dar-	dare	V	V	mod=f	0	ROOT
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	che	che	C	CS	_	2	arg
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+6	sbagli	sbagliare	V	V	num=s|per=3|mod=c|ten=p	4	sub
+
+1	Che	che	C	CS	_	0	ROOT
+2	sia	essere	V	V	num=s|per=3|mod=c|ten=p	1	sub
+3	una	uno	R	RI	num=s|gen=f	5	det
+4	bella	bello	A	A	num=s|gen=f	5	mod
+5	idea	idea	S	S	num=s|gen=f	2	pred
+
+1	Ma	ma	C	CC	_	2	con
+2	temo	temere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	4	subj
+4	diventi	diventare	V	V	num=s|per=3|mod=c|ten=p	2	arg
+
+1	Una	uno	R	RI	num=s|gen=f	3	det
+2	brutta	brutto	A	A	num=s|gen=f	3	mod
+3	poesia	poesia	S	S	num=s|gen=f	0	ROOT
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	scusi	scusare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	Presidente	Presidente	S	SP	_	2	subj
+
+1	Non	non	B	BN	_	2	neg
+2	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	gran	gran	A	A	num=n|gen=n	3	mod
+5	bisogno	bisogno	S	S	num=s|gen=m	2	obj
+
+1	Dell'	di	E	EA	num=s|gen=n	0	ROOT
+2	inno	inno	S	S	num=s|gen=m	1	prep
+3	nazionale	nazionale	A	A	num=s|gen=n	2	mod
+
+1	Di	di	E	E	_	6	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	6	mod
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	clit
+6	vergogno	vergognarsi	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	In	in	E	E	_	0	ROOT
+2	quanto	quanto	B	B	_	3	mod
+3	ai	al	E	EA	num=p|gen=m	1	prep
+4	calciatori	calciatore	S	S	num=p|gen=m	3	prep
+
+1	Non	non	B	BN	_	3	neg
+2	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	3	modal
+3	giudicare	giudicare	V	V	mod=f	0	ROOT
+
+1	I	il	R	RD	num=p|gen=m	2	det
+2	nostri	nostro	P	PP	num=p|gen=m	5	subj
+3	non	non	B	BN	_	5	neg
+4	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+5	sanno	sapere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	O	o	C	CC	_	2	con
+2	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	4	mod
+4	pudore	pudore	S	S	num=s|gen=m	2	obj
+
+1	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	italiano	italiano	A	A	num=s|gen=m	4	pred
+
+1	Ma	ma	C	CC	_	7	con
+2	per	per	E	E	_	7	comp
+3	fortuna	fortuna	S	S	num=s|gen=f	2	prep
+4	o	o	C	CC	_	2	dis
+5	purtroppo	purtroppo	B	B	_	2	disj
+6	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+7	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	scusi	scusare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	Presidente	Presidente	S	SP	_	2	subj
+
+1	Se	se	C	CS	_	0	ROOT
+2	arrivo	arrivo	S	S	num=s|gen=m	1	sub
+3	all'	al	E	EA	num=s|gen=n	2	comp
+4	impudenza	impudenza	S	S	num=s|gen=f	3	prep
+
+1	Di	di	E	E	_	0	ROOT
+2	dire	dire	V	V	mod=f	1	prep
+3	che	che	C	CS	_	2	arg
+4	non	non	B	BN	_	5	neg
+5	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	3	sub
+
+1	Alcuna	alcuno	D	DI	num=s|gen=f	2	mod
+2	appartenenza	appartenenza	S	S	num=s|gen=f	0	ROOT
+
+1	E	e	C	CC	_	0	ROOT
+2	tranne	tranne	E	E	_	0	ROOT
+3	Garibaldi	Garibaldi	S	SP	_	2	prep
+
+1	E	e	C	CC	_	3	con
+2	altri	altro	D	DI	num=p|gen=m	3	mod
+3	eroi	eroe	S	S	num=p|gen=m	0	ROOT
+4	gloriosi	glorioso	A	A	num=p|gen=m	3	mod
+
+1	Non	non	B	BN	_	2	neg
+2	vedo	vedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	alcun	alcun	D	DI	num=s|gen=m	4	mod
+4	motivo	motivo	S	S	num=s|gen=m	2	obj
+
+1	Per	per	E	E	_	0	ROOT
+2	essere	essere	V	V	mod=f	1	prep
+3	orgogliosi	orgoglioso	A	A	num=p|gen=m	2	pred
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	scusi	scusare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	Presidente	Presidente	S	SP	_	2	subj
+
+1	Ma	ma	C	CC	_	2	con
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	comp
+4	mente	mente	S	S	num=s|gen=f	3	prep
+5	il	il	R	RD	num=s|gen=m	6	det
+6	fanatismo	fanatismo	S	S	num=s|gen=m	2	obj
+
+1	Delle	di	E	EA	num=p|gen=f	0	ROOT
+2	camicie	camicia	S	S	num=p|gen=f	1	prep
+3	nere	nero	A	A	num=p|gen=f	2	mod
+
+1	Al	a	E	EA	num=s|gen=m	0	ROOT
+2	tempo	tempo	S	S	num=s|gen=m	1	prep
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	fascismo	fascismo	S	S	num=s|gen=m	3	prep
+
+1	Da	da	E	E	_	5	comp
+2	cui	cui	P	PR	num=n|gen=n	1	prep
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	bel	bello	A	A	num=s|gen=m	5	mod
+5	giorno	giorno	S	S	num=s|gen=m	6	subj
+6	nacque	nascere	V	V	num=s|per=3|mod=i|ten=s	0	ROOT
+
+1	Questa	questo	D	DD	num=s|gen=f	2	mod
+2	democrazia	democrazia	S	S	num=s|gen=f	0	_
+
+1	Che	che	C	CS	_	6	mod
+2	a	a	E	E	_	6	mod
+3	far-	fare	V	V	mod=f	2	prep
+4	le	le	P	PC	num=n|per=3|gen=f	3	comp_ind
+5	i	il	R	RD	num=p|gen=m	6	det
+6	complimenti	complimento	S	S	num=p|gen=m	0	ROOT
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	2	comp_ind
+2	vuole	volere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	fantasia	fantasia	S	S	num=s|gen=f	2	subj
+
+1	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	italiano	italiano	A	A	num=s|gen=m	4	pred
+
+1	Ma	ma	C	CC	_	7	con
+2	per	per	E	E	_	7	comp
+3	fortuna	fortuna	S	S	num=s|gen=f	2	prep
+4	o	o	C	CC	_	2	dis
+5	purtroppo	purtroppo	B	B	_	2	disj
+6	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+7	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	Questo	questo	D	DD	num=s|gen=m	3	mod
+2	bel	bello	A	A	num=s|gen=m	3	mod
+3	Paese	paese	S	S	num=s|gen=m	0	ROOT
+
+1	Pieno	pieno	S	S	num=s|gen=m	0	ROOT
+2	di	di	E	E	_	1	comp
+3	poesia	poesia	S	S	num=s|gen=f	2	prep
+
+1	Ha	avere	V	VA	num=s|per=3|mod=i|ten=p	0	_
+2	tante	tanto	D	DI	num=p|gen=f	3	mod
+3	pretese	pretesa	S	S	num=p|gen=f	1	obj
+
+1	Ma	ma	C	CC	_	5	con
+2	nel	in	E	EA	num=s|gen=m	5	comp
+3	nostro	nostro	A	AP	num=s|gen=m	4	mod
+4	mondo	mondo	S	S	num=s|gen=m	2	prep
+5	occidentale	occidentale	A	A	num=s|gen=n	0	_
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	periferia	periferia	S	S	num=s|gen=f	1	pred
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	scusi	scusare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	Presidente	Presidente	S	SP	_	2	subj
+
+1	Ma	ma	C	CC	_	4	con
+2	questo	questo	D	DD	num=s|gen=m	4	mod
+3	nostro	nostro	A	AP	num=s|gen=m	4	mod
+4	Stato	Stato	S	SP	_	0	ROOT
+
+1	Che	che	D	DE	num=n|gen=n	3	comp
+2	voi	voi	P	PE	num=p|per=2|gen=n	3	subj
+3	rappresentate	rappresentare	V	V	num=p|mod=p|gen=f	0	ROOT
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	sfasciato	sfasciare	V	V	num=s|mod=p|gen=m	2	pred
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	anche	anche	B	B	_	1	mod
+3	troppo	troppo	B	B	_	4	mod
+4	chiaro	chiaro	A	A	num=s|gen=m	1	pred
+
+1	Agli	al	E	EA	num=p|gen=m	0	ROOT
+2	occhi	occhio	S	S	num=p|gen=m	1	prep
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	gente	gente	S	S	num=s|gen=f	3	prep
+
+1	Che	che	P	PR	num=n|gen=n	4	subj_pass
+2	tutto	tutto	P	PI	num=s|gen=m	4	subj
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	4	aux
+4	calcolato	calcolare	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	E	e	C	CC	_	3	con
+2	non	non	B	BN	_	3	neg
+3	funziona	funzionare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	niente	niente	B	B	_	3	mod
+
+1	Sarà	essere	V	V	num=s|per=3|mod=i|ten=f	4	ROOT
+2	che	che	C	CS	_	4	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	italiani	italiano	S	S	num=p|gen=m	0	ROOT
+
+1	Per	per	E	E	_	0	ROOT
+2	lunga	lungo	A	A	num=s|gen=f	3	mod
+3	tradizione	tradizione	S	S	num=s|gen=f	1	prep
+
+1	Son	Son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	troppo	troppo	B	B	_	1	mod
+3	appassionati	appassionato	A	A	num=p|gen=m	1	pred
+
+1	Di	di	E	E	_	0	ROOT
+2	ogni	ogni	D	DI	num=s|gen=n	3	mod
+3	discussione	discussione	S	S	num=s|gen=f	1	prep
+
+1	Persino	persino	B	B	_	2	mod
+2	in	in	E	E	_	0	ROOT
+3	parlamento	parlamento	S	S	num=s|gen=m	2	prep
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	aria	aria	S	S	num=s|gen=f	2	subj
+5	incandescente	incandescente	A	A	num=s|gen=n	4	mod
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	scannano	scannare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	su	su	E	E	_	2	comp
+4	tutto	tutto	D	DI	num=s|gen=m	3	prep
+
+1	E	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	non	non	B	BN	_	4	neg
+4	cambia	cambiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	niente	niente	B	B	_	4	mod
+
+1	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	italiano	italiano	A	A	num=s|gen=m	4	pred
+
+1	Ma	ma	C	CC	_	7	con
+2	per	per	E	E	_	7	comp
+3	fortuna	fortuna	S	S	num=s|gen=f	2	prep
+4	o	o	C	CC	_	2	dis
+5	purtroppo	purtroppo	B	B	_	2	disj
+6	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+7	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	scusi	scusare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	Presidente	Presidente	S	SP	_	2	subj
+
+1	Dovete	dovere	V	VM	num=p|per=2|mod=i|ten=p	2	modal
+2	convenire	convenire	V	V	mod=f	0	ROOT
+
+1	Che	che	C	CS	_	3	ROOT
+2	i	il	R	RD	num=p|gen=m	3	det
+3	limiti	limite	S	S	num=p|gen=m	0	ROOT
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	3	ROOT
+
+1	Ce	ce	P	PC	num=p|per=1|gen=n	4	comp_ind
+2	li	li	P	PC	num=p|per=3|gen=m	4	obj
+3	dobbiamo	dovere	V	VM	num=p|per=1|mod=i|ten=p	4	modal
+4	dire	dire	V	V	mod=f	0	ROOT
+
+1	Ma	ma	C	CC	_	5	con
+2	a	a	E	E	_	5	comp
+3	parte	parte	S	S	num=s|gen=f	2	prep
+4	il	il	R	RD	num=s|gen=m	5	det
+5	disfattismo	disfattismo	S	S	num=s|gen=m	0	ROOT
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	quel	quello	P	PD	num=s|gen=m	2	pred
+4	che	che	C	CS	_	3	mod
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	4	sub
+
+1	E	e	C	CC	_	2	con
+2	abbiamo	avere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	5	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	passato	passato	S	S	num=s|gen=m	2	obj
+
+1	Che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	dimentichiamo	dimenticare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	scusi	scusare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	Presidente	Presidente	S	SP	_	2	subj
+
+1	Ma	ma	C	CC	_	3	con
+2	forse	forse	B	B	_	3	mod
+3	noi	noi	P	PE	num=p|per=1|gen=n	0	_
+4	italiani	italiano	A	A	num=p|gen=m	3	mod
+
+1	Per	per	E	E	_	4	comp
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	altri	altro	P	PI	num=p|gen=m	1	prep
+4	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+5	solo	solo	B	B	_	4	mod
+
+1	Spaghetti	spaghetto	S	S	num=p|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	mandolini	mandolino	S	S	num=p|gen=m	1	conj
+
+1	Allora	allora	B	B	_	4	mod
+2	qui	qui	B	B	_	3	mod_loc
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	incazzo	incazzarsi	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	Son	Son	R	RI	num=s|gen=m	6	det
+2	fiero	fiero	A	A	num=s|gen=m	1	mod
+3	e	e	C	CC	_	2	con
+4	me	me	P	PE	num=s|per=1|gen=n	2	conj
+5	ne	ne	P	PC	num=n|gen=n	6	comp
+6	vanto	vanto	S	S	num=s|gen=m	0	ROOT
+
+1	Gli	il	R	RD	num=p|gen=m	2	det
+2	sbatto	sbattere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	sulla	su	E	EA	num=s|gen=f	2	comp
+4	faccia	faccia	S	S	num=s|gen=f	3	prep
+
+1	Cos'	cosa	P	PQ	num=s|gen=n	2	pred
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	Rinascimento	Rinascimento	S	SP	_	2	subj
+
+1	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	italiano	italiano	A	A	num=s|gen=m	4	pred
+
+1	Ma	ma	C	CC	_	7	con
+2	per	per	E	E	_	7	comp
+3	fortuna	fortuna	S	S	num=s|gen=f	2	prep
+4	o	o	C	CC	_	2	dis
+5	purtroppo	purtroppo	B	B	_	2	disj
+6	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+7	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	Questo	questo	D	DD	num=s|gen=m	3	mod
+2	bel	bello	A	A	num=s|gen=m	3	mod
+3	Paese	paese	S	S	num=s|gen=m	0	ROOT
+
+1	Forse	forse	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	poco	poco	B	B	_	2	mod
+4	saggio	saggio	A	A	num=s|gen=m	2	pred
+
+1	Ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	le	il	R	RD	num=p|gen=f	3	det
+3	idee	idea	S	S	num=p|gen=f	1	obj
+4	confuse	confondere	V	V	num=p|mod=p|gen=f	3	mod
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	se	se	C	CS	_	1	con
+3	fossi	essere	V	VA	num=s|per=1|mod=c|ten=i	4	aux
+4	nato	nascere	V	V	num=s|mod=p|gen=m	2	sub
+5	in	in	E	E	_	4	comp
+6	altri	altro	D	DI	num=p|gen=m	7	mod
+7	luoghi	luogo	S	S	num=p|gen=m	5	prep
+
+1	Poteva	potere	V	VM	num=s|per=3|mod=i|ten=i	2	modal
+2	andar-	andare	V	V	mod=f	0	ROOT
+3	me	me	P	PC	num=s|per=1|gen=n	2	clit
+4	peggio	peggio	B	B	_	2	mod
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	scusi	scusare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	Presidente	Presidente	S	SP	_	2	subj
+
+1	Ormai	ormai	B	B	_	4	mod
+2	ne	ne	P	PC	num=n|gen=n	4	comp
+3	ho	ho	V	VA	num=p|per=3|mod=i|ten=p	4	aux
+4	dette	dire	V	V	num=p|mod=p|gen=f	0	ROOT
+5	tante	tanto	D	DI	num=p|gen=f	4	mod
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	un'	uno	R	RI	num=s|gen=f	5	det
+4	altra	altro	A	A	num=s|gen=f	5	mod
+5	osservazione	osservazione	S	S	num=s|gen=f	2	subj
+
+1	Che	che	P	PR	num=n|gen=n	2	obj
+2	credo	credere	V	V	num=s|per=1|mod=i|ten=p	3	arg
+3	sia	essere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+4	importante	importante	A	A	num=s|gen=n	3	pred
+
+1	Rispetto	rispetto	S	S	num=s|gen=m	0	ROOT
+2	agli	al	E	EA	num=p|gen=m	1	comp
+3	stranieri	straniero	S	S	num=p|gen=m	2	prep
+
+1	Noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	clit
+3	crediamo	credere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	meno	meno	B	B	_	3	mod
+
+1	Ma	ma	C	CC	_	4	con
+2	forse	forse	B	B	_	4	mod
+3	abbiam	abbiam	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+4	capito	capire	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	Che	che	C	CS	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	mondo	mondo	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	teatrino	teatrino	S	S	num=s|gen=m	4	pred
+
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	scusi	scusare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	Presidente	Presidente	S	SP	_	2	subj
+
+1	Lo	lo	P	PC	num=s|per=3|gen=m	2	obj
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	non	non	B	BN	_	5	neg
+5	gioite	gioire	V	V	num=p|per=2|mod=m|ten=p	3	sub
+
+1	Se	se	C	CS	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	grido	grido	S	S	num=s|gen=m	1	ROOT
+4	"	"	F	FB	_	5	punc
+5	Italia	Italia	S	SP	_	3	mod
+6	,	,	F	FF	_	5	con
+7	Italia	Italia	S	SP	_	5	conj
+8	"	"	F	FB	_	3	punc
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	2	mod
+4	alle	al	E	EA	num=p|gen=f	2	comp
+5	partite	partita	S	S	num=p|gen=f	4	prep
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	4	mod
+4	per	per	E	E	_	1	ROOT
+5	non	non	B	BN	_	6	neg
+6	morire	morire	V	V	mod=f	4	prep
+
+1	O	o	C	CC	_	5	con
+2	forse	forse	B	B	_	4	mod
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	pò	pò	B	B	_	5	mod
+5	per	per	E	E	_	0	ROOT
+6	celia	celia	S	S	num=s|gen=f	5	prep
+
+1	Abbiam	Abbiam	S	S	num=s|gen=m	0	ROOT
+2	fatto	fare	V	V	num=s|mod=p|gen=m	1	mod
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	Europa	Europa	S	SP	_	0	ROOT
+
+1	Facciamo	fare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	anche	anche	B	B	_	4	mod
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	Italia	Italia	S	SP	_	1	obj
+
+1	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	italiano	italiano	A	A	num=s|gen=m	4	pred
+
+1	Ma	ma	C	CC	_	7	con
+2	per	per	E	E	_	7	comp
+3	fortuna	fortuna	S	S	num=s|gen=f	2	prep
+4	o	o	C	CC	_	2	dis
+5	purtroppo	purtroppo	B	B	_	2	disj
+6	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+7	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+
+1	Io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	italiano	italiano	A	A	num=s|gen=m	4	pred
+
+1	Ma	ma	C	CC	_	5	con
+2	per	per	E	E	_	5	comp
+3	fortuna	fortuna	S	S	num=s|gen=f	2	prep
+4	o	o	C	CC	_	2	dis
+5	purtroppo	purtroppo	B	B	_	0	_
+
+1	Per	per	E	E	_	4	comp
+2	fortuna	fortuna	S	S	num=s|gen=f	1	prep
+3	o	o	C	CC	_	1	dis
+4	purtroppo	purtroppo	B	B	_	0	_
+
+1	Per	per	E	E	_	0	ROOT
+2	fortuna	fortuna	S	S	num=s|gen=f	1	prep
+
+1	Per	per	E	E	_	4	comp
+2	fortuna	fortuna	S	S	num=s|gen=f	1	prep
+3	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+4	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+

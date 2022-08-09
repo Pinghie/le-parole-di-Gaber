@@ -1,0 +1,580 @@
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	0	_
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	liberi	libero	A	A	num=p|gen=m	3	pred
+5	come	come	E	E	_	3	comp
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	aria	aria	S	S	num=s|gen=f	5	prep
+8	,	,	F	FF	_	3	punc
+9	si	si	P	PC	num=n|per=3|gen=n	10	clit
+10	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+11	.	.	F	FS	_	10	punc
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	11	arg
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	pred
+5	che	che	C	CS	_	4	concat
+6	facciam	facciam	V	V	num=s|per=1|mod=i|ten=p	5	sub
+7	la	il	R	RD	num=s|gen=f	8	det
+8	storia	storia	S	S	num=s|gen=f	6	obj
+9	,	,	F	FF	_	5	punc
+10	si	si	P	PC	num=n|per=3|gen=n	11	clit
+11	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+12	.	.	F	FS	_	11	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	5	modal
+3	io	io	P	PE	num=s|per=1|gen=n	5	subj
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	clit
+5	vesto	vestire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+6	come	come	C	CS	_	5	mod
+7	mi	mi	P	PC	num=s|per=1|gen=n	8	comp_ind
+8	pare	parere	V	V	num=s|per=3|mod=i|ten=p	6	sub
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	libero	libero	V	V	num=s|mod=p|gen=m	3	pred
+5	di	di	E	E	_	4	arg
+6	creare	creare	V	V	mod=f	5	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	0	_
+3	son	son	E	E	_	2	comp
+4	padrone	padrone	S	S	num=s|gen=m	3	prep
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	mio	mio	A	AP	num=s|gen=m	7	mod
+7	destino	destino	S	S	num=s|gen=m	5	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	già	già	B	B	_	7	mod
+5	il	il	R	RD	num=s|gen=m	7	det
+6	nuovo	nuovo	A	A	num=s|gen=m	7	mod
+7	telefonino	telefonino	S	S	num=s|gen=m	3	obj
+8	,	,	F	FF	_	3	punc
+9	si	si	P	PC	num=n|per=3|gen=n	10	clit
+10	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+11	.	.	F	FS	_	10	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	3	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	occupar-	occupare	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	di	di	E	E	_	3	comp
+6	agriturismo	agriturismo	S	S	num=s|gen=m	5	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	fare	fare	V	V	mod=f	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	tifo	tifo	S	S	num=s|gen=m	3	obj
+6	per	per	E	E	_	5	comp
+7	il	il	R	RD	num=s|gen=m	8	det
+8	buddismo	buddismo	S	S	num=s|gen=m	6	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	con	con	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	gioco	gioco	S	S	num=s|gen=m	3	prep
+6	televisivo	televisivo	A	A	num=s|gen=m	5	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	3	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	inventare	inventare	V	V	mod=f	10	arg
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	giorno	giorno	S	S	num=s|gen=m	3	mod_temp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	divo	divo	S	S	num=s|gen=m	3	obj
+8	,	,	F	FF	_	7	punc
+9	si	si	P	PC	num=n|per=3|gen=n	10	clit
+10	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+11	.	.	F	FS	_	10	punc
+
+1	Basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	uno	uno	R	RI	num=s|gen=m	3	det
+3	spunto	spunto	S	S	num=s|gen=m	1	subj
+4	qualunque	qualunque	D	DI	num=s|gen=n	1	mod
+
+1	e	e	C	CC	_	6	con
+2	la	il	R	RD	num=s|gen=f	4	det
+3	nostra	nostro	A	AP	num=s|gen=f	4	mod
+4	fantasia	fantasia	S	S	num=s|gen=f	6	subj
+5	non	non	B	BN	_	6	neg
+6	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	confini	confine	S	S	num=p|gen=m	6	obj
+8	.	.	F	FS	_	6	punc
+
+1	Basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	talk-show	talk-show	S	S	num=n|gen=m	1	obj
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	scadente	scadente	A	A	num=s|gen=n	3	mod
+
+1	e	e	C	CC	_	3	con
+2	noi	noi	P	PE	num=p|per=1|gen=n	3	subj
+3	perpetuiamo	perpetuare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	allegramente	allegro	B	B	_	3	mod
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	creatività	creatività	S	S	num=n|gen=f	0	ROOT
+3	dei	di	E	EA	num=p|gen=m	2	comp
+4	popoli	popolo	S	S	num=p|gen=m	3	prep
+5	latini	latino	A	A	num=p|gen=m	4	mod
+6	.	.	F	FS	_	2	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	far	fare	V	V	mod=f	0	ROOT
+4	miliardi	miliardo	S	S	num=p|gen=m	3	obj
+5	con	con	E	E	_	3	comp
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	Enalotto	Enalotto	S	SP	_	5	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	esser	essere	V	V	mod=f	0	ROOT
+4	vittima	vittima	S	S	num=s|gen=f	3	pred
+5	di	di	E	E	_	4	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	complotto	complotto	S	S	num=s|gen=m	5	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	far	fare	V	V	mod=f	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	guerra	guerra	S	S	num=s|gen=f	3	obj
+6	per	per	E	E	_	3	comp
+7	scopi	scopo	S	S	num=p|gen=m	6	prep
+8	giusti	giusto	A	A	num=p|gen=m	7	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	autentici	autentico	A	A	num=p|gen=m	5	mod
+5	pacifisti	pacifista	S	S	num=p|gen=m	3	pred
+6	,	,	F	FF	_	3	punc
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+9	.	.	F	FS	_	8	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	trasgredire	trasgredire	V	V	mod=f	0	ROOT
+4	qualsiasi	qualsiasi	D	DI	num=s|gen=n	5	mod
+5	mito	mito	S	S	num=s|gen=m	3	obj
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	invaghir-	invaghire	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	di	di	E	E	_	3	comp
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	travestito	travestito	S	S	num=s|gen=m	5	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	fare	fare	V	V	mod=f	0	ROOT
+4	i	il	R	RD	num=p|gen=m	5	det
+5	giovani	giovane	S	S	num=p|gen=n	3	obj
+6	a	a	E	E	_	5	comp
+7	sessant'	sessant'	N	N	_	8	mod
+8	anni	anno	S	S	num=p|gen=m	6	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	far	fare	V	V	mod=f	11	arg
+4	riesplodere	riesplodere	V	V	mod=f	3	arg
+5	il	il	R	RD	num=s|gen=m	6	det
+6	sesso	sesso	S	S	num=s|gen=m	4	obj
+7	ai	al	E	EA	num=p|gen=m	6	comp
+8	nonni	nonno	S	S	num=p|gen=m	7	prep
+9	,	,	F	FF	_	3	con
+10	si	si	P	PC	num=n|per=3|gen=n	11	clit
+11	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+12	.	.	F	FS	_	11	punc
+
+1	Con	con	E	E	_	0	ROOT
+2	alle	al	E	EA	num=p|gen=f	1	comp
+3	spalle	spalla	S	S	num=p|gen=f	2	prep
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	storia	storia	S	S	num=s|gen=f	1	prep
+6	esaltante	esaltante	A	A	num=s|gen=n	5	mod
+
+1	di	di	E	E	_	0	ROOT
+2	invenzioni	invenzione	S	S	num=p|gen=f	1	prep
+3	e	e	C	CC	_	1	con
+4	di	di	E	E	_	1	conj
+5	coraggio	coraggio	S	S	num=s|gen=m	4	prep
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	naturale	naturale	A	A	num=s|gen=n	1	pred
+3	che	che	C	CS	_	1	subj
+4	poi	poi	B	B	_	5	mod
+5	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	3	sub
+6	noi	noi	P	PE	num=p|per=1|gen=n	5	pred
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	possiamo	potere	V	VM	num=p|per=1|mod=i|ten=p	3	modal
+3	cambiar	cambiare	V	V	mod=f	0	ROOT
+4	tutto	tutto	D	DI	num=s|gen=m	3	mod
+
+1	a	a	E	E	_	6	comp
+2	patto	patto	S	S	num=s|gen=m	1	prep
+3	che	che	P	PR	num=n|gen=n	6	obj
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	cosa	cosa	S	S	num=s|gen=f	6	subj
+6	vada	andare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+7	sempre	sempre	B	B	_	6	mod
+8	peggio	peggio	B	B	_	6	mod
+9	.	.	F	FS	_	6	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	liberi	libero	A	A	num=p|gen=m	3	pred
+5	come	come	E	E	_	3	comp
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	aria	aria	S	S	num=s|gen=f	5	prep
+8	,	,	F	FF	_	3	punc
+9	si	si	P	PC	num=n|per=3|gen=n	10	clit
+10	può	potere	V	VM	num=s|per=3|mod=i|ten=p	0	_
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	11	arg
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	pred
+5	che	che	C	CS	_	4	concat
+6	facciam	facciam	V	V	num=s|per=1|mod=i|ten=p	5	sub
+7	la	il	R	RD	num=s|gen=f	8	det
+8	storia	storia	S	S	num=s|gen=f	6	obj
+9	,	,	F	FF	_	5	punc
+10	si	si	P	PC	num=n|per=3|gen=n	11	clit
+11	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+12	.	.	F	FS	_	11	punc
+
+1	Libertà	libertà	S	S	num=n|gen=f	0	ROOT
+2	,	,	F	FF	_	1	con
+3	libertà	libertà	S	S	num=n|gen=f	1	conj
+4	,	,	F	FF	_	1	con
+5	libertà	libertà	S	S	num=n|gen=f	1	conj
+
+1	liberta	liberta	S	S	num=s|gen=f	0	ROOT
+2	obbligatoria	obbligatorio	A	A	num=s|gen=f	1	mod
+3	.	.	F	FS	_	1	punc
+
+1	Sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+2	assai	assai	B	B	_	3	mod
+3	cambiato	cambiare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	così	così	B	B	_	3	mod_loc
+6	spregiudicato	spregiudicato	A	A	num=s|gen=m	3	mod
+
+1	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	infedele	infedele	A	A	num=s|gen=n	1	pred
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	conj
+4	matto	matto	V	V	num=s|mod=p|gen=m	3	pred
+5	posso	potere	V	VM	num=s|per=1|mod=i|ten=p	6	modal
+6	far	fare	V	V	mod=f	1	conj
+7	tutto	tutto	P	PI	num=s|gen=m	6	obj
+8	.	.	F	FS	_	1	punc
+
+1	Viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	paura	paura	S	S	num=s|gen=f	1	subj
+4	di	di	E	E	_	3	comp
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	vertigine	vertigine	S	S	num=s|gen=f	4	prep
+7	totale	totale	A	A	num=s|gen=n	6	mod
+
+1	viene	venire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	la	P	PC	num=s|per=3|gen=f	3	obj
+3	voglia	voglia	S	S	num=s|gen=f	1	subj
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	anormale	anormale	A	A	num=s|gen=n	1	pred
+
+1	di	di	E	E	_	0	ROOT
+2	inventare	inventare	V	V	mod=f	1	prep
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	morale	morale	S	S	num=s|gen=f	2	obj
+5	.	.	F	FS	_	1	punc
+
+1	Utopia	utopia	S	S	num=s|gen=f	2	pred
+2	....	....	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	Utopia	Utopia	S	SP	_	2	obj
+4	....	....	C	CC	_	3	con
+5	Utopia	Utopia	S	SP	_	3	conj
+6	....	....	C	CC	_	2	con
+7	pia	piare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	....	....	C	CC	_	7	con
+9	pia	pio	A	A	num=s|gen=f	7	conj
+10	....	....	C	CC	_	0	ROOT
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	ricoprir-	ricoprire	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	di	di	E	E	_	3	comp
+6	gran	gran	A	A	num=n|gen=n	5	prep
+7	tatuaggi	tatuaggio	S	S	num=p|gen=m	3	obj
+
+1	si	si	P	PC	num=n|per=3|gen=n	3	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	far	fare	V	V	mod=f	0	ROOT
+4	politica	politica	S	S	num=s|gen=f	3	obj
+5	coi	con	E	EA	num=p|gen=m	3	comp
+6	sondaggi	sondaggio	S	S	num=p|gen=m	5	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	liberar-	liberare	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	e	e	C	CC	_	3	con
+6	cambiare	cambiare	V	V	mod=f	3	conj
+7	ruolo	ruolo	S	S	num=s|gen=m	6	obj
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	rinnovar-	rinnovare	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	le	il	R	RD	num=p|gen=f	6	det
+6	tette	tetta	S	S	num=p|gen=f	3	obj
+7	e	e	C	CC	_	6	con
+8	il	il	R	RD	num=s|gen=m	9	det
+9	culo	culo	S	S	num=s|gen=m	6	conj
+10	,	,	F	FF	_	3	punc
+11	si	si	P	PC	num=n|per=3|gen=n	12	clit
+12	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+13	.	.	F	FS	_	12	punc
+
+1	Per	per	E	E	_	6	comp
+2	ogni	ogni	D	DI	num=s|gen=n	3	mod
+3	assillo	assillo	S	S	num=s|gen=m	1	prep
+4	o	o	C	CC	_	3	dis
+5	rovello	rovello	S	S	num=s|gen=m	3	disj
+6	sociale	sociale	A	A	num=s|gen=n	0	ROOT
+
+1	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	la	il	R	RD	num=s|gen=f	4	det
+4	gente	gente	S	S	num=s|gen=f	5	subj
+5	goda	godere	V	V	num=s|per=3|mod=c|ten=p	2	sub
+6	.	.	F	FS	_	1	punc
+
+1	Tutti	tutto	P	PI	num=p|gen=m	0	ROOT
+2	che	che	C	CS	_	1	ROOT
+3	dicon	dicon	V	V	num=p|per=3|mod=i|ten=p	2	sub
+4	la	il	R	RD	num=s|gen=f	5	det
+5	loro	loro	A	AP	num=n|gen=n	6	mod
+6	facciamo	fare	V	V	num=p|per=1|mod=i|ten=p	3	arg
+7	un	uno	R	RI	num=s|gen=m	9	det
+8	bel	bello	A	A	num=s|gen=m	9	mod
+9	coro	coro	S	S	num=s|gen=m	6	obj
+
+1	di	di	E	E	_	0	ROOT
+2	opinioni	opinione	S	S	num=p|gen=f	1	prep
+3	fino	fino	E	E	_	4	mod
+4	a	a	E	E	_	1	conj
+5	quando	quando	B	B	_	4	prep
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	fatto	fatto	S	S	num=s|gen=m	4	subj
+3	non	non	B	BN	_	4	neg
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	di	di	E	E	_	4	comp
+7	moda	moda	S	S	num=s|gen=f	6	prep
+8	.	.	F	FS	_	4	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	far	fare	V	V	mod=f	0	ROOT
+4	ginnastica	ginnastica	S	S	num=s|gen=f	3	obj
+5	un'	uno	R	RI	num=s|gen=f	6	det
+6	ora	ora	S	S	num=s|gen=f	3	mod_temp
+7	al	a	E	EA	num=s|gen=m	6	comp_temp
+8	giorno	giorno	S	S	num=s|gen=m	7	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	collegar-	collegare	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	coi	con	E	EA	num=p|gen=m	3	comp
+6	siti	sito	S	S	num=p|gen=m	5	prep
+7	porno	porno	A	A	num=n|gen=n	6	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	comp
+4	ridosso	ridosso	S	S	num=s|gen=m	3	prep
+5	delle	di	E	EA	num=p|gen=f	4	comp
+6	elezioni	elezione	S	S	num=p|gen=f	5	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	insultar-	insultare	V	V	mod=f	0	ROOT
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	come	come	E	E	_	3	comp
+6	coglioni	coglione	S	S	num=p|gen=m	5	prep
+7	,	,	F	FF	_	3	punc
+8	si	si	P	PC	num=n|per=3|gen=n	9	clit
+9	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	.	.	F	FS	_	9	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	far	fare	V	V	mod=f	0	ROOT
+4	discorsi	discorso	S	S	num=p|gen=m	3	obj
+5	convenzionali	convenzionale	A	A	num=p|gen=n	4	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	con	con	E	E	_	2	comp
+4	il	il	R	RD	num=s|gen=m	5	det
+5	tono	tono	S	S	num=s|gen=m	3	prep
+6	da	da	E	E	_	2	comp
+7	intellettuali	intellettuale	S	S	num=p|gen=n	6	prep
+
+1	si	si	P	PC	num=n|per=3|gen=n	3	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	dare	dare	V	V	mod=f	0	ROOT
+4	al	a	E	EA	num=s|gen=m	3	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	messaggio	messaggio	S	S	num=s|gen=m	3	obj
+8	giusto	giusto	A	A	num=s|gen=m	7	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	a	a	E	E	_	2	comp
+4	livello	livello	S	S	num=s|gen=m	3	prep
+5	di	di	E	E	_	4	comp
+6	Gesù	Gesù	S	SP	_	7	mod
+7	Cristo	Cristo	S	SP	_	5	prep
+8	si	si	P	PC	num=n|per=3|gen=n	9	clit
+9	può	potere	V	V	num=s|per=3|mod=i|ten=p	2	conj
+10	.	.	F	FS	_	2	punc
+
+1	Contro	contro	E	E	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	numero	numero	S	S	num=s|gen=m	1	prep
+5	di	di	E	E	_	4	comp
+6	ideologie	ideologia	S	S	num=p|gen=f	5	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	noi	noi	P	PE	num=p|per=1|gen=n	4	subj
+3	abbiamo	avere	V	VA	num=p|per=1|mod=i|ten=p	4	aux
+4	rifiutato	rifiutare	V	V	num=s|mod=p|gen=m	1	sub
+
+1	l'	il	R	RD	num=s|gen=n	4	det
+2	unica	unico	A	A	num=s|gen=f	4	mod
+3	grande	grande	A	A	num=s|gen=n	4	mod
+4	invenzione	invenzione	S	S	num=s|gen=f	0	ROOT
+5	davvero	davvero	B	B	_	6	mod
+6	efficace	efficace	A	A	num=s|gen=n	4	mod
+
+1	e	e	C	CC	_	5	con
+2	che	che	C	CS	_	5	subj
+3	ci	ci	P	PC	num=p|per=1|gen=n	4	comp_ind
+4	piace	piacere	V	V	num=s|per=3|mod=i|ten=p	2	sub
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	0	_
+
+1	questa	questo	D	DD	num=s|gen=f	2	mod
+2	dittatura	dittatura	S	S	num=s|gen=f	0	ROOT
+3	imposta	imporre	V	V	num=s|mod=p|gen=f	2	mod
+4	dal	da	E	EA	num=s|gen=m	3	comp
+5	mercato	mercato	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	2	punc
+
+1	Si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	liberi	libero	A	A	num=p|gen=m	3	pred
+5	come	come	E	E	_	3	comp
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	aria	aria	S	S	num=s|gen=f	5	prep
+8	,	,	F	FF	_	3	punc
+9	si	si	P	PC	num=n|per=3|gen=n	10	clit
+10	può	potere	V	VM	num=s|per=3|mod=i|ten=p	0	_
+
+1	si	si	P	PC	num=n|per=3|gen=n	2	clit
+2	può	potere	V	VM	num=s|per=3|mod=i|ten=p	3	modal
+3	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	11	arg
+4	noi	noi	P	PE	num=p|per=1|gen=n	3	pred
+5	che	che	C	CS	_	4	concat
+6	facciam	facciam	V	V	num=s|per=1|mod=i|ten=p	5	sub
+7	la	il	R	RD	num=s|gen=f	8	det
+8	storia	storia	S	S	num=s|gen=f	6	obj
+9	,	,	F	FF	_	5	punc
+10	si	si	P	PC	num=n|per=3|gen=n	11	clit
+11	può	potere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+12	.	.	F	FS	_	11	punc
+
+1	....	....	C	CC	_	0	ROOT
+2	ma	ma	C	CC	_	1	con
+3	come	come	B	B	_	1	conj
+4	,	,	F	FF	_	3	punc
+5	con	con	E	E	_	3	comp
+6	tutte	tutto	T	T	num=p|gen=f	8	mod
+7	le	il	R	RD	num=p|gen=f	8	det
+8	libertà	libertà	S	S	num=n|gen=f	5	prep
+9	che	che	P	PR	num=n|gen=n	10	obj
+10	avete	avere	V	VA	num=p|per=2|mod=i|ten=p	8	mod_rel
+
+1	volete	volere	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+2	anche	anche	B	B	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	libertà	libertà	S	S	num=n|gen=f	1	obj
+5	di	di	E	E	_	4	arg
+6	pensare	pensare	V	V	mod=f	5	prep
+7	?	?	F	FS	_	6	punc
+8	...	...	F	FS	_	1	punc
+
+1	Utopia	utopia	S	S	num=s|gen=f	2	pred
+2	....	....	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	Utopia	Utopia	S	SP	_	2	obj
+4	....	....	C	CC	_	3	con
+5	Utopia	Utopia	S	SP	_	3	conj
+6	....	....	C	CC	_	2	con
+7	pia	piare	V	V	num=s|per=3|mod=i|ten=p	2	conj
+8	....	....	C	CC	_	7	con
+9	pia	pio	A	A	num=s|gen=f	7	conj
+10	....	....	C	CC	_	0	ROOT
+
+1	Libertà	libertà	S	S	num=n|gen=f	0	_
+2	,	,	F	FF	_	1	con
+3	libertà	libertà	S	S	num=n|gen=f	1	conj
+4	,	,	F	FF	_	1	con
+5	libertà	libertà	S	S	num=n|gen=f	1	conj
+6	,	,	F	FF	_	1	con
+7	libertà	libertà	S	S	num=n|gen=f	1	conj
+8	,	,	F	FF	_	1	con
+
+1	libertà	libertà	S	S	num=n|gen=f	0	_
+2	,	,	F	FF	_	1	con
+3	libertà	libertà	S	S	num=n|gen=f	1	conj
+4	,	,	F	FF	_	1	con
+5	libertà	libertà	S	S	num=n|gen=f	1	conj
+6	,	,	F	FF	_	1	con
+7	libertà	libertà	S	S	num=n|gen=f	1	conj
+8	,	,	F	FF	_	1	con
+
+1	libertà	libertà	S	S	num=n|gen=f	0	ROOT
+2	,	,	F	FF	_	1	con
+3	libertà	libertà	S	S	num=n|gen=f	1	conj
+4	,	,	F	FF	_	1	con
+5	libertà	libertà	S	S	num=n|gen=f	1	conj
+6	,	,	F	FF	_	1	con
+7	libertà	libertà	S	S	num=n|gen=f	1	conj
+8	libertà	libertà	S	S	num=n|gen=f	7	mod
+9	.	.	F	FS	_	1	punc
+

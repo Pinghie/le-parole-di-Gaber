@@ -1,0 +1,355 @@
+1	E	e	C	CC	_	4	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	4	subj
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	vieni	venire	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+5	a	a	E	E	_	4	arg
+6	dire	dire	V	V	mod=f	5	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	4	subj
+4	muore	morire	V	V	num=s|per=3|mod=i|ten=p	1	sub
+
+1	lontano	lontano	A	A	num=s|gen=m	2	mod
+2	dalla	da	E	EA	num=s|gen=f	0	ROOT
+3	vita	vita	S	S	num=s|gen=f	2	prep
+
+1	lontano	lontano	B	B	_	2	mod
+2	dal	da	E	EA	num=s|gen=m	0	ROOT
+3	dolore	dolore	S	S	num=s|gen=m	2	prep
+
+1	e	e	C	CC	_	5	con
+2	in	in	E	E	_	5	comp
+3	questa	questo	D	DD	num=s|gen=f	2	prep
+4	quasi	quasi	B	B	_	5	mod
+5	indifferenza	indifferenza	S	S	num=s|gen=f	0	ROOT
+
+1	non	non	B	BN	_	2	neg
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	più	più	B	B	_	2	mod
+4	capace	capace	A	A	num=s|gen=n	2	pred
+
+1	di	di	E	E	_	0	ROOT
+2	ritrovare	ritrovare	V	V	mod=f	1	prep
+3	il	il	R	RD	num=s|gen=m	5	det
+4	suo	suo	A	AP	num=s|gen=m	5	mod
+5	pianeta	pianeta	S	S	num=s|gen=m	2	obj
+
+1	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	di	di	E	E	_	1	comp
+3	aria	aria	S	S	num=s|gen=f	2	prep
+4	e	e	C	CC	_	3	con
+5	luce	luce	S	S	num=s|gen=f	3	conj
+6	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	4	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	4	subj
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	vieni	venire	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+5	a	a	E	E	_	4	arg
+6	dire	dire	V	V	mod=f	5	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	mio	mio	A	AP	num=s|gen=m	4	mod
+4	presente	presente	S	S	num=s|gen=n	1	sub
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	come	come	E	E	_	1	pred
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	breve	breve	A	A	num=s|gen=n	3	mod
+5	amore	amore	S	S	num=s|gen=m	2	prep
+
+1	del	di	E	EA	num=s|gen=m	3	comp
+2	tutto	tutto	P	PI	num=s|gen=m	1	prep
+3	inconsistente	inconsistente	A	A	num=s|gen=n	0	_
+
+1	che	che	P	PR	num=n|gen=n	2	obj
+2	preso	prendere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	dai	da	E	EA	num=p|gen=m	2	comp
+4	miei	mio	A	AP	num=p|gen=m	5	mod
+5	sogni	sogno	S	S	num=p|gen=m	3	prep
+
+1	io	io	P	PE	num=s|per=1|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	clit
+4	sto	stare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	accorgendo	accorgersi	V	V	mod=g	4	mod
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	al	a	E	EA	num=s|gen=m	2	pred
+4	capolinea	capolinea	S	S	num=s|gen=m	3	prep
+
+1	al	a	E	EA	num=s|gen=m	0	ROOT
+2	temi-	temere	V	V	num=s|per=2|mod=m|ten=p	1	prep
+3	ne	ne	P	PC	num=n|gen=n	2	comp
+4	del	di	E	EA	num=s|gen=m	2	comp
+5	mondo	mondo	S	S	num=s|gen=m	4	prep
+6	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	4	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	4	subj
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	vieni	venire	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+5	a	a	E	E	_	4	arg
+6	dire	dire	V	V	mod=f	5	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	tutto	tutto	P	PI	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	osceno	osceno	A	A	num=s|gen=m	3	pred
+
+1	che	che	C	CS	_	4	subj
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	nessuno	nessuno	P	PI	num=s|gen=m	4	subj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sceglie	scegliere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	5	det
+4	suo	suo	A	AP	num=s|gen=m	5	mod
+5	destino	destino	S	S	num=s|gen=m	2	obj
+
+1	non	non	B	BN	_	3	neg
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	clit
+3	rendiamo	rendere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+4	conto	conto	S	S	num=s|gen=m	3	obj
+
+1	che	che	C	CS	_	0	ROOT
+2	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	1	sub
+3	tutti	tutto	P	PI	num=p|gen=m	2	pred
+4	in	in	E	E	_	2	comp
+5	preda	preda	S	S	num=s|gen=f	4	prep
+
+1	di	di	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	grande	grande	A	A	num=s|gen=n	4	mod
+4	smarrimento	smarrimento	S	S	num=s|gen=m	1	prep
+
+1	di	di	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	follia	follia	S	S	num=s|gen=f	1	prep
+4	suicida	suicida	A	A	num=s|gen=f	3	mod
+5	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	2	con
+2	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	5	aux
+5	ragione	ragione	S	S	num=s|gen=f	8	subj
+6	se	se	P	PC	num=n|per=3|gen=n	8	clit
+7	mi	mi	P	PC	num=s|per=1|gen=n	8	clit
+8	vieni	venire	V	V	num=s|per=2|mod=m|ten=p	3	sub
+9	a	a	E	E	_	8	arg
+10	dire	dire	V	V	mod=f	9	prep
+
+1	che	che	C	CS	_	5	subj
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	uomo	uomo	S	S	num=s|gen=m	4	subj
+4	sta	stare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+5	correndo	correre	V	V	mod=g	0	_
+
+1	e	e	C	CC	_	0	ROOT
+2	coi	con	E	EA	num=p|gen=m	1	ROOT
+3	progressi	progresso	S	S	num=p|gen=m	2	prep
+4	della	di	E	EA	num=s|gen=f	3	comp
+5	scienza	scienza	S	S	num=s|gen=f	4	prep
+
+1	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+2	già	già	B	B	_	3	mod
+3	stravolto	stravolgere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	mondo	mondo	S	S	num=s|gen=m	3	obj
+
+1	però	però	B	B	_	4	mod
+2	non	non	B	BN	_	3	neg
+3	sa	sapere	V	VM	num=s|per=3|mod=i|ten=p	4	modal
+4	capire	capire	V	V	mod=f	0	ROOT
+
+1	che	che	D	DQ	num=n|gen=n	2	mod
+2	cosa	cosa	S	S	num=s|gen=f	4	subj
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	di	di	E	E	_	4	subj
+6	vero	vero	A	A	num=s|gen=m	5	prep
+
+1	nell'	in	E	EA	num=s|gen=n	0	ROOT
+2	arco	arco	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	vita	vita	S	S	num=s|gen=f	3	prep
+
+1	tra	tra	E	E	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	culla	culla	S	S	num=s|gen=f	1	prep
+4	e	e	C	CC	_	3	con
+5	il	il	R	RD	num=s|gen=m	6	det
+6	cimitero	cimitero	S	S	num=s|gen=m	3	conj
+7	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	4	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	4	subj
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	vieni	venire	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+5	a	a	E	E	_	4	arg
+6	dire	dire	V	V	mod=f	5	prep
+
+1	c'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	solo	solo	B	B	_	2	mod
+4	odio	odio	S	S	num=s|gen=m	2	subj
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	obj
+2	sarà	essere	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	qualche	qualche	D	DI	num=s|gen=n	5	mod
+5	guerra	guerra	S	S	num=s|gen=f	2	subj
+
+1	qualche	qualche	D	DI	num=s|gen=n	2	mod
+2	altro	altro	A	A	num=s|gen=m	3	mod
+3	genocidio	genocidio	S	S	num=s|gen=m	0	ROOT
+
+1	e	e	C	CC	_	0	ROOT
+2	anche	anche	B	B	_	3	mod
+3	in	in	E	E	_	1	ROOT
+4	certi	certo	D	DI	num=p|gen=m	5	mod
+5	gesti	gesto	S	S	num=p|gen=m	3	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	sembran	sembran	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	solidali	solidale	A	A	num=p|gen=n	2	mod
+
+1	non	non	B	BN	_	3	neg
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	più	più	B	B	_	3	mod
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	individuo	individuo	S	S	num=s|gen=m	3	subj
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	ormai	ormai	B	B	_	1	mod
+3	tutti	tutto	P	PI	num=p|gen=m	1	pred
+4	uguali	uguale	A	A	num=p|gen=n	3	mod
+5	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	2	con
+2	sento	sentire	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	5	aux
+5	ragione	ragione	S	S	num=s|gen=f	8	subj
+6	se	se	P	PC	num=n|per=3|gen=n	8	clit
+7	mi	mi	P	PC	num=s|per=1|gen=n	8	clit
+8	vieni	venire	V	V	num=s|per=2|mod=m|ten=p	3	sub
+9	a	a	E	E	_	8	arg
+10	dire	dire	V	V	mod=f	9	prep
+
+1	che	che	C	CS	_	0	ROOT
+2	anche	anche	B	B	_	4	mod
+3	i	il	R	RD	num=p|gen=m	4	det
+4	più	più	B	B	_	5	mod
+5	normali	normale	A	A	num=p|gen=n	1	sub
+
+1	in	in	E	E	_	0	ROOT
+2	mezzo	mezzo	S	S	num=s|gen=m	1	prep
+3	ad	ad	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	folla	folla	S	S	num=s|gen=f	3	prep
+
+1	diventano	diventare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	bestiali	bestiale	A	A	num=p|gen=n	1	pred
+
+1	e	e	C	CC	_	0	ROOT
+2	questa	questo	D	DD	num=s|gen=f	3	mod
+3	specie	specie	S	S	num=n|gen=f	1	ROOT
+4	di	di	E	E	_	3	comp
+5	calma	calma	S	S	num=s|gen=f	4	prep
+
+1	del	di	E	EA	num=s|gen=m	0	ROOT
+2	nostro	nostro	A	AP	num=s|gen=m	3	mod
+3	mondo	mondo	S	S	num=s|gen=m	1	prep
+4	civile	civile	A	A	num=s|gen=n	3	mod
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	solo	solo	B	B	_	1	mod
+3	un'	uno	R	RI	num=s|gen=f	4	det
+4	apparenza	apparenza	S	S	num=s|gen=f	1	pred
+
+1	solo	solo	B	B	_	3	mod
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	velo	velo	S	S	num=s|gen=m	0	ROOT
+4	sottile	sottile	A	A	num=s|gen=n	3	mod
+5	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	4	con
+2	tu	tu	P	PE	num=s|per=2|gen=n	4	subj
+3	mi	mi	P	PC	num=s|per=1|gen=n	4	comp_ind
+4	vieni	venire	V	V	num=s|per=2|mod=m|ten=p	0	ROOT
+5	a	a	E	E	_	4	arg
+6	dire	dire	V	V	mod=f	5	prep
+
+1	quasi	quasi	B	B	_	2	mod
+2	gridando	gridare	V	V	mod=g	0	_
+
+1	che	che	C	CS	_	4	subj
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	più	più	B	B	_	4	mod
+6	salvezza	salvezza	S	S	num=s|gen=f	4	subj
+
+1	sta	stare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	sprofondando	sprofondare	V	V	mod=g	1	mod
+3	il	il	R	RD	num=s|gen=m	4	det
+4	mondo	mondo	S	S	num=s|gen=m	2	obj
+
+1	ma	ma	C	CC	_	5	con
+2	io	io	P	PE	num=s|per=1|gen=n	5	subj
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	clit
+4	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	5	modal
+5	dire	dire	V	V	mod=f	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	non	non	B	BN	_	5	neg
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+4	mai	mai	B	B	_	5	mod_temp
+5	finita	finire	V	V	num=s|mod=p|gen=f	0	_
+
+1	che	che	C	CS	_	0	ROOT
+2	tutto	tutto	D	DI	num=s|gen=m	3	mod
+3	quel	quello	P	PD	num=s|gen=m	1	sub
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	accade	accadere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	parte	parte	S	S	num=s|gen=f	1	obj
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	vita	vita	S	S	num=s|gen=f	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	5	con
+2	io	io	P	PE	num=s|per=1|gen=n	5	subj
+3	ti	ti	P	PC	num=s|per=2|gen=n	4	clit
+4	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	5	modal
+5	dire	dire	V	V	mod=f	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	5	subj
+2	non	non	B	BN	_	5	neg
+3	è	essere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+4	mai	mai	B	B	_	5	mod_temp
+5	finita	finire	V	V	num=s|mod=p|gen=f	0	_
+
+1	che	che	C	CS	_	0	ROOT
+2	tutto	tutto	D	DI	num=s|gen=m	3	mod
+3	quel	quello	P	PD	num=s|gen=m	1	sub
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	accade	accadere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+
+1	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	parte	parte	S	S	num=s|gen=f	1	obj
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	vita	vita	S	S	num=s|gen=f	3	prep
+5	.	.	F	FS	_	1	punc
+

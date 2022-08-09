@@ -1,0 +1,420 @@
+1	Mi	mi	P	PC	num=s|per=1|gen=n	2	comp_ind
+2	creda	credere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	io	io	P	PE	num=s|per=1|gen=n	2	subj
+4	sono	essere	V	V	num=s|per=1|mod=i|ten=p	2	conj
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	padre	padre	S	S	num=s|gen=m	4	pred
+7	moderno	moderno	A	A	num=s|gen=m	6	mod
+
+1	conosco	conoscere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	i	il	R	RD	num=p|gen=m	3	det
+3	ragazzi	ragazzo	S	S	num=p|gen=m	1	obj
+4	e	e	C	CC	_	3	con
+5	i	il	R	RD	num=p|gen=m	7	det
+6	loro	loro	A	AP	num=n|gen=n	7	mod
+7	problemi	problema	S	S	num=p|gen=m	3	conj
+8	.	.	F	FS	_	1	punc
+
+1	Signora	signore	S	S	num=s|gen=f	0	ROOT
+2	marchesa	marchesa	S	S	num=s|gen=f	1	mod
+3	latte	latte	S	S	num=s|gen=m	1	mod
+4	o	o	C	CC	_	3	dis
+5	limone	limone	S	S	num=s|gen=m	3	disj
+
+1	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	quasi	quasi	B	B	_	4	mod
+3	le	il	R	RD	num=p|gen=f	4	det
+4	cinque	cinque	N	N	_	5	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	arg
+6	l'	il	R	RD	num=s|gen=n	7	det
+7	ora	ora	B	B	_	5	pred
+8	del	di	E	EA	num=s|gen=m	7	comp
+9	tè	tè	S	S	num=n|gen=m	8	prep
+10	.	.	F	FS	_	1	punc
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	buon	buon	A	A	num=s|gen=m	4	mod
+4	elemento	elemento	S	S	num=s|gen=m	5	subj
+5	farà	fare	V	V	num=s|per=3|mod=i|ten=f	1	pred
+6	molta	molto	D	DI	num=s|gen=f	7	mod
+7	strada	strada	S	S	num=s|gen=f	5	obj
+
+1	e	e	C	CC	_	5	con
+2	poi	poi	B	B	_	5	mod
+3	ci	ci	P	PC	num=p|per=1|gen=n	5	comp_ind
+4	sa	sapere	V	VM	num=s|per=3|mod=i|ten=p	5	modal
+5	fare	fare	V	V	mod=f	0	ROOT
+6	ha	avere	V	V	num=s|per=3|mod=i|ten=p	5	arg
+7	il	il	R	RD	num=s|gen=m	8	det
+8	senso	senso	S	S	num=s|gen=m	6	obj
+9	del	di	E	EA	num=s|gen=m	8	comp
+10	dovere	dovere	S	S	num=s|gen=m	9	prep
+11	.	.	F	FS	_	5	punc
+
+1	Dovevi	Dovevi	V	V	num=p|per=2|mod=i|ten=p	0	ROOT
+2	giocare	giocare	V	V	mod=f	1	arg
+3	il	il	R	RD	num=s|gen=m	4	det
+4	sette	sette	N	N	_	2	obj
+5	di	di	E	E	_	4	comp
+6	fiori	fiore	S	S	num=p|gen=m	5	prep
+
+1	poi	poi	B	B	_	2	mod
+2	andare	andare	V	V	mod=f	0	ROOT
+3	dal	da	E	EA	num=s|gen=m	2	comp
+4	morto	morto	S	S	num=s|gen=m	3	prep
+5	e	e	C	CC	_	2	con
+6	fare	fare	V	V	mod=f	2	conj
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	impasse	impasse	S	S	num=n|gen=f	6	obj
+9	.	.	F	FS	_	2	punc
+
+1	Miei	mio	A	AP	num=p|gen=m	3	mod
+2	cari	caro	A	A	num=p|gen=m	3	mod
+3	signori	signore	S	S	num=p|gen=m	0	ROOT
+4	dal	da	E	EA	num=s|gen=m	3	comp
+5	nostro	nostro	A	AP	num=s|gen=m	6	mod
+6	bilancio	bilancio	S	S	num=s|gen=m	4	prep
+
+1	risulta	risultare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	opportuno	opportuno	A	A	num=s|gen=m	1	pred
+3	ridurre	ridurre	V	V	mod=f	1	subj
+4	le	il	R	RD	num=p|gen=f	5	det
+5	spese	spesa	S	S	num=p|gen=f	3	obj
+6	.	.	F	FS	_	1	punc
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	molto	molto	B	B	_	3	mod
+3	importante	importante	A	A	num=s|gen=n	1	pred
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	serve	servire	V	V	num=s|per=3|mod=i|ten=p	1	conj
+6	col	con	E	EA	num=s|gen=m	5	comp
+7	ghiaccio	ghiaccio	S	S	num=s|gen=m	6	prep
+
+1	due	due	N	N	_	2	mod
+2	parti	parte	S	S	num=p|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	vodka	vodka	S	SW	num=n|gen=f	3	prep
+5	e	e	C	CC	_	4	con
+6	una	uno	R	RI	num=s|gen=f	4	conj
+7	di	di	E	E	_	6	comp
+8	gin	gin	S	SW	num=n|gen=m	7	prep
+9	.	.	F	FS	_	2	punc
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un'	uno	R	RI	num=s|gen=f	4	det
+3	ottima	ottimo	A	A	num=s|gen=f	4	mod
+4	barca	barca	S	S	num=s|gen=f	6	subj
+5	mi	mi	P	PC	num=s|per=1|gen=n	6	comp_ind
+6	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	1	conj
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	affare	affare	S	S	num=s|gen=m	6	pred
+
+1	accetti	accettare	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	consiglio	consiglio	S	S	num=s|gen=m	5	subj
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	comp_ind
+5	pensi	pensare	V	V	num=s|per=3|mod=c|ten=p	1	conj
+6	avvocato	avvocato	S	S	num=s|gen=m	5	subj
+7	.	.	F	FS	_	1	punc
+
+1	Pensavo	pensare	V	V	num=s|per=1|mod=i|ten=i	0	ROOT
+2	a	a	E	E	_	1	comp
+3	mio	mio	A	AP	num=s|gen=m	4	mod
+4	figlio	figlio	S	S	num=s|gen=m	2	prep
+5	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	6	aux
+6	fatto	fare	V	V	num=s|mod=p|gen=m	1	conj
+7	di	di	E	E	_	6	comp
+8	tutto	tutto	D	DI	num=s|gen=m	7	prep
+
+1	ma	ma	C	CC	_	6	con
+2	lui	lui	P	PE	num=s|per=3|gen=m	6	subj
+3	se	se	P	PC	num=n|per=3|gen=n	6	clit
+4	n'	ne	P	PC	num=n|gen=n	6	clit
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	andato	andare	V	V	num=s|mod=p|gen=m	0	ROOT
+7	ma	ma	C	CC	_	6	con
+8	lui	lui	P	PE	num=s|per=3|gen=m	12	subj
+9	se	se	P	PC	num=n|per=3|gen=n	12	clit
+10	n'	ne	P	PC	num=n|gen=n	12	comp
+11	è	essere	V	VA	num=s|per=3|mod=i|ten=p	12	aux
+12	andato	andare	V	V	num=s|mod=p|gen=m	6	conj
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	rivoluzione	rivoluzione	S	S	num=s|gen=f	0	ROOT
+4	rivoluzione	rivoluzione	S	S	num=s|gen=f	0	ROOT
+
+1	rivoluzione	rivoluzione	S	S	num=s|gen=f	0	ROOT
+2	rivoluzione	rivoluzione	S	S	num=s|gen=f	1	mod
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	voglia	voglia	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	arg
+4	andare	andare	V	V	mod=f	3	prep
+5	la	il	R	RD	num=s|gen=f	6	det
+6	voglia	voglia	S	S	num=s|gen=f	4	obj
+7	di	di	E	E	_	6	arg
+8	reagire	reagire	V	V	mod=f	7	prep
+
+1	con	con	E	E	_	6	comp
+2	quanto	quanto	B	B	_	3	mod
+3	coraggio	coraggio	S	S	num=s|gen=m	1	prep
+4	con	con	E	E	_	3	comp
+5	quanta	quanta	B	B	_	4	prep
+6	paura	paura	S	S	num=s|gen=f	0	ROOT
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	con	con	E	E	_	8	comp
+4	quanto	quanto	B	B	_	5	mod
+5	coraggio	coraggio	S	S	num=s|gen=m	3	prep
+6	con	con	E	E	_	5	comp
+7	quanta	quanta	B	B	_	6	prep
+8	paura	paura	S	S	num=s|gen=f	0	ROOT
+
+1	rivoluzione	rivoluzione	S	S	num=s|gen=f	0	ROOT
+2	rivoluzione	rivoluzione	S	S	num=s|gen=f	1	mod
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	voglia	voglia	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	arg
+4	fare	fare	V	V	mod=f	3	prep
+5	e	e	C	CC	_	3	con
+6	di	di	E	E	_	3	conj
+7	ricominciare	ricominciare	V	V	mod=f	6	prep
+
+1	con	con	E	E	_	0	ROOT
+2	tutta	tutto	T	T	num=s|gen=f	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	rabbia	rabbia	S	S	num=s|gen=f	1	prep
+5	con	con	E	E	_	4	comp
+6	tutto	tutto	T	T	num=s|gen=m	8	mod
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	amore	amore	S	S	num=s|gen=m	5	prep
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	con	con	E	E	_	0	ROOT
+4	tutta	tutto	T	T	num=s|gen=f	6	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	rabbia	rabbia	S	S	num=s|gen=f	3	prep
+7	con	con	E	E	_	6	comp
+8	tutto	tutto	T	T	num=s|gen=m	10	mod
+9	l'	il	R	RD	num=s|gen=n	10	det
+10	amore	amore	S	S	num=s|gen=m	7	prep
+
+1	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+2	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	con	con	E	E	_	1	comp
+3	i	il	R	RD	num=p|gen=m	4	det
+4	discorsi	discorso	S	S	num=p|gen=m	2	prep
+5	di	di	E	E	_	4	comp
+6	evoluzione	evoluzione	S	S	num=s|gen=f	5	prep
+7	e	e	C	CC	_	5	con
+8	di	di	E	E	_	5	conj
+9	libertà	libertà	S	S	num=n|gen=f	8	prep
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	coi	con	E	EA	num=p|gen=m	1	comp
+3	miti	mito	S	S	num=p|gen=m	2	prep
+4	assurdi	assurdo	A	A	num=p|gen=m	3	mod
+5	di	di	E	E	_	3	comp
+6	produzione	produzione	S	S	num=s|gen=f	5	prep
+7	e	e	C	CC	_	5	con
+8	di	di	E	E	_	5	conj
+9	civiltà	civiltà	S	S	num=n|gen=f	8	prep
+
+1	la	il	R	RD	num=s|gen=f	2	det
+2	radio	radio	S	S	num=n|gen=f	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	giradischi	giradischi	S	S	num=n|gen=m	2	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	televisione	televisione	S	S	num=s|gen=f	2	conj
+7	a	a	E	E	_	6	comp
+8	prezzi	prezzo	S	S	num=p|gen=m	7	prep
+9	speciali	speciale	A	A	num=p|gen=n	8	mod
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	no	no	B	BN	_	0	ROOT
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	frigo	frigo	S	S	num=s|gen=m	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	elettrodomestici	elettrodomestico	S	S	num=p|gen=m	2	mod
+
+1	e	e	C	CC	_	5	con
+2	poi	poi	B	B	_	5	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	macchina	macchina	S	S	num=s|gen=f	5	subj
+5	presa	prendere	V	V	num=s|mod=p|gen=f	0	ROOT
+6	a	a	E	E	_	5	comp
+7	cambiali	cambiale	S	S	num=p|gen=f	6	prep
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	no	no	B	BN	_	0	ROOT
+
+1	coro	coro	S	S	num=s|gen=m	0	ROOT
+2	:	:	F	FC	_	1	punc
+3	con	con	E	E	_	0	ROOT
+4	tutta	tutto	T	T	num=s|gen=f	6	mod
+5	la	il	R	RD	num=s|gen=f	6	det
+6	rabbia	rabbia	S	S	num=s|gen=f	3	prep
+7	con	con	E	E	_	6	comp
+8	tutto	tutto	T	T	num=s|gen=m	10	mod
+9	l'	il	R	RD	num=s|gen=n	10	det
+10	amore	amore	S	S	num=s|gen=m	7	prep
+
+1	con	con	E	E	_	0	ROOT
+2	tutta	tutto	T	T	num=s|gen=f	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	rabbia	rabbia	S	S	num=s|gen=f	1	prep
+5	con	con	E	E	_	4	comp
+6	tutto	tutto	T	T	num=s|gen=m	8	mod
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	amore	amore	S	S	num=s|gen=m	5	prep
+
+1	con	con	E	E	_	0	ROOT
+2	tutta	tutto	T	T	num=s|gen=f	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	rabbia	rabbia	S	S	num=s|gen=f	1	prep
+5	con	con	E	E	_	4	comp
+6	tutto	tutto	T	T	num=s|gen=m	8	mod
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	amore	amore	S	S	num=s|gen=m	5	prep
+
+1	Dalla	da	E	EA	num=s|gen=f	0	ROOT
+2	parte	parte	S	S	num=s|gen=f	1	prep
+3	di	di	E	E	_	2	comp
+4	chi	chi	P	PR	num=n|gen=n	3	prep
+5	?	?	F	FS	_	1	punc
+
+1	Solo	solo	B	B	_	2	mod
+2	per	per	E	E	_	9	comp
+3	il	il	R	RD	num=s|gen=m	4	det
+4	fatto	fatto	S	S	num=s|gen=m	2	prep
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	4	mod_rel
+7	giovani	giovane	S	S	num=p|gen=n	6	pred
+8	,	,	F	FF	_	2	punc
+9	hanno	avere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+10	ragione	ragione	S	S	num=s|gen=f	9	obj
+11	per	per	E	E	_	10	comp
+12	forza	forza	S	S	num=s|gen=f	11	prep
+13	.	.	F	FS	_	9	punc
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	fatto	fatto	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	che	che	C	CS	_	3	pred
+5	poi	poi	B	B	_	4	sub
+6	,	,	F	FF	_	5	punc
+7	io	io	P	PE	num=s|per=1|gen=n	16	subj
+8	in	in	E	E	_	11	comp
+9	fondo	fondo	S	S	num=s|gen=m	8	prep
+10	mi	mi	P	PC	num=s|per=1|gen=n	11	comp_ind
+11	domando	domare	V	V	mod=g	16	mod
+12	ma	ma	C	CC	_	11	con
+13	,	,	F	FF	_	14	punc
+14	me	me	P	PE	num=s|per=1|gen=n	16	subj
+15	ne	ne	P	PC	num=n|gen=n	16	comp
+16	importa	importare	V	V	num=s|per=3|mod=i|ten=p	3	conj
+17	poi	poi	B	B	_	16	mod
+18	tanto	tanto	B	B	_	19	mod
+19	di	di	E	E	_	16	comp
+20	queste	questo	D	DD	num=p|gen=f	21	mod
+21	cose	cosa	S	S	num=p|gen=f	19	prep
+
+1	Mah	mah	I	I	_	0	ROOT
+2	?	?	F	FS	_	1	punc
+
+1	No	no	B	BN	_	5	neg
+2	,	,	F	FF	_	1	punc
+3	non	non	B	BN	_	5	neg
+4	voglio	volere	V	VM	num=s|per=1|mod=i|ten=p	5	modal
+5	fare	fare	V	V	mod=f	0	ROOT
+6	il	il	R	RD	num=s|gen=m	7	det
+7	discorso	discorso	S	S	num=s|gen=m	5	obj
+8	,	,	F	FF	_	5	con
+9	il	il	R	RD	num=s|gen=m	10	det
+10	discorso	discorso	S	S	num=s|gen=m	16	subj
+11	che	che	P	PR	num=n|gen=n	12	subj
+12	sono	essere	V	V	num=p|per=3|mod=i|ten=p	10	mod_rel
+13	fuori	fuori	B	B	_	12	mod
+14	no	no	B	BN	_	10	mod_loc
+15	,	,	F	FF	_	10	con
+16	è	essere	V	V	num=s|per=3|mod=i|ten=p	5	conj
+17	chiaro	chiaro	A	A	num=s|gen=m	16	pred
+18	,	,	F	FF	_	16	con
+19	quando	quando	C	CS	_	16	conj
+20	ci	ci	P	PC	num=p|per=1|gen=n	21	obj
+21	penso	pensare	V	V	num=s|per=1|mod=i|ten=p	19	sub
+22	,	,	F	FF	_	27	punc
+23	col	con	E	EA	num=s|gen=m	27	comp
+24	cervello	cervello	S	S	num=s|gen=m	23	prep
+25	me	me	P	PE	num=s|per=1|gen=n	27	subj
+26	ne	ne	P	PC	num=n|gen=n	27	comp
+27	importa	importare	V	V	num=s|per=3|mod=i|ten=p	21	arg
+28	,	,	F	FF	_	27	con
+29	ma	ma	C	CC	_	27	con
+30	io	io	P	PE	num=s|per=1|gen=n	31	subj
+31	dicevo	dire	V	V	num=s|per=1|mod=i|ten=i	27	conj
+32	,	,	F	FF	_	27	punc
+33	dentro	dentro	B	B	_	34	mod
+34	proprio	proprio	A	A	num=s|gen=m	50	mod
+35	,	,	F	FF	_	27	punc
+36	di	di	E	E	_	34	comp
+37	queste	questo	D	DD	num=p|gen=f	38	mod
+38	cose	cosa	S	S	num=p|gen=f	36	prep
+39	,	,	F	FF	_	40	punc
+40	per	per	E	E	_	34	comp
+41	la	il	R	RD	num=s|gen=f	43	det
+42	mia	mio	A	AP	num=s|gen=f	43	mod
+43	vita	vita	S	S	num=s|gen=f	40	prep
+44	,	,	F	FF	_	40	punc
+45	come	come	C	CS	_	34	comp
+46	fatto	fatto	S	S	num=s|gen=m	45	sub
+47	fisico	fisico	A	A	num=s|gen=m	46	mod
+48	....	....	C	CC	_	34	con
+49	avrei	avere	V	VA	num=s|per=1|mod=d|ten=p	50	aux
+50	voglia	volere	V	V	num=s|per=3|mod=c|ten=p	27	conj
+51	di	di	E	E	_	50	arg
+52	prendere	prendere	V	V	mod=f	51	prep
+53	su	su	E	E	_	52	comp
+54	la	il	R	RD	num=s|gen=f	55	det
+55	famiglia	famiglia	S	S	num=s|gen=f	53	prep
+56	,	,	F	FF	_	27	con
+57	e	e	C	CC	_	27	con
+58	andar-	andare	V	V	mod=f	27	conj
+59	me-	me	P	PC	num=s|per=1|gen=n	58	clit
+60	ne	ne	P	PC	num=n|gen=n	58	comp
+61	un	uno	R	RI	num=s|gen=m	58	mod
+62	pò	pò	B	B	_	63	mod
+63	in	in	E	E	_	61	comp
+64	campagna	campagna	S	S	num=s|gen=f	63	prep
+65	.	.	F	FS	_	5	punc
+
+1	Poi	poi	B	B	_	2	mod
+2	dicono	dire	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	uno	uno	P	PI	num=s|gen=m	6	subj
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	siede	sedere	V	V	num=s|per=3|mod=i|ten=p	3	sub
+7	,	,	F	FF	_	9	punc
+8	non	non	B	BN	_	9	neg
+9	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	arg
+10	che	che	C	CS	_	9	subj
+11	uno	uno	P	PI	num=s|gen=m	13	subj
+12	si	si	P	PC	num=n|per=3|gen=n	13	clit
+13	siede	sedere	V	V	num=s|per=3|mod=i|ten=p	10	sub
+14	.	.	F	FS	_	2	punc
+

@@ -1,0 +1,256 @@
+1	Lui	lui	P	PE	num=s|per=3|gen=m	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	svegliò	svegliare	V	V	num=s|per=3|mod=i|ten=s	0	ROOT
+4	quel	quello	D	DD	num=s|gen=m	5	mod
+5	giorno	giorno	S	S	num=s|gen=m	3	obj
+6	e	e	C	CC	_	5	con
+7	stranamente	strano	B	B	_	5	conj
+
+1	la	il	R	RD	num=s|gen=f	3	det
+2	prima	primo	N	NO	num=s|gen=f	3	mod
+3	cosa	cosa	S	S	num=s|gen=f	0	ROOT
+4	intorno	intorno	B	B	_	3	mod
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	guardava	guardare	V	V	num=s|per=3|mod=i|ten=i	4	mod_rel
+
+1	di	di	E	E	_	4	comp
+2	colpo	colpo	S	S	num=s|gen=m	1	prep
+3	quella	quello	D	DD	num=s|gen=f	4	mod
+4	cosa	cosa	S	S	num=s|gen=f	5	subj
+5	diventava	diventare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	diventava	diventare	V	V	num=s|per=3|mod=i|ten=i	0	_
+3	tutto	tutto	P	PI	num=s|gen=m	2	pred
+4	e	e	C	CC	_	2	con
+5	tutti	tutto	D	DI	num=p|gen=m	6	mod
+6	quanti	quanto	P	PR	num=p|gen=m	2	obj
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	diventava	diventare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	albero	albero	S	S	num=s|gen=m	2	pred
+4	e	e	C	CC	_	2	con
+5	cavallo	cavallo	S	S	num=s|gen=m	2	conj
+
+1	persona	persona	S	S	num=s|gen=f	0	ROOT
+2	pietra	pietra	S	S	num=s|gen=f	1	mod
+3	dura	duro	A	A	num=s|gen=f	2	mod
+4	e	e	C	CC	_	2	con
+5	poi	poi	B	B	_	6	mod
+6	trifoglio	trifoglio	S	S	num=s|gen=m	2	mod
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	diventava	diventare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	abbarbicati	abbarbicare	V	V	num=p|mod=p|gen=m	2	pred
+4	amanti	amante	A	A	num=p|gen=n	3	mod
+
+1	uomini	uomo	S	S	num=p|gen=m	0	ROOT
+2	silenti	silente	A	A	num=p|gen=n	1	mod
+3	e	e	C	CC	_	2	con
+4	rumorose	rumoroso	A	A	num=p|gen=f	2	conj
+5	masse	massa	S	S	num=p|gen=f	1	mod
+
+1	e	e	C	CC	_	0	ROOT
+2	tutti	tutto	T	T	num=p|gen=m	4	mod
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	elementi	elemento	S	S	num=p|gen=m	1	ROOT
+5	di	di	E	E	_	4	comp
+6	città	città	S	S	num=n|gen=f	5	prep
+7	e	e	C	CC	_	6	con
+8	campagna	campagna	S	S	num=s|gen=f	6	conj
+
+1	ovunque	ovunque	B	B	_	3	mod
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	recasse	recare	V	V	num=s|per=3|mod=c|ten=i	0	ROOT
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	diventava	diventare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	padre	padre	S	S	num=s|gen=m	2	pred
+5	virile	virile	A	A	num=s|gen=n	4	mod
+6	e	e	C	CC	_	2	con
+7	ingiusto	ingiusto	A	A	num=s|gen=m	2	conj
+
+1	lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	diventava	diventare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	figlio	figlio	S	S	num=s|gen=m	2	pred
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	smarrito	smarrito	A	A	num=s|gen=m	4	mod
+
+1	l'	il	R	RD	num=s|gen=n	3	det
+2	onesta	onesto	A	A	num=s|gen=f	3	mod
+3	madre	madre	S	S	num=s|gen=f	0	ROOT
+4	che	che	P	PR	num=n|gen=n	7	subj
+5	l'	lo	P	PC	num=s|per=3|gen=n	7	obj
+6	aveva	avere	V	VA	num=s|per=3|mod=i|ten=i	7	aux
+7	concepito	concepire	V	V	num=s|mod=p|gen=m	3	mod_rel
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	2	subj
+2	diventava	diventare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	i	il	R	RD	num=p|gen=m	4	det
+4	riti	rito	S	S	num=p|gen=m	2	pred
+5	della	di	E	EA	num=s|gen=f	4	comp
+6	casa	casa	S	S	num=s|gen=f	5	prep
+
+1	e	e	C	CC	_	3	con
+2	le	il	R	RD	num=p|gen=f	3	det
+3	conversazioni	conversazione	S	S	num=p|gen=f	0	ROOT
+4	e	e	C	CC	_	3	con
+5	poi	poi	B	B	_	7	mod
+6	la	il	R	RD	num=s|gen=f	7	det
+7	compagnia	compagnia	S	S	num=s|gen=f	3	conj
+
+1	e	e	C	CC	_	3	con
+2	gli	il	R	RD	num=p|gen=m	3	det
+3	uomini	uomo	S	S	num=p|gen=m	0	ROOT
+4	e	e	C	CC	_	3	con
+5	le	il	R	RD	num=p|gen=f	6	det
+6	donne	donna	S	S	num=p|gen=f	3	conj
+7	che	che	P	PR	num=n|gen=n	3	comp
+8	per	per	E	E	_	7	comp
+9	le	il	R	RD	num=p|gen=f	10	det
+10	strade	strada	S	S	num=p|gen=f	8	prep
+
+1	s'	si	P	PC	num=n|per=3|gen=n	2	clit
+2	addensano	addensare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	in	in	E	E	_	2	comp
+4	follia	follia	S	S	num=s|gen=f	3	prep
+
+1	E	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	la	il	R	RD	num=s|gen=f	4	det
+4	conoscenza	conoscenza	S	S	num=s|gen=f	0	ROOT
+5	il	il	R	RD	num=s|gen=m	7	det
+6	nobile	nobile	A	A	num=s|gen=n	7	mod
+7	concetto	concetto	S	S	num=s|gen=m	4	mod
+8	e	e	C	CC	_	7	con
+9	l'	il	R	RD	num=s|gen=n	10	det
+10	intelletto	intelletto	S	S	num=s|gen=m	7	conj
+
+1	l'	il	R	RD	num=s|gen=n	2	det
+2	idea	idea	S	S	num=s|gen=f	0	ROOT
+3	che	che	P	PR	num=n|gen=n	8	subj
+4	a	a	E	E	_	8	comp_ind
+5	tutto	tutto	T	T	num=s|gen=m	6	mod
+6	tu	tu	P	PE	num=s|per=2|gen=n	4	prep
+7	devi	dovere	V	VM	num=s|per=2|mod=i|ten=p	8	modal
+8	dare	dare	V	V	mod=f	2	mod_rel
+9	un	uno	R	RI	num=s|gen=m	10	det
+10	nome	nome	S	S	num=s|gen=m	8	obj
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	senso	senso	S	S	num=s|gen=m	0	ROOT
+3	del	di	E	EA	num=s|gen=m	2	comp
+4	reale	reale	A	A	num=s|gen=n	3	prep
+5	e	e	C	CC	_	2	con
+6	soprattutto	soprattutto	B	B	_	8	mod
+7	il	il	R	RD	num=s|gen=m	8	det
+8	maledetto	maledetto	S	S	num=s|gen=m	2	conj
+9	se	se	P	PC	num=n|per=3|gen=n	10	clit
+10	e	e	C	CC	_	2	con
+11	come	come	C	CS	_	2	con
+
+1	Lui	lui	P	PE	num=s|per=3|gen=m	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	svegliava	svegliare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	ogni	ogni	D	DI	num=s|gen=n	5	mod
+5	mattina	mattina	S	S	num=s|gen=f	3	mod_temp
+6	e	e	C	CC	_	3	con
+7	tutto	tutto	P	PI	num=s|gen=m	3	conj
+
+1	tutto	tutto	P	PI	num=s|gen=m	2	subj
+2	diventava	diventare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	suo	suo	A	AP	num=s|gen=m	2	pred
+
+1	e	e	C	CC	_	3	con
+2	tutto	tutto	P	PI	num=s|gen=m	3	subj
+3	diventava	diventare	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+4	parte	parte	S	S	num=s|gen=f	3	pred
+5	di	di	E	E	_	4	comp
+6	quell'	quello	D	DD	num=s|gen=n	7	mod
+7	uomo	uomo	S	S	num=s|gen=m	5	prep
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ora	ora	B	B	_	3	mod_temp
+3	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+4	anch'	anche	B	B	_	3	mod
+5	io	io	P	PE	num=s|per=1|gen=n	3	subj
+
+1	Non	non	B	BN	_	2	neg
+2	esiste	esistere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	né	né	C	CC	_	2	con
+4	luogo	luogo	S	S	num=s|gen=m	2	subj
+5	né	né	C	CC	_	4	con
+6	tempo	tempo	S	S	num=s|gen=m	4	conj
+
+1	distanza	distanza	S	S	num=s|gen=f	3	subj
+2	non	non	B	BN	_	3	neg
+3	esiste	esistere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	uomini	uomo	S	S	num=p|gen=m	2	pred
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	passato	passato	S	S	num=s|gen=m	5	prep
+7	canuti	canuto	A	A	num=p|gen=m	6	mod
+8	e	e	C	CC	_	2	con
+9	saggi	saggio	S	S	num=p|gen=m	2	conj
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	uomini	uomo	S	S	num=p|gen=m	2	pred
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	futuro	futuro	S	S	num=s|gen=m	5	prep
+7	smarriti	smarrito	A	A	num=p|gen=m	6	mod
+8	e	e	C	CC	_	2	con
+9	scaltri	scaltro	A	A	num=p|gen=m	2	conj
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	come	come	E	E	_	2	pred
+4	tutti	tutto	P	PI	num=p|gen=m	3	prep
+5	io	io	P	PE	num=s|per=1|gen=n	6	subj
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	conj
+7	gli	il	R	RD	num=p|gen=m	8	det
+8	altri	altro	P	PI	num=p|gen=m	6	pred
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	altri	altro	A	A	num=p|gen=m	2	pred
+5	io	io	P	PE	num=s|per=1|gen=n	6	subj
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	conj
+7	gli	il	R	RD	num=p|gen=m	8	det
+8	altri	altro	P	PI	num=p|gen=m	6	pred
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	altri	altro	A	A	num=p|gen=m	2	pred
+5	io	io	P	PE	num=s|per=1|gen=n	6	subj
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	conj
+7	gli	il	R	RD	num=p|gen=m	8	det
+8	altri	altro	P	PI	num=p|gen=m	6	pred
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	altri	altro	A	A	num=p|gen=m	2	pred
+5	io	io	P	PE	num=s|per=1|gen=n	6	subj
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	conj
+7	gli	il	R	RD	num=p|gen=m	8	det
+8	altri	altro	P	PI	num=p|gen=m	6	pred
+
+1	io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	altri	altro	A	A	num=p|gen=m	2	pred
+5	io	io	P	PE	num=s|per=1|gen=n	6	subj
+6	sono	essere	V	V	num=p|per=3|mod=i|ten=p	2	conj
+7	gli	il	R	RD	num=p|gen=m	8	det
+8	altri	altro	P	PI	num=p|gen=m	6	pred
+

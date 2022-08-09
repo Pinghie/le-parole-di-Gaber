@@ -1,0 +1,571 @@
+1	Se	se	C	CS	_	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	1	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	subj
+
+1	Se	se	C	CS	_	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	1	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	subj
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+3	nuovo	nuovo	A	A	num=s|gen=m	2	mod
+4	e	e	C	CC	_	2	con
+5	forte	forte	A	A	num=s|gen=n	2	conj
+
+1	Forte	forte	S	S	num=s|gen=m	0	ROOT
+2	nel	in	E	EA	num=s|gen=m	1	arg
+3	guardare	guardare	V	V	mod=f	2	prep
+4	sorridente	sorridente	A	A	num=s|gen=n	3	mod
+
+1	La	il	R	RD	num=s|gen=f	4	det
+2	sua	suo	A	AP	num=s|gen=f	4	mod
+3	oscura	oscuro	A	A	num=s|gen=f	4	mod
+4	realtà	realtà	S	S	num=n|gen=f	0	ROOT
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	presente	presente	S	S	num=s|gen=n	5	prep
+7	.	.	F	FS	_	4	punc
+
+1	Se	se	C	CS	_	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	1	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	subj
+
+1	Forte	forte	A	A	num=s|gen=n	0	ROOT
+2	di	di	E	E	_	1	comp
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	tendenza	tendenza	S	S	num=s|gen=f	2	prep
+5	senza	senza	E	E	_	4	comp
+6	nome	nome	S	S	num=s|gen=m	5	prep
+
+1	Se	se	C	CS	_	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	quella	quello	P	PD	num=s|gen=f	1	sub
+4	di	di	E	E	_	3	comp
+5	umana	umano	A	A	num=s|gen=f	6	mod
+6	elevazione	elevazione	S	S	num=s|gen=f	4	prep
+
+1	Forte	forte	A	A	num=s|gen=n	0	ROOT
+2	come	come	E	E	_	1	comp
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	vita	vita	S	S	num=s|gen=f	2	prep
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	é	é	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+7	in	in	E	E	_	6	comp
+8	attesa	attesa	S	S	num=s|gen=f	7	prep
+
+1	Di	di	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	rinascita	rinascita	S	S	num=s|gen=f	1	prep
+4	improvvisa	improvviso	A	A	num=s|gen=f	3	mod
+5	.	.	F	FS	_	1	punc
+
+1	Se	se	C	CS	_	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	1	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	subj
+
+1	Generoso	generoso	A	A	num=s|gen=m	0	ROOT
+2	e	e	C	CC	_	1	con
+3	forte	forte	A	A	num=s|gen=n	1	conj
+
+1	Forte	forte	S	S	num=s|gen=m	0	ROOT
+2	nel	in	E	EA	num=s|gen=m	1	arg
+3	gestire	gestire	V	V	mod=f	2	prep
+4	ciò	ciò	P	PD	num=s|gen=m	3	obj
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	ha	avere	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+7	intorno	intorno	B	B	_	6	mod
+
+1	Senza	senza	E	E	_	0	ROOT
+2	intaccare	intaccare	V	V	mod=f	1	prep
+3	il	il	R	RD	num=s|gen=m	5	det
+4	suo	suo	A	AP	num=s|gen=m	5	mod
+5	equilibrio	equilibrio	S	S	num=s|gen=m	2	obj
+6	interno	interno	A	A	num=s|gen=m	5	mod
+
+1	Forte	forte	S	S	num=s|gen=m	0	ROOT
+2	nell'	in	E	EA	num=s|gen=n	1	arg
+3	odiare	odiare	V	V	mod=f	2	prep
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	arroganza	arroganza	S	S	num=s|gen=f	3	obj
+
+1	Di	di	E	E	_	0	ROOT
+2	chi	chi	P	PR	num=n|gen=n	1	prep
+3	esibisce	esibire	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+4	una	uno	R	RI	num=s|gen=f	6	det
+5	falsa	falso	A	A	num=s|gen=f	6	mod
+6	coscienza	coscienza	S	S	num=s|gen=f	3	obj
+
+1	Forte	forte	S	S	num=s|gen=m	0	ROOT
+2	nel	in	E	EA	num=s|gen=m	1	arg
+3	custodire	custodire	V	V	mod=f	2	prep
+4	con	con	E	E	_	3	comp
+5	impegno	impegno	S	S	num=s|gen=m	4	prep
+
+1	La	il	R	RD	num=s|gen=f	2	det
+2	parte	parte	S	S	num=s|gen=f	0	ROOT
+3	più	più	B	B	_	4	mod
+4	viva	vivo	A	A	num=s|gen=f	2	mod
+5	del	di	E	EA	num=s|gen=m	4	comp
+6	suo	suo	A	AP	num=s|gen=m	7	mod
+7	sogno	sogno	S	S	num=s|gen=m	5	prep
+
+1	Se	se	C	CS	_	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	1	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	subj
+6	.	.	F	FS	_	1	punc
+
+1	Questo	questo	D	DD	num=s|gen=m	3	mod
+2	nostro	nostro	A	AP	num=s|gen=m	3	mod
+3	mondo	mondo	S	S	num=s|gen=m	6	subj
+4	ormai	ormai	B	B	_	6	mod
+5	è	essere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	impazzito	impazzire	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	E	e	C	CC	_	2	con
+2	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	sempre	sempre	B	B	_	2	mod
+4	più	più	B	B	_	5	mod
+5	volgare	volgare	A	A	num=s|gen=n	2	pred
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	da	da	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	assurdo	assurdo	A	A	num=s|gen=m	5	mod
+5	mito	mito	S	S	num=s|gen=m	2	prep
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	il	il	R	RD	num=s|gen=m	4	det
+4	potere	potere	S	S	num=s|gen=m	2	pred
+5	.	.	F	FS	_	2	punc
+
+1	Questo	questo	D	DD	num=s|gen=m	3	mod
+2	nostro	nostro	A	AP	num=s|gen=m	3	mod
+3	mondo	mondo	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	avido	avido	A	A	num=s|gen=m	4	pred
+6	e	e	C	CC	_	5	con
+7	incapace	incapace	A	A	num=s|gen=n	5	conj
+
+1	Sempre	sempre	B	B	_	2	mod
+2	in	in	E	E	_	7	comp
+3	corsa	corsa	S	S	num=s|gen=f	2	prep
+4	e	e	C	CC	_	2	con
+5	sempre	sempre	B	B	_	6	mod
+6	più	più	B	B	_	7	mod
+7	infelice	infelice	A	A	num=s|gen=n	0	ROOT
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	da	da	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	bisogno	bisogno	S	S	num=s|gen=m	2	prep
+5	estremo	estremo	A	A	num=s|gen=m	4	mod
+
+1	E	e	C	CC	_	7	con
+2	da	da	E	E	_	7	comp
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	smania	smania	S	S	num=s|gen=f	2	prep
+5	vuota	vuoto	A	A	num=s|gen=f	4	mod
+6	che	che	C	CS	_	7	subj
+7	sarebbe	essere	V	V	num=s|per=3|mod=d|ten=p	0	ROOT
+8	vita	vita	S	S	num=s|gen=f	7	pred
+
+1	Se	se	C	CS	_	0	ROOT
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+3	fosse	essere	V	V	num=s|per=3|mod=c|ten=i	1	sub
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	uomo	uomo	S	S	num=s|gen=m	3	subj
+6	....	....	F	FS	_	1	punc
+
+1	Allora	allora	B	B	_	4	mod
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	potrebbe	potere	V	VM	num=s|per=3|mod=d|ten=p	4	modal
+4	immaginare	immaginare	V	V	mod=f	0	ROOT
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	umanesimo	umanesimo	S	S	num=s|gen=m	0	ROOT
+3	nuovo	nuovo	A	A	num=s|gen=m	2	mod
+
+1	Con	con	E	E	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	speranza	speranza	S	S	num=s|gen=f	1	prep
+4	di	di	E	E	_	3	arg
+5	veder	vedere	V	V	mod=f	4	prep
+6	morire	morire	V	V	mod=f	5	arg
+
+1	Questo	questo	D	DD	num=s|gen=m	3	mod
+2	nostro	nostro	A	AP	num=s|gen=m	3	mod
+3	medioevo	medioevo	S	S	num=s|gen=m	0	ROOT
+4	.	.	F	FS	_	3	punc
+
+1	Col	con	E	EA	num=s|gen=m	0	ROOT
+2	desiderio	desiderio	S	S	num=s|gen=m	1	prep
+
+1	Che	che	C	CS	_	0	ROOT
+2	in	in	E	E	_	1	sub
+3	una	uno	R	RI	num=s|gen=f	4	det
+4	terra	terra	S	S	num=s|gen=f	2	prep
+5	sconosciuta	sconosciuto	A	A	num=s|gen=f	4	mod
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	6	comp
+2	sia	sia	C	CC	_	3	con
+3	di	di	E	E	_	1	ROOT
+4	nuovo	nuovo	S	S	num=s|gen=m	3	prep
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+
+1	Al	a	E	EA	num=s|gen=m	0	ROOT
+2	centro	centro	S	S	num=s|gen=m	1	prep
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	vita	vita	S	S	num=s|gen=f	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	Allora	allora	B	B	_	4	mod
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	potrebbe	potere	V	VM	num=s|per=3|mod=d|ten=p	4	modal
+4	immaginare	immaginare	V	V	mod=f	0	ROOT
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	neo	neo	S	S	num=s|gen=m	0	ROOT
+3	rinascimento	rinascimento	S	S	num=s|gen=m	2	mod
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	individuo	individuo	S	S	num=s|gen=m	0	ROOT
+3	tutto	tutto	P	PI	num=s|gen=m	2	mod
+4	da	da	E	E	_	2	arg
+5	inventare	inventare	V	V	mod=f	4	prep
+
+1	In	in	E	E	_	0	ROOT
+2	continuo	continuo	A	A	num=s|gen=m	3	mod
+3	movimento	movimento	S	S	num=s|gen=m	1	prep
+4	.	.	F	FS	_	1	punc
+
+1	Con	con	E	E	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	certezza	certezza	S	S	num=s|gen=f	1	prep
+
+1	Che	che	C	CS	_	0	ROOT
+2	in	in	E	E	_	6	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	futuro	futuro	S	S	num=s|gen=m	2	prep
+5	non	non	B	BN	_	6	neg
+6	lontano	lontano	B	B	_	1	sub
+
+1	Al	a	E	EA	num=s|gen=m	0	ROOT
+2	centro	centro	S	S	num=s|gen=m	1	prep
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	vita	vita	S	S	num=s|gen=f	3	prep
+
+1	Ci	ci	P	PC	num=p|per=1|gen=n	0	ROOT
+2	sia	sia	C	CC	_	1	con
+3	di	di	E	E	_	2	comp
+4	nuovo	nuovo	S	S	num=s|gen=m	3	prep
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	uomo	uomo	S	S	num=s|gen=m	2	conj
+7	.	.	F	FS	_	1	punc
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	uomo	uomo	S	S	num=s|gen=m	0	ROOT
+3	affascinato	affascinare	V	V	num=s|mod=p|gen=m	2	mod
+
+1	Da	da	E	E	_	0	ROOT
+2	uno	uno	R	RI	num=s|gen=m	3	det
+3	spazio	spazio	S	S	num=s|gen=m	1	prep
+4	vuoto	vuoto	A	A	num=s|gen=m	3	mod
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	ancora	ancora	B	B	_	4	mod
+4	popolato	popolare	V	V	num=s|mod=p|gen=m	2	mod
+5	.	.	F	FS	_	2	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	da	da	E	E	_	1	comp
+3	corpi	corpo	S	S	num=p|gen=m	2	prep
+4	e	e	C	CC	_	2	con
+5	da	da	E	E	_	2	conj
+6	anime	anima	S	S	num=p|gen=f	5	prep
+7	gioiose	gioioso	A	A	num=p|gen=f	6	mod
+
+1	Che	che	P	PR	num=n|gen=n	3	subj
+2	sanno	sapere	V	VM	num=p|per=3|mod=i|ten=p	3	modal
+3	entrare	entrare	V	V	mod=f	0	ROOT
+4	di	di	E	E	_	3	comp
+5	slancio	slancio	S	S	num=s|gen=m	4	prep
+
+1	Nel	in	E	EA	num=s|gen=m	0	ROOT
+2	cuore	cuore	S	S	num=s|gen=m	1	prep
+3	delle	di	E	EA	num=p|gen=f	2	comp
+4	cose	cosa	S	S	num=p|gen=f	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	di	di	E	E	_	1	comp
+3	fervore	fervore	S	S	num=s|gen=m	2	prep
+
+1	E	e	C	CC	_	4	con
+2	di	di	E	E	_	4	comp
+3	gente	gente	S	S	num=s|gen=f	2	prep
+4	innamorata	innamorare	V	V	num=s|mod=p|gen=f	0	_
+
+1	Ma	ma	C	CC	_	3	con
+2	che	che	C	CS	_	3	subj
+3	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	all'	al	E	EA	num=s|gen=n	3	comp
+5	amore	amore	S	S	num=s|gen=m	4	prep
+
+1	Come	come	B	B	_	3	mod
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	cosa	cosa	S	S	num=s|gen=f	0	ROOT
+4	concreta	concreto	A	A	num=s|gen=f	3	mod
+5	.	.	F	FS	_	3	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	da	da	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	Che	che	P	PR	num=n|gen=n	3	subj
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	scelto	scegliere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	il	il	R	RD	num=s|gen=m	6	det
+5	suo	suo	A	AP	num=s|gen=m	6	mod
+6	cammino	cammino	S	S	num=s|gen=m	3	obj
+
+1	Senza	senza	E	E	_	2	mod
+2	gesti	gesto	S	S	num=p|gen=m	0	ROOT
+3	clamorosi	clamoroso	A	A	num=p|gen=m	2	mod
+
+1	Per	per	E	E	_	0	ROOT
+2	sentir-	sentire	V	V	mod=f	1	prep
+3	si	si	P	PC	num=n|per=3|gen=n	2	clit
+4	qualcuno	qualcuno	P	PI	num=s|gen=m	2	obj
+5	.	.	F	FS	_	1	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	4	mod
+2	da	da	E	E	_	1	comp
+3	chi	chi	P	PR	num=n|gen=n	2	prep
+4	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Senza	senza	E	E	_	0	ROOT
+2	alcuna	alcuno	D	DI	num=s|gen=f	3	mod
+3	ipocrisia	ipocrisia	S	S	num=s|gen=f	1	prep
+
+1	Col	con	E	EA	num=s|gen=m	0	ROOT
+2	rispetto	rispetto	S	S	num=s|gen=m	1	prep
+3	di	di	E	E	_	2	comp
+4	se	se	P	PE	num=n|per=3|gen=n	3	prep
+5	stesso	stesso	A	A	num=s|gen=m	4	mod
+
+1	E	e	C	CC	_	0	con
+2	della	di	E	EA	num=s|gen=f	1	comp_temp
+3	propria	proprio	A	AP	num=s|gen=f	4	mod
+4	pulizia	pulizia	S	S	num=s|gen=f	2	prep
+5	.	.	F	FS	_	0	punc
+
+1	Uno	uno	R	RI	num=s|gen=m	2	det
+2	spazio	spazio	S	S	num=s|gen=m	0	ROOT
+3	vuoto	vuoto	A	A	num=s|gen=m	2	mod
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	ancora	ancora	B	B	_	4	mod
+4	popolato	popolare	V	V	num=s|mod=p|gen=m	2	mod
+5	.	.	F	FS	_	2	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	da	da	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+5	talmente	talmente	B	B	_	6	mod
+6	vero	vero	A	A	num=s|gen=m	4	mod
+
+1	Che	che	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	5	det
+5	presunzione	presunzione	S	S	num=s|gen=f	3	obj
+
+1	Di	di	E	E	_	0	ROOT
+2	abbracciare	abbracciare	V	V	mod=f	1	prep
+3	il	il	R	RD	num=s|gen=m	4	det
+4	mondo	mondo	S	S	num=s|gen=m	2	obj
+5	intero	intero	A	A	num=s|gen=m	4	mod
+6	.	.	F	FS	_	1	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	4	mod
+2	da	da	E	E	_	1	comp
+3	chi	chi	P	PR	num=n|gen=n	2	prep
+4	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Nell'	in	E	EA	num=s|gen=n	0	ROOT
+2	individualismo	individualismo	S	S	num=s|gen=m	1	prep
+
+1	Ma	ma	C	CC	_	2	con
+2	combatte	combattere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	con	con	E	E	_	2	comp
+4	forza	forza	S	S	num=s|gen=f	3	prep
+
+1	Qualsiasi	qualsiasi	D	DI	num=s|gen=n	2	mod
+2	forma	forma	S	S	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	egoismo	egoismo	S	S	num=s|gen=m	3	prep
+5	.	.	F	FS	_	2	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	4	mod
+2	da	da	E	E	_	1	comp
+3	chi	chi	P	PR	num=n|gen=n	2	prep
+4	odia	odiare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	potere	potere	S	S	num=s|gen=m	4	obj
+
+1	E	e	C	CC	_	4	con
+2	i	il	R	RD	num=p|gen=m	4	det
+3	suoi	suo	A	AP	num=p|gen=m	4	mod
+4	eccessi	eccesso	S	S	num=p|gen=m	0	ROOT
+
+1	Ma	ma	C	CC	_	3	con
+2	che	che	C	CS	_	3	subj
+3	apprezza	apprezzare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	potere	potere	S	S	num=s|gen=m	0	ROOT
+3	esercitato	esercitare	V	V	num=s|mod=p|gen=m	2	mod
+4	su	su	E	E	_	3	comp
+5	se	se	P	PC	num=n|per=3|gen=n	4	prep
+6	stessi	stessi	A	A	num=p|gen=m	5	mod
+7	.	.	F	FS	_	2	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	4	mod
+2	da	da	E	E	_	1	comp
+3	chi	chi	P	PR	num=n|gen=n	2	prep
+4	ignora	ignorare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	passato	passato	S	S	num=s|gen=m	0	ROOT
+3	e	e	C	CC	_	2	con
+4	il	il	R	RD	num=s|gen=m	5	det
+5	futuro	futuro	S	S	num=s|gen=m	2	conj
+
+1	E	e	C	CC	_	3	con
+2	che	che	P	PR	num=n|gen=n	3	subj
+3	inizia	iniziare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	la	il	R	RD	num=s|gen=f	6	det
+5	sua	suo	A	AP	num=s|gen=f	6	mod
+6	storia	storia	S	S	num=s|gen=f	3	obj
+
+1	Dal	da	E	EA	num=s|gen=m	3	comp
+2	punto	punto	S	S	num=s|gen=m	1	prep
+3	zero	zero	S	S	num=s|gen=m	0	ROOT
+
+1	Uno	uno	R	RI	num=s|gen=m	2	det
+2	spazio	spazio	S	S	num=s|gen=m	0	ROOT
+3	vuoto	vuoto	A	A	num=s|gen=m	2	mod
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	ancora	ancora	B	B	_	4	mod
+4	popolato	popolare	V	V	num=s|mod=p|gen=m	2	mod
+5	.	.	F	FS	_	2	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	4	mod
+2	da	da	E	E	_	1	comp
+3	chi	chi	P	PR	num=n|gen=n	2	prep
+4	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	certo	certo	B	B	_	4	mod
+
+1	Che	che	C	CS	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	donna	donna	S	S	num=s|gen=f	1	prep
+4	e	e	C	CC	_	3	con
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	uomo	uomo	S	S	num=s|gen=m	3	conj
+
+1	Siano	essere	V	V	num=p|per=3|mod=c|ten=p	0	ROOT
+2	il	il	R	RD	num=s|gen=m	4	det
+3	grande	grande	A	A	num=s|gen=n	4	mod
+4	motore	motore	S	S	num=s|gen=m	1	pred
+
+1	Del	di	E	EA	num=s|gen=m	0	ROOT
+2	cammino	cammino	S	S	num=s|gen=m	1	prep
+3	umano	umano	A	A	num=s|gen=m	2	mod
+4	.	.	F	FS	_	1	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	da	da	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	bisogno	bisogno	S	S	num=s|gen=m	2	prep
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	diventa	diventare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	espressione	espressione	S	S	num=s|gen=f	2	obj
+
+1	Di	di	E	E	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	4	det
+3	gran	gran	A	A	num=n|gen=n	4	mod
+4	senso	senso	S	S	num=s|gen=m	1	prep
+5	religioso	religioso	A	A	num=s|gen=m	4	mod
+
+1	Ma	ma	C	CC	_	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	di	di	E	E	_	1	comp_temp
+4	religione	religione	S	S	num=s|gen=f	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	4	mod
+2	da	da	E	E	_	1	comp
+3	chi	chi	P	PR	num=n|gen=n	2	prep
+4	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	In	in	E	E	_	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	fede	fede	S	S	num=s|gen=f	1	prep
+4	sconosciuta	sconosciuto	A	A	num=s|gen=f	3	mod
+
+1	Dov'	dove	B	B	_	2	mod_loc
+2	é	é	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	4	det
+4	morte	morte	S	S	num=s|gen=f	2	subj
+5	che	che	P	PR	num=n|gen=n	6	subj
+6	scompare	scomparire	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+
+1	Quando	quando	C	CS	_	0	ROOT
+2	appare	apparire	V	V	num=s|per=3|mod=i|ten=p	1	sub
+3	la	il	R	RD	num=s|gen=f	4	det
+4	vita	vita	S	S	num=s|gen=f	2	subj
+5	.	.	F	FS	_	1	punc
+
+1	Popolato	popolare	V	V	num=s|mod=p|gen=m	0	ROOT
+2	da	da	E	E	_	1	comp
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	uomo	uomo	S	S	num=s|gen=m	2	prep
+
+1	Cui	cui	P	PR	num=n|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	basta	bastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	il	il	R	RD	num=s|gen=m	5	det
+5	crocefisso	crocefisso	S	S	num=s|gen=m	3	obj
+
+1	Ma	ma	C	CC	_	3	con
+2	che	che	C	CS	_	3	subj
+3	cerca	cercare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	di	di	E	E	_	3	arg
+5	trovare	trovare	V	V	mod=f	4	prep
+
+1	Un	uno	R	RI	num=s|gen=m	2	det
+2	Dio	Dio	S	SP	_	0	ROOT
+3	dentro	dentro	E	E	_	2	comp
+4	se	se	P	PE	num=n|per=3|gen=n	3	prep
+5	stesso	stesso	A	A	num=s|gen=m	4	mod
+6	.	.	F	FS	_	2	punc
+

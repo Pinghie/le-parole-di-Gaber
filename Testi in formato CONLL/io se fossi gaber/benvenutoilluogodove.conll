@@ -1,0 +1,297 @@
+1	Benvenuto	benvenuto	A	A	num=s|gen=m	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	luogo	luogo	S	S	num=s|gen=m	7	subj
+4	dove	dove	P	PR	num=n|gen=n	7	comp
+5	dove	dove	P	PR	num=n|gen=n	7	comp
+6	tutto	tutto	P	PI	num=s|gen=m	7	subj
+7	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	ironia	ironia	S	S	num=s|gen=f	7	pred
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	luogo	luogo	S	S	num=s|gen=m	0	ROOT
+3	dove	dove	P	PR	num=n|gen=n	5	subj
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	2	mod_rel
+6	la	il	R	RD	num=s|gen=f	7	det
+7	vita	vita	S	S	num=s|gen=f	5	subj
+8	e	e	C	CC	_	7	con
+9	i	il	R	RD	num=p|gen=m	11	det
+10	vari	vario	A	A	num=p|gen=m	11	mod
+11	tipi	tipo	S	S	num=p|gen=m	7	conj
+12	di	di	E	E	_	11	comp
+13	allegria	allegria	S	S	num=s|gen=f	12	prep
+
+1	dove	dove	P	PR	num=n|gen=n	0	ROOT
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	nasce	nascere	V	V	num=s|per=3|mod=i|ten=p	1	ROOT
+4	dove	dove	C	CS	_	3	mod
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	vive	vivere	V	V	num=s|per=3|mod=i|ten=p	4	sub
+7	sorridendo	sorridere	V	V	mod=g	6	mod
+
+1	dove	dove	P	PR	num=n|gen=n	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	soffre	soffrire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	senza	senza	C	CS	_	3	mod
+5	dar	dare	V	V	mod=f	4	sub
+6	la	il	R	RD	num=s|gen=f	7	det
+7	colpa	colpa	S	S	num=s|gen=f	5	obj
+8	al	a	E	EA	num=s|gen=m	7	comp
+9	mondo	mondo	S	S	num=s|gen=m	8	prep
+10	.	.	F	FS	_	3	punc
+
+1	Benvenuto	benvenuto	A	A	num=s|gen=m	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	luogo	luogo	S	S	num=s|gen=m	0	ROOT
+4	delle	di	E	EA	num=p|gen=f	3	comp
+5	confusioni	confusione	S	S	num=p|gen=f	4	prep
+
+1	dove	dove	P	PR	num=n|gen=n	5	obj
+2	i	il	R	RD	num=p|gen=m	3	det
+3	conti	conte	S	S	num=p|gen=m	5	subj
+4	non	non	B	BN	_	5	neg
+5	tornano	tornare	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+6	mai	mai	B	B	_	5	mod_temp
+
+1	ma	ma	C	CC	_	4	con
+2	non	non	B	BN	_	4	neg
+3	si	si	P	PC	num=n|per=3|gen=n	4	clit
+4	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	paura	paura	S	S	num=s|gen=f	4	obj
+6	delle	di	E	EA	num=p|gen=f	5	comp
+7	contraddizioni	contraddizione	S	S	num=p|gen=f	6	prep
+
+1	benvenuta	benvenuto	S	S	num=s|gen=f	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	vita	vita	S	S	num=s|gen=f	1	mod
+4	che	che	P	PR	num=n|gen=n	5	subj
+5	conta	contare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+6	solo	solo	B	B	_	5	mod
+7	su	su	E	E	_	5	comp
+8	se	se	C	CS	_	7	concat
+9	stessa	stessa	A	A	num=s|gen=f	7	prep
+
+1	benvenuto	benvenuto	A	A	num=s|gen=m	9	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	luogo	luogo	S	S	num=s|gen=m	9	subj
+4	dove	dove	P	PR	num=n|gen=n	9	comp
+5	tanta	tanto	A	A	num=s|gen=f	6	mod
+6	gente	gente	S	S	num=s|gen=f	9	subj
+7	insieme	insieme	B	B	_	6	mod
+8	non	non	B	BN	_	9	neg
+9	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	massa	massa	S	S	num=s|gen=f	9	obj
+
+1	Benvenuto	benvenuto	A	A	num=s|gen=m	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	luogo	luogo	S	S	num=s|gen=m	0	ROOT
+4	dove	dove	P	PR	num=n|gen=n	7	subj
+5	non	non	B	BN	_	7	neg
+6	si	si	P	PC	num=n|per=3|gen=n	7	clit
+7	prende	prendere	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+8	niente	niente	P	PI	num=s|gen=m	7	obj
+9	sul	su	E	EA	num=s|gen=m	3	comp
+10	serio	serio	S	S	num=s|gen=m	9	prep
+
+1	dove	dove	P	PR	num=n|gen=n	0	_
+2	forse	forse	B	B	_	4	mod
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	mod_rel
+5	il	il	R	RD	num=s|gen=m	6	det
+6	superfluo	superfluo	A	A	num=s|gen=m	4	subj
+7	e	e	C	CC	_	6	con
+8	non	non	B	BN	_	10	neg
+9	il	il	R	RD	num=s|gen=m	10	det
+10	necessario	necessario	S	S	num=s|gen=m	6	conj
+
+1	il	il	R	RD	num=s|gen=m	2	det
+2	luogo	luogo	S	S	num=s|gen=m	6	subj
+3	dove	dove	P	PR	num=n|gen=n	6	comp
+4	il	il	R	RD	num=s|gen=m	5	det
+5	sentire	sentire	S	S	num=s|gen=m	6	subj
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	più	più	B	B	_	6	mod
+8	importante	importante	A	A	num=s|gen=n	6	pred
+
+1	dove	dove	P	PR	num=n|gen=n	6	subj
+2	malgrado	malgrado	E	E	_	6	comp
+3	l'	il	R	RD	num=s|gen=n	4	det
+4	ignoranza	ignoranza	S	S	num=s|gen=f	6	mod_temp
+5	tutto	tutto	P	PI	num=s|gen=m	6	subj
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+7	intelligente	intelligente	A	A	num=s|gen=n	6	pred
+
+1	Benvenuto	benvenuto	A	A	num=s|gen=m	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	luogo	luogo	S	S	num=s|gen=m	9	subj
+4	dove	dove	P	PR	num=n|gen=n	9	comp
+5	se	se	C	CS	_	9	mod
+6	un	uno	R	RI	num=s|gen=m	8	det
+7	tuo	tuo	A	AP	num=s|gen=m	8	mod
+8	pensiero	pensiero	S	S	num=s|gen=m	9	subj
+9	trova	trovare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+10	compagnia	compagnia	S	S	num=s|gen=f	9	obj
+
+1	probabilmente	probabilmente	B	B	_	2	mod
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	già	già	B	B	_	5	mod
+4	il	il	R	RD	num=s|gen=m	5	det
+5	momento	momento	S	S	num=s|gen=m	2	subj
+6	di	di	E	E	_	5	arg
+7	cambiare	cambiare	V	V	mod=f	6	prep
+8	idea	idea	S	S	num=s|gen=f	7	obj
+
+1	dove	dove	P	PR	num=n|gen=n	0	_
+2	fascismo	fascismo	S	S	num=s|gen=m	5	subj
+3	e	e	C	CC	_	2	con
+4	comunismo	comunismo	S	S	num=s|gen=m	2	conj
+5	sono	essere	V	V	num=p|per=3|mod=i|ten=p	1	mod_rel
+6	vecchi	vecchio	A	A	num=p|gen=m	7	mod
+7	soprannomi	soprannome	S	S	num=p|gen=m	5	pred
+8	per	per	E	E	_	7	comp
+9	anziani	anziano	S	S	num=p|gen=m	8	prep
+
+1	dove	dove	P	PR	num=n|gen=n	0	ROOT
+2	neanche	neanche	B	B	_	4	mod
+3	gli	il	R	RD	num=p|gen=m	4	det
+4	indovini	indovino	S	S	num=p|gen=m	5	subj
+5	pensano	pensare	V	V	num=p|per=3|mod=i|ten=p	1	mod_rel
+6	al	a	E	EA	num=s|gen=m	5	comp
+7	domani	domani	S	S	num=n|gen=m	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	Benvenuto	benvenuto	A	A	num=s|gen=m	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	luogo	luogo	S	S	num=s|gen=m	0	ROOT
+4	dove	dove	P	PR	num=n|gen=n	10	subj
+5	tutto	tutto	P	PI	num=s|gen=m	7	subj_pass
+6	è	essere	V	VA	num=s|per=3|mod=i|ten=p	7	aux
+7	calcolato	calcolare	V	V	num=s|mod=p|gen=m	4	mod_rel
+8	e	e	C	CC	_	4	con
+9	non	non	B	BN	_	10	neg
+10	funziona	funzionare	V	V	num=s|per=3|mod=i|ten=p	3	mod_rel
+11	niente	niente	B	B	_	0	ROOT
+
+1	e	e	C	CC	_	8	con
+2	per	per	E	E	_	8	mod
+3	metter-	mettere	V	V	mod=f	2	prep
+4	si	si	P	PC	num=n|per=3|gen=n	3	clit
+5	d'	di	E	E	_	3	comp
+6	accordo	accordo	S	S	num=s|gen=m	5	prep
+7	si	si	P	PC	num=n|per=3|gen=n	8	clit
+8	ruba	rubare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+9	onestamente	onesto	B	B	_	8	mod
+
+1	dove	dove	P	PR	num=n|gen=n	4	subj
+2	non	non	B	BN	_	4	neg
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	7	det
+6	grande	grande	A	A	num=s|gen=n	7	mod
+7	amore	amore	S	S	num=s|gen=m	4	subj
+8	per	per	E	E	_	7	comp
+9	lo	il	R	RD	num=s|gen=m	10	det
+10	stato	stato	S	S	num=s|gen=m	8	prep
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	3	comp_ind
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	crede	credere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	poco	poco	P	PI	num=s|gen=m	3	obj
+5	e	e	C	CC	_	3	con
+6	i	il	R	RD	num=p|gen=m	7	det
+7	gusto	gusto	S	S	num=s|gen=m	12	subj
+8	di	di	E	E	_	7	arg
+9	sentir-	sentire	V	V	mod=f	8	prep
+10	si	si	P	PC	num=n|per=3|gen=n	9	clit
+11	soli	solo	A	A	num=p|gen=m	9	pred
+12	è	essere	V	V	num=s|per=3|mod=i|ten=p	3	conj
+13	così	così	B	B	_	12	mod
+14	antico	antico	A	A	num=s|gen=m	12	pred
+
+1	Benvenuto	benvenuto	A	A	num=s|gen=m	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	luogo	luogo	S	S	num=s|gen=m	0	_
+4	dove	dove	P	PR	num=n|gen=n	3	comp
+5	forse	forse	B	B	_	6	mod
+6	per	per	E	E	_	4	comp
+7	caso	caso	S	S	num=s|gen=m	6	prep
+8	o	o	C	CC	_	6	dis
+9	forse	forse	B	B	_	10	mod
+10	per	per	E	E	_	6	comp
+11	fortuna	fortuna	S	S	num=s|gen=f	10	prep
+
+1	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	che	che	C	CS	_	1	arg
+3	muoia	morire	V	V	num=s|per=3|mod=c|ten=p	2	sub
+4	e	e	C	CC	_	3	con
+5	poi	poi	B	B	_	7	mod
+6	non	non	B	BN	_	7	neg
+7	muore	morire	V	V	num=s|per=3|mod=i|ten=p	3	conj
+8	mai	mai	B	B	_	7	mod_temp
+9	nemmeno	nemmeno	B	B	_	11	mod
+10	la	il	R	RD	num=s|gen=f	11	det
+11	laguna	laguna	S	S	num=s|gen=f	7	obj
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	luogo	luogo	S	S	num=s|gen=m	0	ROOT
+3	pieno	pieno	A	A	num=s|gen=m	2	mod
+4	di	di	E	E	_	3	comp
+5	dialetti	dialetto	S	S	num=p|gen=m	4	prep
+6	strani	strano	A	A	num=p|gen=m	5	mod
+7	di	di	E	E	_	5	comp
+8	sentimenti	sentimento	S	S	num=p|gen=m	7	prep
+9	quasi	quasi	B	B	_	10	mod
+10	sconosciuti	sconosciuto	A	A	num=p|gen=m	8	mod
+
+1	dove	dove	P	PR	num=n|gen=n	0	ROOT
+2	i	il	R	RD	num=p|gen=m	3	det
+3	poeti	poeta	S	S	num=p|gen=m	5	subj
+4	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	5	aux
+5	nati	nascere	V	V	num=p|mod=p|gen=m	1	mod_rel
+6	tutti	tutto	P	PI	num=p|gen=m	5	subj
+7	a	a	E	E	_	5	comp
+8	Recanati	Recanati	S	SP	_	7	prep
+9	.	.	F	FS	_	1	punc
+
+1	Benvenuto	benvenuto	A	A	num=s|gen=m	0	ROOT
+2	il	il	R	RD	num=s|gen=m	3	det
+3	luogo	luogo	S	S	num=s|gen=m	1	conj
+4	lungo	lungo	A	A	num=s|gen=m	3	mod
+5	e	e	C	CC	_	1	con
+6	stretto	stretto	A	A	num=s|gen=m	1	conj
+
+1	con	con	E	E	_	0	ROOT
+2	attorno	attorno	B	B	_	4	mod
+3	il	il	R	RD	num=s|gen=m	4	det
+4	mare	mare	S	S	num=s|gen=m	1	prep
+5	pieno	pieno	A	A	num=s|gen=m	4	mod
+6	di	di	E	E	_	4	comp
+7	regioni	regione	S	S	num=p|gen=f	6	prep
+
+1	come	come	B	B	_	3	mod
+2	dovrebbero	dovere	V	VM	num=p|per=3|mod=d|ten=p	3	modal
+3	essere	essere	V	V	mod=f	0	ROOT
+4	tutte	tutto	T	T	num=p|gen=f	6	mod
+5	le	il	R	RD	num=p|gen=f	6	det
+6	nazioni	nazione	S	S	num=p|gen=f	3	subj
+
+1	magari	magari	B	B	_	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	4	mod
+4	per	per	E	E	_	1	ROOT
+5	non	non	B	BN	_	6	neg
+6	morire	morire	V	V	mod=f	4	prep
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	pò	pò	B	B	_	9	mod
+9	per	per	E	E	_	6	comp
+10	celia	celia	S	S	num=s|gen=f	9	prep
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	luogo	luogo	S	S	num=s|gen=m	5	subj
+3	così	così	B	B	_	4	mod
+4	assurdo	assurdo	A	A	num=s|gen=m	2	mod
+5	sembra	sembrare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	proprio	proprio	B	B	_	5	mod
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	Italia	Italia	S	SP	_	5	obj
+

@@ -1,0 +1,301 @@
+1	Forse	forse	B	B	_	2	mod
+2	mai	mai	B	B	_	3	mod_temp
+3	come	come	E	E	_	0	ROOT
+4	ora	ora	B	B	_	3	prep
+
+1	L'	il	R	RD	num=s|gen=n	2	det
+2	erotismo	erotismo	S	S	num=s|gen=m	3	subj
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	vincente	vincente	A	A	num=s|gen=n	3	pred
+
+1	Ma	ma	C	CC	_	4	con
+2	col	con	E	EA	num=s|gen=m	4	comp
+3	tempo	tempo	S	S	num=s|gen=m	2	prep
+4	capisci	capire	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+5	che	che	C	CS	_	4	ROOT
+6	il	il	R	RD	num=s|gen=m	7	det
+7	sesso	sesso	S	S	num=s|gen=m	4	ROOT
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	poco	poco	B	B	_	1	mod
+3	importante	importante	A	A	num=s|gen=n	1	pred
+
+1	Se	se	C	CS	_	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	in	in	E	E	_	3	pred
+5	sintonia	sintonia	S	S	num=s|gen=f	4	prep
+6	con	con	E	E	_	3	comp
+7	l'	il	R	RD	num=s|gen=n	8	det
+8	amore	amore	S	S	num=s|gen=m	6	prep
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	piacere	piacere	S	S	num=s|gen=m	1	pred
+4	fugace	fugace	A	A	num=s|gen=n	1	pred
+
+1	Però	però	B	B	_	5	mod
+2	quella	quello	D	DD	num=s|gen=f	3	mod
+3	lì	lì	B	B	_	5	mod_temp
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	piace	piacere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Oh	oh	I	I	_	0	ROOT
+2	sì	sì	B	B	_	1	mod
+
+1	Io	io	P	PE	num=s|per=1|gen=n	2	subj
+2	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	bene	bene	B	B	_	2	mod
+4	che	che	C	CS	_	2	ROOT
+5	il	il	R	RD	num=s|gen=m	6	det
+6	sesso	sesso	S	S	num=s|gen=m	2	ROOT
+
+1	Ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	4	det
+3	certa	certo	A	A	num=s|gen=f	4	mod
+4	funzione	funzione	S	S	num=s|gen=f	1	obj
+
+1	E	e	C	CC	_	3	con
+2	dovrebbe	dovere	V	VM	num=s|per=3|mod=d|ten=p	3	modal
+3	servire	servire	V	V	mod=f	0	ROOT
+4	più	più	B	B	_	3	mod
+5	che	che	D	DQ	num=n|gen=n	3	comp
+6	altro	altro	P	PI	num=s|gen=m	5	prep
+
+1	Alla	al	E	EA	num=s|gen=f	0	ROOT
+2	procreazione	procreazione	S	S	num=s|gen=f	1	prep
+
+1	Stranamente	strano	B	B	_	0	ROOT
+2	su	su	E	E	_	1	comp
+3	questa	questo	D	DD	num=s|gen=f	4	mod
+4	teoria	teoria	S	S	num=s|gen=f	2	prep
+
+1	Son	Son	S	SP	_	0	ROOT
+2	d'	di	E	E	_	1	comp
+3	accordo	accordo	S	S	num=s|gen=m	2	prep
+4	col	con	E	EA	num=s|gen=m	1	comp
+5	Papa	Papa	S	SP	_	4	prep
+
+1	Però	però	B	B	_	5	mod
+2	quella	quello	P	PD	num=s|gen=f	5	mod
+3	lì	lì	B	B	_	5	mod
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	clit
+5	arrapa	arrapa	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	Oh	oh	I	I	_	0	ROOT
+2	sì	sì	B	B	_	1	mod
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	0	_
+
+1	Così	così	B	B	_	2	mod
+2	triste	triste	A	A	num=s|gen=n	7	mod
+3	,	,	F	FF	_	2	punc
+4	così	così	B	B	_	5	mod
+5	passiva	passivo	A	A	num=s|gen=f	2	mod
+6	,	,	F	FF	_	5	punc
+7	ripetitiva	ripetitivo	A	A	num=s|gen=f	0	ROOT
+
+1	Quasi	quasi	B	B	_	4	mod
+2	sempre	sempre	B	B	_	4	mod
+3	c'	ci	P	PC	num=n|gen=n	4	comp
+4	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	nodo	nodo	S	S	num=s|gen=m	4	obj
+7	in	in	E	E	_	6	comp
+8	gola	gola	S	S	num=s|gen=f	7	prep
+
+1	Ma	ma	C	CC	_	9	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	vista	vista	S	S	num=s|gen=f	9	subj
+4	di	di	E	E	_	3	comp
+5	un	uno	R	RI	num=s|gen=m	7	det
+6	bel	bello	A	A	num=s|gen=m	7	mod
+7	seno	seno	S	S	num=s|gen=m	4	prep
+8	mi	mi	P	PC	num=s|per=1|gen=n	9	comp_ind
+9	consola	consolare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Come	come	B	B	_	3	mod
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	corrotto	corrompere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	una	uno	R	RI	num=s|gen=f	3	det
+3	donna	donna	S	S	num=s|gen=f	1	pred
+4	piuttosto	piuttosto	B	B	_	5	mod
+5	attraente	attraente	A	A	num=s|gen=n	3	mod
+
+1	L'	lo	P	PC	num=s|per=3|gen=n	4	obj
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+3	già	già	B	B	_	4	mod
+4	detto	dire	V	V	num=s|mod=p|gen=m	0	_
+
+1	Sotto	sotto	B	B	_	6	mod
+2	,	,	F	FF	_	1	punc
+3	sotto	sotto	B	B	_	4	mod
+4	chissà	chissà	B	B	_	6	mod
+5	cosa	cosa	P	PQ	num=s|gen=n	6	obj
+6	sente	sentire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	Ha	avere	V	VA	num=s|per=3|mod=i|ten=p	0	_
+2	quell'	quello	D	DD	num=s|gen=n	3	mod
+3	aria	aria	S	S	num=s|gen=f	1	obj
+4	innocente	innocente	A	A	num=s|gen=n	3	mod
+5	e	e	C	CC	_	4	con
+6	pulita	pulito	A	A	num=s|gen=f	4	conj
+
+1	E	e	C	CC	_	3	con
+2	perciò	perciò	C	CS	_	3	mod
+3	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	punita	punire	V	V	num=s|mod=p|gen=f	3	mod
+
+1	Forse	forse	B	B	_	2	mod
+2	mai	mai	B	B	_	3	mod_temp
+3	come	come	B	B	_	4	mod
+4	ora	ora	B	B	_	8	mod_temp
+5	,	,	F	FF	_	4	punc
+6	ovunque	ovunque	B	B	_	8	mod
+7	ti	ti	P	PC	num=s|per=2|gen=n	8	comp_ind
+8	giri	giro	S	S	num=p|gen=m	0	ROOT
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	una	uno	R	RI	num=s|gen=f	5	det
+4	grande	grande	A	A	num=s|gen=n	5	mod
+5	invasione	invasione	S	S	num=s|gen=f	2	subj
+6	di	di	E	E	_	5	comp
+7	nudi	nudo	S	S	num=p|gen=m	6	prep
+
+1	E	e	C	CC	_	4	con
+2	di	di	E	E	_	4	comp
+3	storie	storia	S	S	num=p|gen=f	2	prep
+4	volgari	volgare	A	A	num=p|gen=n	0	ROOT
+
+1	Che	che	P	PR	num=n|gen=n	2	subj
+2	contrasta	contrastare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	con	con	E	E	_	2	comp
+4	una	uno	R	RI	num=s|gen=f	5	det
+5	realtà	realtà	S	S	num=n|gen=f	3	prep
+
+1	Così	così	B	B	_	2	mod
+2	piena	pieno	A	A	num=s|gen=f	0	ROOT
+3	di	di	E	E	_	2	comp
+4	angosce	angoscia	S	S	num=p|gen=f	3	prep
+
+1	Però	però	B	B	_	0	ROOT
+2	quella	quello	P	PD	num=s|gen=f	1	ROOT
+3	lì	lì	B	B	_	2	mod
+4	,	,	F	FF	_	5	punc
+5	che	che	C	CS	_	2	mod
+6	cosce	coscia	S	S	num=p|gen=f	5	sub
+
+1	La	il	R	RD	num=s|gen=f	3	det
+2	mia	mio	A	AP	num=s|gen=f	3	mod
+3	vita	vita	S	S	num=s|gen=f	0	_
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	strapiena	strapieno	A	A	num=s|gen=f	1	pred
+3	di	di	E	E	_	2	comp
+4	tante	tanto	D	DI	num=p|gen=f	5	mod
+5	cose	cosa	S	S	num=p|gen=f	3	prep
+6	assai	assai	B	B	_	7	mod
+7	noiose	noioso	A	A	num=p|gen=f	5	mod
+
+1	C'	ci	P	PC	num=n|gen=n	2	comp
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	anche	anche	B	B	_	5	mod
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	pò	pò	B	B	_	6	mod
+6	di	di	E	E	_	2	comp
+7	malinconia	malinconia	S	S	num=s|gen=f	6	prep
+
+1	Ma	ma	C	CC	_	6	con
+2	alle	al	E	EA	num=p|gen=f	6	comp
+3	volte	volta	S	S	num=p|gen=f	2	prep
+4	un	uno	R	RI	num=s|gen=m	6	det
+5	bel	bello	A	A	num=s|gen=m	6	mod
+6	culo	culo	S	S	num=s|gen=m	7	subj
+7	fa	fare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+8	allegria	allegria	S	S	num=s|gen=f	7	obj
+
+1	Come	come	B	B	_	3	mod
+2	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	3	aux
+3	corrotto	corrompere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	non	non	B	BN	_	3	neg
+3	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	lei	lei	P	PE	num=s|per=3|gen=n	3	obj
+5	chi	chi	P	PR	num=n|gen=n	4	mod
+6	sia	essere	V	V	num=s|per=3|mod=c|ten=p	5	mod_rel
+7	ma	ma	C	CC	_	6	con
+8	è	essere	V	V	num=s|per=3|mod=i|ten=p	6	conj
+9	un	uno	R	RI	num=s|gen=m	10	det
+10	dettaglio	dettaglio	S	S	num=s|gen=m	8	pred
+
+1	Non	non	B	BN	_	2	neg
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	difetto	difetto	S	S	num=s|gen=m	0	ROOT
+
+1	Forse	forse	B	B	_	4	mod
+2	,	,	F	FF	_	1	punc
+3	forse	forse	B	B	_	4	mod
+4	direi	dire	V	V	num=s|per=1|mod=d|ten=p	0	ROOT
+5	che	che	C	CS	_	4	arg
+6	è	essere	V	V	num=s|per=3|mod=i|ten=p	5	sub
+7	anche	anche	B	B	_	8	mod
+8	meglio	meglio	B	B	_	6	pred
+
+1	Quando	quando	C	CS	_	0	ROOT
+2	parla	parlare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+
+1	È	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	un	uno	R	RI	num=s|gen=m	3	det
+3	pò	pò	B	B	_	5	mod
+4	troppo	troppo	B	B	_	5	mod
+5	agguerrita	agguerrito	A	A	num=s|gen=f	1	pred
+
+1	E	e	C	CC	_	3	con
+2	perciò	perciò	C	CS	_	3	mod
+3	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	punita	punire	V	V	num=s|mod=p|gen=f	3	mod
+
+1	Io	io	P	PE	num=s|per=1|gen=n	3	subj
+2	ci	ci	P	PC	num=p|per=1|gen=n	3	obj
+3	tengo	tenere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+4	al	a	E	EA	num=s|gen=m	3	comp
+5	rapporto	rapporto	S	S	num=s|gen=m	4	prep
+6	umano	umano	A	A	num=s|gen=m	5	mod
+
+1	Però	però	B	B	_	2	mod
+2	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	punita	punire	V	V	num=s|mod=p|gen=f	2	mod
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	perché	perché	C	CS	_	5	obj
+3	non	non	B	BN	_	5	neg
+4	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+5	so	sapere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+6	nemmeno	nemmeno	B	B	_	5	mod
+
+1	Però	però	B	B	_	2	mod
+2	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	punita	punire	V	V	num=s|mod=p|gen=f	2	mod
+
+1	Sono	essere	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+2	peggio	peggio	B	B	_	1	mod
+3	di	di	E	E	_	2	comp
+4	un	uno	R	RI	num=s|gen=m	5	det
+5	talebano	talebano	S	S	num=s|gen=m	3	prep
+
+1	Però	però	B	B	_	2	mod
+2	va	andare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	punita	punire	V	V	num=s|mod=p|gen=f	2	mod
+4	,	,	F	FF	_	5	punc
+5	punita	punire	V	V	num=s|mod=p|gen=f	2	mod
+6	,	,	F	FF	_	5	punc
+7	punita	punire	V	V	num=s|mod=p|gen=f	2	mod
+
+1	Punita	punire	V	V	num=s|mod=p|gen=f	0	ROOT
+

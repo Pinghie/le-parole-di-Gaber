@@ -1,0 +1,414 @@
+1	Vi	vi	P	PC	num=p|per=2|gen=n	2	comp_ind
+2	presento	presentare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+3	la	il	R	RD	num=s|gen=f	5	det
+4	mia	mio	A	AP	num=s|gen=f	5	mod
+5	famiglia	famiglia	S	S	num=s|gen=f	2	obj
+
+1	non	non	B	BN	_	3	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	trucca	truccare	V	V	num=s|per=3|mod=i|ten=p	6	arg
+4	non	non	B	BN	_	6	neg
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	imbroglia	imbrogliare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	più	più	B	B	_	4	mod
+4	disgraziata	disgraziato	A	A	num=s|gen=f	1	pred
+5	d'	di	E	E	_	4	comp
+6	Italia	Italia	S	SP	_	5	prep
+
+1	Anche	anche	B	B	_	2	mod
+2	se	se	C	CS	_	0	ROOT
+3	soffriamo	soffrire	V	V	num=p|per=1|mod=i|ten=p	2	sub
+4	molto	molto	B	B	_	3	mod
+
+1	noi	noi	P	PE	num=p|per=1|gen=n	2	subj
+2	facciamo	fare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	5	det
+4	buon	buon	A	A	num=s|gen=m	5	mod
+5	ascolto	ascolto	S	S	num=s|gen=m	2	obj
+
+1	siamo	essere	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+2	quelli	quello	P	PD	num=p|gen=m	1	pred
+3	con	con	E	E	_	2	comp
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	audience	audience	S	S	num=n|gen=f	3	prep
+6	più	più	B	B	_	7	mod
+7	alto	alto	A	A	num=s|gen=m	5	mod
+8	.	.	F	FS	_	1	punc
+
+1	I	il	R	RD	num=p|gen=m	3	det
+2	miei	mio	A	AP	num=p|gen=m	3	mod
+3	genitori	genitore	S	S	num=p|gen=m	0	ROOT
+4	due	due	N	N	_	5	mod
+5	vecchi	vecchio	S	S	num=p|gen=m	3	mod
+6	intronati	intronare	V	V	num=p|mod=p|gen=m	3	mod
+
+1	per	per	E	E	_	6	comp
+2	mezz'	mezz'	A	A	num=s|gen=f	1	prep
+3	ora	ora	B	B	_	6	mod_temp
+4	si	si	P	PC	num=n|per=3|gen=n	5	clit
+5	sono	essere	V	VA	num=p|per=3|mod=i|ten=p	6	aux
+6	insultati	insultare	V	V	num=p|mod=p|gen=m	0	ROOT
+
+1	a	a	E	E	_	0	ROOT
+2	"	"	F	FB	_	4	punc
+3	C'	C'	R	RI	num=s|gen=f	4	mod
+4	eravamo	essere	V	V	num=p|per=1|mod=i|ten=i	1	prep
+5	tanto	tanto	B	B	_	4	mod
+6	amati	amati	S	S	num=p|gen=m	4	pred
+7	"	"	F	FB	_	4	punc
+
+1	Dalla	da	E	EA	num=s|gen=f	4	comp_loc
+2	vergogna	vergogna	S	S	num=s|gen=f	1	prep
+3	lo	il	R	RD	num=s|gen=m	4	det
+4	zio	zio	S	S	num=s|gen=m	0	ROOT
+5	Evaristo	Evaristo	S	SP	_	4	mod
+
+1	si	si	P	PC	num=n|per=3|gen=n	3	clit
+2	era	essere	V	VA	num=s|per=3|mod=i|ten=i	3	aux
+3	nascosto	nascondere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	povero	povero	A	A	num=s|gen=m	5	mod
+5	cristo	cristo	S	S	num=s|gen=m	3	subj_pass
+
+1	lo	lo	P	PC	num=s|per=3|gen=m	4	obj
+2	han	han	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+3	già	già	B	B	_	4	mod
+4	segnalato	segnalare	V	V	num=s|mod=p|gen=m	9	mod
+5	a	a	E	E	_	4	comp_loc
+6	Chi	Chi	S	SP	_	5	prep
+7	l'	lo	P	PC	num=s|per=3|gen=n	9	obj
+8	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	9	aux
+9	visto	vedere	V	V	num=s|mod=p|gen=m	0	ROOT
+
+1	Il	il	R	RD	num=s|gen=m	2	det
+2	Ginetto	Ginetto	S	S	num=s|gen=m	0	ROOT
+3	dell'	di	E	EA	num=s|gen=n	2	comp
+4	Idroscalo	Idroscalo	S	SP	_	3	prep
+
+1	quando	quando	C	CS	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	moglie	moglie	S	S	num=s|gen=f	5	subj
+4	lo	lo	P	PC	num=s|per=3|gen=m	5	obj
+5	manda	mandare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+6	a	a	E	E	_	5	comp
+7	fanculo	fanculo	S	S	num=s|gen=m	6	prep
+
+1	piange	piangere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	in	in	E	E	_	1	comp
+3	diretta	diretta	S	S	num=s|gen=f	2	prep
+4	con	con	E	E	_	3	comp
+5	Sandra	Sandra	S	SP	_	6	mod
+6	Milo	Milo	S	SP	_	4	prep
+
+1	Per	per	E	E	_	0	ROOT
+2	non	non	B	BN	_	3	neg
+3	parlare	parlare	V	V	mod=f	1	prep
+4	di	di	E	E	_	3	comp
+5	mio	mio	A	AP	num=s|gen=m	4	prep
+6	fratello	fratello	S	S	num=s|gen=m	3	obj
+
+1	che	che	P	PR	num=n|gen=n	4	subj
+2	gli	gli	P	PC	num=s|per=3|gen=m	4	comp_ind
+3	han	han	V	VA	num=s|per=1|mod=i|ten=p	4	aux
+4	rotto	rompere	V	V	num=s|mod=p|gen=m	0	ROOT
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	osso	osso	S	S	num=s|gen=m	4	obj
+7	del	di	E	EA	num=s|gen=m	6	comp
+8	collo	collo	S	S	num=s|gen=m	7	prep
+
+1	ora	ora	B	B	_	4	mod_temp
+2	fa	fa	B	B	_	1	mod
+3	il	il	R	RD	num=s|gen=m	4	det
+4	morto	morto	S	S	num=s|gen=m	0	ROOT
+5	a	a	E	E	_	4	comp
+6	Telefono	Telefono	S	SP	_	5	prep
+7	giallo	giallo	A	A	num=s|gen=m	4	mod
+
+1	Come	come	B	B	_	3	mod
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	obj
+3	chiami	chiamare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	da	da	E	E	_	3	comp
+5	dove	dove	B	B	_	4	prep
+6	chiami	chiamare	V	V	num=s|per=3|mod=c|ten=p	3	conj
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	obj
+2	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	tutti	tutto	T	T	num=p|gen=m	6	mod
+5	tanti	tanto	D	DI	num=p|gen=m	6	mod
+6	premi	premio	S	S	num=p|gen=m	3	prep
+
+1	pronto	pronto	A	A	num=s|gen=m	3	mod
+2	pronto	pronto	A	A	num=s|gen=m	3	mod
+3	pronto	pronto	A	A	num=s|gen=m	5	mod
+4	tanti	tanto	D	DI	num=p|gen=m	5	mod
+5	gettoni	gettone	S	S	num=p|gen=m	0	ROOT
+6	tanti	tanto	D	DI	num=p|gen=m	5	mod
+7	milioni	milione	S	S	num=p|gen=m	5	mod
+
+1	pronto	pronto	A	A	num=s|gen=m	0	ROOT
+2	pronto	pronto	A	A	num=s|gen=m	1	mod
+3	pronto	pronto	A	A	num=s|gen=m	2	mod
+4	con	con	E	E	_	3	comp
+5	Berlusconi	Berlusconi	S	SP	_	4	prep
+6	o	o	C	CC	_	4	dis
+7	con	con	E	E	_	4	disj
+8	la	il	R	RD	num=s|gen=f	9	det
+9	RAI	RAI	S	SP	_	7	prep
+10	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	6	con
+2	giù	giù	B	B	_	6	mod
+3	in	in	E	E	_	6	comp_loc
+4	Aspromonte	Aspromonte	S	SP	_	3	prep
+5	c'	ci	P	PC	num=n|gen=n	6	comp
+6	ho	avere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+7	dei	di	E	EA	num=p|gen=m	6	comp
+8	parenti	parente	S	S	num=p|gen=n	7	prep
+
+1	li	li	P	PC	num=p|per=3|gen=m	3	obj
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	rivisti	rivedere	V	V	num=p|mod=p|gen=m	0	ROOT
+4	belli	bello	S	S	num=p|gen=m	3	obj
+5	contenti	contento	A	A	num=p|gen=m	4	mod
+
+1	nello	in	E	EA	num=s|gen=m	3	comp
+2	Speciale	Speciale	S	S	num=s|gen=m	1	prep
+3	rapimenti	rapimento	S	S	num=p|gen=m	0	ROOT
+
+1	Mentre	mentre	C	CS	_	8	mod
+2	a	a	E	E	_	5	comp_loc
+3	Roma	Roma	S	SP	_	2	prep
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	1	sub
+6	lo	il	R	RD	num=s|gen=m	7	det
+7	zio	zio	S	S	num=s|gen=m	5	subj
+8	Renzo	Renzo	S	SP	_	0	ROOT
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+3	analfabeta	analfabeta	A	A	num=s|gen=n	2	pred
+4	ma	ma	C	CC	_	2	con
+5	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	6	aux
+6	scritto	scrivere	V	V	num=s|mod=p|gen=m	2	conj
+7	un	uno	R	RI	num=s|gen=m	8	det
+8	romanzo	romanzo	S	S	num=s|gen=m	6	obj
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	sempre	sempre	B	B	_	3	mod
+3	lì	lì	B	B	_	1	pred
+4	da	da	E	E	_	1	comp
+5	Maurizio	Maurizio	S	SP	_	6	mod
+6	Costanzo	Costanzo	S	SP	_	4	prep
+7	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	3	con
+2	la	il	R	RD	num=s|gen=f	3	det
+3	fortuna	fortuna	S	S	num=s|gen=f	0	ROOT
+4	di	di	E	E	_	3	comp
+5	nonna	nonna	S	S	num=s|gen=f	4	prep
+6	Piera	Piera	S	SP	_	3	mod
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	ucciso	uccidere	V	V	num=s|mod=p|gen=m	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	amante	amante	S	S	num=s|gen=n	3	obj
+6	con	con	E	E	_	3	comp
+7	la	il	R	RD	num=s|gen=f	8	det
+8	lupara	lupara	S	S	num=s|gen=f	6	prep
+
+1	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	preso	prendere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	vent'	venti	N	N	_	4	mod
+4	anni	anno	S	S	num=p|gen=m	2	obj
+5	in	in	E	E	_	2	comp_temp
+6	Un	uno	R	RI	num=s|gen=m	7	det
+7	giorno	giorno	S	S	num=s|gen=m	5	prep
+8	in	in	E	E	_	2	comp
+9	pretura	pretura	S	S	num=s|gen=f	8	prep
+
+1	Mio	mio	A	AP	num=s|gen=m	2	mod
+2	zio	zio	S	S	num=s|gen=m	0	ROOT
+3	che	che	P	PR	num=n|gen=n	5	subj
+4	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	5	aux
+5	perso	perdere	V	V	num=s|mod=p|gen=m	2	mod_rel
+6	la	il	R	RD	num=s|gen=f	7	det
+7	capra	capra	S	S	num=s|gen=f	5	obj
+8	in	in	E	E	_	5	comp
+9	montagna	montagna	S	S	num=s|gen=f	8	prep
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	era	essere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	da	da	E	E	_	2	comp_temp
+4	anni	anno	S	S	num=p|gen=m	3	prep
+5	la	il	R	RD	num=s|gen=f	7	det
+6	sua	suo	A	AP	num=s|gen=f	7	mod
+7	compagna	compagno	S	S	num=s|gen=f	2	pred
+
+1	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	fatto	fare	V	V	num=s|mod=p|gen=m	0	ROOT
+3	piangere	piangere	V	V	mod=f	2	arg
+4	anche	anche	B	B	_	3	mod
+5	Castagna	Castagna	S	SP	_	2	subj
+
+1	Come	come	B	B	_	3	mod
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	obj
+3	chiami	chiamare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	da	da	E	E	_	3	comp
+5	dove	dove	B	B	_	4	prep
+6	chiami	chiamare	V	V	num=s|per=3|mod=c|ten=p	3	conj
+
+1	ci	ci	P	PC	num=p|per=1|gen=n	2	obj
+2	son	son	V	V	num=p|per=3|mod=i|ten=p	0	ROOT
+3	per	per	E	E	_	2	comp
+4	tutti	tutto	T	T	num=p|gen=m	6	mod
+5	tanti	tanto	D	DI	num=p|gen=m	6	mod
+6	premi	premio	S	S	num=p|gen=m	3	prep
+
+1	pronto	pronto	A	A	num=s|gen=m	2	mod
+2	pronto	pronto	A	A	num=s|gen=m	0	_
+3	pronto	pronto	A	A	num=s|gen=m	2	mod
+
+1	tanti	tanto	D	DI	num=p|gen=m	2	mod
+2	gettoni	gettone	S	S	num=p|gen=m	0	ROOT
+3	tanti	tanto	D	DI	num=p|gen=m	2	mod
+4	milioni	milione	S	S	num=p|gen=m	2	mod
+
+1	pronto	pronto	A	A	num=s|gen=m	2	mod
+2	pronto	pronto	A	A	num=s|gen=m	0	_
+3	pronto	pronto	A	A	num=s|gen=m	2	mod
+
+1	con	con	E	E	_	0	ROOT
+2	Berlusconi	Berlusconi	S	SP	_	1	prep
+3	o	o	C	CC	_	1	dis
+4	con	con	E	E	_	1	disj
+5	la	il	R	RD	num=s|gen=f	6	det
+6	RAI	RAI	S	SP	_	4	prep
+7	.	.	F	FS	_	1	punc
+
+1	E	e	C	CC	_	5	con
+2	poi	poi	B	B	_	5	mod
+3	chi	chi	P	PR	num=n|gen=n	5	subj
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	ah	ah	I	I	_	9	mod
+7	già	già	B	B	_	9	mod
+8	la	il	R	RD	num=s|gen=f	9	det
+9	Tamara	Tamara	S	SP	_	5	subj
+
+1	un	uno	R	RI	num=s|gen=m	2	det
+2	mignottone	mignottone	S	S	num=s|gen=m	0	ROOT
+3	di	di	E	E	_	2	comp
+4	viale	viale	S	S	num=s|gen=m	3	prep
+5	Zara	Zara	S	SP	_	2	mod
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	3	aux
+3	dato	dare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	lezioni	lezione	S	S	num=p|gen=f	3	obj
+5	a	a	E	E	_	3	comp_ind
+6	Giuliano	Giuliano	S	SP	_	5	prep
+7	Ferrara	Ferrara	S	SP	_	3	subj
+
+1	E	e	C	CC	_	5	con
+2	alla	al	E	EA	num=s|gen=f	5	comp
+3	fine	fine	S	S	num=s|gen=n	2	prep
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	nonno	nonno	S	S	num=s|gen=m	5	subj
+7	Renato	Renato	S	SP	_	6	mod
+
+1	che	che	P	PR	num=n|gen=n	3	subj
+2	c'	ci	P	PC	num=n|gen=n	3	comp
+3	ha	avere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	l'	il	R	RD	num=s|gen=n	5	det
+5	AIDS	AIDS	S	SP	_	3	obj
+6	da	da	E	E	_	5	comp
+7	quando	quando	B	B	_	6	prep
+8	è	essere	V	VA	num=s|per=3|mod=i|ten=p	9	aux
+9	nato	nascere	V	V	num=s|mod=p|gen=m	3	conj
+
+1	ha	avere	V	VA	num=s|per=3|mod=i|ten=p	2	aux
+2	avuto	avere	V	V	num=s|mod=p|gen=m	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	trionfo	trionfo	S	S	num=s|gen=m	2	obj
+5	da	da	E	E	_	4	comp
+6	Mino	Mino	S	SP	_	8	mod
+7	D'	D'	S	SP	_	8	mod
+8	Amato	Amato	S	SP	_	5	prep
+9	.	.	F	FS	_	2	punc
+
+1	Vi	vi	P	PC	num=p|per=2|gen=n	3	comp_ind
+2	ho	avere	V	VA	num=s|per=1|mod=i|ten=p	3	aux
+3	presentato	presentare	V	V	num=s|mod=p|gen=m	0	ROOT
+4	la	il	R	RD	num=s|gen=f	6	det
+5	mia	mio	A	AP	num=s|gen=f	6	mod
+6	famiglia	famiglia	S	S	num=s|gen=f	3	obj
+
+1	non	non	B	BN	_	3	neg
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	trucca	truccare	V	V	num=s|per=3|mod=i|ten=p	6	arg
+4	non	non	B	BN	_	6	neg
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	imbroglia	imbrogliare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	più	più	B	B	_	4	mod
+4	disgraziata	disgraziato	A	A	num=s|gen=f	1	pred
+5	d'	di	E	E	_	4	comp
+6	Italia	Italia	S	SP	_	5	prep
+7	.	.	F	FS	_	1	punc
+
+1	Il	il	R	RD	num=s|gen=m	3	det
+2	bel	bello	A	A	num=s|gen=m	3	mod
+3	paese	paese	S	S	num=s|gen=m	0	ROOT
+4	sorridente	sorridente	A	A	num=s|gen=n	3	mod
+
+1	dove	dove	P	PR	num=n|gen=n	3	subj
+2	si	si	P	PC	num=n|per=3|gen=n	3	clit
+3	specula	speculare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	allegramente	allegro	B	B	_	3	mod
+
+1	sulle	su	E	EA	num=p|gen=f	0	ROOT
+2	disgrazie	disgrazia	S	S	num=p|gen=f	1	prep
+3	della	di	E	EA	num=s|gen=f	2	comp
+4	gente	gente	S	S	num=s|gen=f	3	prep
+5	.	.	F	FS	_	1	punc
+
+1	Come	come	B	B	_	3	mod
+2	ti	ti	P	PC	num=s|per=2|gen=n	3	obj
+3	chiami	chiamare	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+4	da	da	E	E	_	3	comp
+5	dove	dove	B	B	_	4	prep
+6	chiami	chiamare	V	V	num=s|per=3|mod=c|ten=p	3	conj
+
+1	stiam	stiam	P	PE	num=s|per=3|gen=m	2	subj
+2	diventando	diventare	V	V	mod=g	0	_
+3	tutti	tutto	D	DI	num=p|gen=m	4	mod
+4	scemi	scemo	A	A	num=p|gen=m	2	pred
+
+1	pronto	pronto	A	A	num=s|gen=m	2	mod
+2	pronto	pronto	A	A	num=s|gen=m	0	_
+3	pronto	pronto	A	A	num=s|gen=m	2	mod
+
+1	stiam	stiam	P	PE	num=s|per=3|gen=m	2	subj
+2	diventando	diventare	V	V	mod=g	0	_
+3	tutti	tutto	D	DI	num=p|gen=m	4	mod
+4	coglioni	coglione	S	S	num=p|gen=m	2	obj
+
+1	pronto	pronto	A	A	num=s|gen=m	2	mod
+2	pronto	pronto	A	A	num=s|gen=m	0	_
+3	pronto	pronto	A	A	num=s|gen=m	2	mod
+
+1	con	con	E	E	_	0	ROOT
+2	Berlusconi	Berlusconi	S	SP	_	1	prep
+3	o	o	C	CC	_	1	dis
+4	con	con	E	E	_	1	disj
+5	la	il	R	RD	num=s|gen=f	6	det
+6	RAI	RAI	S	SP	_	4	prep
+7	.	.	F	FS	_	1	punc
+

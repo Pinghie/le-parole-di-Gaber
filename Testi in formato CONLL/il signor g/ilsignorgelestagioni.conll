@@ -1,0 +1,243 @@
+1	Tiepido	tiepido	A	A	num=s|gen=m	3	mod
+2	il	il	R	RD	num=s|gen=m	3	det
+3	sole	sole	S	S	num=s|gen=m	5	subj
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	comp_ind
+5	annuncia	annunciare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	che	che	C	CS	_	0	ROOT
+2	la	il	R	RD	num=s|gen=f	3	det
+3	primavera	primavera	S	S	num=s|gen=f	5	subj
+4	ci	ci	P	PC	num=p|per=1|gen=n	5	comp_ind
+5	porta	portare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+6	i	il	R	RD	num=p|gen=m	8	det
+7	suoi	suo	A	AP	num=p|gen=m	8	mod
+8	fiori	fiore	S	S	num=p|gen=m	5	obj
+
+1	ma	ma	C	CC	_	5	con
+2	il	il	R	RD	num=s|gen=m	4	det
+3	nostro	nostro	A	AP	num=s|gen=m	4	mod
+4	pensiero	pensiero	S	S	num=s|gen=m	5	subj
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	lontano	lontano	A	A	num=s|gen=m	5	pred
+
+1	e	e	C	CC	_	3	con
+2	già	già	B	B	_	3	mod
+3	corre	correre	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+4	all'	al	E	EA	num=s|gen=n	3	comp
+5	estate	estate	S	S	num=s|gen=f	4	prep
+6	che	che	P	PR	num=n|gen=n	8	subj
+7	presto	presto	B	B	_	8	mod
+8	verrà	venire	V	V	num=s|per=3|mod=i|ten=f	5	mod_rel
+9	.	.	F	FS	_	3	punc
+
+1	E	e	C	CC	_	6	con
+2	quando	quando	C	CS	_	6	mod
+3	il	il	R	RD	num=s|gen=m	4	det
+4	caldo	caldo	S	S	num=s|gen=m	6	subj
+5	ci	ci	P	PC	num=p|per=1|gen=n	6	comp_ind
+6	stanca	stancare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	sogniamo	sognare	V	V	num=p|per=1|mod=i|ten=p	8	mod
+2	l'	il	R	RD	num=s|gen=n	3	det
+3	autunno	autunno	S	S	num=s|gen=m	1	obj
+4	e	e	C	CC	_	1	con
+5	i	il	R	RD	num=p|gen=m	8	det
+6	suoi	suo	A	AP	num=p|gen=m	8	mod
+7	tenui	tenue	A	A	num=p|gen=n	8	mod
+8	colori	colore	S	S	num=p|gen=m	0	ROOT
+
+1	e	e	C	CC	_	4	con
+2	poi	poi	B	B	_	4	mod
+3	poi	poi	B	B	_	4	mod
+4	ritorniamo	ritornare	V	V	num=p|per=1|mod=i|ten=p	0	ROOT
+5	in	in	E	E	_	4	comp
+6	inverno	inverno	S	S	num=s|gen=m	5	prep
+
+1	e	e	C	CC	_	2	con
+2	tutto	tutto	P	PI	num=s|gen=m	5	subj
+3	di	di	E	E	_	2	comp
+4	nuovo	nuovo	S	S	num=s|gen=m	3	prep
+5	comincerà	cominciare	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+6	.	.	F	FS	_	5	punc
+
+1	Vola	volare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	vola	volare	V	V	num=s|per=3|mod=i|ten=p	1	arg
+3	cerca	cercare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	il	il	R	RD	num=s|gen=m	6	det
+5	tuo	tuo	A	AP	num=s|gen=m	6	mod
+6	tempo	tempo	S	S	num=s|gen=m	3	obj
+7	perduto	perduto	A	A	num=s|gen=m	3	mod
+
+1	vola	volare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	vola	volare	V	V	num=s|per=2|mod=m|ten=p	1	arg
+3	cerca	cercare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	la	il	R	RD	num=s|gen=f	5	det
+5	felicità	felicità	S	S	num=n|gen=f	3	obj
+6	.	.	F	FS	_	1	punc
+
+1	Presto	presto	B	B	_	4	mod
+2	ogni	ogni	D	DI	num=s|gen=n	3	mod
+3	uomo	uomo	S	S	num=s|gen=m	4	subj
+4	capisce	capire	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+
+1	quanto	quanto	B	B	_	2	mod
+2	sia	essere	V	V	num=s|per=3|mod=c|ten=p	0	ROOT
+3	importante	importante	A	A	num=s|gen=n	2	pred
+4	avere	avere	V	V	mod=f	2	subj
+5	una	uno	R	RI	num=s|gen=f	6	det
+6	donna	donna	S	S	num=s|gen=f	4	obj
+
+1	quando	quando	C	CS	_	4	mod
+2	la	la	P	PC	num=s|per=3|gen=f	3	obj
+3	incontra	incontrare	V	V	num=s|per=3|mod=i|ten=p	1	sub
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	sicuro	sicuro	B	B	_	4	mod
+
+1	di	di	E	E	_	0	ROOT
+2	avere	avere	V	VA	mod=f	3	aux
+3	trovato	trovare	V	V	num=s|mod=p|gen=m	1	prep
+4	la	il	R	RD	num=s|gen=f	5	det
+5	felicità	felicità	S	S	num=n|gen=f	3	obj
+6	.	.	F	FS	_	1	punc
+
+1	Ma	ma	C	CC	_	4	con
+2	il	il	R	RD	num=s|gen=m	3	det
+3	tempo	tempo	S	S	num=s|gen=m	4	subj
+4	passa	passare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	e	e	C	CC	_	4	con
+6	col	con	E	EA	num=s|gen=m	4	comp
+7	tempo	tempo	S	S	num=s|gen=m	6	prep
+
+1	ti	ti	P	PC	num=s|per=2|gen=n	2	clit
+2	accorgi	accorgersi	V	V	num=s|per=2|mod=i|ten=p	0	ROOT
+3	che	che	C	CS	_	2	arg
+4	spesso	spesso	B	B	_	8	mod
+5	l'	il	R	RD	num=s|gen=n	6	det
+6	amore	amore	S	S	num=s|gen=m	8	subj
+7	ti	ti	P	PC	num=s|per=2|gen=n	8	comp_ind
+8	inganna	ingannare	V	V	num=s|per=3|mod=i|ten=p	3	sub
+
+1	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	2	aux
+2	lei	lei	P	PE	num=s|per=3|gen=n	0	ROOT
+3	vicino	vicino	B	B	_	2	mod
+4	e	e	C	CC	_	3	con
+5	sei	sei	N	N	_	3	conj
+6	solo	solo	B	B	_	2	mod
+
+1	e	e	C	CC	_	3	con
+2	vorresti	vorresti	V	VA	num=s|per=2|mod=d|ten=p	3	modal
+3	riavere	riavere	V	V	mod=f	0	ROOT
+4	la	il	R	RD	num=s|gen=f	6	det
+5	tua	tuo	A	AP	num=s|gen=f	6	mod
+6	libertà	libertà	S	S	num=n|gen=f	3	obj
+
+1	Vola	volare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	vola	volare	V	V	num=s|per=3|mod=i|ten=p	1	arg
+3	cerca	cercare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	il	il	R	RD	num=s|gen=m	6	det
+5	tuo	tuo	A	AP	num=s|gen=m	6	mod
+6	tempo	tempo	S	S	num=s|gen=m	3	obj
+7	perduto	perduto	A	A	num=s|gen=m	3	mod
+
+1	vola	volare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	vola	volare	V	V	num=s|per=2|mod=m|ten=p	1	arg
+3	cerca	cercare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	la	il	R	RD	num=s|gen=f	5	det
+5	felicità	felicità	S	S	num=n|gen=f	3	obj
+6	.	.	F	FS	_	1	punc
+
+1	Ed	e	C	CC	_	5	con
+2	ogni	ogni	D	DI	num=s|gen=n	3	mod
+3	volta	volta	S	S	num=s|gen=f	5	mod_temp
+4	mi	mi	P	PC	num=s|per=1|gen=n	5	comp_ind
+5	chiedo	chiedere	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+
+1	se	se	C	CS	_	0	ROOT
+2	ho	avere	V	V	num=s|per=1|mod=i|ten=p	1	sub
+3	ancora	ancora	B	B	_	5	mod
+4	la	il	R	RD	num=s|gen=f	5	det
+5	forza	forza	S	S	num=s|gen=f	2	obj
+6	di	di	E	E	_	5	arg
+7	ricominciare	ricominciare	V	V	mod=f	6	prep
+8	.	.	F	FS	_	1	punc
+
+1	Il	il	R	RD	num=s|gen=m	3	det
+2	nostro	nostro	A	AP	num=s|gen=m	3	mod
+3	amore	amore	S	S	num=s|gen=m	4	subj
+4	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+5	un	uno	R	RI	num=s|gen=m	6	det
+6	pò	pò	B	B	_	7	mod
+7	stanco	stanco	A	A	num=s|gen=m	4	pred
+
+1	ma	ma	C	CC	_	6	con
+2	anche	anche	B	B	_	6	mod
+3	questa	questo	D	DD	num=s|gen=f	4	mod
+4	volta	volta	S	S	num=s|gen=f	6	mod_temp
+5	si	si	P	PC	num=n|per=3|gen=n	6	clit
+6	salverà	salvare	V	V	num=s|per=3|mod=i|ten=f	0	ROOT
+7	.	.	F	FS	_	6	punc
+
+1	Provo	provare	V	V	num=s|per=1|mod=i|ten=p	0	ROOT
+2	a	a	E	E	_	1	arg
+3	tornare	tornare	V	V	mod=f	2	prep
+4	nei	in	E	EA	num=p|gen=m	3	comp
+5	luoghi	luogo	S	S	num=p|gen=m	4	prep
+
+1	dove	dove	P	PR	num=n|gen=n	7	subj
+2	tu	tu	P	PE	num=s|per=2|gen=n	7	obj
+3	solo	solo	B	B	_	4	mod
+4	tu	tu	P	PE	num=s|per=2|gen=n	7	subj
+5	mi	mi	P	PC	num=s|per=1|gen=n	7	comp_ind
+6	hai	avere	V	VA	num=s|per=2|mod=i|ten=p	7	aux
+7	insegnato	insegnare	V	V	num=s|mod=p|gen=m	0	ROOT
+8	ad	ad	E	E	_	7	arg
+9	amare	amare	V	V	mod=f	8	prep
+
+1	ma	ma	C	CC	_	5	con
+2	quasi	quasi	B	B	_	3	mod
+3	sempre	sempre	B	B	_	5	mod
+4	c'	ci	P	PC	num=n|gen=n	5	comp
+5	è	essere	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+6	un	uno	R	RI	num=s|gen=m	7	det
+7	prato	prato	S	S	num=s|gen=m	5	subj
+
+1	che	che	P	PR	num=n|gen=n	2	subj
+2	aveva	avere	V	V	num=s|per=3|mod=i|ten=i	0	ROOT
+3	un	uno	R	RI	num=s|gen=m	4	det
+4	colore	colore	S	S	num=s|gen=m	2	obj
+5	che	che	P	PR	num=n|gen=n	8	subj
+6	adesso	adesso	B	B	_	8	mod_temp
+7	non	non	B	BN	_	8	neg
+8	ha	avere	V	V	num=s|per=3|mod=i|ten=p	4	mod_rel
+9	.	.	F	FS	_	2	punc
+
+1	Vola	volare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	vola	volare	V	V	num=s|per=3|mod=i|ten=p	1	arg
+3	cerca	cercare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	il	il	R	RD	num=s|gen=m	6	det
+5	tuo	tuo	A	AP	num=s|gen=m	6	mod
+6	tempo	tempo	S	S	num=s|gen=m	3	obj
+7	perduto	perduto	A	A	num=s|gen=m	3	mod
+
+1	vola	volare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	vola	volare	V	V	num=s|per=2|mod=m|ten=p	1	arg
+3	cerca	cercare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	la	il	R	RD	num=s|gen=f	5	det
+5	felicità	felicità	S	S	num=n|gen=f	3	obj
+6	.	.	F	FS	_	1	punc
+
+1	Vola	volare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	vola	volare	V	V	num=s|per=3|mod=i|ten=p	1	arg
+3	cerca	cercare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	il	il	R	RD	num=s|gen=m	6	det
+5	tuo	tuo	A	AP	num=s|gen=m	6	mod
+6	tempo	tempo	S	S	num=s|gen=m	3	obj
+7	perduto	perduto	A	A	num=s|gen=m	3	mod
+
+1	vola	volare	V	V	num=s|per=3|mod=i|ten=p	0	ROOT
+2	vola	volare	V	V	num=s|per=2|mod=m|ten=p	1	arg
+3	cerca	cercare	V	V	num=s|per=3|mod=i|ten=p	2	arg
+4	la	il	R	RD	num=s|gen=f	5	det
+5	felicità	felicità	S	S	num=n|gen=f	3	obj
+6	.	.	F	FS	_	1	punc
+
