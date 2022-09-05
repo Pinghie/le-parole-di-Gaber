@@ -2,6 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
+	<link rel="icon" type="image/x-icon" href="favicon.png">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -75,6 +76,24 @@
 			<canvas id="top15Album" style="width:100%;max-height:400px; max-width: 500px;"></canvas>
 		</div>
 
+		<div id="bannerProsa">
+			<h1>Gaber in Prosa</h1>
+			<p>Approfondisci la lingua di Gaber con le analisi dei suoi testi in prosa: <i><b>Il caso di Alessandro e Maria</b>, <b>Il dio bambino</b>, <b>Il Grigio</b>, <b>Parlami d'amore Mariù</b></i>.</p>
+			<button id="bottoneBanner">Esplora</button>
+			<div class="graficiProsa">
+				<canvas id="top15Prosa" style="width:100%;max-height:400px"></canvas>
+				<br><br><br>
+				<div class="containerBottoniProsa">
+					<button class="bottoneProsa selezionatoProsa">Il caso di Alessandro e Maria</button>
+					<button class="bottoneProsa">Il dio bambino</button>
+					<button class="bottoneProsa">Il Grigio</button>
+					<button class="bottoneProsa">Parlami d'amore Mariù</button>
+				</div>
+
+				<canvas id="topProsaSpecifico" style="width:50%;max-height:400px"></canvas>
+			</div>
+		</div>
+
 		<footer>
 			<h1>Riguardo il progetto</h1>
 			<p><i>Le parole di Gaber</i> è un progetto indipendente realizzato come omaggio per il ventesimo anniversario della morte di Giorgio Gaber. L'analisi computazionale sui testi e la pagina web di presentazione sono state realizzate da <span>Fabio Melasi</span>, studente di Informatica Umanistica presso l'Università di Pisa. I testi delle canzoni e della prosa sono stati annotati con lo strumento <a href="http://www.italianlp.it/demo/linguistic-annotation-tool/">LinguA</a> realizzato dall'Italian Natural Language Processing Lab <span>(ItaliaNLP Lab)</span> dell'<span>Istituto di Linguistica Computazionale "Antonio Zampolli"</span> del CNR di Pisa.</p>
@@ -82,7 +101,7 @@
 			<p class="testoPiccolo" id="2">2. La distribuzione è relativa: il punteggio è ricavato dal rapporto della frequenza della parola nell'album e il numero di parole dell'album. </p>
 			<p class="testoPiccolo" id="3">3. In questo caso, la frequenza è assoluta. </p>
 			<p class="testoPiccolo" id="4">4. Come al punto 1. </p>
-			<p>I risultati delle analisi computazionali ed i codici utilizzati per queste analisi sono <span>pubblici</span> e ed utilizzabili senza condizioni</p>
+			<p>I risultati delle analisi computazionali ed i codici utilizzati per queste analisi sono <span>pubblici</span> ed utilizzabili senza condizioni. Visita la repository su <a href="https://github.com/Pinghie/le-parole-di-Gaber">GitHub</a>.</p>
 		</footer>
 
 	</div>
@@ -93,5 +112,6 @@
 <script src="js/graficoDistribuzioneTop15.js"></script>
 <script src="js/graficoTop5CategorieGrammaticali.js"></script>
 <script src="js/graficoTop15Album.js"></script>
+<script src="js/graficoProsa.js"></script>
 
 </html>

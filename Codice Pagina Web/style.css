@@ -54,6 +54,11 @@ header .testoTitolo p span
 	font-weight: 600;
 }
 
+p, #bannerProsa h1
+{
+	color: #919090;
+}
+
 .mainContainer
 {
 	margin: auto;
@@ -109,14 +114,14 @@ header .testoTitolo p span
 	flex-wrap: wrap;
 }
 
-.containerBottoniParole .selezionato, .containerBottoniAlbum .selezionatoAlbum
+.containerBottoniParole .selezionato, .containerBottoniAlbum .selezionatoAlbum, .selezionatoProsa
 {
 	color: black !important;
 	background-color: white !important;
 	box-shadow: 0 0 0 3px red;
 }
 
-.containerBottoniParole .bottone, .containerBottoniAlbum .bottoneAlbum
+.containerBottoniParole .bottone, .containerBottoniAlbum .bottoneAlbum, .bottoneProsa, #bottoneBanner
 {
 	margin: 5px;
 	background-color: red;
@@ -129,7 +134,7 @@ header .testoTitolo p span
   	cursor: pointer;
 }
 
-.containerBottoniParole .bottone:hover, .containerBottoniAlbum .bottoneAlbum:hover
+.containerBottoniParole .bottone:hover, .containerBottoniAlbum .bottoneAlbum:hover, #bottoneBanner:hover
 {
 	background-color: #d10000;
 }
@@ -145,7 +150,7 @@ header .testoTitolo p span
 {
 	display: flex;
 	justify-content: center;
-	margin-bottom: 8rem;
+	margin-bottom: 4rem;
 }
 
 .containerBottoniAlbum
@@ -158,21 +163,28 @@ header .testoTitolo p span
 	max-width: 150px;
 }
 
+#bannerProsa
+{
+	text-align: center;
+	background-color: #ffdada;
+    padding: 2rem 2.5rem;
+    border-radius: 1.3rem;
+    margin-bottom: 8rem;
+}
+
 footer
 {
 	margin-bottom: 4rem;
+}
+
+footer p{
+	text-align: justify;
 }
 
 footer h1
 {
 	color: #919090;
 
-}
-
-footer p
-{
-	color: #919090;
-	text-align: justify;
 }
 
 footer span
@@ -243,4 +255,9 @@ footer .testoPiccolo
 	{
 		font-size: 1rem !important;
 	}
+	#bannerProsa
+	{
+		padding: 0;
+	}
+	
 }
