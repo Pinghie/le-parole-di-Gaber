@@ -76,10 +76,105 @@
 			<canvas id="top15Album" style="width:100%;max-height:400px; max-width: 500px;"></canvas>
 		</div>
 
+		<!--<button class="bottoneProsa">Approfondisci</button>-->
+
+		<div class="listContainer">
+			<h1> Le 200 parole più usate</h1>
+			<div class="containerBottoniClassifica">
+				<button class="bottone selezionatoProsa">Sostantivi</button>
+				<button class="bottone selezionatoProsa">Verbi</button>
+				<button class="bottone selezionatoProsa">Aggettivi</button>
+			</div>
+			<div class="containerTabella">
+				<table class="tabellaLista" id="tabellaTop200Parole">
+					<tr><th>#</th><th>Parola</th><th>Frequenza</th></tr>
+				</table>
+			</div>
+			<a class="linkBottone" href="top200parole.txt" download>Scarica i dati</a>
+		</div>
+
+
+		<h1> Grafo delle relazioni tra parole <sup><a href="#5">5</sup></a></h1>
+		<!-- Slideshow container -->
+		<div class="slideshow-container">
+
+		  <!-- Full-width images with number and caption text -->
+		  <div class="mySlides fade">
+		    <div class="numbertext">1 / 9</div>
+		    <img src="img/img1.png">
+		    <div class="text">Panoramica</div>
+		  </div>
+
+		  <div class="mySlides fade">
+		    <div class="numbertext">2 / 9</div>
+		    <img src="img/img2.png">
+		    <div class="text">Relazioni di <i>Uomo</i></div>
+		  </div>
+
+		  <div class="mySlides fade">
+		    <div class="numbertext">3 / 9</div>
+		    <img src="img/img3.png">
+		    <div class="text">Relazioni <i>Uomo - Donna</i></div>
+		  </div>
+
+		  <div class="mySlides fade">
+		    <div class="numbertext">4 / 9</div>
+		    <img src="img/img4.png">
+		    <div class="text">Relazioni di <i>Bisogno</i></div>
+		  </div>
+
+		  <div class="mySlides fade">
+		    <div class="numbertext">5 / 9</div>
+		    <img src="img/img5.png">
+		    <div class="text">Relazioni di <i>Coscienza</i></div>
+		  </div>
+
+		  <div class="mySlides fade">
+		    <div class="numbertext">6 / 9</div>
+		    <img src="img/img6.png">
+		    <div class="text">Relazioni di <i>Amore</i></div>
+		  </div>
+
+		  <div class="mySlides fade">
+		    <div class="numbertext">7 / 9</div>
+		    <img src="img/img7.png">
+		    <div class="text">Relazioni di <i>Vita</i></div>
+		  </div>
+
+		  <div class="mySlides fade">
+		    <div class="numbertext">8 / 9</div>
+		    <img src="img/img8.png">
+		    <div class="text">Relazioni di <i>Mondo</i></div>
+		  </div>
+
+		  <div class="mySlides fade">
+		    <div class="numbertext">9 / 9</div>
+		    <img src="img/img9.png">
+		    <div class="text">Relazioni di <i>Amore - Vita - Mondo</i></div>
+		  </div>
+		  <!-- Next and previous buttons -->
+		  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+		</div>
+		<br>
+
+		<!-- The dots/circles -->
+		<div style="text-align:center">
+		  <span class="dot" onclick="currentSlide(1)"></span>
+		  <span class="dot" onclick="currentSlide(2)"></span>
+		  <span class="dot" onclick="currentSlide(3)"></span>
+		  <span class="dot" onclick="currentSlide(4)"></span>
+		  <span class="dot" onclick="currentSlide(5)"></span>
+		  <span class="dot" onclick="currentSlide(6)"></span>
+		  <span class="dot" onclick="currentSlide(7)"></span>
+		  <span class="dot" onclick="currentSlide(8)"></span>
+		  <span class="dot" onclick="currentSlide(9)"></span>
+		</div>
+
 		<div id="bannerProsa">
 			<h1>Gaber in Prosa</h1>
 			<p>Approfondisci la lingua di Gaber con le analisi dei suoi testi in prosa: <i><b>Il caso di Alessandro e Maria</b>, <b>Il dio bambino</b>, <b>Il Grigio</b>, <b>Parlami d'amore Mariù</b></i>.</p>
-			<button id="bottoneBanner">Esplora</button>
+			<!--<button id="bottoneBanner">Esplora</button>-->
 			<div class="graficiProsa">
 				<canvas id="top15Prosa" style="width:100%;max-height:400px"></canvas>
 				<br><br><br>
@@ -96,11 +191,13 @@
 
 		<footer>
 			<h1>Riguardo il progetto</h1>
-			<p><i>Le parole di Gaber</i> è un progetto indipendente realizzato come omaggio per il ventesimo anniversario della morte di Giorgio Gaber. L'analisi computazionale sui testi e la pagina web di presentazione sono state realizzate da <span>Fabio Melasi</span>, studente di Informatica Umanistica presso l'Università di Pisa. I testi delle canzoni e della prosa sono stati annotati con lo strumento <a href="http://www.italianlp.it/demo/linguistic-annotation-tool/">LinguA</a> realizzato dall'Italian Natural Language Processing Lab <span>(ItaliaNLP Lab)</span> dell'<span>Istituto di Linguistica Computazionale "Antonio Zampolli"</span> del CNR di Pisa.</p>
+			<p><i>Le parole di Gaber</i> è un progetto indipendente realizzato come omaggio per il ventesimo anniversario della morte di Giorgio Gaber. L'analisi computazionale sui testi e la pagina web di presentazione sono state realizzate da <span>Fabio Melasi</span>, studente di Informatica Umanistica presso l'Università di Pisa. I testi delle canzoni e della prosa sono stati annotati con lo strumento <a href="http://www.italianlp.it/demo/linguistic-annotation-tool/">LinguA</a> realizzato dall'Italian Natural Language Processing Lab <span>(ItaliaNLP Lab)</span> dell'<span>Istituto di Linguistica Computazionale "Antonio Zampolli"</span> del CNR di Pisa.<br>
+			Immagine dell'header di <a href="https://www.linkedin.com/in/lorenzo-davini-73a938130">Lorenzo Davini</a>.</p>
 			<p class="testoPiccolo" id="1">1. La frequenza calcolata non è una frequenza assoluta. Il calcolo tiene conto della natura peculiare di un testo-canzone, caratterizzato dalla ripetizione di strofe e parole ai fini della musicalità. Inoltre l'analisi è stata condotta soltanto sulle categorie grammaticali principali (aggettivi, sostantivi e verbi).</p>
 			<p class="testoPiccolo" id="2">2. La distribuzione è relativa: il punteggio è ricavato dal rapporto della frequenza della parola nell'album e il numero di parole dell'album. </p>
 			<p class="testoPiccolo" id="3">3. In questo caso, la frequenza è assoluta. </p>
 			<p class="testoPiccolo" id="4">4. Come al punto 1. </p>
+			<p class="testoPiccolo" id="5">5. I grafi sono stati ottenuti usando lo strumento <a href="http://www.italianlp.it/demo/t2k-text-to-knowledge/">Text-To-Knowledge (T2K)</a> dell'Italian NLP Lab. </p>
 			<p>I risultati delle analisi computazionali ed i codici utilizzati per queste analisi sono <span>pubblici</span> ed utilizzabili senza condizioni. Visita la repository su <a href="https://github.com/Pinghie/le-parole-di-Gaber">GitHub</a>.</p>
 		</footer>
 
@@ -113,5 +210,7 @@
 <script src="js/graficoTop5CategorieGrammaticali.js"></script>
 <script src="js/graficoTop15Album.js"></script>
 <script src="js/graficoProsa.js"></script>
+<script src="js/lista200parole.js"></script>
+<script src="js/slideshowGrafi.js"></script>
 
 </html>

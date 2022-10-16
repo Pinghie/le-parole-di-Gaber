@@ -54,6 +54,20 @@ header .testoTitolo p span
 	font-weight: 600;
 }
 
+header a
+{
+	color:  red;
+	position: absolute;
+	top: 3rem;
+	left: 3rem;
+	font-size: 1rem;
+}
+
+header a:hover
+{
+	color: #ad0000;
+}
+
 p, #bannerProsa h1
 {
 	color: #919090;
@@ -121,7 +135,7 @@ p, #bannerProsa h1
 	box-shadow: 0 0 0 3px red;
 }
 
-.containerBottoniParole .bottone, .containerBottoniAlbum .bottoneAlbum, .bottoneProsa, #bottoneBanner
+.containerBottoniParole .bottone, .containerBottoniAlbum .bottoneAlbum, .bottoneProsa, #bottoneBanner, .containerBottoniClassifica .bottone
 {
 	margin: 5px;
 	background-color: red;
@@ -167,10 +181,197 @@ p, #bannerProsa h1
 {
 	text-align: center;
 	background-color: #ffdada;
-    padding: 2rem 2.5rem;
-    border-radius: 1.3rem;
-    margin-bottom: 8rem;
+  padding: 2rem 2.5rem;
+  border-radius: 1.3rem;
+  margin-bottom: 8rem;
+  margin-top: 8rem;
 }
+
+/*     APPROFONDIMENTO     */
+
+.listContainer {
+    border-radius: 15px;
+    padding: 2rem;
+    margin-bottom: 3rem;
+}
+
+.containerTabella
+{
+	overflow-y: scroll;
+	height: 500px;
+	margin: auto;
+	width: 90%;
+	font-size: 1.25rem;
+	margin-top: 2rem;
+	border-radius: 15px;
+}
+
+.tabellaLista
+{
+	width: 100%;
+	text-align: center;
+	background-color: #ffb0b0;
+	border-radius: 15px;
+	border-collapse: collapse;
+}
+
+.listContainer ::-webkit-scrollbar {
+  width: 20px;
+  border-radius: 0 15px 15px 0;
+}
+
+/* Track */
+.listContainer ::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 0 15px 15px 0;
+}
+ 
+/* Handle */
+.listContainer ::-webkit-scrollbar-thumb {
+  background: red;
+  border-radius: 0 15px 15px 0;
+}
+
+/* Handle on hover */
+.listContainer ::-webkit-scrollbar-thumb:hover {
+  background: #b30000; 
+}
+
+.tabellaLista th
+{
+	background-color: red;
+	color: white;
+	font-size: 1.5rem;
+}
+
+.tabellaLista td:nth-child(1)
+{
+	width: 15%;
+}
+
+.tabellaLista td:nth-child(2)
+{
+	width: 60%;
+	font-weight: 700;
+}
+
+.tabellaLista tr:nth-child(even)
+{
+	background-color: #ffcaca;
+}
+
+.tabellaLista tr:nth-child(odd)
+{
+	background-color: #ffaeae;
+}
+
+.linkBottone
+{
+	color: red;
+}
+
+/* SLIDESHOW */
+
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 55%;
+  position: relative;
+  margin: auto;
+  text-align: left;
+  border: 3px solid red;
+  border-radius: 15px;
+}
+
+.slideshow-container img
+{
+	border-radius: 15px;
+	width: 100%;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  color: red;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(255,0,0,0.8);
+  color: white;
+}
+
+/* Caption text */
+.text {
+  color: red;
+  font-size: 1.5rem;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+  font-weight: 700;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #930000;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
 
 footer
 {
@@ -184,7 +385,6 @@ footer p{
 footer h1
 {
 	color: #919090;
-
 }
 
 footer span
@@ -216,6 +416,10 @@ footer .testoPiccolo
 	{
 		width: 100%;
 	}
+
+	.slideshow-container {
+  	max-width: 75%;
+	}
 }
 
 @media only screen and (max-width: 1000px) {
@@ -239,6 +443,11 @@ footer .testoPiccolo
 	{
 		margin: auto;
 	}
+
+	.slideshow-container {
+  	max-width: 85%;
+	}
+
 }
 
 @media only screen and (max-width: 700px) {
@@ -258,6 +467,25 @@ footer .testoPiccolo
 	#bannerProsa
 	{
 		padding: 0;
+	}
+
+	.slideshow-container {
+  	max-width: 95%;
+	}
+
+	.text
+	{
+		font-size: 0.7rem;
+	}
+
+	.tabellaLista
+	{
+		font-size: 0.9rem;
+	}
+
+	.tabellaLista th
+	{
+		font-size: 0.9rem; !important
 	}
 	
 }
